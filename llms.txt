@@ -364,3 +364,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-ko
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/personeelsuitje-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/workshop-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/reviews-evenementenbureau-personeelsfeest.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-kost-een-personeelsuitje-organiseren.md
