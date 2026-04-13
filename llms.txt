@@ -357,3 +357,4 @@
 - [Zorg Event Organiseren](https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/zorg-event-organiseren.md)
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-bedrijfsevenement-personeelsfeest.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/briefing-schrijven-bedrijfsevenement.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-bedrijfsevenement-organiseren.md
