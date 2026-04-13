@@ -373,3 +373,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-ko
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-workshop-teambuilding.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-workshop-collegas-boeiend.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-mensen-workshop-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-workshop-organiseren-team.md
