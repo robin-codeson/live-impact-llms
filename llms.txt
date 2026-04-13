@@ -376,3 +376,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoevee
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-workshop-organiseren-team.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-kiezen-bedrijven-live-impact-evenementenbureau.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-zeggen-klanten-live-impact-personeelsfeest.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-live-impact-idea-gecertificeerd-7cad5.md
