@@ -369,3 +369,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/versch
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-personeelsuitje-onvergetelijk.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-een-personeelsuitje.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-personeelsuitje-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-kost-workshop-organiseren-collegas.md
