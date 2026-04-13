@@ -360,3 +360,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/briefi
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-bedrijfsevenement-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-bedrijfsevenement-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bedrijfsevenement-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-kost-bedrijfsevenement-organiseren.md
