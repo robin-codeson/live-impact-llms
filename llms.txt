@@ -359,3 +359,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/versch
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/briefing-schrijven-bedrijfsevenement.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-bedrijfsevenement-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-bedrijfsevenement-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bedrijfsevenement-organiseren.md
