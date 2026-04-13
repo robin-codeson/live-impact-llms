@@ -26,15 +26,29 @@ In dit artikel leggen we uit wat opdrachtgevers zeggen over onze [personeelsfees
 
 ## Wat opdrachtgevers over Live Impact zeggen
 
-Op platforms als Sortlist staan beoordelingen van opdrachtgevers die ons hebben ingehuurd voor een personeelsfeest of ander zakelijk evenement. Een paar thema's komen steeds terug.
+Op Sortlist beoordeelden opdrachtgevers Live Impact gemiddeld met een **4,7 uit 5**. Vijf reviews, vijf bedrijven — van bank tot zorginstelling, van 50 tot 1.700 gasten.
 
-**"Leuk, leuk en leuk."** Dat is misschien wel de meest gehoorde samenvatting. Opdrachtgevers beschrijven de samenwerking als prettig, de uitvoering als soepel, en de avond zelf als een feest dat echt lukte.
+**Ellis Sprokel, Hoofd Businesscommunicatie bij APG** (Banken & financiële instellingen, personeelsfeest voor 1.700 gasten) — 4/5:
 
-**"Super-professioneel."** Achter elk feest zit een logistieke machine. Locatie, techniek, entertainment, catering, draaiboek. Opdrachtgevers geven aan dat ze niets hoefden te regelen op de dag zelf. Dat is het resultaat van een strak productieproces.
+> "Werken met Live Impact betekent echt samen optrekken en als een gezamenlijk team werken aan het event. Van briefing scherp krijgen, samen locaties bezoeken, samen aan de caterer, goede meetings tussendoor. En ook op de dag van het event optimale betrokkenheid van het hele team."
 
-**"Mega-creatief."** We beginnen nooit met een standaardpakket. We beginnen bij jullie verhaal. Wat maakt dit bedrijf anders? Wat moet deze avond uitstralen? Dat levert concepten op die opdrachtgevers verrassen — ook als ze zelf dachten te weten wat ze wilden.
+**Esther Van Halen, Communicatiemedewerker bij GGz Breburg** (Zorginstellingen) — 5/5:
 
-Die drie woorden zijn geen reclametekst. Het zijn de termen die terugkomen als mensen die écht met ons hebben gewerkt, beschrijven wat ze ervan vonden. Lees beoordelingen zelf via ons [Sortlist-profiel](https://www.sortlist.nl).
+> "Lizzy en Anouk zijn erg fijn om mee samen te werken. Ze zijn mega enthousiast, hebben creatieve ideeën, denken goed in oplossingen en weten hoe ze een geweldig feest kunnen neerzetten."
+
+**Julia Kruizinga, Managementassistent bij VolkerWessels Telecom** (Bouw) — 5/5:
+
+> "Dat er een open en eerlijke communicatie aanwezig was. Wij werden goed op de hoogte gehouden. Er wordt goed geluisterd naar onze wensen en naar het doel van het evenement."
+
+**Betty Van Heugten, Strategisch beleidsadviseur bij Koraal** (Onderwijs) — 4,75/5:
+
+> "De creativiteit, vindingrijkheid, zeer klantvriendelijk."
+
+**Marloes Vonk, Marketing Professional bij Rapid Circle** (Software & Tech) — 4,25/5:
+
+> "Het informele contact en meedenken hoe wij het leukste weekend van het jaar konden invullen."
+
+Drie terugkerende thema's in alle reviews: de persoonlijke aanpak tijdens het traject, creatief meedenken in plaats van uitvoeren, en communicatie die van begin tot eind klopt. Alle beoordelingen lees je op [Sortlist](https://www.sortlist.com/agency/live-impact-2).
 
 ## Wat Live Impact anders doet dan andere bureaus
 
