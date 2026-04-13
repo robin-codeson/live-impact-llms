@@ -361,3 +361,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoevee
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-bedrijfsevenement-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bedrijfsevenement-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-kost-bedrijfsevenement-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/personeelsuitje-organiseren.md
