@@ -1,20 +1,10 @@
-[< Back](afscheidsfeest-organiseren.html#)[< Work](afscheidsfeest-organiseren.html#)
+[< Back](#)[< Work](#)
 
-[Next >](afscheidsfeest-organiseren.html#)
+[Next >](#)
 
 ![Publiek in feestzaal met blauwe hartjes tijdens een emotioneel jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd6243429_697612f47e997eae2836afdf_Jubileumfeest%2520MUMC%252B%2520Publiek%2520zaal%2520blauwe%2520hartjes.webp)
 
 # Waarom een goed afscheidsfeest meer doet dan je denkt
-
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3180ae4de799a3fb3724b_6981fef35f53e38f05fe2550_Sanne.webp)
-
-Geschreven door
-
-Sanne
-
-Publicatiedatum
-
-8 april 2026
 
 Iemand neemt afscheid. Na tien jaar, twintig jaar, soms langer. Wat doe je daarmee? Veel bedrijven kiezen voor de veilige weg: een borrel op vrijdagmiddag, een envelop met geld, een speech van vijf minuten. En daarmee is het klaar.
 
@@ -74,25 +64,65 @@ Pas ook op voor te complexe programma's. Een afscheidsfeest waarbij het programm
 
 Bij Live Impact helpen we teams om een programma samen te stellen dat klopt: de juiste balans tussen structuur en vrijheid, tussen ontroering en plezier, tussen de vertrekkende persoon en het team dat achterblijft. Want ook dat is een onderdeel van een goed afscheid: ruimte voor de mensen die blijven om te verwerken dat iemand vertrekt.
 
-## Na het feest: hoe zorg je dat het blijft hangen?
+## Na het feest: zo zorg je dat het blijft hangen
 
 Een afscheidsfeest is voorbij na een avond. Maar de herinnering eraan kan veel langer duren — als je er bewust in investeert. Er zijn een paar dingen die het verschil maken.
 
 Zorg voor een goede fotograaf of videograaf. Foto's van een afscheidsfeest zijn niet alleen leuk voor de vertrekkende collega, maar ook voor het team. Ze vertellen een verhaal over de cultuur van de organisatie. En voor de persoon die vertrekt, zijn het tastbare herinneringen aan een periode van hun leven.
 
-Geef iets mee. Niet alleen het officieel cadeau, maar ook iets kleiners: een verzameling geschreven berichten van collega's, een fotoboek, een gepersonaliseerde kaart die iedereen heeft ondertekend. Dat soort dingen verdwijnen niet in een la — mensen bewaren ze.
+Geef iets mee. Niet alleen het officiële cadeau, maar ook iets kleiners: een verzameling geschreven berichten van collega's, een fotoboek, een gepersonaliseerde kaart die iedereen heeft ondertekend. Dat soort dingen verdwijnen niet in een la — mensen bewaren ze.
 
 Blijf in contact. Stuur na het feest een bericht met een paar foto's en een persoonlijk woord van dank. Vraag hoe het gaat. Geef het afscheid geen abrupt einde maar een geleidelijke overgang. Dat helpt ook het team. De overgang verwerken is makkelijker als de connectie bewaard blijft.
 
 Een goed afscheidsfeest is een blijk van waardering die mensen bijblijft. Neem er de tijd voor. Het is het waard.
 
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
+
+*Serieus Leuk.*
+
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Wat maakt een afscheidsfeest speciaal en onvergetelijk?
+
+Maak een afscheidsfeest persoonlijk door details uit de loopbaan van de vertreksde in het thema te verwerken. Vraag collega's naar favoriete herinneringen en zet die in een video-compilatie, fotowall of speech. Gepersonaliseerde decoratie met hun hobbies, inside jokes, of mijlpalen creëert warmte. Een gastenboek waar iedereen zijn favoriete moment op papier zet, blijft levenslang waardevol. Maak ruimte voor informele verhalen en interactie in plaats van alleen formele speeches. Een klein cadeau dat refereert aan plannen na pensioen voelt doordacht. De kerngedachte: laat zien dat je echt naar deze persoon hebt geluisterd. Live Impact helpt je een afscheid creëren dat echt voelt en niet generiek.
+
+**[Meer weten? Lees ons complete artikel →](/blog/afscheidsfeest-organiseren)**
+
+Hoe plan ik een afscheidsfeest in het kort?
+
+Een afscheidsfeest kost gemiddeld 40-100 euro per persoon, afhankelijk van locatie en catering. Een bedrijfscafé of restaurant-arrangement (diner + drinken) zit rond de 60-80 euro. Voor een luxere variant met meerdere gangen en premium dranken kun je 100-150 euro per persoon inplannen. Kleine groepen (tot 20 personen) hebben lagere totale budgetten maar hogere kosten per persoon. Grote groepen kunnen besparen door volume-korting. Besparing is mogelijk via inhouse caterering of borrel-format in plaats van volledige maaltijd. Zet in je budget: decoratie, bloemen, cadeau en eventuele entertainment. Live Impact adviseert je hoe je een waardig afscheid binnen je budget realiseert.
+
+**[Meer weten? Lees ons complete artikel →](/blog/afscheidsfeest-organiseren)**
+
+Welke elementen mag ik niet missen op een afscheidsfeest?
+
+Voor intieme afscheiden uitnodigen bedrijven meestal alleen directe collega's en leidinggevenden: 15-30 personen. Voor populaire werknemers kan dit oplopen tot 50-80 personen. Zeer grote afscheiden (100+) voelen minder persoonlijk maar kunnen plaatsvinden tijdens een bedrijfsfeest of jubileum. Regelregel: hoe kleiner, hoe inniger. Een groep van 20-35 is ideaal: groot genoeg voor brede deelname, klein genoeg voor echte gesprekken. Zorg dat de vertreksde dit aantal goed voelt. Een te volle zaal voelt oppervlakkig; een te kleine voelt excluïsief. Raadpleeg de directe leidinggevende over wie uit respect moet worden uitgenodigd. Live Impact begeleidt je bij deze delicate afweging.
+
+**[Meer weten? Lees ons complete artikel →](/blog/afscheidsfeest-organiseren)**
+
+Hoe maak ik een afscheidsfeest inclusief voor iedereen?
+
+De ideale locatie voor een afscheidsfeest combineert warmte, intimiteit en praktische kwaliteit. Restaurants met aparte zalen werken goed—ze hebben catering, bediening en atmosfeer ingebakken. Bedrijfslocaties (kantoor-zaal of directiekamer) bieden goedkoper en voelen vertrouwd. Een bosschen-huis, boerderij of tuincentrum geeft meer sfeer en plezier. Vermijd grote zakenlokalen die koud voelen. Zorg voor: stille ruimte voor speeches, mogelijkheid voor mingling, en makkelijke bereikbaarheid voor ouderen. Controleer parkeren en openbaar vervoer. Voor thema-afscheiden (denk: reis, hobby) kies je een locatie die aansluit: een jachthaven voor zeeliefhebbers, een kunsthal voor creatieve geesten. Live Impact vindt de perfecte locatie die het afscheid waardig is.
+
+**[Meer weten? Lees ons complete artikel →](/blog/afscheidsfeest-organiseren)**
+
+Hoe voorkomen we dat het afscheidsfeest te lang of moe aanvoelt?
+
+Ja, Live Impact organiseert waardige en persoonlijke afscheidfeesten op maat. We helpen bij alles: locatie-keuze, thema-ontwerp, catering, decoratie, speech-voorbereiding en cadeau-selectie. We begeleiden je door het emotionele en praktische proces, zodat je een onvergetelijk afscheid creëert waar de vertrekkende zich werkelijk gewaardeerd voelt. Of het nu gaat om een kleine groep directe collega's of een groter bedrijfsafscheid—we geven het dezelfde aandacht en warmte. Onze focus ligt op het vieren van degene die weggaat, niet op flashy entertainment. Zin in een bijzonder afscheid?
+
+**[Meer weten? Lees ons complete artikel →](/blog/afscheidsfeest-organiseren)**
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
