@@ -12,7 +12,7 @@ Dat komt niet omdat er geen goede plannen zijn. De inhoud klopt meestal wel. Wat
 
 Conceptontwikkeling voor een kick-off gaat niet over leuk. Het gaat over wat je mensen mee wilt geven, en hoe je dat zo brengt dat ze het vasthouden.
 
-## Wat moet dit kick-off achterlaten?
+## Wat een kick-off moet achterlaten
 
 Begin niet met een thema. Begin met de vraag: wat moeten mensen voelen, weten of doen na afloop? Schrijf dat op in één zin. Als je die zin niet kunt schrijven, is je kick-off te vaag.
 
