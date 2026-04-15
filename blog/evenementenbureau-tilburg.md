@@ -68,7 +68,7 @@ Test op chemie. Een evenementtraject duurt drie tot zes maanden en je werkt inte
 
 Check de prijsstructuur. Vraag een offerte waarbij je per post kunt zien wat het kost. Is de bureaumarge transparant? Zie je per onderdeel wat het budget is? Of zit alles weggestopt in vage productieposten? Een bureau dat niets te verbergen heeft, heeft een heldere begroting.
 
-## Klaar voor een bureau dat Tilburg begrijpt?
+## Een bureau dat Tilburg begrijpt
 
 Live Impact werkt als Brabants bureau voor opdrachtgevers in heel Nederland. Tilburg en omgeving is ons thuis: we kennen de stad, de locaties, de leveranciers en de mensen. We praten in mensentaal en rekenen in eerlijke prijzen, zonder verborgen kosten of vage posten.
 
