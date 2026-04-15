@@ -44,15 +44,15 @@ De locatie is het decor van je avond. Kies een plek die bij je concept past en d
 
 Een galaprogramma volgt een klassieke opbouw, maar de kunst zit in de details en de verrassingen.
 
-**Ontvangst.** Rode loper, welkomstdrankje, fotomoment. Zet direct de toon. Gasten lopen binnen en weten meteen: dit wordt geen gewone avond. De ontvangst is ook het moment waarop mensen landen en bekenden herkennen. Plan hier dertig tot vijfenveertig minuten voor.
+Ontvangst. Rode loper, welkomstdrankje, fotomoment. Zet direct de toon. Gasten lopen binnen en weten meteen: dit wordt geen gewone avond. De ontvangst is ook het moment waarop mensen landen en bekenden herkennen. Plan hier dertig tot vijfenveertig minuten voor.
 
-**Diner.** Een zittend diner met meerdere gangen. Kies voor kwaliteit boven kwantiteit. Tijdens het diner plan je korte speeches, tussenacts of een awards-programma — maar spreid die uit en zorg dat gasten tussen elk formeel moment genoeg ruimte hebben voor gesprek.
+Diner. Een zittend diner met meerdere gangen. Kies voor kwaliteit boven kwantiteit. Tijdens het diner plan je korte speeches, tussenacts of een awards-programma — maar spreid die uit en zorg dat gasten tussen elk formeel moment genoeg ruimte hebben voor gesprek.
 
-**Show en entertainment.** Het hoogtepunt van de avond. Een live band, een spectaculaire act, een verrassingsoptreden. Kies entertainment dat past bij de sfeer en het publiek, en bouw er bewust naartoe. Het hoogtepunt moet aanvoelen als een climax, niet als een willekeurig moment in het programma.
+Show en entertainment. Het hoogtepunt van de avond. Een live band, een spectaculaire act, een verrassingsoptreden. Kies entertainment dat past bij de sfeer en het publiek, en bouw er bewust naartoe. Het hoogtepunt moet aanvoelen als een climax, niet als een willekeurig moment in het programma.
 
-**Dansfeest.** Na het formele deel is het tijd voor vrijheid. Een DJ of band die de dansvloer vult. Dit deel heeft geen strak format nodig — mensen weten zelf wanneer ze willen dansen of vertrekken.
+Dansfeest. Na het formele deel is het tijd voor vrijheid. Een DJ of band die de dansvloer vult. Dit deel heeft geen strak format nodig — mensen weten zelf wanneer ze willen dansen of vertrekken.
 
-**Afsluiting.** Eindig met een moment dat bijblijft. Een confetti-moment, een persoonlijke boodschap van de directie, of een verrassende finale die de avond afrond in plaats van wegkwijnt. Gasten die met een glimlach naar huis rijden, vertellen dat aan anderen.
+Afsluiting. Eindig met een moment dat bijblijft. Een confetti-moment, een persoonlijke boodschap van de directie, of een verrassende finale die de avond afrond in plaats van wegkwijnt. Gasten die met een glimlach naar huis rijden, vertellen dat aan anderen.
 
 ## Entertainment en productie
 
@@ -82,7 +82,7 @@ De grootste budgetposten zijn altijd dezelfde: locatiehuur, catering voor het zi
 
 Waar kun je besparen zonder in te leveren op beleving? Op decoratie die gasten nauwelijks zien. Op een tweede entertainer als één sterke act meer impact maakt. Op een dure locatie als een industrieel pand met goed licht precies dezelfde grandeur uitstraalt voor de helft van de prijs.
 
-## Klaar voor een gala dat indruk maakt?
+## Zo organiseer je een gala dat indruk maakt
 
 Wij hebben gala’s georganiseerd voor honderd gasten in een historisch pand en voor vijftienhonderd gasten op een landgoed. Voor families die een eeuwfeest vieren, voor multinationals die prijzen uitreiken, voor organisaties die een mijlpaal willen markeren die telt.
 
@@ -90,9 +90,9 @@ Elk gala begint bij het concept. Wat is het verhaal dat je wilt vertellen? Welk 
 
 Op de dag zelf regelen wij het. Jij bent gast bij je eigen gala.
 
-Bel ons op **085 401 40 14** of stuur een mail naar **hello@live-impact.nl**. We plannen een gesprek, stellen de juiste vragen en komen terug met een voorstel dat klopt.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-Serieus Leuk.
+*Serieus Leuk.*
 
 ## Lees ook
 
