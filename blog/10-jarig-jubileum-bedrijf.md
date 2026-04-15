@@ -56,7 +56,7 @@ Dat gevoel willen wij omzetten in een avond. Wij regelen alles — van de eerste
 
 Tien jaar is geen moment om stil te laten voorbijgaan. Vertel ons over jullie jubileum — we denken graag met je mee, zonder verplichtingen, wel met eerlijk advies.
 
-Bel ons op **085 401 40 14** of mail naar **hello@live-impact.nl**.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
 *Serieus Leuk.*
 
