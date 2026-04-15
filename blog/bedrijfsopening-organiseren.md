@@ -56,7 +56,7 @@ Wij denken mee over het concept, de symbolische openingshandeling, de rondleidin
 
 Een nieuwe locatie openen is een investering in de toekomst. De opening is de eerste pagina van het nieuwe hoofdstuk. Wij helpen je die pagina goed te schrijven.
 
-Bel ons op **085 401 40 14** of mail naar **hello@live-impact.nl**.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
 *Serieus Leuk.*
 
