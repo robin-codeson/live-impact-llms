@@ -1,20 +1,10 @@
-[< Back](bedrijfsprijzen-winnen.html#)[< Work](bedrijfsprijzen-winnen.html#)
+[< Back](#)[< Work](#)
 
-[Next >](bedrijfsprijzen-winnen.html#)
+[Next >](#)
 
 ![Award-uitreiking op podium met confetti in een grote theaterzaal](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f676af0e3426f1d6ba39_69c0615977fdc63e73929f14_TLN%2520Live%2520award%2520podim%2520zaal%2520confetti-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
 # Moeten wij een prijs winnen? De vraag die niemand durft te stellen
-
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31809e4de799a3fb3723e_697728f8f32d48fb79d964fe_Frans_portret.webp)
-
-Geschreven door
-
-Frans
-
-Publicatiedatum
-
-8 november 2025
 
 Ergens in een vergaderruimte klinkt de vraag: "Zouden we ons niet aanmelden voor die award?" Iemand heeft een brancheprijs gezien. Of een concurrent die ermee in de krant stond. Opeens staat er een werkgroep, een dossier en drie maanden energie op de agenda.
 
@@ -46,11 +36,11 @@ Kortom: er zijn genoeg prijzen die niet het investeren waard zijn. Meedoen omdat
 
 Nu de andere kant. Want goede prijzen — geloofwaardige, breed erkende, moeilijk te winnen — leveren écht iets op. Drie concrete voordelen die wij zelf hebben ervaren.
 
-**Recruitment.** Mensen willen werken bij winnaars. "FD Gazelle-winnaar" op je vacaturepagina trekt een ander type kandidaat: iemand die ambitie zoekt en bij een groeiend bedrijf wil horen. Wij zagen na onze win een directe stijging in sollicitaties. Niet alleen meer, ook beter: mensen die ons al kenden, die begrepen waarom ze bij Live Impact wilden zijn. Een prijs is het beste recruitmentbudget dat je nooit had gepland.
+Recruitment. Mensen willen werken bij winnaars. "FD Gazelle-winnaar" op je vacaturepagina trekt een ander type kandidaat: iemand die ambitie zoekt en bij een groeiend bedrijf wil horen. Wij zagen na onze win een directe stijging in sollicitaties. Niet alleen meer, ook beter: mensen die ons al kenden, die begrepen waarom ze bij Live Impact wilden zijn. Een prijs is het beste recruitmentbudget dat je nooit had gepland.
 
-**Klantvertrouwen.** Een zakenprijs is externe validatie. Niet jij die zegt dat je goed bent — een onafhankelijke derde die dat bevestigt op basis van objectieve criteria. Dat is anders dan een mooie quote op je website. Zeker in een sector waar iedereen veel belooft en weinig bewijst. Klanten zoeken zekerheid. Een erkende prijs geeft ze die, nog voordat je de eerste afspraak hebt.
+Klantvertrouwen. Een zakenprijs is externe validatie. Niet jij die zegt dat je goed bent — een onafhankelijke derde die dat bevestigt op basis van objectieve criteria. Dat is anders dan een mooie quote op je website. Zeker in een sector waar iedereen veel belooft en weinig bewijst. Klanten zoeken zekerheid. Een erkende prijs geeft ze die, nog voordat je de eerste afspraak hebt.
 
-**Teamtrots.** Misschien wel de meest onderschatte opbrengst. Winnen geeft je mensen een moment van echte erkenning. Al het werk, de uitdagingen, de overuren — dat telt mee. Een prijs is een spiegel die zegt: jullie doen het goed. Dat motiveert langer dan een teamdag, een bonus of een mooie speech van de directeur. Serieus.
+Teamtrots. Misschien wel de meest onderschatte opbrengst. Winnen geeft je mensen een moment van echte erkenning. Al het werk, de uitdagingen, de overuren — dat telt mee. Een prijs is een spiegel die zegt: jullie doen het goed. Dat motiveert langer dan een teamdag, een bonus of een mooie speech van de directeur. Serieus.
 
 Drie opbrengsten die samen één ding bewijzen: de juiste prijs is geen kostenpost. Het is een investering in je merk, je mensen en je groei. De kunst zit hem in het kiezen van de juiste prijs — en hem daarna goed gebruiken.
 
@@ -90,37 +80,71 @@ Winnen is stap één. Stap twee is minstens zo belangrijk: wat doe je ermee?
 
 Te veel bedrijven winnen een prijs, hangen het logo op hun website en gaan dan gewoon door. Na drie maanden is het vergeten. Door henzelf — en door hun doelgroep.
 
-**Pas je communicatie aan, overal.** Voeg het award-logo toe op je website, je e-mailhandtekening, je offertes en je LinkedIn-bedrijfspagina. Niet bescheiden. Je hebt het verdiend, en mensen moeten het zien.
+Pas je communicatie aan, overal. Voeg het award-logo toe op je website, je e-mailhandtekening, je offertes en je LinkedIn-bedrijfspagina. Niet bescheiden. Je hebt het verdiend, en mensen moeten het zien.
 
-**Communiceer intern vóór extern.** Deel het nieuws met je team voordat het naar buiten gaat. Zij hebben eraan bijgedragen, zij verdienen het om het als eersten te weten. Een intern bericht, een viering, een moment van echte erkenning. Dat versterkt de cultuur en de betrokkenheid meer dan je denkt.
+Communiceer intern vóór extern. Deel het nieuws met je team voordat het naar buiten gaat. Zij hebben eraan bijgedragen, zij verdienen het om het als eersten te weten. Een intern bericht, een viering, een moment van echte erkenning. Dat versterkt de cultuur en de betrokkenheid meer dan je denkt.
 
-**Gebruik het in salesgesprekken als feit, niet als praatje.** "Wij zijn een FD Gazelle-winnaar — wat betekent dat onze groei objectief is aangetoond." Klanten kopen graag bij groeiende, erkende bedrijven. Het geeft zekerheid op het moment dat ze twijfelen.
+Gebruik het in salesgesprekken als feit, niet als praatje. "Wij zijn een FD Gazelle-winnaar — wat betekent dat onze groei objectief is aangetoond." Klanten kopen graag bij groeiende, erkende bedrijven. Het geeft zekerheid op het moment dat ze twijfelen.
 
-**Verleng de levensduur van de award.** Schrijf een artikel erover. Deel het op social media. Verwerk het in je recruitmentmateriaal, je bedrijfspresentaties en je propositie. Een award heeft een houdbaarheid van meerdere jaren — als je ermee blijft werken.
+Verleng de levensduur van de award. Schrijf een artikel erover. Deel het op social media. Verwerk het in je recruitmentmateriaal, je bedrijfspresentaties en je propositie. Een award heeft een houdbaarheid van meerdere jaren — als je ermee blijft werken.
 
-Een goede zakenprijs werkt als een [incentive voor je hele organisatie](incentive-organiseren.html): het motiveert, erkent en geeft richting. Gebruik het zo. En als je wilt nadenken over hoe je jouw prijs viert met een eigen [awards ceremony](awards-ceremony-organiseren.html) voor je team of je sector — ook daarvoor denken wij graag met je mee.
+Een goede zakenprijs werkt als een [incentive voor je hele organisatie](/blog/incentive-organiseren): het motiveert, erkent en geeft richting. Gebruik het zo. En als je wilt nadenken over hoe je jouw prijs viert met een eigen [awards ceremony](/blog/awards-ceremony-organiseren) voor je team of je sector — ook daarvoor denken wij graag met je mee.
 
-## Klaar om jouw organisatie in het spotlicht te zetten?
+## Zo zet je jouw organisatie in het spotlicht
 
-Of je nu een prijs wilt winnen, vieren of je eigen moment wilt creëren: Live Impact helpt je verder.
+Of je nu een prijs wilt winnen, vieren of je eigen moment wilt creëren: wij helpen je verder.
 
 Wij weten hoe je iets maakt dat blijft hangen. Van zakelijke evenementen en kick-offs tot awards ceremonies en incentives — wij zetten jouw verhaal op het podium. Net zoals we ons eigen verhaal hebben verteld, met de FD Gazelle als bewijs dat het werkt.
 
-Maar er is meer. Wij helpen je ook nadenken over hoe je een prijs strategisch inzet. Winnen is één ding. Er iets van maken — dat is het werk. En dat werk kennen wij.
+Wij helpen je ook nadenken over hoe je een prijs strategisch inzet. Winnen is één ding. Er iets van maken — dat is het werk. En dat werk kennen wij.
 
-Wil je weten wat wij voor jouw organisatie kunnen betekenen? Of wil je sparren over welke bedrijfsprijs bij jou past en hoe je die aanpakt? Neem contact op via [live-impact.nl/contact](../contact.html).
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-Want de beste bedrijven zijn niet alleen goed in wat ze doen. Ze laten het ook zien.
-
-**Serieus Leuk.**
+*Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Hoe vergroot je je kansen op een bedrijfsprijs?
+
+Je kansen op een bedrijfsprijs vergroten door: 1) Juiste prijs-selectie: onderzoek welke prijzen passen bij jouw business-profiel (niet alle prijzen zijn relevant). 2) Sterke indiening: schrijf een overtuigend dossier met concrete resultaten, innovatie, duurzaamheid, of sociaal impact. Veel bedrijven schrijven generieke teksten; de jury let op specifieke voorbeelden. 3) Documentatie: verzamel getuigenissen, foto's, data-punten die jouw succes tonen. 4) Timing: veel prijzen hebben indiening-deadlines; zorg dat je op tijd bent. 5) Jury-research: begrijp wat de jury waardeert en leg daar de nadruk op in jouw indiening. 6) Netwerking: veel prizes gaan naar bedrijven die al zichtbaar zijn in industrie (sprekers, leden, mediaconsumption). Live Impact helpt je prijs-strategie scherp te stellen.
+
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsprijzen-winnen)**
+
+Welke bedrijfsprijzen zijn belangrijk voor evenementenbranche?
+
+Waardevolle Nederlandse bedrijfsprijzen: 1) MKB Innovatie Prijs (erkenning innovatie, veel media-aandacht). 2) Duurzaam Bedrijf (ESG-focus, groeiend belang). 3) Werkgever van het Jaar (HR/cultuur-focus). 4) Best Employer (groot bereik). 5) NL Innovation Award (tech-bedrijven). 6) Ondernemer Prijs (ondernemerschap, groei). 7) Familiale Bedrijven Prijs (specifiek). 8) Regionaal/provinciaal erkende prijzen (lokale zichtbaarheid). De waarde zit niet altijd in geld (veel prijzen geven geen geld), maar in: merkwaarde, PR, employee morale boost, klanten-vertrouwen. Een nationale prijs kan waard zijn 5.000-50.000 euro in PR-equivalent. Live Impact adviseert welke prijs voor jou strategisch waarde heeft.
+
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsprijzen-winnen)**
+
+Hoe bereidt je je voor op het winnen van een bedrijfsprijs?
+
+Een gewonnen bedrijfsprijs inzetten als marketing-tool: 1) Publiceer het overal: website homepage (badge/seal), LinkedIn/Instagram, email-signature, persberichten, brochures. 2) Maak een persrelease: schrijf een korte, juicy persbericht en stuur naar lokale/landse media. Dit genereert extra PR. 3) HR-inzet: motiveer je team door prijs zichtbaar te maken (kantoor-affiche, team-briefing). Dit verbetert employee morale. 4) Klanten-communicatie: zet prijs in sales-presentaties (social proof). 5) Thought leadership: schrijf artikel over hoe je de prijs won, wat je hebt geleerd. Dit voelt inspirerend. 6) Video: kort video (1-2 min) waarin je team de prijs viert. Dus: winnen van prijs = begin van PR-campagne, niet het einde. Live Impact helpt je prijs-momentum te maximaliseren.
+
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsprijzen-winnen)**
+
+Hoe lever ik een winnende nominatie in?
+
+Een prijsuitreiking geeft zakelijke uitstraling door deze elementen: 1) Locatie: kies een zakelijke/formele setting (theater, congrescentrum, hotel-zaal, niet café). 2) Dress code: duidelijk aangeven (smoking, business-formal). Zorg dat gasten beter gekleed zijn dan normaal. 3) Master of Ceremony: professionele presentator die spanning opbouwt, correct informatie geeft. 4) Ceremonialiteit: rood lint, staande receptie, echte applaus. 5) Speeches: juryvoorzitter licht winnaar toe, winnaar geeft kort dankwoord (niet langer dan 2 minuten). 6) Foto-moment: professionele fotograaf legt lint-doorknippen of award-overhandiging vast. 7) Media-presence: pers aanwezig, quote-moment voorbereid. 8) Catering: borrels daarna voelen formeel/zakelijk. Veel bedrijven vergeten ceremonialiteit; ze maken het te gezellig/informeel. Zakelijker voelt eervoller. Live Impact choreografeert prijsuitreikingen professioneel.
+
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsprijzen-winnen)**
+
+Hoe profiteer je van je bedrijfsprijs na het winnen?
+
+Ja, Live Impact helpt je bedrijfsprijs te vieren en te capitaliseren. We organiseren: uitreiking-evenement (professionaal, ceremonieel), persrelease-strategie, media-outreach, interne communicatie (team-briefing), social media-plan, badge/seal-ontwerp voor website. Onze aanpak: een gewonnen prijs is slechts het begin. De echte ROI zit in hoe je hem inzet daarna. We zorgen dat je prijs maximale marketing-waarde oplevert. Of je nu een prijs hebt gewonnen en wilt vieren, of je bent nomineerd en wilt kansen vergroten—Live Impact kan helpen.
+
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsprijzen-winnen)**
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
