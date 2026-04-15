@@ -60,7 +60,7 @@ Bij Live Impact ontwerpen wij activaties van concept tot uitvoering. Wij weten w
 
 Een boodschap die mensen voelen, werkt tien keer zo goed als een boodschap die ze horen.
 
-Bel ons op **085 401 40 14** of mail naar **hello@live-impact.nl**.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
 *Serieus Leuk.*
 
