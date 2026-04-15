@@ -1,212 +1,212 @@
-[< Back](jubileumfeest-organiseren.html#)[< Work](jubileumfeest-organiseren.html#)
+[< Back](#)[< Work](#)
 
-[Next >](jubileumfeest-organiseren.html#)
+[Next >](#)
 
-![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+![Luchtfoto van coverband op catwalk met groot publiek bij een jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5900a96eae44ba4f8e0_69c0696900fa33741dc8db55_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520lucht%2520entertainment%2520Discophonic%2520Pety%2520catwalk.webp)
 
-# Een jubileumfeest is anders dan gewoon een feest
+# Een jubileumfeest vraagt meer dan een goede locatie
 
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/%7B%7Bwf%20%7B%22path%22:%22auteur-foto%22,%22type%22:%22Image%22%7D%20%7D%7D)
+Het is 1998. Jouw bedrijf start in een klein kantoortje — drie mensen, een idee en een hoop lef. Nu, 25 jaar later, staat je team van 80 mensen in een feestzaal die je speciaal voor vanavond hebt ingericht. Dat verdient meer dan een buffet en een playlist op Spotify.
 
-Geschreven door
+Een **jubileumfeest organiseren** verschilt wezenlijk van een gewone personeelsborrel. Bij een borrel gaat het om ontspanning. Bij een jubileum gaat het om verhaal. Om erkenning. Om het gevoel dat jij en je mensen deel uitmaken van iets dat de moeite waard was om te bouwen.
 
-Joyce
+Gasten verwachten die emotie ook. Ze verwachten een avond die aanvoelt als een markering in de tijd. Trots, vrolijkheid, misschien een lach én een traan — en daarna thuisrijden met het gevoel dat ze bij iets bijzonders waren.
 
-Publicatiedatum
+Tegelijk moet een jubileumfeest gewoon goed zijn. Lekker eten. Goede muziek. Een programma dat klopt. Want slechte catering of een lege dansvloer om tien uur doet af aan alles wat je probeert te zeggen.
 
-10 april 2026
+Dat is de spagaat van een jubileumfeest organiseren: het moet emotioneel resoneren én feestelijk zijn. Wij bij Live Impact weten hoe je beide combineert. Niet door een standaardformule te volgen, maar door te beginnen bij jullie verhaal.
 
-Een jubileumfeest is niet zomaar een feest. Het draait om meer dan alleen alcohol en muziek. Het gaat om iets essentiels: een mijlpaal vieren die voor jouw bedrijf en jouw mensen betekenis heeft.
+Wat wil je dat gasten voelen als ze naar huis rijden? Vanuit dat gevoel werk je terug. Dáár begint een jubileumfeest dat mensen jaren bijblijft.
 
-Wanneer je een **jubileumfeest organiseert**, sta je voor een unieke opgave. Gasten verwachten niet alleen plezier — ze verwachten **verhaal**. Ze willen voelen dat dit moment iets speciaals is. Trots, dankbaarheid, nostalgie, hoop voor de toekomst. Een goed jubileumfeest raakt al die gevoelens aan.
+## Welk format past bij jullie: 30 of 500 gasten?
 
-Een gewoon bedrijfsfeest? Daar draait het om socializen en ontspannen. Dat is prima. Maar een jubileum vraagt om iets diepers. Ruimte voor sentimentale momenten: een terugblik, een dankwoord, een moment waarop mensen voelen dat ze deel uitmaken van iets dat groeit en voor iets staat.
+Voordat je ook maar één leverancier belt, beantwoord je één vraag: hoe groot wordt dit, en hoe wil je dat het aanvoelt?
 
-Tegelijk moet het **feest voelen als een feest**. De energie moet goed zijn. De muziek, de catering, de vibe — alles moet kloppen. Je balanceert tussen respect voor wat je hebt bereikt en het plezier van nu. Dat is het kunstje van jubileumfeest organiseren.
+Het format bepaalt alles. De locatie, het budget, het type entertainment, het catering-concept — het staat of valt met de keuze die je hier maakt.
 
-Een jubileumfeest is dus niet alleen entertainment. Het is een ritueel. Een moment waarop je jouw bedrijf en jouw mensen echt ziet. En jij, als organisator, bent degene die die magische combinatie moet creëren.
+**Intiem diner (20–80 personen)**
 
-## Bepaal het format: intiem of groot, exclusief of breed
+Gasten zitten samen aan tafel. Er is ruimte voor toespraken, voor verhalen, voor een toast op dertig jaar hard werken. Dit format werkt goed voor familiebedrijven, managementteams, of bedrijven die erg dicht op elkaar zitten. Het budget per persoon is hoger — je gaat voor kwaliteit. Een culinaire avond met livemuziek op de achtergrond, een speechesmoment, een goed glas wijn. Stijlvol en persoonlijk.
 
-Voordat je iets anders plant, moet je één vraag beantwoorden: **wat voor jubileumfeest gaat dit worden?**
+**Borrel met programma (80–300 personen)**
 
-Het antwoord bepaalt alles wat daarna komt. Het format is de basis.
+Dit is het meest gekozen format voor jubilea. Gasten lopen vrij rond, er is een duidelijk programmahoogtepunt — een band, een comedian, een spreker — en daarna borrels en gesprekken. Dynamisch, breed toegankelijk, geen dresscode die aanvoelt als verplicht. Voor de meeste middelgrote bedrijven is dit de sweet spot.
 
-**Intiem & diner-stijl (20-80 personen)**
+**Groot event (300+ personen)**
 
-Dit is het meest persoonlijke format. Gasten zitten, eten samen, er is ruimte voor verhaal en reflectie. Perfect voor bedrijven die dicht op elkaar zitten of waar iedereen elkaar echt kent. Het voelt als een groot familiemaal. Entertainment kan subtiel zijn: live muziek op achtergrond, misschien een spreker. Het budget per persoon is hoog, omdat je gaat voor kwaliteit boven volume.
+Meerdere zones, meerdere acts, foodcorners, interactieve onderdelen. Dit is organisatorisch complex maar geeft maximale vrijheid. Live Impact heeft jubilea georganiseerd voor 1.200 gasten waarbij gasten de hele avond zelf hun route door het event konden kiezen.
 
-**Borrel + show (80-300 personen)**
+Kies je format op basis van vier dingen: hoeveel mensen komen er, wat is het budget, hoe staat de bedrijfscultuur tegenover formeel versus informeel, en — het meest onderschatte punt — hoeveel organisatietijd heb je zelf? Heb je dat helder? Dan pas kun je verder plannen.
 
-Dit is het populairste format. Gasten kunnen zich vrij bewegen, networking gebeurt spontaan, en er is één of twee sterke programmamoment(en): een band, een optreden, een speechmoment. De sfeer is dynamisch en energiek. Je hebt meer ruimte (letterlijk) en meer vrijheid in programmering. Dit format past bij middelgrote en grotere bedrijven.
+## De locatie zegt iets over wie je bent
 
-**Festival of groot format (300+ personen)**
+Een jubileumfeest is niet de avond om de goedkoopste zaalruimte te boeken. De locatie is een onderdeel van het verhaal dat je vertelt.
 
-Hierbij maak je eigenlijk een kleine festival-dag of avond. Meerdere zones, verschillende entertainment-clusters, misschien food trucks, games, verschillende ruimtes met verschillende vibes. Dit vereist veel coördinatie, maar het geeft je oneindig veel mogelijkheden. Denk aan Live Impact jubileumfeesten met 500-1.500 gasten waar we meerdere stages hebben, verschillende hoeken en voortdurend iets gebeurt.
+Stel: jouw bedrijf begon in 1990 in een oud fabrieksgebouw aan de rand van de stad. Twintig jaar later vier je dat jubileum in precies zo'n gebouw — bakstenen muren, hoge plafonds, industrieel licht. Dat klopt. Dat voelt als jij.
 
-**Het format bepaalt de programmering.** Een intiem diner vraagt om andere entertainment dan een festival. Diner = gedeelde ervaring, festival = zelf je route kiezen.
+Een adviesbureau dat veertig jaar bestaat, kiest misschien juist voor een klassiek grachtenpand of een statig hotel. Dat vertelt: wij zijn solide, wij zijn vertrouwd. Beide zijn goede keuzes — zolang de locatie aansluit bij wie je bent.
 
-Kies je format op basis van: gastenlijst grootte, jouw budget, de sfeer die jij wilt, jouw bedrijfscultuur.
+Drie vragen die helpen bij de keuze:
 
-## De locatie als decor van je verhaal
+**Wat zegt de ruimte voordat we iets hebben gedaan?** Een locatie die meteen aanvoelt als feest, is al halve werk. Een ruimte die je alsnog moet transformeren kost budget en energie.
 
-Een jubileumfeest organiseren begint met de juiste locatie. De plek maakt of breekt de sfeer.
+**Past de locatie bij de mensen die komen?** Een tech-startup met een jong team kiest anders dan een familiebedrijf met medewerkers die al dertig jaar voor het bedrijf werken.
 
-Denk hier helder over na: welke locatie **past bij jouw jubileum?** Welke vertelt het verhaal van jouw bedrijf?
+**Is de locatie logistiek haalbaar?** Voor 80 personen heb je minimaal 200 m² nodig als je ook wilt dansen. Voor 300 personen zit je al snel op 700–1.000 m². Let ook op parkeerruimte — bij jubilea komen mensen van ver.
 
-**Eigentijdse industriële ruimtes** (voormalige fabrieken, lofts, ateliers)
+Locaties die goed werken: voormalige fabrieken en pakhuizen, buitenruimtes op eigen terrein, partyschepen, landgoederen. [Lees meer over het vinden van de juiste evenementenlocatie →](/blog/evenementenlocatie-vinden)
 
-Dit zegt: we zijn jong, innovatief, creatief. Raw, authentiek. Perfect voor tech, design, creatieve bedrijven. De ruimte voelt al gedurfd voordat je iets hebt gedaan. Je hoeft eigenlijk niet veel te decoreren — de locatie doet het werk.
+## De opbouw van je avond: volgorde bepaalt beleving
 
-**Klassieke ballrooms en hotels**
+Een jubileumfeest is een verhaal. En verhalen hebben een volgorde. De meeste feesten die tegenvallen, doen dat niet door slechte catering of matige muziek — ze doen dat door een slechte opbouw.
 
-Dit zegt: we zijn established, elegant, solide. Traditioneel en vertrouwenwekkend. Perfect voor financiële bedrijven, adviesbureaus, vastgoedbedrijven. De locatie spreekt al over geschiedenis en stabiliteit.
+**Ontvangst (30–45 minuten)**
 
-**Eigen terrein of kantoor (speciaal aangerust)**
+Gasten komen binnen, pakken een drankje, zien bekenden. Achtergrondmuziek op een volume waarop je nog gewoon kunt praten. Geen speeches, geen formeel programma. Laat mensen landen.
 
-Dit zegt: dit is ons. Dit is waar het gebeurde. Dit is waar we groeien. Emotioneel sterk, omdat alles wat gasten zien en voelen vervlochten is met herkenning.
+**Openingsmoment (10–15 minuten)**
 
-**De koppeling locatie-bedrijfs-DNA is cruciaal.** Je jubileumfeest moet voelen als jouw bedrijf, in afgestoffeerde vorm. Niet als: we hebben zomaar een mooie zaal gehuurd. Wel als: dit is wie we zijn.
+Iedereen bij elkaar. Kort welkom door de directeur of een presentator. Geen lange toespraak over het bedrijfsverleden — dat komt later. Dit is: welkom, fijn dat jullie er zijn, vanavond vieren we iets.
 
-Lees ook: [Hoe vind je de juiste evenementenlocatie? →](evenementenlocatie-vinden.html)
+**Het hoogtepunt (30–60 minuten)**
 
-## Programma: de flow van een onvergetelijke avond
+Hier zit het stuk dat mensen onthouden. Een band die speelt terwijl er een jubileumdiner wordt geserveerd. Een comedian die inspeelt op de bedrijfscultuur. Een indrukwekkende productionele aftrap. Besteed hier het meeste budget en de meeste aandacht aan.
 
-Je jubileumfeest organiseren betekent: de avond opbouwen als een verhaal met spanningsboog.
+**Sociaal middenstuk (45–90 minuten)**
 
-Een slechte programmaflow maakt alle andere dingen (mooie locatie, goede catering, leuk entertainment) onzichtbaar. Een goed programma zet alles in het juiste licht.
+Ruimte voor gesprekken, eten, drinken. Achtergrond-entertainment houdt de sfeer warm: een DJ, een silent disco-zone, een foto-installatie. Geen verplicht programma — gasten bepalen zelf hoe actief ze zijn.
 
-**Hier is de klassieke flow:**
+**Afsluiter (15–30 minuten)**
 
-**Fase 1: Ontvangst (eerste 30-45 minuten)**
+Sluit bewust af. Dat kan een dansset zijn, een verrassing, een gezamenlijk moment. Gasten moeten het gevoel hebben dat de avond echt klaar is — niet dat het gewoon ophoudt.
 
-Gasten komen binnen, krijgen een drankje, oriënteren zich. Licht energiek. Geen te harde muziek. Ruimte voor natuurlijke groepvorming. DJ of achtergrondmuziek op laag volume.
+Ter illustratie, twee tijdlijnen: een jubileumfeest van drie uur voor 80 personen loopt van ontvangst (30 min) via een welkomstmoment (10 min) naar een band met hapjes (50 min), daarna vrij rondlopen met DJ (60 min) en een bewuste afsluiter (30 min). Een jubileumfeest van vijf uur voor 200 personen heeft meer ruimte: ontvangst (45 min), welkom (15 min), diner met livemuziek (75 min), show (60 min), dansen (45 min) en een finale (20 min). [Zo boek je entertainment dat aansluit bij jouw avond →](/blog/evenement-entertainment-boeken)
 
-**Fase 2: Welkommoment (10-15 minuten)**
+## Entertainment dat past bij jouw jubileum
 
-Even iedereen aandacht. Welkom, korte toespraak, context. Dit is waarom we hier zijn. Niet langer dan 15 minuten. Respekt voor aandacht van mensen.
+Entertainment is het stuk dat mensen onthouden. Of juist vergeten — als het niet klopt.
 
-**Fase 3: Entertainment of highlight (30-60 minuten)**
+De vraag is niet: welke band is populair? De vraag is: welk entertainment past bij dit bedrijf, op dit moment, voor deze mensen?
 
-Dit is de hoofdmoot. Een band speelt, iemand geeft een interactieve workshop, er is comedy, er is dans. Dit is waar je jubileumfeest organiseren zijn vorm aanneemt. Dit is het moment waarop gasten voelen: dit is speciaal.
+Een accountantskantoor dat vijftig jaar bestaat, heeft andere entertainment nodig dan een IT-startup die zijn tiende verjaardag viert. En een jubileum voor 600 medewerkers vraagt om andere keuzes dan een intiem diner voor veertig trouwe klanten.
 
-**Fase 4: Sociale tijd + kleinere entertainment (30-90 minuten)**
+**Livemuziek** werkt altijd bij jubilea — maar kies bewust. Welke muziek speelde er op de radio in het jaar dat het bedrijf werd opgericht? Een setlist die dát oproept, geeft gasten een gevoel van tijdreizen. Meer indruk dan de zoveelste coverband met actuele hits.
 
-Tafel-gedeelde eten, borrel, networking. Achtergrond-entertainment: DJ, live muziek in hoek, interactieve installatie. Laagdrempelig. Gasten bepalen mee hoe diep ze eraan doen.
+**Comedy** werkt als je een comedian vindt die de moeite neemt het bedrijf te leren kennen. Humor over herkenbare situaties bindt mensen. Generieke grappen over kantoorhumor doen dat niet.
 
-**Fase 5: Finale of afsluiter (15-30 minuten)**
+**Interactieve acts** — storytelling-performances, live tekeningen, een pubquiz over de bedrijfsgeschiedenis — betrekken gasten actief bij het jubileumverhaal. Minder passief kijken, meer zelf beleven.
 
-Misschien een dansmoment, een verrassing, iets speciaals. Niet zomaar we gaan naar huis. Iets waardoor gasten denken: wat een avond.
+Bij Live Impact beginnen we altijd bij het DNA van het bedrijf. Wat is jullie cultuur? Wat zijn de verhalen die iedereen kent? Welke acts passen daarbinnen — en welke juist niet? Op basis daarvan bouwen we een programma. Geen standaardlijst van acts, maar een gerichte keuze op maat.
 
-**Concrete voorbeelden:**
+We werken al meer dan 25 jaar met de beste entertainmentpartners in Nederland. We weten wie er goed zijn, wie er betrouwbaar zijn — en, net zo belangrijk, wie er niet goed zijn voor jubilea.
 
-*2-uurs jubileumfeest:* 30 min ontvangst → 15 min welkom → 45 min band → 30 min borrel + DJ.
+## Budget en catering: hier bezuinig je niet op
 
-*3-uurs jubileumfeest:* 30 min ontvangst → 15 min welkom → 45 min entertainment → 60 min diner → 30 min dansen/afsluiter.
+Een jubileum vieren vergt een investering. Gasten voelen het direct als ergens op bezuinigd is — en dat doet af aan het bericht dat je wilt overbrengen.
 
-*5-uurs jubileumfeest:* 45 min ontvangst → 15 min welkom → 60 min entertainment → 75 min diner → 60 min social/entertainment mix → 30 min finale → 15 min afbouw.
+Realistische budgetindicaties op basis van onze projecten:
 
-Het geheim: variatie en timing. Gasten vervelen zich nooit omdat er steeds iets verandert. Maar alles voelt verbonden.
+**Intiem jubileumdiner, 50 personen:**
 
-Lees ook: [Hoe boek je entertainment die echt aansluit? →](evenement-entertainment-boeken.html)
+- Catering (3-gangen): €45–70 p.p. = €2.250–3.500
+- Livemuziek (2 uur): €900–1.800
+- Locatie: €600–2.000
+- Decoratie en lichtplan: €400–900
+- Coördinatie: €600–1.500
 
-## Entertainment dat past bij de mijlpaal
+**Totaal: €5.000–10.000**
 
-Dit is waar veel bedrijven misgaan: ze kiezen entertainment op basis van: wat is populair? of wat kennen we?
+**Borrel met band, 150 personen:**
 
-Verkeerd. Entertainment voor een **jubileumfeest organiseren** vraagt om strategisch denken.
+- Catering (drankjes en doorlopende hapjes): €28–40 p.p. = €4.200–6.000
+- Liveband (2,5 uur): €2.000–3.500
+- Locatie: €1.500–4.500
+- Productie (geluid, licht): €800–2.000
+- Coördinatie: €1.200–2.500
 
-De vraag is niet: Welke DJ is cool? De vraag is: Welk entertainment raakt het verhaal van ons jubileum?
+**Totaal: €10.000–19.000**
 
-**Live muziek die emotie raakt**
+**Groot jubileumfeest, 500+ personen:**
 
-Dit kan een coverband zijn van nummers die gasten herkennen — nummers van toen het bedrijf begon, of nummers van nu. Muziek schept onmiddellijk connectie. Een goede liveband voelt persoonlijk, niet als backgroundmuziek.
+- Catering: €22–35 p.p. = €11.000–17.500
+- Entertainment (meerdere acts): €6.000–18.000
+- Locatie: €4.000–12.000
+- Productie en aankleding: €3.000–10.000
+- Coördinatie en logistiek: €3.000–7.000
 
-**Comedy die verbindt**
+**Totaal: €28.000–65.000+**
 
-Een comedian die begrijpt wie jouw bedrijf is. Humor over de bedrijfscultuur, over groeistadia, over typische situaties. Comedy werkt omdat het mensen laat lachen — en lachen creëert binding. Je vergeet je status, je bent even samen.
+Waar kun je wél op bezuinigen? Op decoratie die gasten toch niet opvalt. Op een peperdure locatie als een iets eenvoudigere plek net zo goed werkt. Op een tweede entertainer als één sterke act meer indruk maakt dan twee middelmatige.
 
-**Interactieve acts die mensen bij het verhaal betrekken**
+Waar bezuinig je niet op? Op eten en drinken. Op de kwaliteit van het hoofdentertainment. Op goede geluidsapparatuur. Die drie dingen voelen gasten onmiddellijk — in beide richtingen.
 
-Denk aan: storytelling-performances, live art, interactieve installaties, immersive ervaringen. Dit zijn acts die gasten dingen laten doen of voelen, niet alleen bekijken. Veel minder passief dan stilzitten bij een DJ.
+## Live Impact organiseert jouw jubileum
 
-**Het Live Impact-principe**
+Wij hebben jubileumfeesten georganiseerd voor 20 gasten in een privékeuken en voor 1.400 gasten op een landgoed buiten Den Bosch. Voor startups die hun vijfde jaar vieren en voor familiebedrijven die hun eeuwfeest organiseren. Elk jubileum is uniek. Elk jubileum vraagt om iemand die dat serieus neemt.
 
-Live Impact kiest entertainment nooit at random. We werken van jouw DNA: wat is jullie merkidentiteit? Wat voelen jullie trots op? Wat is jullie groeiverhaal? Dan zoeken we acts die dat onderstrepen. Een financial services bedrijf die 50 jaar bestaat krijgt ander entertainment dan een tech startup die 10 jaar bestaat.
+Bij Live Impact beginnen we niet met een lijst van acts en locaties. We beginnen met jou. Wat is jullie verhaal? Wat maakt dit jubileum anders dan dat van een ander bedrijf? Welk gevoel moet er bij gasten achterblijven?
 
-Dit is het verschil tussen we huren een band in en we creëren een avond die mensen bijblijft.
+Vanuit die antwoorden bouwen we de avond op. Concept, locatie, entertainment, catering, draaiboek, techniek — wij regelen het. Jij hoeft op de dag zelf niets te doen behalve aanwezig zijn.
 
-## Budget en catering: feesten doe je niet op de bezuinigingskant
-
-Veel bedrijven denken: jubileumfeest organiseren = zo goedkoop mogelijk.
-
-Fout.
-
-Een jubileum vieren vergt investering. Je viert iets wat waardevol is. Besparen op catering of sfeer ziet iedereen. En voelt iedereen.
-
-**Realistische budgetverdeling voor een jubileumfeest:**
-
-*Voor 50 personen, intiem diner:*
-
-- Catering (3-gangen): €40-60 per persoon = €2.000-3.000
-- Entertainment (live muziek 2 uur): €800-1.500
-- Locatie: €500-2.000
-- Décor/sfeer: €300-800
-- Organisatie: €500-1.500
-
-**Total: €5.000-9.000**
-
-*Voor 150 personen, borrel + band:*
-
-- Catering (drankjes + hapjes): €25-35 per persoon = €3.750-5.250
-- Entertainment (live band 2 uur): €1.500-3.000
-- Locatie: €1.500-4.000
-- Décor/lighting: €500-2.000
-- Organisatie: €1.000-2.500
-
-**Total: €10.000-17.000**
-
-*Voor 500+ personen, festival-format:*
-
-- Catering: €20-30 per persoon = €10.000-15.000
-- Entertainment (multiple acts): €5.000-15.000
-- Locatie: €3.000-10.000
-- Décor/sfeer/production: €2.000-8.000
-- Organisatie: €2.000-5.000
-
-**Total: €25.000-50.000+**
-
-**De realiteit: besparen op voeding, drank of sfeer maakt jouw jubileumfeest organiseren voelbaar slechter.** Mensen voelen ondergewaardeerd. Kwaliteit catering is geen luxe — het is basis.
-
-Investeer liever meer in entertainment en minder in decoratie. Of meer in catering en minder in een extra duur venue. Maar compromis niet op: eten goed, drinken goed, entertainment voelbaar.
-
-## Laat Live Impact jouw jubileum onvergetelijk maken
-
-Je jubileumfeest organiseren is geen klein ding. Het is een gelegenheid om jouw bedrijf, jouw groei en jouw mensen echt te vieren.
-
-We snappen dat. Bij Live Impact hebben we jubileumfeesten gedaan van 20 gasten tot 1.500 gasten. Voor startups, voor familiebedrijven, voor multinationals. Elk jubileum is uniek. Elk vraagt om eigen denken.
-
-We doen niet zomaar een locatie + catering + een DJ. We bouwen mee aan jouw verhaal. We kijken naar wie je bent, hoe je bent gegroeid, wat je waardevol maakt. Dan creëren we een avond die gasten bijblijft.
-
-Van concept tot entertainment tot programmering tot catering-coördinatie tot nazorg: wij regelen het. Jij hoeft alleen maar gasten uit te nodigen.
-
-**Zin om jouw jubileum onvergetelijk te maken?**
-
-Bel ons: **073-6440999**
-
-Mail ons: **contact@live-impact.nl**
-
-Of stuur een bericht. We nemen je graag mee langs alle stappen.
+Bel ons op **085 401 40 14** of stuur een mail naar **hello@live-impact.nl**. We plannen een gesprek, stellen de juiste vragen en komen terug met een voorstel dat klopt.
 
 Serieus Leuk.
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Kan Live Impact helpen bij het organiseren van een jubileum?
+
+Ja. We organiseren bedrijfsjubilea van begin tot eind. Niet alleen locatie, entertainment en catering — ook het programma. Waar valt de speech? Hoe bouw je de energie op? Wat komt ervoor, wat erna?
+
+Een goede speech verdient een podium dat klopt. Wij zorgen dat de hele avond voelt als één verhaal.
+
+Neem contact op via 073-6440999 of contact@live-impact.nl.
+
+**[Meer weten over jubileum speech schrijven? Lees ons complete artikel →](/blog/jubileum-speech-schrijven-bedrijf)**
+
+Kan Live Impact helpen bij een origineel jubileumfeest?
+
+Ja. We werken aan zakelijke evenementen die blijven hangen. We helpen bij het concept, scouten de locatie, boeken entertainment dat past bij jouw verhaal en regelen techniek en logistiek.
+
+Van intiem diner (40 personen) tot festivalformat (1.000 gasten) — we zorgen dat het voelt als jouw avond.
+
+Neem contact op via 073-6440999 of contact@live-impact.nl.
+
+**[Meer ideeen? Lees ons complete artikel →](/blog/jubileumfeest-ideeen-origineel)**
+
+Hoeveel kost een origineel jubileumfeest?
+
+De kosten hangen af van groepsgrootte en ambitie. Intiem jubileum (50 personen): 5.000–15.000 euro. Middelgroot (150 personen, bijzondere locatie): 15.000–40.000 euro. Groot (300+ gasten, volledige productie): 40.000–100.000+ euro.
+
+Veel originele ideeen kosten niet meer dan standaard. Een escape room, handgeschreven brieven of tijdcapsule voegen waarde toe zonder extra budget.
+
+**[Meer ideeen? Lees ons complete artikel →](/blog/jubileumfeest-ideeen-origineel)**
+
+Welke interne evenementen passen in een jubileumjaar?
+
+Vier interne momenten werken goed: een kick-off in januari, een medewerkersverhalen-project in mei/juni (interviews, video's of intern boekje), een familiedag in september en een dankborrel in november/december.
+
+Deze momenten kosten elk 2.000 tot 10.000 euro en bouwen interne trots op door het hele jaar heen.
+
+**[Meer weten over jubileumjaar organiseren? Lees ons complete artikel →](/blog/jubileumjaar-organiseren)**
+
+Waarom kiezen klanten voor Live Impact?
+
+Omdat wij het concept en de uitvoering uit één hand leveren. Omdat wij eerlijk zijn over budget, planning en wat wel en niet kan. Omdat wij scherp blijven tot het laatste detail. En omdat wij een database van honderden acts en locaties hebben die wij keer op keer met goed gevolg inzetten. Serieus Leuk werken, noemen wij dat.
+
+Meer weten? [Plan een kennismaking](/contact).
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
