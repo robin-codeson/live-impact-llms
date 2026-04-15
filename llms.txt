@@ -387,3 +387,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bedri
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bedrijfsfeest-eigen-locatie-wkr.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/communicatiestrategie-evenementen.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/corporate-evenement-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/cultuurverandering-evenement-organiseren.md
