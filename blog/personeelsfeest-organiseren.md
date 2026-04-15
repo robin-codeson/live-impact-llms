@@ -64,7 +64,7 @@ Organiseer je het zelf? Reken op 150 tot 300 uur aan organisatietijd voor een ge
 
 Met een evenementenbureau breng je die tijdsinvestering sterk terug. Niet omdat zij sneller zijn, maar omdat ze dit vaker doen, de juiste contacten hebben en precies weten welke vragen ze wanneer moeten stellen. Zo kun jij je richten op je werk, en geniet je op de avond zelf gewoon van je eigen feest.
 
-## Klaar om jullie personeelsfeest te plannen?
+## Zo plan je een personeelsfeest dat je team één avond lang vergeet alles
 
 Een personeelsfeest organiseer je niet elk jaar. Maar als je het doet, verdient het alle aandacht, creativiteit en zorg die het bijzonder maakt. Een avond die je team verbindt, die waardering uitstraalt en die nog maanden later onderwerp van gesprek is, begint met de goede keuzes op het juiste moment.
 
