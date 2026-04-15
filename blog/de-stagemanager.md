@@ -58,7 +58,7 @@ De samenvatting: de eventmanager regelt het vooraf, de stagemanager zorgt dat he
 
 ## Waarom Live Impact met vaste stagemanagers werkt
 
-Bij Live Impact werken we met een vaste groep stagemanagers die we jarenlang inzetten. Niet omdat ze in loondienst zijn, maar omdat we hun manier van werken kennen en precies weten wat ze kunnen en niet kunnen.
+Wij werken met een vaste groep stagemanagers die we jarenlang inzetten. Niet omdat ze in loondienst zijn, maar omdat we hun manier van werken kennen en precies weten wat ze kunnen en niet kunnen.
 
 Dat is geen luxe, het is praktisch beleid. Een stagemanager die je voor het eerst ontmoet op de dag zelf, die nog nooit heeft samengewerkt met jouw team, brengt risico mee. Je moet elkaars taal spreken, de codes begrijpen, weten wie je wat kunt overlaten. Dat vertrouwen bouw je op door samen te draaien, niet door een cv door te nemen en te hopen dat het goed zit.
 
@@ -66,7 +66,7 @@ We matchen de stagemanager ook altijd op het type evenement. Een awardsceremonie
 
 Dat zorgt er ook voor dat wij verantwoording nemen voor de kwaliteit van onze stagemanagers. Je hoeft geen losse contracten af te sluiten, geen tarieven te onderhandelen en geen verzekeringen te checken. Dat hebben wij geregeld, zodat jij je kunt richten op wat er voor de gasten in de zaal gebeurt.
 
-## Klaar om je podium strak te laten lopen?
+## Zorg dat je podium strak loopt
 
 Live Impact heeft voor elk type evenement de juiste stagemanager beschikbaar. We plannen ze in als onderdeel van het totaalpakket, zodat je geen losse contracten hoeft af te sluiten. Op basis van jouw programma bepalen we welk niveau past en wat de investering wordt.
 
