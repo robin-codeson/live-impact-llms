@@ -1,92 +1,138 @@
-[< Back](eventmanagement-uitbesteden.html#)[< Work](eventmanagement-uitbesteden.html#)
+[< Back](#)[< Work](#)
 
-[Next >](eventmanagement-uitbesteden.html#)
+[Next >](#)
 
 ![Totaal luchtfoto van een groot festivalterrein met tenten en bezoekers](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6f31730788b8750927d_69c06969a0f923be9273bfd8_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520terrein%2520totaal%2520luchtfoto.webp)
 
-# Waarom steeds meer bedrijven eventmanagement uitbesteden
+# De vraag is niet of je uitbesteedt, maar op welk niveau
 
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31807e4de799a3fb3721a_697870ace8a5c38e33725a0d_Esther_portret_2.webp)
+Als HR-manager, marketingdirecteur of directiesecretaresse krijg je vroeg of laat de vraag voorgelegd: organiseren we dit evenement zelf, of besteden we het uit? De vraag is vaak verkeerd gesteld. Want uitbesteden is geen ja-of-nee beslissing. Het is een keuze op een schaal van drie niveaus: volledig uitbesteden, gedeeltelijk uitbesteden, of advies inwinnen.
 
-Geschreven door
+De meest gemaakte fout die we bij Live Impact zien is dat organisaties kiezen voor 'zelf doen' zonder door te rekenen wat dat echt kost. Of ze kiezen voor 'volledig uitbesteden' terwijl hun team prima bepaalde onderdelen aankan. In beide gevallen wordt er geld op tafel gelaten dat elders beter besteed was.
 
-Esther
+In dit artikel hebben we de drie niveaus uiteengezet. We laten zien wanneer elk niveau past, wat het kost, en waar een bureau zijn investering terugverdient. Aan het eind hebben we een simpel beslismodel waarmee je zelf kunt bepalen welk niveau voor jouw situatie past.
 
-Publicatiedatum
+## Niveau 1: Volledig uitbesteden
 
-22 maart 2026
+Volledig uitbesteden betekent dat het bureau het hele traject overneemt. Van eerste concept tot laatste evaluatie. Jij als opdrachtgever definiërt het doel, het budget en de randvoorwaarden. Het bureau doet de rest.
 
-De trend is duidelijk: steeds meer organisaties kiezen ervoor om hun evenementen uit te besteden aan een professioneel bureau. Niet omdat ze het zelf niet kunnen, maar omdat ze snappen dat focus loont.
+Dit niveau werkt voor organisaties zonder eigen evenementervaring of -capaciteit, voor organisaties met één groot evenement per jaar dat strategisch belangrijk is, en voor organisaties die hun mensen willen inzetten op hun kerntaken in plaats van een nevenproject.
 
-Eventmanagement is een vak. Het vraagt om creativiteit, strakke planning, leveranciersmanagement, budgetbeheer en crisisbestendigheid. Dat zijn competenties die je niet even erbij doet naast je dagelijkse werk.
+Wat het bureau doet: conceptontwikkeling, locatiekeuze en onderhandeling, leveranciersmanagement (catering, entertainment, techniek, productie), draaiboek, gastenlogistiek en operationele begeleiding op de dag. Jij geeft de briefing, maakt strategische keuzes op hoofdlijnen, stelt de gastenlijst op en bent aanwezig als gastheer of gastvrouw. Dat kost je team doorgaans dertig tot zestig uur verspreid over het hele traject.
 
-Door eventmanagement uit te besteden, krijg je toegang tot expertise, creativiteit en een netwerk dat je intern niet hebt. En je team kan zich focussen op waar ze goed in zijn.
+De bureauvergoeding ligt tussen 10 en 20 procent van het totaalbudget. Voor een evenement van €60.000 praat je over €6.000 tot €12.000. Daarvoor krijg je maximale ontzorging, de hoogste kwaliteit en toegang tot het volledige leveranciersnetwerk van het bureau. Het risico op fouten is het laagst — en dat is bij strategisch belangrijke evenementen vaak de doorslaggevende factor.
 
-## Wat kun je allemaal uitbesteden?
+## Niveau 2: Gedeeltelijk uitbesteden
 
-Eventmanagement uitbesteden kan op verschillende niveaus.
+Gedeeltelijk uitbesteden betekent dat jij bepaalde onderdelen zelf doet en andere uitbesteedt. De verdeling hangt af van waar jouw team sterk in is.
 
-**Volledig uitbesteden:** het bureau neemt het hele traject over, van concept tot evaluatie. Jij bepaalt het doel en het budget, zij doen de rest.
+Dit niveau werkt voor organisaties met een marketing-, communicatie- of HR-afdeling met enige evenementervaring, voor organisaties waarbij het budget onder druk staat maar de kwaliteit hoog moet blijven, en voor teams die willen leren rond eventmanagement.
 
-**Gedeeltelijk uitbesteden:** je doet een deel zelf (bijv. communicatie en uitnodigingen) en besteedt de rest uit (concept, locatie, productie). Dit werkt goed als je intern al eventervaring hebt.
+De meest voorkomende verdeling is die waarbij communicatie intern blijft en productie naar buiten gaat. Jouw team maakt de uitnodigingen, beheert de aanmeldingen en verzorgt de interne afstemming. Het bureau doet het concept, de locatie, de leveranciers en de productie. Deze verdeling werkt goed als je marketingteam sterk is in communicatie maar minder in productieplanning.
 
-**Consultancy:** het bureau denkt mee en adviseert, maar jij voert zelf uit. Ideaal voor organisaties die willen leren en groeien in eventmanagement.
+Een tweede verdeling is die waarbij het concept intern of door een creatief bureau wordt bedacht, en de uitvoering volledig naar buiten gaat. Het bureau regelt locatie, leveranciers, draaiboek en operatie. Dat werkt goed als je een sterke eigen creatieve identiteit hebt die je wilt beschermen.
 
-Bij Live Impact zijn we flexibel. We passen onze rol aan op wat jullie nodig hebben, van volledig ontzorgen tot sparren op afstand.
+Een derde verdeling is die waarbij locatie en catering intern worden geregeld — via een eigen locatie of vaste partner — en het bureau het programma, de entertainment en de productie levert.
 
-## De voordelen van uitbesteden
+De bureauvergoeding ligt bij gedeeltelijk uitbesteden tussen 5 en 12 procent van het totaalbudget, neerkomend op €3.000 tot €7.000 voor een evenement van €60.000. Je hebt lagere kosten en meer controle over specifieke onderdelen, maar ook meer coördinatie-overhead tussen jouw team en het bureau.
 
-De voordelen zijn concreet en meetbaar.
+## Niveau 3: Advies inwinnen
 
-**Tijdbesparing:** een middelgroot evenement kost 200-400 uur. Die uren besteed je nu aan je kernactiviteiten.
+Advies inwinnen is de lichtste vorm van samenwerking. Je organiseert het evenement zelf, maar huurt een expert in voor strategisch advies, klankborden of toetsing van je plannen.
 
-**Betere kwaliteit:** een bureau doet dit elke dag. Ze kennen de valkuilen, hebben de contacten en weten wat werkt.
+Dit niveau werkt voor organisaties met een stevig intern evenementteam dat zelf kan uitvoeren, voor organisaties die één specifiek aspect willen verbeteren — het concept, de styling, het programma — en voor teams die voor het eerst een groter evenement doen en willen leren van buitenaf.
 
-**Kostenbesparing:** door betere leverancierstarieven en het voorkomen van dure fouten verdient een bureau zichzelf vaak terug.
+De vormen van advies variëren. Conceptadvies kost €1.500 tot €5.000 en omvat één tot twee sessies met een strateeg die jullie idee aanscherpt, risico's benoemt en richting geeft. Een programmatoets kost €500 tot €2.000: een expert kijkt het draaiboek door, identificeert zwakke plekken en stelt verbeteringen voor. Leveranciersintroducties voor €500 tot €2.000 geven toegang tot het netwerk van het bureau voor specifieke onderdelen — catering, entertainment, techniek — zonder dat zij de uitvoering op zich nemen.
 
-**Creativiteit:** een extern bureau brengt frisse ideeën en een andere kijk op jullie organisatie.
+Een vierde vorm is begeleiding op de dag zelf: een senior van het bureau staat naast je als klankbord, niet als uitvoerder maar als ervaren oog dat bijstuurt waar nodig. Dat kost €1.500 tot €3.000.
 
-**Stressreductie:** op de dag zelf kun je genieten in plaats van regelen.
+Jouw team draagt bij advies het leeuwendeel van het werk, doorgaans 150 tot 300 uur. De externe kosten zijn laag, de controle is maximaal. Het nadeel: jij draagt ook het meeste risico. Een fout is jouw fout, niet die van een bureau dat je kunt aanspreken.
 
-## Wanneer is uitbesteden slim?
+## Het beslismodel: welk niveau past bij jullie?
 
-Uitbesteden is vrijwel altijd slim bij evenementen voor 100+ gasten, bij strategisch belangrijke momenten (jubileum, productlancering, relatie-evenement), als je team geen evenementenervaring heeft, als je meerdere evenementen per jaar organiseert, en als de kwaliteitsverwachting hoog ligt.
+Het beslismodel werkt via vier eerlijke vragen. Beantwoord ze en je hebt je antwoord.
 
-Bij kleinere, informele bijeenkomsten kun je prima zelf aan de slag. Maar zodra de stakes hoger worden, als het evenement je merk, je cultuur of je relaties raakt, is professionele hulp een slimme investering.
+De eerste vraag: hoe ervaren is je team in eventmanagement? Scoor van 1 (geen ervaring) tot 5 (team draait meerdere evenementen per jaar routinematig). De tweede vraag: hoe belangrijk is dit evenement voor de organisatie? Van 1 (interne borrel) tot 5 (strategisch moment — jubileum, productlancering, groot klantenevenement). De derde vraag: hoeveel tijd heeft je team beschikbaar? Van 1 (minimaal, team is overbelast) tot 5 (ruim, dit kan vooropgesteld worden). De vierde vraag: wat is het totaalbudget? Van 1 (onder €20.000) tot 5 (boven €150.000).
 
-## Wat kost eventmanagement uitbesteden?
+Tel de scores op. Een totaal van 4 tot 8 punten wijst op volledig uitbesteden. Je team heeft de tijd of ervaring niet, het evenement is niet triviaal, en het risico op fouten is hoog. Bureauvergoedingen verdienen zich terug in kwaliteit en rust. Een totaal van 9 tot 14 punten wijst op gedeeltelijk uitbesteden — je team kan bepaalde onderdelen goed aan, een bureau voor de stukken waar je minder goed in bent verdient zichzelf terug. Een totaal van 15 tot 20 punten wijst op advies of volledig zelf doen.
 
-De kosten hangen af van de omvang en de mate van uitbesteding.
+Één uitzondering: als de tweede vraag een 5 scoort — het evenement is strategisch belangrijk — kies dan altijd een zwaarder uitbesteedniveau dan het model aangeeft. De kosten van een mislukt strategisch evenement zijn altijd hoger dan de bureauvergoeding om het goed te doen.
 
-**Richtprijzen bureaufee:**
+## Waar een bureau zijn geld terugverdient
 
-- Enkel evenement: 10-20% van het totaalbudget
-- Jaarcontract (meerdere events): vaste retainer + fee per event
-- Consultancy: €150 – €250 per uur
+De vraag hoe een bureau zijn vergoeding terugverdient is legitiem — je betaalt ervoor, dus je mag weten waarmee. Drie concrete manieren.
 
-Reken niet alleen de kosten, maar ook de baten. Een bureau bespaart je honderden uren, levert een professioneler resultaat en voorkomt kostbare fouten. De ROI is bijna altijd positief.
+De eerste is betere inkoop. Een bureau dat jaarlijks tientallen evenementen doet, heeft tariefafspraken met leveranciers. Voor catering, entertainment en techniek ligt de inkoopprijs 10 tot 20 procent onder wat een eenmalige opdrachtgever kan onderhandelen. Op een evenement van €60.000 betekent dat €6.000 tot €12.000 aan inkoopvoordeel — in veel gevallen meer dan de bureauvergoeding zelf.
 
-## Hoe kies je het juiste bureau?
+De tweede is het voorkomen van fouten. Een fout op de dag — een spreker die niet opdaagt, een technisch probleem dat niemand kan oplossen, een vergunning die niet rond is — kost duizenden euro's of de hele dag. Een bureau werkt met scenario's en alternatieve plannen, heeft ervaring met onverwachte wendingen, en voorkomt daardoor fouten die je bij zelf doen wél zou maken.
 
-De keuze voor een bureau is belangrijk. Je gaat immers een intensieve samenwerking aan. Let op ervaring in jouw branche of met jouw type evenementen, de creatieve kwaliteit van hun werk (portfolio), transparantie over kosten en werkwijze, de mensen met wie je gaat werken (persoonlijke klik), en flexibiliteit in de samenwerking.
+De derde is de interne tijd van jouw team. Een middelgroot evenement kost een intern team 200 tot 400 uur verspreid over drie tot zes maanden. Reken dat om naar jouw uurtarief. Een evenementcoördinator op €50 per uur maal 300 uur is €15.000 aan interne tijdkosten. Als je die tijd inzet op je kerntaken in plaats van op eventmanagement, is de bureauvergoeding in feite al terugverdiend nog voor de catering is besteld.
 
-Vraag altijd referenties en praat met eerdere opdrachtgevers. En kies een bureau dat luistert en doorvraagt, niet een bureau dat direct met een standaardoplossing komt.
+## Ontdek welk uitbesteedniveau bij jullie past
 
-## Klaar om jullie eventmanagement uit te besteden?
+Eventmanagement uitbesteden is een strategische keuze. De juiste keuze hangt af van je team, je evenement en je budget. Bij Live Impact denken we graag mee — niet om een verkoopgesprek te voeren, maar om samen te bepalen welk niveau bij jullie situatie past.
 
-Bij Live Impact nemen we eventmanagement uit handen op de manier die bij jullie past. Van volledig ontzorgen tot strategisch meedenken. Altijd met creativiteit, transparantie en oog voor impact.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl). We luisteren, stellen vragen, en komen alleen met een voorstel als we denken dat we echt iets kunnen toevoegen.
 
-**Neem contact op voor een vrijblijvend gesprek.**
-
-→ [Plan een kennismaking](../contact.html)
+*Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
+
+Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
+
+Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+
+Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
+
+**[Lees ons volledige artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
+
+Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
+
+Begin minimaal **drie maanden** van tevoren. Voor grote evenementen (300+ gasten, complexe productie) is **zes maanden** realistischer.
+
+De organisatie verloopt in vier fases: fundament leggen (12–10 weken), concept en partners (10–6 weken), uitwerking (6–3 weken) en uitvoering plus nazorg. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
+
+**[Bekijk de volledige fasering in ons artikel →](/blog/bedrijfsevenement-organiseren)**
+
+Hoe schrijf je een goede briefing voor een bedrijfsevenement?
+
+Een goede briefing bevat minimaal zes elementen: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
+
+Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames — en dat levert een rommelig resultaat.
+
+**[Lees het complete artikel met alle briefing-elementen →](/blog/bedrijfsevenement-organiseren)**
+
+Wat is het verschil tussen een bedrijfsevenement en een personeelsfeest?
+
+Een **personeelsfeest** is specifiek voor medewerkers: intern, vertrouwd, de sfeer is losser. Een **bedrijfsevenement** is breder en kan een personeelsfeest zijn, maar ook een congres, kick-off, jubileum of relatie-evenement.
+
+Het verschil zit in de aanpak: een personeelsfeest draait om vieren en verbinden. Een bedrijfsevenement kan ook strategische doelen dienen, zoals kennisdeling, merkpositionering of cultuurverandering.
+
+**[Meer over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
+
+Wat kost het om een bedrijfsevenement te organiseren?
+
+De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+
+Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
+
+De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+
+**[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
