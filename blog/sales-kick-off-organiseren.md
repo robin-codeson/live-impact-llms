@@ -1,22 +1,12 @@
-[< Back](sales-kick-off-organiseren.html#)[< Work](sales-kick-off-organiseren.html#)
+[< Back](#)[< Work](#)
 
-[Next >](sales-kick-off-organiseren.html#)
+[Next >](#)
 
 ![La Fuente speelt finale bij een zakelijke kick-off met confetti en lichteffecten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5eb83aba737800c4c0b_69c0615b385ce2c1be16b447_Enviem%2520kick-off%2520Hart%2520van%2520Holland%2520La%2520Fuente%2520finale-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
 # Waarom de meeste sales kick-offs niet werken
 
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3180ae4de799a3fb37286_6981fead419741e633f74976_Robin.webp)
-
-Geschreven door
-
-Robin
-
-Publicatiedatum
-
-11 april 2026
-
-Een sales kick-off voelt vaak als een powerpoint-marathon met een afsluitende borrel. Drie uur strategie, twee uur productupdate, een uur targets, en daarna een teambuilding-spel waar niemand zin in heeft. Maandagochtend zit het team weer op kantoor en is alles vergeten.
+Een sales [kick-off](https://en.wikipedia.org/wiki/Kickoff_meeting) voelt vaak als een powerpoint-marathon met een afsluitende borrel. Drie uur strategie, twee uur productupdate, een uur targets, en daarna een teambuilding-spel waar niemand zin in heeft. Maandagochtend zit het team weer op kantoor en is alles vergeten.
 
 Dat komt omdat de meeste sales kick-offs gemaakt zijn vanuit het management, niet vanuit het sales-team. Er staat te veel over wat het bedrijf wil, en te weinig over wat het team morgen anders gaat doen.
 
@@ -26,9 +16,9 @@ Een goede sales kick-off doet drie dingen: hij geeft richting (waar gaan we heen
 
 De volgorde van een sales kick-off ontwerp je achterstevoren. Begin bij de vraag: wat moet het sales-team kunnen, weten en voelen op de dag erna? Vanuit dat antwoord ontwerp je het programma, niet vanuit een leuk thema dat erbij past.
 
-Soms zijn de targets een uitbreiding van een bestaand product. Dan draait je kick-off om de pitch en de objection-handling. Soms is het een nieuwe doelgroep. Dan draait het om wie die doelgroep is en hoe je daar binnenkomt. Soms is het een prijsverhoging waar weerstand op zit. Dan draait het om verhaal en zelfvertrouwen.
+Soms zijn de doelstellingen een uitbreiding van een bestaand product. Dan draait je kick-off om de pitch en het omgaan met bezwaren. Soms is het een nieuwe doelgroep. Dan draait het om wie die doelgroep is en hoe je daar binnenkomt. Soms is het een prijsverhoging waar weerstand op zit. Dan draait het om verhaal en zelfvertrouwen.
 
-Drie totaal andere kick-offs, met dezelfde mensen in dezelfde zaal. Het verschil zit in de scherpte van het doel.
+Drie totaal verschillende kick-offs, met dezelfde mensen in dezelfde zaal. Het verschil zit in de scherpte van het doel.
 
 ## Programma: korter, intensiever, persoonlijker
 
@@ -36,15 +26,15 @@ De grootste fout: het programma volstoppen omdat het maar één keer per jaar is
 
 Werk in blokken van maximaal 75 minuten. Wissel inhoud af met interactie. Geef het team momenten van rust, anders zijn ze halverwege uitgeput. Eindig met een hoogtepunt dat naar de uitvoering wijst, niet met een afsluitende borrel die alles platdrukt.
 
-Persoonlijker maken doe je door verhalen van het team zelf. Een collega die vertelt hoe ze een lastige deal binnenhaalde, werkt sterker dan een externe spreker die over verkopen spreekt. [Meer over een sterk programma →](evenement-entertainment-boeken.html)
+Persoonlijker maken doe je door verhalen van het team zelf. Een collega die vertelt hoe ze een lastige deal binnenhaalde, werkt sterker dan een externe spreker die over verkopen spreekt.
 
 ## Locatie als energie-boost
 
-Een sales kick-off in dezelfde vergaderzaal als de wekelijkse meeting werkt niet. De associatie is er al. Mensen schakelen niet om naar een nieuwe modus.
+Een sales kick-off in dezelfde vergaderzaal als de wekelijkse overleg werkt niet. De associatie is er al. Mensen schakelen niet om naar een nieuwe modus.
 
-Kies een locatie die voelt als een breakpoint. Weg van kantoor, weg van het normale ritme. Een industriëel pand, een museumzaal, een buitenlandse stad voor een tweedaags programma. De locatie is een statement: dit is geen normale werkdag, dit is een nieuwe start.
+Kies een locatie die voelt als een breekpunt. Weg van kantoor, weg van het normale ritme. Een industrieël pand, een museumzaal, een buitenlandse stad voor een tweedaags programma. De locatie is een statement: dit is geen normale werkdag, dit is een nieuwe start.
 
-Voor groepen tot 30 mensen werkt een intieme bijzondere locatie het beste. Voor 30 tot 80 een venue met flexibele indeling. Boven 80 wordt het een productioneel verhaal, dan kies je voor schaal en sfeer tegelijk. [Meer over locatiekeuze →](evenementenlocatie-vinden.html)
+Voor groepen tot 30 mensen werkt een intieme bijzondere locatie het beste. Voor 30 tot 80 een locatie met flexibele indeling. Boven 80 wordt het een productioneel verhaal, dan kies je voor schaal en sfeer tegelijk.
 
 ## Vervolg: hoe houd je het effect vast?
 
@@ -62,19 +52,57 @@ Een goed bureau pakt het hele organisatorische gedeelte aan, denkt mee in het co
 
 Wij bedenken het concept én voeren het uit, in één team. Wat wij bedenken kunnen we maken, wat wij maken is exact wat we bedacht hebben. Geen losse partijen, geen verwatering, geen onverwachte rekeningen.
 
-## Klaar om je sales-team echt te starten?
+## Zo geef je je sales-team een vliegende start
 
-Als jouw bedrijf toe is aan een sales kick-off die het verschil maakt, neem contact op. Drie concepten binnen twee weken, eerlijke begroting, alles in één team.
+Als jouw bedrijf toe is aan een sales kick-off die het verschil maakt, neem dan contact op. Drie concepten binnen twee weken, eerlijke begroting, alles in één team.
 
-Bel of mail via **live-impact.nl**. Serieus Leuk.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
+
+*Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Kan Live Impact een grote project kick-off begeleiden?
+
+Ja. Voor grote of complexe projecten met meerdere teams of partners begeleiden wij de kick-off van A tot Z: programma, locatie, facilitatie, energie, vervolgmomenten. Wij zijn een bureau dat concepten bedenkt en uitvoert, dus de inhoud en de uitvoering komen uit één hand. Plan een kennismaking en wij denken mee.
+
+Meer weten? [Lees het volledige artikel](/blog/projectkick-off-organiseren) of neem direct contact op.
+
+Wat hoort er in een goede project kick-off briefing?
+
+Een goede briefing bevat: doel en scope, planning met mijlpalen, rolverdeling, budget, risico's en afhankelijkheden. Stuur hem 48 uur vooraf rond, zodat iedereen voorbereid binnenkomt. Tijdens de kick-off bespreek je de briefing niet woord voor woord, maar gebruik je hem als anker voor de gesprekken die ertoe doen.
+
+Meer voorbereidingstips? [Lees het volledige artikel](/blog/projectkick-off-organiseren).
+
+Wie moet er bij een project kick-off aanwezig zijn?
+
+Iedereen die de komende periode aan het project werkt. Dus niet alleen de projectleider en stuurgroep, maar ook de mensen die het echte werk doen. Een opdrachtgever of sponsor erbij is sterk: die kan het waarom toelichten en commitment uitspreken. Externe partners (leveranciers, freelancers) horen er ook bij als ze een rol spelen.
+
+Meer over rolverdeling? [Lees het volledige artikel](/blog/projectkick-off-organiseren).
+
+Hoe lang moet een project kick-off duren?
+
+Voor een klein project van een paar weken volstaat twee uur. Voor een complex project van zes maanden of meer reken je een halve tot hele dag. De vuistregel: lang genoeg om alle vier de inhoudsblokken (waarom, wat, hoe, risico's) goed door te nemen, kort genoeg om scherp te blijven. Bouw pauzes in en sluit af met een sociaal moment.
+
+Meer weten over de opbouw? [Lees het volledige artikel](/blog/projectkick-off-organiseren).
+
+Waarom kiezen klanten voor Live Impact?
+
+Omdat wij het concept en de uitvoering uit één hand leveren. Omdat wij eerlijk zijn over budget, planning en wat wel en niet kan. Omdat wij scherp blijven tot het laatste detail. En omdat wij een database van honderden acts en locaties hebben die wij keer op keer met goed gevolg inzetten. Serieus Leuk werken, noemen wij dat.
+
+Meer weten? [Plan een kennismaking](/contact).
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
