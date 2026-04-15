@@ -44,13 +44,13 @@ Sluit af met een moment dat blijft hangen. Een inspirerende slotspreker, een gez
 
 Een kick-off op kantoor voelt als werk. Een kick-off op een andere locatie voelt als een evenement. Dat verschil zit in meer dan de omgeving — het zit in de grondhouding waarmee mensen binnenkomen.
 
-Op kantoor zijn mensen direct bereikbaar voor collega's die niet meedoen. Meldingen komen binnen. De computer staat om de hoek. De mentale overstap naar 'dit is een bijzondere dag' is groter omdat de fysieke omgeving het niet faciliteert.
+Op kantoor zijn mensen direct bereikbaar voor collega’s die niet meedoen. Meldingen komen binnen. De computer staat om de hoek. De mentale overstap naar ‘dit is een bijzondere dag’ is groter omdat de fysieke omgeving het niet faciliteert.
 
 Op een externe locatie is die drempel weg. Mensen stappen bewust uit hun routine. Ze zijn er voor dit. Dat verschil is subtiel maar meetbaar in hoe het programma landt.
 
 Wat de locatie ook is: ze moet passen bij de boodschap. Een innovatieve kick-off in een industrieel pand. Een terug-naar-de-basis boodschap in de natuur of op een boerderij. Een groots verhaal in een theater. De ruimte versterkt of ondermijnt het concept.
 
-Praktisch let je op: capaciteit voor de plenaire sessie en eventuele break-outs, bereikbaarheid per OV en auto, technische mogelijkheden voor presentaties, catering die de dag draagt zonder gedoe, en of de sfeer van de locatie aansluit bij de tone of voice van de dag. Meer over locatiekeuze lees je in ons artikel over [conceptontwikkeling voor kick-offs →](/blog/conceptontwikkeling-kick-off)
+Praktisch let je op: capaciteit voor de plenaire sessie en eventuele break-outs, bereikbaarheid per OV en auto, technische mogelijkheden voor presentaties, catering die de dag draagt zonder gedoe, en of de sfeer van de locatie aansluit bij de tone of voice van de dag.
 
 ## Entertainment en sprekers: strategisch inzetten
 
@@ -74,15 +74,15 @@ De posten die mensen onderschatten: technische productie (geluid, beeld, verlich
 
 Een slim kick-off budget begint bij prioriteiten. Wat heeft de meeste impact voor jullie doel? Soms is één sterke externe spreker meer waard dan een uitgebreide catering. Soms is het tegenovergestelde waar. Weten waar je in investeert maakt het verschil tussen een budget dat goed besteed is en een budget dat grotendeels opgaat aan dingen die mensen niet herinneren.
 
-## Klaar om jullie kick-off te organiseren?
+## Zo organiseer je een kick-off die richting geeft én energie oplevert
 
 Een kick-off is het moment waarop de toon wordt gezet voor alles wat komt. Het verdient een aanpak die even serieus als leuk is.
 
 Wij helpen organisaties om van een kick-off een start te maken die echt richting geeft én energie oplevert. Van conceptontwikkeling en programmaopbouw tot locatiescouting, sprekerscoördinatie, entertainment en productie op de dag zelf.
 
-Plan een gesprek. Wij stellen twee vragen: wat wil je bereiken, en hoe ziet je team er nu uit? Daarna bouwen wij de dag. [Neem contact op →](/contact)
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-**Serieus Leuk.**
+*Serieus Leuk.*
 
 ## Lees ook
 
