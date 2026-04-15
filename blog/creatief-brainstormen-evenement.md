@@ -1,20 +1,10 @@
-[< Back](creatief-brainstormen-evenement.html#)[< Work](creatief-brainstormen-evenement.html#)
+[< Back](#)[< Work](#)
 
-[Next >](creatief-brainstormen-evenement.html#)
+[Next >](#)
 
 ![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1a47139d50e3c937b1b_69c069bed8d574dee01dced4_Overzicht%2520workshop%2520toren.jpeg)
 
 # Waarom de meeste brainstorms mislukken
-
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3180ae4de799a3fb37286_6981fead419741e633f74976_Robin.webp)
-
-Geschreven door
-
-Robin
-
-Publicatiedatum
-
-10 april 2026
 
 Je kent het ritueel. Acht mensen aan een tafel, post-its, een flipover, iemand zegt 'er zijn geen foute ideeën'. Twee uur later ligt de muur vol gekleurde briefjes en gaat iedereen naar huis met het gevoel: we hebben iets gedaan. De week erna weet niemand nog wat er bedacht is.
 
@@ -64,25 +54,59 @@ Wij zijn een bureau dat zowel concepten bedenkt als uitvoert. Dat betekent dat o
 
 Een brainstorm met Live Impact duurt standaard twee tot drie uur, met één facilitator en één conceptontwikkelaar. Vooraf verzamelen wij input via korte gesprekken met enkele mensen uit je organisatie. Na afloop leveren wij binnen vijf werkdagen een concept-A4 met richting, kerngedachte en eerste beeld. Je beslist daarna of je verder wilt bouwen of nog een ronde wilt.
 
-## Klaar om verder te komen dan losse ideeën?
+## Verder komen dan losse ideeën
 
 Een goede brainstorm geeft geen lijst met ideeën. Hij geeft jou en je team het gevoel dat jullie weten welke kant je op wilt. Dat is geen creatieve truc — dat is een methode.
 
 Wij begeleiden brainstormsessies als onderdeel van een concepttraject of als losse dienst als je alleen de richting wilt aanscherpen. Geen post-its om de post-its, wel een helder beginpunt voor wat je bouwt.
 
-Neem contact op en vertel wat er speelt. We plannen een voorgesprek van dertig minuten in om te bepalen of een brainstormsessie het juiste eerstvolgende stap is, of dat je al verder bent dan je denkt.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-**Serieus Leuk.**
-
-[Lees ook: hoe komt een creatief concept tot stand? →](creatief-concept-zakelijk-evenement.html)
+*Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Hoe organiseer je een effectieve brainstorm sessie?
+
+Een effectieve brainstorm duurt 2-4 uur en volgt deze flow: warm-up (15 min, energie), probleemstelling (10 min, duidelijkheid), ideëngeneratie (30 min, geen kritiek), clustering (20 min, thema's) en concretisering (30 min, top-3). Zorg voor facilitatie, visuele ondersteuning en energiemanagement. Groepen groter dan 20 personen verdelen in subgroepen. Post-its, whiteboards en muziek helpen. Live Impact faciliteert of coacht sessies voor maximale output.
+
+**[Meer weten? Lees ons complete artikel →](/blog/creatief-brainstormen-evenement)**
+
+Wat zijn regels voor een succesvolle brainstorm?
+
+Brainstorm (vrije ideëngeneratie), mind mapping (thema's tekenen), brainwriting (anoniem ideën), world café (roterende tafels), pecha kucha (presentaties in 20 slides), bodystorming (fysieke vormen) en role-play werken goed. Variatie voorkomt verveling en activeert verschillende denkstijlen. Combineer individueel werk met groepsdiscussie. Muziek, beweging en humor ontgrendelen creativiteit. Live Impact selecteert werkvormen per doelstelling.
+
+**[Meer weten? Lees ons complete artikel →](/blog/creatief-brainstormen-evenement)**
+
+Hoe faciliteer je inclusie in brainstorming?
+
+Effectieve brainstorms duren 2-3 uur (optimale concentratie). Minder dan 90 minuten: onvoldoende diepgang. Langer dan 4 uur: vermoeiing en repetitie. Voor grotere projecten: meerdere sessies in fasen. Warm-up (15 min) + ideëngeneratie (60-90 min) + clustering en afronding (30 min). Pauzes na elk uur helpen focus behouden. Live Impact timing-advies is gebaseerd op groepsdynamica.
+
+**[Meer weten? Lees ons complete artikel →](/blog/creatief-brainstormen-evenement)**
+
+Welke tools en technieken helpen brainstormen?
+
+5-12 personen is ideaal: voldoende diversiteit, beperkte groepsdruk, iedereen houdt stem. Groepen tot 20 gaan nog, maar 1-2 personen domineren snel. Boven 20: verdeel in subgroepen of switch naar world café-format. Te klein (2-3): weinig cross-pollination. Te groot (30+): passiviteit en dominante stemmen. Afhankelijk van doelstelling kan Live Impact groepgrootte optimaliseren.
+
+**[Meer weten? Lees ons complete artikel →](/blog/creatief-brainstormen-evenement)**
+
+Hoe evalueer en implementeer je brainstorm idees?
+
+Ja, we faciliteren end-to-end brainstorms: voorbereiding, werkvoormgeving-opzet, live-facilitatie, documentatie en vervolgplanning. We zorgen dat stilte en dominante stemmen evenwichtig zijn en dat ideeën concreet en bruikbaar uitkomen. Uw team vertrekt met actionable outputs en creatief momentum.
+
+**[Meer weten? Lees ons complete artikel →](/blog/creatief-brainstormen-evenement)**
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
