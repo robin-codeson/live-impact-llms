@@ -74,15 +74,15 @@ Grote congressen van 300 deelnemers of meer met volledige technische productie, 
 
 De kostenposten die mensen onderschatten: de technische productie (die snel 20 tot 30% van het totaalbudget inneemt), de fee voor goede sprekers, en de kosten van de moderator of dagvoorzitter. Die laatste post is ook direct de meest zichtbare investering: een goede dagvoorzitter maakt de dag, een matige dagvoorzitter maakt hem vlak.
 
-## Klaar om een congres te organiseren dat impact maakt?
+## Zo organiseer je een congres dat echt impact maakt
 
 Een congres organiseren is een vak apart. Het vraagt inhoudelijke scherpte voor het programma, creatief denkvermogen voor het concept, strakke planning voor de logistiek, en feilloze uitvoering op de dag zelf.
 
 Wij nemen het hele traject uit handen. Van het eerste gesprek over de doelstelling tot de dag zelf. Concept, programma, locatiescouting, sprekerscoördinatie, technische productie en bemensing op de dag. Zodat jij je kunt focussen op de inhoud en op je deelnemers.
 
-Neem contact op voor een kennismaking. Wij stellen twee vragen: wat wil je bereiken, en wie zijn je deelnemers. Daarna beginnen wij. [Plan een gesprek →](/contact)
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-**Serieus Leuk.**
+*Serieus Leuk.*
 
 ## Lees ook
 
