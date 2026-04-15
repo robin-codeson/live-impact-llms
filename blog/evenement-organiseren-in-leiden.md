@@ -1,20 +1,10 @@
-[< Back](evenement-organiseren-in-leiden.html#)[< Work](evenement-organiseren-in-leiden.html#)
+[< Back](#)[< Work](#)
 
-[Next >](evenement-organiseren-in-leiden.html#)
+[Next >](#)
 
 ![Drone-overzicht van een groot evenemententerrein met tenten en activiteiten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5fe49303269b6603b9a_69c06388e4b31b38851974ce_Overzicht%2520terrein%2520drone.jpeg)
 
 # Leiden: waar kennis en geschiedenis samenkomen voor jouw evenement
-
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3180ae4de799a3fb37277_6981fee76155f028fe626632_Susan.webp)
-
-Geschreven door
-
-Susan
-
-Publicatiedatum
-
-15 november 2025
 
 Leiden is een stad die je raakt. De grachten, de hofjes, de universiteit — de oudste van Nederland. Rembrandt werd hier geboren. De Pilgrim Fathers vertrokken hier. En het Leiden Bio Science Park is een van de grootste bioscience-clusters van Europa.
 
@@ -48,7 +38,7 @@ Het Naturalis Biodiversity Center is een moderne museumsetting die exclusief bes
 
 Diverse hotels in en rond Leiden bieden professionele congresruimtes. Het Golden Tulip Leiden Centre is een vertrouwde keuze voor middelgrote zakelijke evenementen. Goed bereikbaar, professioneel, met catering die op peil is.
 
-Voor meer intimiteit: Leiden heeft tal van monumentale panden, hofjes en karakteristieke horecalocaties die voor besloten evenementen kunnen worden afgehuurd. Een evenementenbureau met lokale kennis kent de deuren die normaal gesloten blijven — en weet hoe je ze opent. [Meer over het vinden van de perfecte eventlocatie →](evenementenlocatie-vinden.html)
+Voor meer intimiteit: Leiden heeft tal van monumentale panden, hofjes en karakteristieke horecalocaties die voor besloten evenementen kunnen worden afgehuurd. Een evenementenbureau met lokale kennis kent de deuren die normaal gesloten blijven — en weet hoe je ze opent. [Meer over het vinden van de perfecte eventlocatie →](/blog/evenementenlocatie-vinden)
 
 ## Programma en beleving in de historische universiteitsstad
 
@@ -56,11 +46,11 @@ Een evenement in Leiden vraagt om een programma dat het niveau van de stad waard
 
 Gebruik de stad als programmaelement. Een stadswandeling door de historische binnenstad als teambuilding werkt in Leiden beter dan bijna ergens anders. Er is zoveel te zien en te vertellen. De grachten, de universiteitsgebouwen, het Rijksmuseum van Oudheden — Leiden biedt een cultuurhistorische rijkdom die je programma verdiept.
 
-Voor kennisintensieve sectoren is Leiden ook een bron van sprekers. Wetenschappers, medici, innovatoren — ze zijn hier te vinden. Een lokale expert als keynote spreker geeft je event authenticiteit. En authenticiteit is iets wat gasten in een zaal van 200 mensen direct voelen.
+Voor kennisintensieve sectoren is Leiden ook een bron van sprekers. Wetenschappers, medici, innovatoren — ze zijn hier te vinden. Een lokale expert als keynote spreker geeft je evenement authenticiteit. En authenticiteit is iets wat gasten in een zaal van 200 mensen direct voelen.
 
 Culinair is Leiden goed voorzien. De stad heeft uitstekende restaurants en cateraars die aansluiten bij de kwaliteitsverwachting van een academisch publiek. Van een eenvoudige doch verfijnde lunch tot een meergangsdiner bij kaarslicht — Leiden biedt het allemaal.
 
-Sluit je evenement af met een activiteit die mensen verbindt. Een rondvaart over de Leidse grachten. Een exclusieve museumrondleiding na sluitingstijd. Een borrel op een terras aan het water. Die laatste herinnering bepaalt hoe het evenement wordt onthouden. [Lees meer over entertainment en programma-invulling →](evenement-entertainment-boeken.html)
+Sluit je evenement af met een activiteit die mensen verbindt. Een rondvaart over de Leidse grachten. Een exclusieve museumrondleiding na sluitingstijd. Een borrel op een terras aan het water. Die laatste herinnering bepaalt hoe het evenement wordt onthouden. [Lees meer over entertainment en programma-invulling →](/blog/evenement-entertainment-boeken)
 
 ## Budget en planning voor een evenement in Leiden
 
@@ -82,21 +72,61 @@ Wij kennen de bijzondere locaties in de stad. We weten welke historische panden 
 
 Maar het begint bij jouw verhaal. Wat wil je zeggen met dit evenement? Welke indruk wil je achterlaten bij je gasten? Leiden is een stad met veel te zeggen. Jij hebt ook een verhaal. Wij verbinden die twee.
 
-We werken op basis van vertrouwen en helderheid. Je weet wat we doen, wat het kost en wat je kunt verwachten. Geen verrassingen. Wel: een event dat mensen bijblijft lang na de dag zelf.
+We werken op basis van vertrouwen en helderheid. Je weet wat we doen, wat het kost en wat je kunt verwachten. Geen verrassingen. Wel: een evenement dat mensen bijblijft lang na de dag zelf.
 
-Evenementen in Leiden zijn bijzonder. Laat ons ze voor jou bijzonder maken. [Meer over onze aanpak en kosten →](kosten-evenementenbureau.html)
+Evenementen in Leiden zijn bijzonder. Laat ons ze voor jou bijzonder maken. [Meer over onze aanpak en kosten →](/blog/kosten-evenementenbureau)
 
-## Klaar voor Leiden?
+## Zo organiseer je jouw evenement in Leiden
 
-Evenement organiseren in Leiden? Wij staan klaar. Van een intiem symposium in een historisch pand tot een groot medisch congres bij het LUMC — wij denken mee en regelen het. Bel **070 - 711 68 46**, mail **philip@live-impact** of vul het contactformulier in. *Serieus Leuk.*
+Evenement organiseren in Leiden? Wij staan klaar. Van een intiem symposium in een historisch pand tot een groot medisch congres bij het LUMC — wij denken mee en regelen het.
+
+Bel ons op **085 401 40 14** of mail naar **hello@live-impact.nl**.
+
+*Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Welke evenementenlocaties zijn er in Amersfoort?
+
+Amersfoort heeft diverse geschikte locaties voor zakelijke evenementen: van moderne congrescentra en stijlvolle hotels tot industriële panden en unieke buitenlocaties. De juiste keuze hangt af van je groepsgrootte (20 tot 500+ personen), gewenste sfeer en bereikbaarheid per OV en auto. Live Impact kent de best passende locaties in Amersfoort en selecteert altijd op concept-fit.
+
+**[Meer weten? Lees ons complete artikel →](/blog/evenement-organiseren-in-amersfoort)**
+
+Wat kost een zakelijk evenement in Amersfoort?
+
+De kosten voor een zakelijk evenement in Amersfoort variëren sterk per schaal. Een kleinschalige bijeenkomst voor 30 personen begint rond €3.000; een volledig geproduceerd evenement voor 200+ personen loopt al snel op naar €25.000 tot €60.000. Locatie, catering, technische productie en entertainment bepalen het grootste deel. Live Impact geeft altijd een vrijblijvende kostenindicatie op basis van jouw wensen.
+
+**[Meer weten? Lees ons complete artikel →](/blog/evenement-organiseren-in-amersfoort)**
+
+Hoe bereikbaar is Amersfoort voor zakelijke gasten?
+
+Amersfoort is goed bereikbaar per auto en openbaar vervoer. Bij locatieselectie houden wij rekening met parkeergelegenheid en treinverbindingen. Voor gasten van buiten de regio is een locatie dicht bij het station of met eigen parkeerterrein ideaal. Live Impact adviseert proactief over bereikbaarheid en verzorgt indien gewenst ook evenementenvervoer.
+
+**[Meer weten? Lees ons complete artikel →](/blog/evenement-organiseren-in-amersfoort)**
+
+Welke zakelijke evenementen worden er in Amersfoort georganiseerd?
+
+In Amersfoort worden allerlei zakelijke evenementen georganiseerd: jaarlijkse personeelsfeesten, kick-offs, klantendagen, productlanceringen en congressen. De regio heeft een actief zakelijk klimaat met diverse branches. Live Impact organiseert in Amersfoort regelmatig voor zowel grote corporates als groeikrachtige mkb-bedrijven.
+
+**[Meer weten? Lees ons complete artikel →](/blog/evenement-organiseren-in-amersfoort)**
+
+Kan Live Impact een evenement organiseren in Amersfoort?
+
+Ja. Live Impact organiseert zakelijke evenementen door heel Nederland, inclusief Amersfoort en de omliggende regio. Wij kennen de locaties, de lokale leveranciers en het type evenement dat hier past. Van concept tot confetti — wij regelen het volledig. Neem contact op voor een vrijblijvend gesprek over jouw evenement in Amersfoort.
+
+**[Meer weten? Lees ons complete artikel →](/blog/evenement-organiseren-in-amersfoort)**
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
