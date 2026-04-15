@@ -64,17 +64,17 @@ Na akkoord volgt de uitwerkingsfase: locatieboeking, leveranciersselectie, progr
 
 In de productiefase — de weken voor het evenement — worden alle details afgerond, wordt het draaiboek gebouwd en vinden de technische checks plaats. Op de dag zelf coördineert het bureau alles. Jij bent aanwezig voor je gasten, niet voor de logistiek.
 
-Na afloop volgt de evaluatie. Een goed bureau kijkt terug, deelt inzichten en stelt vragen over wat de volgende keer anders kan. [Meer over hoe evenementenorganisatie werkt →](/blog/evenementenorganisatie)
+Na afloop volgt de evaluatie. Een goed bureau kijkt terug, deelt inzichten en stelt vragen over wat de volgende keer anders kan.
 
-## Klaar om een evenementenbureau in te schakelen?
+## Zo schakel je het juiste evenementenbureau in
 
 Bij Live Impact krijg je een vast projectteam: een conceptdenker, een projectmanager en een producer. Mensen die jouw evenement behandelen alsof het hun eigen feest is.
 
-We beginnen altijd met een vrijblijvend kennismakingsgesprek. Geen pitch, geen standaardpakket. We vragen wie jullie zijn, wat jullie drijft en wat het evenement moet opleveren. Daarna laten we zien hoe we dat realiseren.
+Het begint met een vrijblijvend kennismakingsgesprek. Geen pitch, geen standaardpakket. We vragen wie jullie zijn, wat jullie drijft en wat het evenement moet opleveren. Daarna laten we zien hoe we dat realiseren.
 
-Neem contact op. Het gesprek kost jullie een uur. Het evenement kost jullie daarna een stuk minder stress. [Plan een kennismaking →](/contact)
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-**Serieus Leuk.**
+*Serieus Leuk.*
 
 ## Lees ook
 
