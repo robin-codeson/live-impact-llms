@@ -36,7 +36,7 @@ Een externe eventmanager brengt ervaring mee met tientallen tot honderden vergel
 
 De vuistregel: onder de 100 gasten en met een ervaren teamlid intern, kan intern. Boven de 100 gasten, of bij strategisch belangrijke evenementen zoals een jubileum, een productlancering of een kick-off met directie, loont extern altijd.
 
-## Wanneer huur je een eventmanager in, en met hoeveel voorsprong?
+## Wanneer huur je een eventmanager in, en met hoeveel voorsprong
 
 Een externe eventmanager is geen laatste-minuut redmiddel. Hij moet voldoende aanloop hebben om het traject goed op te bouwen, en die doorlooptijden zijn langer dan de meeste opdrachtgevers verwachten.
 
@@ -46,7 +46,7 @@ Grote evenementen met meer dan 300 gasten of een complex programma met meerdere 
 
 Een veelgemaakte fout is te laat beginnen. Een eventmanager die met drie weken voorsprong moet starten voor een evenement van 500 mensen, maakt per definitie keuzes die tijd besparen maar kwaliteit kosten. Die keuzes zie je op de dag zelf — in de details, in de onhandige overgangen, in het gevoel dat er net iets te weinig was nagedacht. Op het moment dat het publiek binnenkomt, is het te laat om bij te sturen.
 
-## Wat kost een eventmanager inhuren?
+## Wat een eventmanager inhuren kost
 
 De prijs van een externe eventmanager hangt af van zijn ervaring, de omvang van het evenement en de scope van het project. Op de Nederlandse markt rekent een zelfstandig eventmanager met vijf tot tien jaar ervaring €85 tot €120 per uur, of een projectprijs van €8.000 tot €18.000 voor een middelgroot evenement.
 
@@ -68,7 +68,7 @@ Hij is rustig op de dag zelf. Een goede eventmanager is op de evenementdag bijna
 
 ## Werk met een eventmanager die echt het verschil maakt
 
-Bij Live Impact koppelen we aan elk project één vaste eventmanager die jouw gesprekspartner is van briefing tot evaluatie. Hij werkt samen met ons creatieve team, onze productiespecialisten en onze vaste showcallers en stagemanagers. Geen losse schakels die elkaar voor het eerst ontmoeten op de dag zelf.
+Wij koppelen aan elk project één vaste eventmanager die jouw gesprekspartner is van briefing tot evaluatie. Hij werkt samen met ons creatieve team, onze productiespecialisten en onze vaste showcallers en stagemanagers. Geen losse schakels die elkaar voor het eerst ontmoeten op de dag zelf.
 
 Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl). We bespreken de scope van je evenement en welke eventmanager uit ons team het beste past.
 
