@@ -1,22 +1,12 @@
-[< Back](conferentie-organiseren.html#)[< Work](conferentie-organiseren.html#)
+[< Back](#)[< Work](#)
 
-[Next >](conferentie-organiseren.html#)
+[Next >](#)
 
 ![Plenaire sessie met sprekers op podium tijdens een zakelijk congres](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1776ed71e373c2fec65_69c069be6843e2faf10f2bcc_Podiumsettin%2520plenair%2520directie.jpeg)
 
 # Wat een conferentie anders maakt dan andere evenementen
 
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31807e4de799a3fb37214_6981fedb1761a73a0ca055c4_Joyce.webp)
-
-Geschreven door
-
-Joyce
-
-Publicatiedatum
-
-8 april 2026
-
-Een conferentie is geen grote vergadering en geen feest. Het is een bijeenkomst die kennis deelt, mensen verbindt en een industrie of organisatie vooruit beweegt. Dat klinkt ambitieus — en dat is het ook. Het is precies de reden waarom een conferentie organiseren complexer is dan de meeste andere evenementformats.
+Een [conferentie](https://nl.wikipedia.org/wiki/Conferentie) is geen grote vergadering en geen feest. Het is een bijeenkomst die kennis deelt, mensen verbindt en een industrie of organisatie vooruit beweegt. Dat klinkt ambitieus — en dat is het ook. Het is precies de reden waarom een conferentie organiseren complexer is dan de meeste andere evenementformats.
 
 Bij een conferentie heb je sprekers die moeten worden geworven, beoordeeld en begeleid. Je hebt deelnemers met uiteenlopende verwachtingen, achtergronden en agenda’s. Je hebt een inhoudelijk programma dat coherent moet zijn, maar ook gevarieerd genoeg om aandacht vast te houden. En je hebt de logistiek van een locatie, techniek, catering en communicatie die allemaal tegelijk goed moeten gaan.
 
@@ -88,17 +78,57 @@ Maak een gedetailleerd draaiboek, minimaal vier weken voor de conferentie. Dat d
 
 Brief je team grondig. Iedereen moet weten wat zijn of haar verantwoordelijkheid is, waar de grens van die verantwoordelijkheid ligt en naar wie ze gaan als er iets buiten hun bevoegdheid valt. Een goed gebrieft team reageert soepel op onverwachte situaties. Een slecht gebrieft team staat stil en wacht op instructies.
 
-Na afloop begint de opvolging. Stuur deelnemers de dag na de conferentie een bericht met de presentaties, de foto’s en een korte samenvatting. Stuur een feedbackformulier. Bedank de sprekers persoonlijk. Evalueer met het team wat goed ging en wat beter kan. En publiceer een nabeschouwing van de conferentie — op je website, op LinkedIn — die het bereik van de dag vergroot en de aankondiging vormt voor de volgende editie.
+Na afloop begint de opvolging. Stuur deelnemers de dag na de conferentie een bericht met de presentaties, de foto's en een korte samenvatting. Stuur een feedbackformulier. Bedank de sprekers persoonlijk. Evalueer met het team wat goed ging en wat beter kan. En publiceer een nabeschouwing van de conferentie — op je website, op LinkedIn — die het bereik van de dag vergroot en de aankondiging vormt voor de volgende editie.
 
-Een conferentie die goed afgerond wordt, plakt zichzelf voor een volgende keer. Deelnemers die een goede ervaring hebben gehad, komen terug — en nemen hun collega’s mee. Dat is de waarde van een conferentie die meer is dan de som van zijn sessies.
+Een conferentie die goed afgerond wordt, plakt zichzelf voor een volgende keer. Deelnemers die een goede ervaring hebben gehad, komen terug — en nemen hun collega's mee. Dat is de waarde van een conferentie die meer is dan de som van zijn sessies.
+
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
+
+*Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Wanneer heb je een apart evenement-logo nodig?
+
+Een apart evenement-logo maakt zin als je evenement een eigen identiteit krijgt: multi-daagse festivals, reeks-evenementen (bijvoorbeeld jaarlijkse conferenties), regio-specifieke versies van één concept, of evenementen met eigen merchandise/branding. Voor interne overleggen of eenmalige evenementen is vaak het bedrijfslogo voldoende. Echter: als je evenement een eigen verhaal vertelt en eigen budget heeft, een uniek logo vergroot merkherkenning en creëert blijvende associatie.
+
+**[Meer weten? Lees ons complete artikel →](/blog/eventlogo-ontwerpen)**
+
+Wat kost het ontwerpen van een evenement-logo?
+
+Evenement-logodesign kost typisch 1.500-5.000 euro voor professioneel ontwerp met meerdere iteraties. Dit omvat besproken, concepten, refinement en eindlevering (files voor print, web, merchandise). Simpeler varianten: 800-1.200 euro. Complexere systemen met subbranding of meerdere varianten: tot 10.000 euro. Goede designers leveren ook huisstijlrichtlijnen mee voor consistent gebruik.
+
+**[Meer weten? Lees ons complete artikel →](/blog/eventlogo-ontwerpen)**
+
+Hoe zorg je dat een evenement-logo past bij je bedrijfshuisstijl?
+
+Zorg dat het evenement-logo dezelfde typografie, kleurenpalet, of stilistische elementen bevat als je bedrijf. Dit kan via een visueel 'add-on' naar je hoofdlogo—zet je bedrijfslogo klein in de hoek en voeg evenement-specifieke elementen ernaast toe. Briefing de designer expliciet: welke huisstijl-elementen zijn non-negotiable? Gebruik dezelfde designer als je bedrijfsidentiteit, zodat ze het systeem kennen.
+
+**[Meer weten? Lees ons complete artikel →](/blog/eventlogo-ontwerpen)**
+
+Wat maakt een goed evenement-logo?
+
+Een goed evenement-logo is herkenbaar in klein formaat (favicon, social), past op alle media (print tot merchandise), is timeless (5 jaar blijvend relevant), bevat subtiel of direct verwijzing naar evenement-thema, en onderscheidt je evenement van andere. Vermijd generieke iconen; kies eigenstandigheid. Test het logo op klanten/medewerkers: wat voelen ze eruit? Paspoort het bij jouw evenement-story?
+
+**[Meer weten? Lees ons complete artikel →](/blog/eventlogo-ontwerpen)**
+
+Ontwerpt Live Impact ook evenement-logo's en visuele identiteiten?
+
+Ja, we ontwerpen complete visuele identiteiten voor evenementen: logo, kleurencode, typografie-pairing, imagery-stijl en merchandiserichtlijnen. Onze aanpak zorgt dat je evenement-branding sterker is dan zomaar een logo. We zetten het visual identity ook in op alle kanalen: web, sociale media, fysieke ruimte. Laten we jouw evenement visueel onvergetelijk maken.
+
+**[Meer weten? Lees ons complete artikel →](/blog/eventlogo-ontwerpen)**
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
