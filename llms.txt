@@ -379,3 +379,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-ze
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-live-impact-idea-gecertificeerd-7cad5.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-kan-ik-reviews-live-impact-lezen.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-personeelsfeest-begin-tot-eind-regelen.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/kerstborrel-organiseren.md
