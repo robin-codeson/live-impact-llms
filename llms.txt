@@ -382,3 +382,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-li
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/kerstborrel-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-coordinator.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bbq-evenement-bedrijf-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/beachparty-bedrijf-organiseren.md
