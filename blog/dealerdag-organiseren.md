@@ -1,20 +1,10 @@
-[< Back](dealerdag-organiseren.html#)[< Work](dealerdag-organiseren.html#)
+[< Back](#)[< Work](#)
 
-[Next >](dealerdag-organiseren.html#)
+[Next >](#)
 
 ![Gasten lachen en netwerken bij een zakelijke awards-ceremony](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b849_69c06403d27b527bc17b0f26_SAP%2520Partner%2520Awards%25202025%2520x%2520Live%2520Impact%2520Eventmarketing%2520-%2520Gasten%2520lachen%2520mannen.jpeg)
 
 # Dealerdagen: meer dan een productpresentatie met bitterballen
-
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3180ae4de799a3fb37286_6981fead419741e633f74976_Robin.webp)
-
-Geschreven door
-
-Robin
-
-Publicatiedatum
-
-22 maart 2026
 
 Je dealers, distributeurs en partners zijn de verlengde arm van je bedrijf. Zij verkopen jouw product, vertegenwoordigen jouw merk en bepalen mede hoe de eindklant je ervaart. Toch krijgen ze vaak minder aandacht dan je eigen medewerkers. Een jaarlijkse nieuwsbrief, een prijslijst-update en misschien een bezoekje van de accountmanager. Dat is het.
 
@@ -22,7 +12,7 @@ Dealerdagen organiseren verandert die dynamiek. Een goede dealerdag is het momen
 
 Het verschil tussen een saaie productpresentatie en een dealerdag die impact maakt? Beleving. Wanneer je partners niet alleen informatie krijgen maar ook iets voelen — trots, energie, verbondenheid — dan nemen ze dat mee naar hun eigen klanten. En dát is waar het rendement zit.
 
-In dit artikel lees je hoe je dealerdagen organiseert die meer doen dan informeren. Die je partnerrelaties versterken, je merk laden en je dealernetwerk activeren.
+Zo organiseer je dealerdagen die meer doen dan informeren — die partnerrelaties versterken, je merk laden en je dealernetwerk activeren.
 
 ## Waarom dealerdagen strategisch onmisbaar zijn
 
@@ -32,7 +22,7 @@ Dealerdagen organiseren is de meest efficiënte manier om je hele netwerk tegeli
 
 Want dat is wat dealerdagen uniek maakt: het persoonlijke contact. Je accountmanagers ontmoeten dealers face-to-face. Dealers ontmoeten elkaar en wisselen ervaringen uit. Je directie laat zien dat het partnerkanaal prioriteit heeft. Die signalen zijn krachtiger dan welke e-mail ook.
 
-Strategisch gezien dienen dealerdagen drie doelen: **informeren** (productupdates, roadmap, marktinzichten), **activeren** (verkooptraining, motivatie, doelstellingen) en **binden** (waardering tonen, netwerken faciliteren, loyaliteit versterken). De beste dealerdagen raken alle drie.
+Strategisch gezien dienen dealerdagen drie doelen: **informeren** (productupdates, roadmap, marktinzichten), **activeren** (verkooptraining, motivatie, doelstellingen) en **binden** (waardering tonen, netwerken regelen, loyaliteit versterken). De beste dealerdagen raken alle drie.
 
 Vraag jezelf af: wanneer heb je voor het laatst met je volledige dealernetwerk in één ruimte gezeten? Als het antwoord langer dan een jaar geleden is, is het tijd voor actie.
 
@@ -40,13 +30,13 @@ Vraag jezelf af: wanneer heb je voor het laatst met je volledige dealernetwerk i
 
 Een dealerdag die alleen bestaat uit presentaties, verliest zijn publiek rond slide 47. Dealers zijn ondernemers. Ze zijn praktisch ingesteld, hebben weinig geduld voor corporate praat en willen weten: what's in it for me?
 
-De kunst is om je programma zo op te bouwen dat het **informatief én inspirerend** is. Begin met een sterke opening die de toon zet. Niet meteen de cijfers, maar het grotere verhaal. Waar staat het merk? Waar gaan we naartoe? Waarom zijn onze partners daarin cruciaal?
+De kunst is om je programma zo op te bouwen dat het **informatief én inspirerend** is. Begin met een sterke opening die de toon zet. Niet meteen de cijfers, maar het grotere verhaal. Waar staat het merk? Waar gaan we naartoe? Waarom zijn onze partners daarin bepalend?
 
 Wissel presentaties af met interactieve elementen. Een productdemonstratie waar dealers zelf mee aan de slag gaan. Een paneldiscussie met topperformers uit het netwerk. Een workshop over verkooptechnieken of klantbenadering. Geef dealers het gevoel dat ze niet alleen komen luisteren, maar ook iets meenemen.
 
 En vergeet het netwerkgedeelte niet. Plan bewust momenten in waarop dealers met elkaar en met jouw team kunnen praten. Lunch, borrel, een informeel moment tussendoor. Vaak ontstaan de waardevolste gesprekken níet tijdens de presentatie, maar erna — bij een kop koffie of een biertje.
 
-Sluit af met een energiek moment. Een spreker die inspireert. Een gezamenlijke activiteit. Of een diner dat de dag een feestelijk einde geeft. Dealers die met een goed gevoel naar huis gaan, zijn dealers die de volgende ochtend met extra motivatie hun werk doen. [Lees meer over entertainment kiezen voor je event →](evenement-entertainment-boeken.html)
+Sluit af met een energiek moment. Een spreker die inspireert. Een gezamenlijke activiteit. Of een diner dat de dag een feestelijk einde geeft. Dealers die met een goed gevoel naar huis gaan, zijn dealers die de volgende ochtend met extra motivatie hun werk doen.
 
 ## Locatie en format: van boardroom tot belevingswereld
 
@@ -54,7 +44,7 @@ De locatie van je dealerdag zegt iets over hoe je naar je partners kijkt. Een ve
 
 Dat betekent niet dat elke dealerdag in een kasteel moet plaatsvinden. Maar kies bewust. Een locatie die past bij je merk, die indruk maakt en die je kunt inrichten als jouw wereld. Denk aan een industrieel pand dat je transformeert met je merkidentiteit. Of een theater waar je presentatie aanvoelt als een show. Of een evenementlocatie waar je product centraal staat in een experience-opzet.
 
-Het format hangt af van je doelen en je netwerk. Een compact netwerk van 30 dealers vraagt om een intiem, persoonlijk programma. Een netwerk van 300 dealers vereist een grotere productie met parallelle sessies en meer structuur. [Tips voor het vinden van de juiste eventlocatie →](evenementenlocatie-vinden.html)
+Het format hangt af van je doelen en je netwerk. Een compact netwerk van 30 dealers vraagt om een intiem, persoonlijk programma. Een netwerk van 300 dealers vraagt om een grotere productie met parallelle sessies en meer structuur.
 
 Overweeg ook het format van meerdere dagen. Een tweedaagse dealerbijeenkomst — met een inhoudelijk dagprogramma en een informeel avondprogramma — geeft meer ruimte voor verdieping en relatieopbouw. De investering is hoger, maar het rendement ook. Partners die samen een avond doorbrengen, voelen zich meer verbonden dan na een dagprogramma met een broodje kaas.
 
@@ -74,36 +64,79 @@ Vergeet niet: de kosten van een dealerdag wegen niet op tegen de kosten van een 
 
 ## Een bureau voor je dealerdagen: wanneer en waarom?
 
-Dealerdagen worden vaak intern georganiseerd door marketing of sales. Dat kan — maar het risico is dat het programma te veel vanuit je eigen perspectief wordt opgebouwd. Te veel presentaties, te weinig beleving, te weinig aandacht voor wat de dealer nodig heeft.
+Marketing of sales organiseert een dealerdag meestal zelf. Dat kan, maar het risico is dat je het programma te veel vanuit je eigen perspectief opbouwt. Te veel presentaties, te weinig beleving, te weinig aandacht voor wat de dealer nodig heeft.
 
 Een evenementenbureau brengt een frisse blik. We stellen de vragen die intern niet altijd gesteld worden: wat willen je dealers écht horen? Hoe ervaren ze de relatie? Wat zou hen motiveren om meer te verkopen? Die antwoorden vormen de basis van een dealerdag die ráákt.
 
-Bij Live Impact organiseren we regelmatig dealerdagen, partnerdagen en distributeurbijeenkomsten. We kennen de dynamiek: de mix van zakelijk en persoonlijk, de balans tussen informeren en inspireren, de noodzaak om het netwerk te activeren zonder het te overvragen.
+Wij organiseren regelmatig dealerdagen, partnerdagen en distributeurbijeenkomsten. We kennen de dynamiek: de mix van zakelijk en persoonlijk, de balans tussen informeren en inspireren, de noodzaak om het netwerk te activeren zonder het te overvragen.
 
 We zorgen voor de volledige productie — van concept en programma tot locatie, catering, techniek en registratie. Zodat jouw sales- en marketingteam zich kan focussen op de inhoud en het contact met dealers. Niet op de logistiek.
 
 Het resultaat: een dealerdag die professioneel aanvoelt, emotioneel raakt en commercieel oplevert. Dat is de combinatie die werkt.
 
-## Klaar om je dealernetwerk te activeren?
+## Activeer je dealernetwerk
 
 Sterke dealerrelaties bouw je niet met een prijslijst en een kerstkaart. Je bouwt ze met aandacht, waardering en gezamenlijke beleving. Een goed georganiseerde dealerdag is het krachtigste middel dat je daarvoor hebt.
 
-Wil je sparren over de mogelijkheden? Of heb je al een datum in gedachten? Neem contact op. We denken graag mee — van concept tot uitvoering.
+Wil je sparren over de mogelijkheden? Of heb je al een datum in gedachten? Neem contact op.
 
-**Live Impact**
-T: +31 85 401 40 14
-E: hello@live-impact.nl
-W: www.live-impact.nl
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
 *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Kan Live Impact een dealer evenement voor ons organiseren?
+
+Ja, van strategisch concept tot uitvoering. Drie concepten op tafel binnen twee weken.
+
+Wij regelen locatie, programma, productie, catering, entertainment, transport en gastontvangst, in één team. Op de dag zelf ben jij vrij om met dealers te praten.
+
+**[Meer over dealer evenementen →](/blog/dealer-evenement-organiseren)**
+
+Hoe meet je het effect van een dealer evenement?
+
+Drie tijdsschalen: directe feedback (48u), verkoop-effect (3 maanden), loyaliteit (1 jaar).
+
+Het effect is meestal pas na maanden zichtbaar, maar zonder meten weet je nooit of het rendeerde.
+
+**[Meer over dealer evenementen →](/blog/dealer-evenement-organiseren)**
+
+Hoe krijg je dealers naar je evenement toe?
+
+Drie dingen werken: concrete inhoudelijke belofte, exclusieve persoonlijke uitnodiging, bijzondere ervaring 's avonds.
+
+Combineer die drie en je opkomst wordt 80% in plaats van 40%.
+
+**[Meer over dealer evenementen →](/blog/dealer-evenement-organiseren)**
+
+Hoe vaak organiseer je een dealer evenement?
+
+Eens per jaar een groot dealer evenement, plus 2-4 kleinere regionale momenten.
+
+Te vaak is dodelijk, te weinig ook. Één hoogtepunt per jaar dat ze niet willen missen, plus kleine contactmomenten.
+
+**[Meer over dealer evenementen →](/blog/dealer-evenement-organiseren)**
+
+Wat kost een dealer evenement organiseren?
+
+Reken op 35.000 tot 150.000 euro, afhankelijk van groepsgrootte, locatie en duur.
+
+Dagprogramma 60 dealers: 35.000-70.000 euro. Tweedaags 100 dealers: 80.000-130.000 euro. Internationaal incentive: tot 250.000 euro.
+
+**[Meer over dealer evenementen →](/blog/dealer-evenement-organiseren)**
+
+Staat je vraag er niet bij?
+
+[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
