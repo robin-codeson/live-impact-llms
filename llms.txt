@@ -384,3 +384,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evene
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bbq-evenement-bedrijf-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/beachparty-bedrijf-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bedrijfsborrel-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/bedrijfsfeest-eigen-locatie-wkr.md
