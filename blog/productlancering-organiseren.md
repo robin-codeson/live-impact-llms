@@ -68,15 +68,15 @@ Grote lanceringen van 150 gasten of meer, met volledige technische productie, ee
 
 Investeer proportioneel: de reveal en de productervaring zijn de twee momenten die het langste in het geheugen zitten. Bespaar liever op de catering dan op die twee. Een matige lunch vergeten mensen. Een matige reveal vergeten ze ook, maar om de verkeerde reden.
 
-## Klaar om jullie product te lanceren?
+## Zo lanceer je jullie product onvergetelijk
 
 Een productlancering is een eenmalig moment. Het moet kloppen. Niet alleen in uitvoering, maar in de energie die het schept — bij de pers, bij klanten, bij je eigen team.
 
 Wij bouwen lanceringen van het eerste conceptgesprek tot de reveal en alles daarna. Locatie, programma, reveal-mechanisme, technische productie, media-begeleiding en nawerking in één hand.
 
-Plan een gesprek. Vertel ons over je product en we vertellen jou hoe we het op de kaart zetten. [Neem contact op →](/contact)
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-**Serieus Leuk.**
+*Serieus Leuk.*
 
 ## Lees ook
 
