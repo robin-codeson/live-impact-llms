@@ -20,11 +20,11 @@ Het tweede onderscheid dat mensen overslaan: een bedrijfsfeest is geen informele
 
 Het succes van een bedrijfsfeest staat of valt met de publieksmix. Want wie je uitnodigt, bepaalt wat je kunt doen. En wie je uitsluit, ook.
 
-**Alleen medewerkers.** Je kunt dieper gaan. Persoonlijker zijn. Refereren aan interne gebeurtenissen. De sfeer is informeel en vertrouwd. Dit is het format waarbij entertainment dat wat schurende kanten heeft — een comedian, een roast, een interactief spel — het beste werkt.
+Alleen medewerkers. Je kunt dieper gaan. Persoonlijker zijn. Refereren aan interne gebeurtenissen. De sfeer is informeel en vertrouwd. Dit is het format waarbij entertainment dat wat schurende kanten heeft — een comedian, een roast, een interactief spel — het beste werkt.
 
-**Medewerkers én externe relaties.** Je moet balanceren. Interne grappen werken niet meer. Maar een te formeel programma vervreemdt je medewerkers. De kunst: een thema en programma dat beide groepen verbindt zonder voor één van hen overweldigend te zijn. Zorg dat de speech-content geen inside-informatie bevat. Zorg dat entertainment universeel aanspreekt. Zorg dat de catering bij het moment past — want eten is ook een signaal.
+Medewerkers én externe relaties. Je moet balanceren. Interne grappen werken niet meer. Maar een te formeel programma vervreemdt je medewerkers. De kunst: een thema en programma dat beide groepen verbindt zonder voor één van hen overweldigend te zijn. Zorg dat de speech-content geen inside-informatie bevat. Zorg dat entertainment universeel aanspreekt. Zorg dat de catering bij het moment past — want eten is ook een signaal.
 
-**Medewerkers, klanten, leveranciers én pers.** Je geeft eigenlijk een merkevenement in feestformat. Elk element van de avond communiceert iets over wie je bent als bedrijf. De locatiekeuze, de aankleding, de bandbezetting, de toespraak — alles wordt gelezen. Definieer de publieksmix vroeg in het proces. Dan volgt de rest logisch.
+Medewerkers, klanten, leveranciers én pers. Je geeft eigenlijk een merkevenement in feestformat. Elk element van de avond communiceert iets over wie je bent als bedrijf. De locatiekeuze, de aankleding, de bandbezetting, de toespraak — alles wordt gelezen. Definieer de publieksmix vroeg in het proces. Dan volgt de rest logisch.
 
 Praktische vraag om vroeg te stellen: zijn er doelgroepen in de zaal die niet met elkaar praten tenzij het programma ze bij elkaar brengt? Dan heb je een programma-element nodig dat die verbinding actief faciliteert.
 
@@ -38,21 +38,21 @@ Let op schaal. Grotere locaties vragen grotere productie. Licht en geluid die ni
 
 Checklist voor de locatiekeuze: capaciteit voor alle genodigden inclusief dansruimte, cateringzone en eventuele stoelplaatsen. Goede akoestiek of akoestische aanpassingsmogelijkheden. De vereiste vergunningen voor het geplande tijdstip en decibelniveau. Bereikbaarheid per OV en auto. Voldoende parkeergelegenheid of een shuttle-arrangement.
 
-Boek vroeg. Grote locaties voor bedrijfsfeesten in oktober, november en december — het populairste seizoen — zijn in juni of juli al volgeboekt. Wie in september belt, pakt wat overblijft. Meer over locatiescouting lees je in ons artikel over [locatie scouten voor evenementen →](/blog/locatie-scouting-voor-evenementen)
+Boek vroeg. Grote locaties voor bedrijfsfeesten in oktober, november en december — het populairste seizoen — zijn in juni of juli al volgeboekt. Wie in september belt, pakt wat overblijft.
 
 ## Programma: van ontvangst tot afterparty
 
 Een bedrijfsfeest heeft altijd een programmaopbouw — ook als het 'gewoon een feest' is. Juist als het 'gewoon een feest' is. Een avond zonder structuur is een avond zonder richting. En een avond zonder richting eindigt te vroeg of te laat of met het verkeerde gevoel.
 
-**Ontvangst met muziek en catering (45-60 minuten).** Gasten landen. Drinks, lichte hapjes, lichte muziek. Geen speeches. Geen formeel programma. Mensen moeten de kans krijgen om bij te praten en te acclimatiseren.
+Ontvangst met muziek en catering (45-60 minuten). Gasten landen. Drinks, lichte hapjes, lichte muziek. Geen speeches. Geen formeel programma. Mensen moeten de kans krijgen om bij te praten en te acclimatiseren.
 
-**Opening (15-20 minuten).** Een speech van de directeur of een presentator die de avond lanceert. Krachtig, persoonlijk, kort. Drie minuten die gemeend klinken is beter dan tien minuten met slides. Gebruik dit moment om de aanleiding te benoemen en het gevoel van de avond neer te zetten.
+Opening (15-20 minuten). Een speech van de directeur of een presentator die de avond lanceert. Krachtig, persoonlijk, kort. Drie minuten die gemeend klinken is beter dan tien minuten met slides. Gebruik dit moment om de aanleiding te benoemen en het gevoel van de avond neer te zetten.
 
-**Diner of bites.** Afhankelijk van het format: een zitdiner voor een galavond, staande bites voor een meer informeel feest, een streetfood-concept voor een festivalformat. Catering is geen bijzaak — het is de helft van de beleving.
+Diner of bites. Afhankelijk van het format: een zitdiner voor een galavond, staande bites voor een meer informeel feest, een streetfood-concept voor een festivalformat. Catering is geen bijzaak — het is de helft van de beleving.
 
-**Entertainment.** Band, dj, een bijzondere act, een combinatie. Dit is het moment dat mensen onthouden en de volgende dag aan collega's beschrijven. Investeer hier proportioneel in. Goedkoop entertainment op een duur bedrijfsfeest is een mismatch die iedereen ziet.
+Entertainment. Band, dj, een bijzondere act, een combinatie. Dit is het moment dat mensen onthouden en de volgende dag aan collega's beschrijven. Investeer hier proportioneel in. Goedkoop entertainment op een duur bedrijfsfeest is een mismatch die iedereen ziet.
 
-**Afterparty.** Voor wie wil blijven. De dj draait door, de bar blijft open. Geef mensen de vrijheid om te kiezen. Niet iedereen hoeft te blijven — maar wie blijft, moet het gevoel hebben dat dit de beste plek is.
+Afterparty. Voor wie wil blijven. De dj draait door, de bar blijft open. Geef mensen de vrijheid om te kiezen. Niet iedereen hoeft te blijven — maar wie blijft, moet het gevoel hebben dat dit de beste plek is.
 
 Valkuil: een te lang formeel programmaonderdeel. Alles boven 45 minuten gestructureerd programma tijdens een feest is te veel. Mensen willen feestvieren. Help ze dat snel doen.
 
@@ -76,19 +76,17 @@ Een intern team kan veel. Maar de coördinatie van tientallen leveranciers, de c
 
 Wat er mis kan gaan als je het zelf doet zonder ervaring: een locatie die pas ter plekke tegenvalt, entertainment dat qua niveau niet past bij de avond, een catering die voor de helft van de gasten te vroeg op is, een speech die te lang duurt en de energie uit de zaal haalt. Elk van die dingen is vermijdbaar met de juiste begeleiding.
 
-Bij Live Impact nemen we een bedrijfsfeest volledig uit handen. Van het eerste conceptgesprek tot de evaluatie de week erna. We bouwen het creatieve concept, kiezen de locatie, regelen het entertainment, coördineren alle leveranciers en staan op de avond zelf aan het roer. Zodat jij als gastheer aanwezig kunt zijn voor je mensen — zonder te kijken of de catering al is opgesteld. [Lees ook: personeelsfeest organiseren →](/blog/personeelsfeest-organiseren)
+Bij Live Impact nemen we een bedrijfsfeest volledig uit handen. Van het eerste conceptgesprek tot de evaluatie de week erna. We bouwen het creatieve concept, kiezen de locatie, regelen het entertainment, coördineren alle leveranciers en staan op de avond zelf aan het roer. Zodat jij als gastheer aanwezig kunt zijn voor je mensen — zonder te kijken of de catering al is opgesteld.
 
-## Klaar om je bedrijfsfeest te organiseren?
+## Zo organiseer je een bedrijfsfeest dat indruk maakt
 
 Een bedrijfsfeest dat echt indruk maakt, vergt meer dan een locatie en een band. Het vraagt een concept, een verhaal, een publieksmix die klopt en de uitvoering die dat alles waarmaakt.
 
-Het begint met één vraag: wat wil je dat mensen de volgende ochtend zeggen? Die vraag stellen wij altijd als eerste. Daarna bouwen we de avond die dat gevoel realiseert.
+Het begint met één vraag: wat wil je dat mensen de volgende ochtend zeggen? Die vraag stellen we altijd als eerste. Daarna bouwen we de avond die dat gevoel realiseert.
 
-Wij regelen het. Van het eerste idee tot de laatste afterparty.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-Vertel ons over je feest via [onze briefingpagina](/briefing), of neem direct contact op via [de contactpagina](/contact).
-
-**Serieus Leuk.**
+*Serieus Leuk.*
 
 ## Lees ook
 
