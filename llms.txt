@@ -394,3 +394,4 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-is
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-kost-een-social-wall-evenement.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/social-wall-inzetten-event.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/beste-social-wall-software-zakelijk-event.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-social-wall-evenement.md
