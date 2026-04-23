@@ -401,3 +401,9 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/perso
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-event-planner-rotterdam.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/event-planner-versus-evenementenbureau.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/rotterdamse-locaties-zakelijke-events.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/planning-duur-zakelijk-event-rotterdam.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-event-planner-rotterdam.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsjubileum-vieren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileum-vieren-versus-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/bedrijfsjubileum-betekenisvol-maken.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/gastenlijst-bedrijfsjubileum.md
