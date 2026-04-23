@@ -407,3 +407,9 @@ https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileum-vieren-versus-organiseren.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/bedrijfsjubileum-betekenisvol-maken.md
 https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/gastenlijst-bedrijfsjubileum.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-bedrijfsjubileum-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-personeelsfeest-laten-organiseren.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/personeelsfeest-laten-organiseren-versus-zelf.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wat-zelf-doen-bij-uitbesteed-personeelsfeest.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereidingstijd-uitbesteed-personeelsfeest.md
+https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/live-impact-personeelsfeest-uitbesteden.md
