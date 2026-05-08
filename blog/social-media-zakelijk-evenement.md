@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/social-media-zakelijk-evenement"
 title: "Waarom social media onmisbaar is bij zakelijke evenementen"
 description: "Ontdek hoe je social media strategisch inzet voor, tijdens en na je zakelijke evenement. Praktische tips voor meer bereik, betrokkenheid en registraties."
 section: "Blog"
-last_updated: "2026-05-08T16:52:35+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
