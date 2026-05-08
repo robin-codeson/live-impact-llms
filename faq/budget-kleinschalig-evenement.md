@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/budget-kleinschalig-evenement"
 title: "Hoe budget je een kleinschalig evenement?"
 description: "Een kleinschalig evenement (10 tot 50 personen) heeft vaak een hoger budget per persoon dan een groot evenement. Reken op 75 tot 250 euro per persoon, afhankelijk van locatie, catering en programma. Verdeel het budget in vijf posten. Locatie: 25 tot 35 procent. Catering: 30 tot 40 procent. Programma"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:35+00:00"
+last_updated: "2026-05-08T21:22:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
