@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-leveranciersdag-organiseren"
 title: "Wat kost een leveranciersdag organiseren?"
 description: "Een familiedag, open dag of leveranciersdag kost ongeveer €200 tot €300+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €175 tot €275+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €150 tot €250+ per persoon. Voor meer dan 2.000 gasten reke"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:25+00:00"
+last_updated: "2026-05-08T21:23:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
