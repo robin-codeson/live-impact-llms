@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succesvol-zakelijk-evenement-organise
 title: "Hoe maak ik mijn zakelijk evenement succesvol?"
 description: "Begin met het doel, niet met de locatie. Definieer eerst wat succes betekent: gemotiveerde medewerkers, klantaanbevelingen of een team dat de strategie omarmt. Pas als het doel helder is, kies je het format, de locatie en het programma. Evenementen die starten bij de locatie missen bijna altijd hun "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:32+00:00"
+last_updated: "2026-05-08T21:24:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
