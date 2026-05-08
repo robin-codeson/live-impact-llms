@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/belang-keurmerk-evenementenbureau-keu
 title: "Waarom is een keurmerk belangrijk bij de keuze van een evenementenbureau?"
 description: "Een keurmerk is belangrijk omdat het onafhankelijke borging geeft. Evenementen zijn ingewikkeld en veel keuzes berusten op vertrouwen. Zonder standaard is het moeilijk om serieuze bureaus van cowboys te onderscheiden. Het IDEA-keurmerk betekent financiële veiligheid: je betaalde bedragen zijn besche"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:26+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
