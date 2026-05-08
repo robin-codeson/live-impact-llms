@@ -1,0 +1,25 @@
+# Live Impact — llms-full.txt
+
+_Bijgewerkt: 2026-05-08T15:33:10+00:00_
+
+Alle Live Impact-pagina's hieronder geconcateneerd, voor AI-tools die in één request volledige context willen ingesten.
+
+---
+
+
+
+# Page: Welke tool gebruik ik voor aanmeldingen bij een zakelijk evenement?
+<!-- canonical: https://live-impact.nl/faq/aanmeldtool-zakelijk-evenement -->
+<!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aanmeldtool-zakelijk-evenement.md -->
+<!-- section: FAQ -->
+<!-- last_updated: 2026-05-08T15:33:07+00:00 -->
+
+# Welke tool gebruik ik voor aanmeldingen bij een zakelijk evenement?
+
+Voor kleine groepen (tot 50 personen) volstaan Google Forms of Microsoft Forms. Voor grotere evenementen zijn platforms als Eventbrite, Momice of Tigris beter geschikt. Zij bieden automatische bevestigingen, herinneringen en deelnemerslijsten in één systeem.
+
+Meer over aanmeldingsmanagement in ons artikel over [uitnodigingsstrategie voor zakelijke evenementen](https://www.live-impact.nl/blog/uitnodigingsstrategie-evenement).
+
+[Meer over zakelijke evenementen](/blog/zakelijk-evenement-organiseren)
+
+---
