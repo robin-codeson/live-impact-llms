@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/originele-ideeen-jubileumfeest"
 title: "Wat zijn originele ideeën voor een jubileumfeest?"
 description: "Originele jubileumfeestideeën gaan verder dan een band en een buffet. Denk aan een tijdreisconcept waarbij elke zaal een decennium uit je bedrijfsgeschiedenis verbeeldt. Of een omgekeerd jubileum waar medewerkers het bedrijf verrassen met zelfgemaakte video's en sketches. Andere opties: een silent d"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:34+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
