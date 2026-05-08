@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/booth-design"
 title: "Hoe design je een boothstand die aandacht trekt?"
 description: "Een aantrekkelijke boothstand combineert duidelijkheid, beweging en interactie. Werk met hoogte: een element van 3 tot 4 meter trekt aandacht over zaalbreedte. Open de stand naar minimaal 3 zijden zodat bezoekers makkelijk binnenlopen. Vermijd een toonbank-opzet die mensen tegenhoudt. Plaats de prod"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:21+00:00"
+last_updated: "2026-05-08T21:22:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
