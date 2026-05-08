@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/avb-dekt-evenement"
 title: "Dekt mijn bedrijfsaansprakelijkheidsverzekering ook mijn evenement?"
 description: "Dat hangt af van je polis. Veel standaard bedrijfsaansprakelijkheidsverzekeringen (AVB) dekken activiteiten op de eigen locatie of in de normale bedrijfsvoering. Bij externe locaties, externe bezoekers of bijzondere activiteiten zijn er vaak uitsluitingen. Controleer dit altijd expliciet bij je verz"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:05+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
