@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-concept-thema-evenement-voor
 title: "Wat is het verschil tussen een concept en een thema voor een evenement?"
 description: "Een thema is de jas. Een concept is het skelet. Een thema is bijvoorbeeld Gatsby, Casino Royale of Space Night: een titel, een kleur, een sfeer. Een concept heeft een boodschap, een mechanisme en een rode draad die bij jouw bedrijf en jouw moment past. Als je de verkeerde voorbeelden bekijkt ter ins"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:45+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
