@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-incentive-reis-persoon"
 title: "Wat kost een incentive reis per persoon?"
 description: "Een incentive-reis kost ongeveer €1.500 tot €2.500+ per persoon voor een Europese reis van twee tot vier dagen, inclusief vluchten, transfers, accommodatie, programma en catering. Stedentrips: ongeveer €1.500 tot €2.500+ per persoon. Avontuurlijke bestemmingen: ongeveer €3.000 tot €4.500+ per persoo"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:19+00:00"
+last_updated: "2026-05-08T21:23:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
