@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-trek-je-bezoekers-naar-beursstand
 title: "Hoe trek je bezoekers naar je beursstand?"
 description: "Bezoekers trek je naar je stand met een combinatie van voorbereiding en activatie op de dag zelf. Start weken voor de beurs met gerichte uitnodigingen aan je doelgroep. Geef een concrete reden om langs te komen: een exclusieve productdemo, een spreker of een interactieve ervaring. Op de beurs zelf w"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:54+00:00"
+last_updated: "2026-05-08T21:23:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
