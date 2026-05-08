@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/effectieve-evenement-slogan"
 title: "Wat maakt een evenementslogan effectief?"
 description: "Een effectieve evenementslogan is kort, actief en voelbaar. Hij beschrijft niet wat er gebeurt, maar roept op wat deelnemers voelen. Dat maakt het verschil tussen 'Een dag vol inspiratie' en iets dat echt blijft hangen. Een goede slogan is uniek en niet inwisselbaar met die van een concurrent. Hij s"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:50+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
