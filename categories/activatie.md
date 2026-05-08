@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/activatie"
 title: "Wat merkactivatie is en waarom het werkt"
 description: "Merkactivatie organiseren die indruk maakt? Zo breng je je merk tot leven, voorbij alleen zichtbaarheid."
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:17+00:00"
+last_updated: "2026-05-08T21:22:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
