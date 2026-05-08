@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/populaire-culturele-zakelijke-eveneme
 title: "Welke culturele evenementen zijn populair als zakelijk evenement?"
 description: "Cultuur als basis voor een zakelijk evenement werkt goed voor bedrijven die willen verrassen. Een inhoudelijk gesprek combineren met kunst versterkt de beleving. Populaire keuzes zijn kleinschalige muziekoptredens (jazz, akoestische sets), comedyshows, live painting, improvisatietheater en kunsttour"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:03+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
