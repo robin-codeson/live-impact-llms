@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-congrestival-organiseren"
 title: "Hoeveel kost het om een congrestival te organiseren?"
 description: "Een congrestival is duurder dan een standaard congres door de hogere productiewaarde. Locatie kost 30-40% van het budget. AV-techniek en productie nemen 20-25%. Catering en foodtrucks zijn goed voor 15-20%. Entertainment en aankleding kosten 10-15%. Communicatie maakt 5-10% van de begroting uit. Voo"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:59+00:00"
+last_updated: "2026-05-08T21:23:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
