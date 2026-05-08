@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-fouten-voorkomen-evenemen
 title: "Hoe helpt Live Impact fouten bij evenementen te voorkomen?"
 description: "Live Impact voorkomt fouten door volledig eventbeheer van concept tot evaluatie. We werken met zorgvuldig samengestelde controlelijsten, ervaren teams en gestandaardiseerde processen. We onderhouden het contact met alle partners en volgen budgetten live. We hebben reserveplannen voor kritieke onderd"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:16+00:00"
+last_updated: "2026-05-08T21:24:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
