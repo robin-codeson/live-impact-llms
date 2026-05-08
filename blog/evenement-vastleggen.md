@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-vastleggen"
 title: "Waarom vastleggen meer is dan een fotograaf boeken"
 description: "Evenement vastleggen met foto, video en aftermovie? Lees hoe je registratie strategisch inzet voor intern draagvlak en volgend jaar meer budget."
 section: "Blog"
-last_updated: "2026-05-08T16:50:50+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
