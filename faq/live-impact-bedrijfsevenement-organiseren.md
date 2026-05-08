@@ -1,12 +1,17 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/faq/live-impact-bedrijfsevenement-organiseren"
+title: "Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?"
+description: "Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering, entertainment en productie. Of je nu een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij de"
+section: "FAQ"
+last_updated: "2026-05-08T17:07:17+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
 
 Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
 
-Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij denken mee. We stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
 
 Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
 
