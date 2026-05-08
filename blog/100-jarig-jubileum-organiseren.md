@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/100-jarig-jubileum-organiseren"
 title: "Een eeuwfeest: waarom 100 jaar alles anders maakt"
 description: "Een 100-jarig jubileum organiseren? Leer hoe je een eeuwfeest vertaalt naar een jubileumjaar met meerdere evenementen, media-aandacht en blijvende impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:12+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
