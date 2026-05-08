@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/open-dag"
 title: "Open dag organiseren: van bezoeker naar ambassadeur"
 description: "Open dag organiseren die bezoekers overtuigt en je bedrijf laat zien wie het echt is? Lees alles over concept, logistiek, communicatie en budget."
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:22+00:00"
+last_updated: "2026-05-08T21:22:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
