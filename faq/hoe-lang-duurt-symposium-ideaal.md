@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-symposium-ideaal"
 title: "Hoe lang duurt een symposium ideaal?"
 description: "De meeste symposiums duren een halve dag (3 tot 4 uur) of een hele dag. Een hele dag duurt 6 tot 8 uur, inclusief pauzes en netwerkmomenten. Een halve dag werkt goed als je een gefocust thema hebt met 2 tot 3 sprekers. Een hele dag biedt ruimte voor verdieping via breakout-sessies en workshops. Houd"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:55+00:00"
+last_updated: "2026-05-08T21:23:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
