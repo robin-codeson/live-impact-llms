@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-amsterdam"
 title: "Wat kost een zakelijk evenement organiseren in Amsterdam?"
 description: "Amsterdam is de duurste evenementenstad van Nederland. Reken op €150 tot €400 per persoon voor een volledige dag inclusief locatie, catering en entertainment. Een halfdag kost €100 tot €200 per persoon. Exclusieve panden in het centrum liggen nog hoger. Wil je besparen? Kies Amsterdam Noord of Oost:"
 section: "FAQ"
-last_updated: "2026-05-08T17:05:14+00:00"
+last_updated: "2026-05-08T21:23:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
