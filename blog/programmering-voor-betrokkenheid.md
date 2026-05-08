@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/programmering-voor-betrokkenheid"
 title: ""
 description: "Eventprogramma voor betrokkenheid? Zo programmeer je een dag waarbij deelnemers meer zijn dan publiek."
 section: "Blog"
-last_updated: "2026-05-08T16:52:22+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
