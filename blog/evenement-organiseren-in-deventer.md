@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-deventer"
 title: "Deventer: Hanzestad met een onvergetelijk evenementenkarakter"
 description: "Evenement organiseren in Deventer? Hanzepanden, IJssel-locaties. Geschiedenis die indruk maakt."
 section: "Blog"
-last_updated: "2026-05-08T16:50:27+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
