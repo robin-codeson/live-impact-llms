@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-sittard-geleen-maa
 title: "Wat is het verschil tussen een evenement in Sittard-Geleen en Maastricht?"
 description: "Maastricht is de culturele kroon van Limburg: Bourgondisch, historisch en exclusief. Sittard-Geleen is nuchterder, pragmatischer en industrieel van karakter, als de thuisbasis van SABIC, DSM en andere grote multinationals. Evenementen in Sittard-Geleen zijn gemiddeld voordeliger dan in Maastricht en"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:19+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
