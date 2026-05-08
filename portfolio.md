@@ -1,32 +1,37 @@
-[< Back](portfolio.html#)[< Work](portfolio.html#)
+---
+canonical_url: "https://live-impact.nl/portfolio"
+title: "Eventportfolio | Bedrijfsevenementen | Live Impact"
+description: "Van groot personeelsfeest tot kick-off — bekijk 25 jaar aan events van Live Impact. Elk project anders. Allemaal serieus leuk. Laat je inspireren."
+section: "Hoofdpagina's"
+last_updated: "2026-05-08T22:30:07+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](portfolio.html#)
-
-# Wij maken serieus leuke dingen.
+## Wij maken serieus leuke dingen.
 
 [### Wicked Wonderland
 
 Personeelsfeest
 
-![Wicked Wonderland — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb5f_69764f2817f8c645fe574ef9_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520Loods%2520Loco%2520Bladblazer%2520vrouw%2520haar.webp)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69e2e191dde697deb003e9c5_69e2e154058221a412832484_wicked-wonderland-1080.webp)
 
 Learn More
 
 Website
 
-See More](portfolio/wicked-wonderland.html)
+See More](/portfolio/wicked-wonderland)
 
 [### SAP Partner Awards
 
 Relatie-evenement
 
-![SAP Partner Awards — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb5c_69764d2925bf83d73fd23a9e_SAP%2520Partner%2520Awards%2520-%2520Laserprojectie%2520awardwinnaar%2520Aiden%2520op%2520Zalmaventoren%2520Rotterdam%2520.webp)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69e2e1933657fa7fc8e4c64e_69e2e155058221a4128325ba_sap-partner-awards-1080.webp)
 
 Learn More
 
 Website
 
-See More](portfolio/sap.html)
+See More](/portfolio/sap)
 
 [### Digital Playground
 
@@ -38,19 +43,19 @@ Learn More
 
 Website
 
-See More](portfolio/relatie-event-handpicked-digital-playground-festival.html)
+See More](/portfolio/relatie-evenement-handpicked-digital-playground-festival)
 
 [### Wereld Muziek Concours
 
 Opening bedrijf
 
-![Wereld Muziek Concours — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb56_697640a9cf55a6de7d2bbc9a_Opening%2520Wereld%2520Muziek%2520Concours%2520-%2520Finale%25201.webp)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69e35a5c2b9d1ecf27cc15c3_69e35a5ad8b88134412a7afb_wereld-muziek-concours-q65.webp)
 
 Learn More
 
 Website
 
-See More](portfolio/opening-wereld-muziek-concours.html)
+See More](/portfolio/opening-wereld-muziek-concours)
 
 [### Gala van de Vrouwenkwaaltjes
 
@@ -62,31 +67,31 @@ Learn More
 
 Website
 
-See More](portfolio/gala-van-de-vrouwenkwaaltjes.html)
+See More](/portfolio/gala-van-de-vrouwenkwaaltjes)
 
 [### Verjaardag XXL
 
 Relatie-evenement
 
-![Verjaardag XXL — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb66_69763ac1000bf7b563406ff0_Jubileumfeest%2520Huisman%2520Joop%2520en%2520Ernie%2520-%2520Eindshow%2520water.webp)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69e35a5d0687a0ac371f77a5_69e35a5b09b5cbbc7e80ff2b_verjaardag-xxl-q65.webp)
 
 Learn More
 
 Website
 
-See More](portfolio/relatie-diner-ceo.html)
+See More](/portfolio/relatie-diner-ceo)
 
-[### Redders in Nood
+[### The Green Party
 
 Jubileumfeest
 
-![90 jaar SGS — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727cdc_69762d8bae2b33ea3002c618_SGS%2520100%2520jaar%2520Jubileumfeest%2520-%2520Tableau%2520entree%25202.webp)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69e2e194c1c6bb84fb8c646a_69e2e158c1c6bb84fb8c2dfb_redders-in-nood-1080.webp)
 
 Learn More
 
 Website
 
-See More](portfolio/jubileumfeest-the-green-party.html)
+See More](/portfolio/jubileumfeest-the-green-party)
 
 [### Redders in Nood
 
@@ -98,7 +103,7 @@ Learn More
 
 Website
 
-See More](portfolio/teambuilding-redders-in-nood.html)
+See More](/portfolio/teambuilding-redders-in-nood)
 
 [### Mega Brugprojectie
 
@@ -110,7 +115,7 @@ Learn More
 
 Website
 
-See More](portfolio/activatie-mega-brugprojectie.html)
+See More](/portfolio/activatie-mega-brugprojectie)
 
 [### Spaarne Gasthuis
 
@@ -122,7 +127,7 @@ Learn More
 
 Website
 
-See More](portfolio/personeelsfeest-spaarne-gasthuis.html)
+See More](/portfolio/personeelsfeest-spaarne-gasthuis)
 
 [### Huisman 90 jaar
 
@@ -134,7 +139,7 @@ Learn More
 
 Website
 
-See More](portfolio/jubileumfeest-90-jaar.html)
+See More](/portfolio/jubileumfeest-90-jaar)
 
 [### 25 jaar TLN
 
@@ -146,7 +151,7 @@ Learn More
 
 Website
 
-See More](portfolio/jubileumcongres-25-jaar-tln.html)
+See More](/portfolio/jubileumcongres-25-jaar-tln)
 
 [### 70 jaar Joanknecht
 
@@ -158,7 +163,7 @@ Learn More
 
 Website
 
-See More](portfolio/jubileum-70-jaar-joanknecht.html)
+See More](/portfolio/jubileum-70-jaar-joanknecht)
 
 [### Opening 1931
 
@@ -170,7 +175,7 @@ Learn More
 
 Website
 
-See More](portfolio/opening-congrescentrum-1931.html)
+See More](/portfolio/opening-congrescentrum-1931)
 
 [### Centrum Kindermishandeling
 
@@ -182,19 +187,19 @@ Learn More
 
 Website
 
-See More](portfolio/opening-centrum-kindermishandeling.html)
+See More](/portfolio/opening-centrum-kindermishandeling)
 
 [### 15 jaar MUMC+
 
 Jubileumfeest
 
-![15 jaar MUMC+ — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce97_VIP-Entree-borden-close-2023-06-30MRF-2297-scaled.webp)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69e2e196bd680c0597061911_69e2e158058221a412832772_mumc-15jaar-1080.webp)
 
 Learn More
 
 Website
 
-See More](portfolio/jubileumfeest-15-jaar.html)
+See More](/portfolio/jubileumfeest-15-jaar)
 
 [### 100 jaar Hendriks Bouw
 
@@ -206,7 +211,7 @@ Learn More
 
 Website
 
-See More](portfolio/jubileum-100-jaar-hendriks-bouw.html)
+See More](/portfolio/jubileum-100-jaar-hendriks-bouw)
 
 [### Kanker, de Musical
 
@@ -218,7 +223,7 @@ Learn More
 
 Website
 
-See More](portfolio/kanker-de-musical.html)
+See More](/portfolio/kanker-de-musical)
 
 [### Villa Vitalis
 
@@ -230,7 +235,7 @@ Learn More
 
 Website
 
-See More](portfolio/bejaardenrestaurant-villa-vitalis.html)
+See More](/portfolio/bejaardenrestaurant-villa-vitalis)
 
 [### Offshore Experience
 
@@ -242,7 +247,7 @@ Learn More
 
 Website
 
-See More](portfolio/familiedag-offshore-experience.html)
+See More](/portfolio/familiedag-offshore-experience)
 
 [### 100 jaar Heijmans
 
@@ -254,7 +259,7 @@ Learn More
 
 Website
 
-See More](portfolio/jubileum-100-jaar-heijmans.html)
+See More](/portfolio/jubileum-100-jaar-heijmans)
 
 [### Boskalis Beach Cleanup
 
@@ -266,7 +271,7 @@ Learn More
 
 Website
 
-See More](portfolio/familiedag-boskalis-beach-cleanup.html)
+See More](/portfolio/familiedag-boskalis-beach-cleanup)
 
 [### AFAS Loveboat
 
@@ -278,7 +283,7 @@ Learn More
 
 Website
 
-See More](portfolio/personeelsfeest-afas-loveboat.html)
+See More](/portfolio/personeelsfeest-afas-loveboat)
 
 [### Alrijne Ziekenhuis
 
@@ -290,7 +295,7 @@ Learn More
 
 Website
 
-See More](portfolio/jubileumfestival-alrijne-ziekenhuis.html)
+See More](/portfolio/jubileumfestival-alrijne-ziekenhuis)
 
 [### Montèl City Tour
 
@@ -302,7 +307,7 @@ Learn More
 
 Website
 
-See More](portfolio/activatie-mont-l-city-tour.html)
+See More](/portfolio/activatie-mont-l-city-tour)
 
 [### ABP Rendez-vous
 
@@ -314,7 +319,7 @@ Learn More
 
 Website
 
-See More](portfolio/congres-abp-rendez-vous.html)
+See More](/portfolio/congres-abp-rendez-vous)
 
 [### #team Menzis
 
@@ -326,7 +331,7 @@ Learn More
 
 Website
 
-See More](portfolio/online-kick-off-menzis.html)
+See More](/portfolio/online-kick-off-menzis)
 
 [### Heijmans Familie Festival
 
@@ -338,7 +343,7 @@ Learn More
 
 Website
 
-See More](portfolio/heijmans-familie-festival.html)
+See More](/portfolio/heijmans-familie-festival)
 
 [### 25 jaar HVBM
 
@@ -350,7 +355,7 @@ Learn More
 
 Website
 
-See More](portfolio/25-jaar-hvbm.html)
+See More](/portfolio/25-jaar-hvbm)
 
 [### 25 jaar Amphia
 
@@ -362,7 +367,7 @@ Learn More
 
 Website
 
-See More](portfolio/25-jaar-amphia.html)
+See More](/portfolio/25-jaar-amphia)
 
 [### Opening pand Apicem
 
@@ -374,7 +379,7 @@ Learn More
 
 Website
 
-See More](portfolio/opening-pand-apicem.html)
+See More](/portfolio/opening-pand-apicem)
 
 [### Kemkens 175 jaar
 
@@ -386,4 +391,4 @@ Learn More
 
 Website
 
-See More](portfolio/kemkens-175-jaar.html)
+See More](/portfolio/kemkens-175-jaar)
