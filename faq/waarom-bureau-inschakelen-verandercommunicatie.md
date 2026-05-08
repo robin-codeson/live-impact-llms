@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-bureau-inschakelen-verandercom
 title: "Waarom een bureau inschakelen voor verandercommunicatie?"
 description: "Een extern bureau brengt objectiviteit en regie-ervaring. Die afstand is nodig om een veranderboodschap helder en eerlijk over te brengen."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:30+00:00"
+last_updated: "2026-05-08T21:24:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
