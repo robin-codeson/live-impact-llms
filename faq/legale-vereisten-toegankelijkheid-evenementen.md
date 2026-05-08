@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/legale-vereisten-toegankelijkheid-eve
 title: "Wat zijn de wettelijke vereisten voor toegankelijkheid op evenementen?"
 description: "In Nederland geldt de Wet gelijke behandeling op grond van handicap of chronische ziekte. Voor evenementen betekent dit dat je redelijke aanpassingen moet maken voor mensen met een beperking. Praktisch: zorg voor rolstoeltoegankelijke in- en uitgangen, toegankelijke toiletten en inductielussen voor "
 section: "FAQ"
-last_updated: "2026-05-08T17:06:58+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
