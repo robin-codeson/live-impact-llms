@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/duurzame-evenementen"
 title: "Duurzame evenementen: keuzes die werkelijk tellen"
 description: "Duurzame evenementen organiseren zonder in te leveren op beleving? Zo pak je het aan. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:49:59+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
