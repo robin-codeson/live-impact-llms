@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-emmen"
 title: "Emmen: de verrassende evenementenbestemming van het noordoosten"
 description: "Evenement organiseren in Emmen? Natuur, prehistorisch erfgoed en rust in Drenthe. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:30+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
