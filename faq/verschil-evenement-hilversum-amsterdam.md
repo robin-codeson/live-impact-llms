@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-hilversum-amsterda
 title: "Wat is het verschil tussen een evenement in Hilversum en Amsterdam?"
 description: "Amsterdam is de meest gevraagde evenementstad van Nederland: internationaal, grootstedelijk en met honderden locaties voor elke gelegenheid. Hilversum is het Mediastad-alternatief: kleiner, groener en creatief. De kracht van Hilversum zit in de unieke mix van mediawereld-flair en Gooise rust. Studio"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:13+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
