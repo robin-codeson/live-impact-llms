@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-nijmegen-arnhem"
 title: "Wat is het verschil tussen evenement organiseren in Nijmegen en Arnhem?"
 description: "<p>Nijmegen is de oudste stad van Nederland: rijker aan geschiedenis, levendiger en met een sterke universitaire cultuur. Arnhem is groener, zakelijker en meer verbonden met de Veluwe en buitennatuur. Nijmegen werkt beter voor evenementen met een culturele of historische invalshoek. Arnhem past bete"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:17+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
