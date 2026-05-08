@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kanaal-evenementuitnodiging"
 title: "Via welk kanaal verstuur je een evenementuitnodiging?"
 description: "De beste resultaten komen van een multichannel aanpak. E-mail werkt goed voor grote groepen maar heeft een open rate van slechts 20 tot 30 procent. Een fysieke uitnodiging (kaart, doosje) heeft 100 procent open rate en hogere conversie, reserveer dit voor VIP-gasten. Persoonlijk bellen levert 80 tot"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:19+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
