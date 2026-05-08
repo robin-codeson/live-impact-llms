@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/vitaliteitsevent-organiseren-ea290"
 title: "Wat een vitaliteitsevent anders maakt dan een gewone teamdag"
 description: "Een vitaliteitsevent organiseren voor jouw medewerkers? Van opzet en locatie tot budget en meting. Het complete stappenplan van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:53:07+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
