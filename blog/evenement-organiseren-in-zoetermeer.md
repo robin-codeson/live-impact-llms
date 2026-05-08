@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-zoetermeer"
 title: "Zoetermeer: de zakelijke groeistad van de Randstad"
 description: "Evenement organiseren in Zoetermeer? Zakelijke groeistad bij Den Haag met topfaciliteiten voor evenementen."
 section: "Blog"
-last_updated: "2026-05-08T16:50:49+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
