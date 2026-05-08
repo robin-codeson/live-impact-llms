@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-personeelsfeest-begin
 title: "Kan Live Impact mijn personeelsfeest van begin tot eind regelen?"
 description: "Ja. Live Impact verzorgt het complete traject. Dat begint bij de eerste briefing en conceptontwikkeling. Vervolgens regelen we locatiescouting, programmaopbouw en inkoop van entertainment. Op de dag zelf zorgen we voor technische productie en begeleiding. Jij geeft de briefing. Live Impact brengt he"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:15+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
