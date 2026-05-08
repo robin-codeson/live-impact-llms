@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/freelance-coordinator-of-bureau"
 title: "Is een freelance coördinator of een bureau beter?"
 description: "Dat hangt af van complexiteit en risico. Een freelance coördinator werkt per project, is flexibel en vaak ervaren. Dagtarief tussen €600 en €1.200. Nadeel: bij uitval of onverwachte problemen staat hij er alleen voor. Geen productieteam om op terug te vallen. Een bureau levert de coördinator in een "
 section: "FAQ"
-last_updated: "2026-05-08T16:59:56+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
