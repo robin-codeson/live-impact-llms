@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/activatie-organiseren"
 title: "Wat activatie onderscheidt van een presentatie"
 description: "Activatie organiseren die mensen écht laat handelen? Zo bouw je merkactivatie die werkt. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:49:17+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
