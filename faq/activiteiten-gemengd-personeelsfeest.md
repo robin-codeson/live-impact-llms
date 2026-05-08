@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activiteiten-gemengd-personeelsfeest"
 title: "Welke activiteiten zijn geschikt voor een gemengd personeelsfeest?"
 description: "Voor een gemengd team (leeftijd, functies, fysieke mogelijkheden) werken inclusieve formats het beste. Denk aan escape rooms, kookworkshops, creatieve ateliers, proeverijen of stads-games waarbij iedereen een rol heeft."
 section: "FAQ"
-last_updated: "2026-05-08T16:53:43+00:00"
+last_updated: "2026-05-08T21:22:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
