@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-s-hertogenb
 title: "Waarom 's-Hertogenbosch jouw evenement een extra dimensie geeft"
 description: "Evenement organiseren in 's-Hertogenbosch? Den Bosch overtuigt en jouw evenement wordt er beter van."
 section: "Blog"
-last_updated: "2026-05-08T16:50:40+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
