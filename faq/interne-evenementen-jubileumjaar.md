@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/interne-evenementen-jubileumjaar"
 title: "Welke interne evenementen passen in een jubileumjaar?"
 description: "Vier interne momenten werken goed in een jubileumjaar. Een kick-off bijeenkomst in januari om het jaar te openen en de boodschap te delen. Een medewerkersverhalen-project in mei of juni: interviews, video's of een intern boekje. Een familiedag in september waar partners en kinderen je bedrijf leren "
 section: "FAQ"
-last_updated: "2026-05-08T17:03:25+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
