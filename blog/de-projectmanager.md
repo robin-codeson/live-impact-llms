@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/de-projectmanager"
 title: "De spin in het web van je evenement"
 description: "Eventmanager of projectmanager inhuren? Wat hij maandenlang vooraf doet, intern vs extern, en wat het kost. Live Impact geeft eerlijk antwoord."
 section: "Blog"
-last_updated: "2026-05-08T16:49:55+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
