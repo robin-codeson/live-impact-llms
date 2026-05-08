@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-boeken-leeuwarden"
 title: "Hoe boek ik een evenementenlocatie in Leeuwarden?"
 description: "Geef ons een briefing. Dan stellen wij een locatievoorstel op. Wij kennen de locaties in Leeuwarden en selecteren op groepsgrootte, sfeer en budget. Vervolgens regelen wij receptie, catering en techniek. Het proces is eenvoudig: oriëntatie, locatiebezichtiging, offerte en bevestiging. Live Impact be"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:55+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
