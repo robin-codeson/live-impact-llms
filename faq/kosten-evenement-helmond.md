@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-helmond"
 title: "Wat kost een evenement organiseren in Helmond?"
 description: "Een zakelijk evenement in Helmond kost gemiddeld tussen €4.000 en €26.000. De Smart City-status en het Brainport-netwerk van Helmond hebben het evenementenaanbod sterk ontwikkeld. Een teamdag of borrel voor 50 personen start rond €3.000. Een congres of personeelsfeest voor 100 tot 300 personen kost "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:35+00:00"
+last_updated: "2026-05-08T21:23:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
