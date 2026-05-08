@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ov-tickets-centraal-inkopen-evenement
 title: "Mag ik OV-tickets centraal inkopen voor deelnemers aan een evenement?"
 description: "Ja, dat mag. Centraal ingekochte OV-tickets worden beschouwd als vergoeding in natura van de reiskosten. Fiscaal valt dit (als het om zakelijke reiskosten gaat) onder de gerichte vrijstelling, net als een geldelijke reiskostenvergoeding. Het voordeel van centraal inkopen: je hoeft geen individuele d"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:36+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
