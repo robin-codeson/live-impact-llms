@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/naming-fouten-vermijden-evenementen"
 title: "Welke naamgevingsfouten moet je vermijden bij evenementen?"
 description: "Veel bedrijven begaan naamgevingsfouten. Fout 1: te generiek. \"Annual Conference\" of \"Business Summit\" zijn saai en niet memorabel. Fout 2: te lang. \"Our Annual Customer Appreciation Evening\" bevat te veel woorden en gaat over het hoofd van de doelgroep. Fout 3: geen emotie. Namen zonder energie voe"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:38+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
