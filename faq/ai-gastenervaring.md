@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ai-gastenervaring"
 title: "Welke risico's brengt AI met zich mee bij zakelijke evenementen?"
 description: "AI bij zakelijke evenementen brengt vijf risico's mee. Eerst privacy en gegevensbescherming: AI-chatbots en gastentracking verzamelen gevoelige zakelijke gegevens. Zorg voor AVG-naleving en expliciete toestemming. Ten tweede vooringenomenheid in AI-modellen: AI kan onbewust bepaalde gastsegmenten be"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:57+00:00"
+last_updated: "2026-05-08T21:22:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
