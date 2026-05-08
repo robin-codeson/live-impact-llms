@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-amersfoort-utrecht
 title: "Wat is het verschil tussen evenement organiseren in Amersfoort en Utrecht?"
 description: "Utrecht is groter, drukker en de meest centrale stad van Nederland. Logisch voor grote evenementen met deelnemers uit het hele land. Amersfoort is rustiger, karaktervoller en goedkoper. Voor kleinere, exclusieve evenementen, teamretraites of boarddinners is Amersfoort de betere keuze. Live Impact ad"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:02+00:00"
+last_updated: "2026-05-08T21:24:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
