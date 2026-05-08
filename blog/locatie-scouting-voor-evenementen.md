@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/locatie-scouting-voor-evenementen"
 title: ""
 description: "Locatiescouting voor je evenement? Van eerste indruk tot contractcheck: zo vind je de perfecte plek."
 section: "Blog"
-last_updated: "2026-05-08T16:51:51+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
