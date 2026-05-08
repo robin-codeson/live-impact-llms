@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/valkuilen-cultuurverandering-evenemen
 title: "Wat zijn de valkuilen bij een evenement over cultuurverandering?"
 description: "Zes valkuilen komen steeds terug. Het evenement voelt verplicht en geforceerd; de betrokkenheid blijft laag. De directie maakt haar betrokkenheid niet zichtbaar. Onderliggende problemen blijven onbesproken, waardoor het evenement oppervlakkig aanvoelt. Er is geen opvolging, waardoor het momentum dir"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:12+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
