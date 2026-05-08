@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beurs-organiseren-planning-tijdlijn"
 title: "Hoe lang van tevoren plan je een beurs?"
 description: "Voor een beurs reken je op minimaal zes maanden voorbereiding. Complexere evenementen met meerdere exposantengroepen en een inhoudelijk programma: negen tot twaalf maanden. Exposanten moeten deelname intern goedgekeurd krijgen, stands ontwerpen en medewerkers vrijmaken. Geef ze dus minimaal vier maa"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:48+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
