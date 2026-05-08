@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/award-show-spannend-feestelijk-maken"
 title: "Hoe maak je een award show spannend en feestelijk?"
 description: "Een award show wordt spannend door de nominaties goed te bouwen. Werk met maximaal drie tot vijf genomineerden per categorie. Onthul de winnaar pas op het laatste moment. En zet een host in die de spanning bewust opvoert. Feestelijk wordt het door productie. Licht dat verandert bij elke categorie, m"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:08+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
