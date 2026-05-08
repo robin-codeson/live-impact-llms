@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-meet-je-succes-congres"
 title: "Hoe meet je het succes van een congres?"
 description: "Succes meten begint bij het vooraf bepalen van je doelstellingen. Meet de deelnemerstevredenheid via een enquête direct na het congres. Kijk naar de opkomst: welk percentage van de aanmeldingen verscheen ook echt? Beoordeel de betrokkenheid tijdens sessies via live polls of vragen. Meet de mediawaar"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:16+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
