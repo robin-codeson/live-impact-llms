@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onvergetelijk-evenement-westland"
 title: "Hoe maak je een evenement in Westland onvergetelijk?"
 description: "De glastuinbouw is Westlands grootste troef. Organiseer een diner in een verlichte kas: warme sfeer, bijzonder decor, volkomen anders dan een standaard zaal. Voeg een activatie toe die aansluit op de tuinbouwidentiteit. Denk aan een kookworkshop met verse groenten, een rondleiding door een innovatie"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:09+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
