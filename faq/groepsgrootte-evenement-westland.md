@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/groepsgrootte-evenement-westland"
 title: "Hoe groot is een typisch zakelijk evenement in Westland?"
 description: "Westland is het meest geschikt voor evenementen van 20 tot 250 personen. De regio heeft geen grootstedelijk congresaanbod, maar biedt wel bijzondere locaties voor intieme en middelgrote evenementen. Kassen, boerderijlocaties en agrarische festivalterreinen zijn uitstekend geschikt voor teamdagen, pe"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:20+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
