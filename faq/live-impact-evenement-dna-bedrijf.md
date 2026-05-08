@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-dna-bedrijf"
 title: "Helpt Live Impact bij het bepalen van ons evenement DNA?"
 description: "Ja, Live Impact begint elke opdracht met het bepalen van jouw evenement-DNA. We voeren interviews met je kernteam en analyseren je merkpositie, je huisstijl en je communicatietoon. We zetten alles samen in een DNA-document van één pagina. Dit document wordt je referentiepunt: alle evenementkeuzen la"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:25+00:00"
+last_updated: "2026-05-08T21:23:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
