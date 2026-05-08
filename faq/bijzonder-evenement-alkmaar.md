@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bijzonder-evenement-alkmaar"
 title: "Hoe maak je een evenement in Alkmaar bijzonder?"
 description: "Alkmaar staat wereldwijd bekend om de kaasmarkt. Gebruik die identiteit. Organiseer een proeverij van Noord-Hollandse kaas en bier. Huur een historisch pand aan de gracht of organiseer je borrel op het Waagplein. De binnenstad brengt zijn eigen sfeer mee: smalle straatjes, historische gevels en die "
 section: "FAQ"
-last_updated: "2026-05-08T16:55:58+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
