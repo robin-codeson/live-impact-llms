@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/roi-evenement-meten"
 title: "Hoe meet je de ROI van een evenement?"
 description: "De ROI bereken je in drie stappen. Eerst: tel alle kosten bij elkaar, inclusief locatie, catering, techniek, sprekers, personeel en uren van je eigen team. Twee: bepaal de opbrengst. Bij commerciële evenementen zijn dat leads en deals. Bij interne evenementen zijn dat metrics als strategiebegrip of "
 section: "FAQ"
-last_updated: "2026-05-08T17:13:47+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
