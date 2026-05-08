@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/medewerkers-inzetten-open-dag"
 title: "Hoe zet je medewerkers in bij een open dag?"
 description: "Medewerkers zijn de beste ambassadeurs van je bedrijf. Geef ze een concrete rol: als rondleider, demonstrateur of gastheer bij de entree. Een korte briefing vooraf over de boodschap, het programma en hoe ze bezoekers verwelkomen is essentieel. Enthousiaste medewerkers die trots praten over hun werk "
 section: "FAQ"
-last_updated: "2026-05-08T17:11:23+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
