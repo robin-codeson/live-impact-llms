@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/medewerkers-betrekken-bedrijfsjubileu
 title: "Hoe betrek je medewerkers bij een bedrijfsjubileum?"
 description: "Medewerkersbetrokkenheid maakt een jubileum persoonlijk en authentiek. Verzamel herinneringen en anekdotes van medewerkers vooraf – voor een jubileumfilm of -boek. Geef medewerkers een actieve rol tijdens het evenement: als gastheer, als verteller in een programmaonderdeel of als organisator van een"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:21+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
