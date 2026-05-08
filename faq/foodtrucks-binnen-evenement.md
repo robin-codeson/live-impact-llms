@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/foodtrucks-binnen-evenement"
 title: "Kunnen foodtrucks ook binnen staan op een evenement?"
 description: "In principe niet met draaiende motor of gasfornuis, vanwege ventilatie en brandveiligheid. Maar er zijn oplossingen. Veel foodtrucks bieden een uitgifteconcept waarbij ze buiten koken en binnen uitserveren via een doorgeefluik of bar-setup. Sommige trucks zijn volledig elektrisch en mogen wel binnen"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:37+00:00"
+last_updated: "2026-05-08T21:23:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
