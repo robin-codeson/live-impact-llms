@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-vereniging"
 title: "Kan Live Impact een evenement voor een vereniging organiseren?"
 description: "Ja, Live Impact organiseert regelmatig evenementen voor grote verenigingen en niet-profitorganisaties. We brengen structuur, creatieve concepten en professionele uitvoering. We werken mee in de planningscommissie, we ontwerpen formats die leden echt willen, we regelen locatie en catering, we coördin"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:54+00:00"
+last_updated: "2026-05-08T21:23:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
