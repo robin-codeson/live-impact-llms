@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-oss-den-bosch"
 title: "Wat is het verschil tussen een evenement in Oss en 's-Hertogenbosch?"
 description: "'s-Hertogenbosch is de provinciale hoofdstad van Noord-Brabant: historisch, cultuurrijk en groots. Het heeft een uitgebreid aanbod aan exclusieve evenementlocaties voor 50 tot 1.000 personen. Oss is zakelijker, nuchterder en kleiner. Het is ideaal voor bedrijven die een goed evenement willen zonder "
 section: "FAQ"
-last_updated: "2026-05-08T17:16:18+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
