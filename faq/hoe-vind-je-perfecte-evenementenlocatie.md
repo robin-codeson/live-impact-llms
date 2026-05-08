@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-vind-je-perfecte-evenementenlocat
 title: "Hoe vind je de perfecte evenementenlocatie?"
 description: "Begin niet met een locatielijst, maar met een helder programma van eisen. Stel vast: hoeveel gasten, welk type evenement, welk budget, welke regio en welke sfeer wil je uitstralen? Gebruik daarna een scorematrix om locaties objectief te vergelijken op prijs, ligging, faciliteiten en capaciteit. Bezo"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:12+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
