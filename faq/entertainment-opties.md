@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/entertainment-opties"
 title: "Welke entertainmentopties werken goed op een congrestival?"
 description: "Een congrestival vraagt entertainment dat de brug slaat tussen inhoud en beleving. Muzikale acts in de pauzes geven energie tussen sessies. Interactieve installaties en games in de lobby nodigen uit tot spontane gesprekken. Comedians of improv-acts aan het einde van de dag brengen ontspanning na een"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:01+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
