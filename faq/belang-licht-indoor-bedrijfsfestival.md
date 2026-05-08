@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/belang-licht-indoor-bedrijfsfestival"
 title: "Waarom is licht zo belangrijk bij een indoor bedrijfsfestival?"
 description: "Binnen heb je geen daglicht of natuur als bondgenoot, je beleving hangt af van wat je zelf meebrengt. Licht is het krachtigste instrument om een kale hal te transformeren. Goed lichtontwerp met moving heads, LED-bars en uplighters in de merkkleur bepaalt de sfeer volledig. Bezuinig hier niet op. Een"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:26+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
