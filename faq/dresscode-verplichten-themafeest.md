@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/dresscode-verplichten-themafeest"
 title: "Moet je een dresscode verplichten bij een themafeest?"
 description: "Nee, verplicht verkleden werkt zelden goed. Je creëert direct een groep die afhaakt omdat ze zich ongemakkelijk voelen of geen tijd hadden voor een kostuum. Maak het laagdrempelig: geef een duidelijke dresscode-suggestie. Zorg dat iemand in een net pak of jurk er ook bij past. Laat de setting, de mu"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:35+00:00"
+last_updated: "2026-05-08T21:22:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
