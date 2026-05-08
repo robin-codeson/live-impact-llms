@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-themafeest-organisere
 title: "Kan Live Impact een themafeest voor ons organiseren?"
 description: "Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen, waarvan themafeesten in onze top drie meest gevraagde formats zitten. We werken voor bedrijven tussen de 100 en 10.000 medewerk"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:16+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
