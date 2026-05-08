@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-jubileumjaar-organiseren"
 title: "Kan Live Impact een jubileumjaar organiseren?"
 description: "Ja. Live Impact helpt bedrijven om hun jubileum te spreiden over een heel jaar. We maken het faseplan en ontwerpen de interne en externe evenementen. Ook verzorgen we de visuele lijn en het jubileumlogo, en regelen we de uitvoering per kwartaal. Van familiebedrijven die 50 jaar bestaan tot scale-ups"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:34+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
