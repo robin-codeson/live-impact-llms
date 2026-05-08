@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/incentive"
 title: "Incentive reis organiseren?"
 description: "Een incentive reis organiseren die impact maakt? Ontdek Serious Fun en Slow MICE voor meer trots en energie. Wij ontzorgen je volledig. Plan een kennismaking!"
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:20+00:00"
+last_updated: "2026-05-08T21:22:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
