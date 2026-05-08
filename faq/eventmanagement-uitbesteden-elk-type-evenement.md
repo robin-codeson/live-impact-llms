@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eventmanagement-uitbesteden-elk-type-
 title: "Is eventmanagement uitbesteden geschikt voor elk type evenement?"
 description: "Ja, eventmanagement uitbesteden werkt voor elk type evenement. Van een kleine teamdag van twintig mensen tot een grootschalig jubileum voor duizend gasten. De mate van betrokkenheid pas je aan op de scope. Soms is dat volledig ontzorgen van A tot Z, soms alleen een specifiek onderdeel zoals technisc"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:25+00:00"
+last_updated: "2026-05-08T21:23:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
