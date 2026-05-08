@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verwachtingen-techprofessionals-zakel
 title: "Wat verwachten techprofessionals van een zakelijk evenement?"
 description: "Techprofessionals willen: echte inhoud, hands-on tijd, community en een strak programma zonder bla-bla. Echte inhoud betekent concrete cases, technische diepgang en eerlijke post-mortems. Hands-on tijd: workshops en labs boven passieve keynotes. Community: informele gesprekken met mensen die dezelfd"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:51+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
