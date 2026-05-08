@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-fotografie-videogr
 title: "Wat is het verschil tussen evenement-fotografie en evenement-videografie?"
 description: "Evenementfotografie richt zich op statische, hoge-resolutie-afbeeldingen voor later gebruik (rapportages, LinkedIn, interne communicatie). Fotografen werken doorgaans zonder geluid en leveren 200 tot 500 geselecteerde beelden. Evenementvideografie legt beweging, geluid en verhaallijn vast: het verte"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:11+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
