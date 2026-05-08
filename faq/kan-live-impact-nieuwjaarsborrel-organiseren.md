@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-nieuwjaarsborrel-orga
 title: "Kan Live Impact onze nieuwjaarsborrel organiseren?"
 description: "Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen, en de nieuwjaarsborrel zit elk jaar in onze top vijf. We werken voor bedrijven tussen de 100 en 10.000 medewerkers, van Heijman"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:14+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
