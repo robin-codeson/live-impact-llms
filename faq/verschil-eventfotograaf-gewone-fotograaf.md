@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-eventfotograaf-gewone-fotogr
 title: "Waarom is een evenementfotograaf anders dan een gewone fotograaf?"
 description: "Evenementfotografie vraagt om specifieke vaardigheden die andere fotografievormen niet vereisen. Een evenementfotograaf werkt in snel wisselende lichtomstandigheden. Hij moet anticiperen op onverwachte momenten en opereert onzichtbaar tussen de gasten. Er is geen tweede kans: het moment is voorbij a"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:30+00:00"
+last_updated: "2026-05-08T21:24:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
