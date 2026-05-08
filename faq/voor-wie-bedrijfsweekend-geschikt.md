@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voor-wie-bedrijfsweekend-geschikt"
 title: "Voor welke organisaties is een bedrijfsweekend geschikt?"
 description: "Een bedrijfsweekend werkt bijzonder goed bij snelgroeiende organisaties. Het past ook na een fusie of reorganisatie. Of bij strategische koerswijzigingen. Managementteams gebruiken het om te reflecteren. Daarnaast is het een mooie beloning bij een bijzonder resultaat of jubileum."
 section: "FAQ"
-last_updated: "2026-05-08T17:17:58+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
