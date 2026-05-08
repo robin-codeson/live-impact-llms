@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-organiseer-zakelijk-kerstfees
 title: "Wanneer organiseer je een kerstfeest voor je bedrijf?"
 description: "Plan je zakelijk kerstfeest bij voorkeur in november of de eerste twee weken van december. In de laatste week voor kerst zijn veel medewerkers al op verlof of druk met privé-afspraken. Ons advies: boek de locatie vóór september. De beste locaties in november en december zijn in oktober al bezet. Wac"
 section: "FAQ"
-last_updated: "2026-05-08T17:19:06+00:00"
+last_updated: "2026-05-08T21:24:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
