@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-bureaus-uitnodigen-presentati
 title: "Hoeveel bureaus nodig ik uit voor een presentatie?"
 description: "De IDEA Pitchcode adviseert maximaal drie bureaus per presentatie. Meer bureaus betekent niet meer keuze. Het betekent meer bureaus die gratis werken voor een kleine kans, en meer irrelevante voorstellen voor jou. Doe eerst oriënterende gesprekken met vier of vijf bureaus. Nodig daarna de drie meest"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:23+00:00"
+last_updated: "2026-05-08T21:23:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
