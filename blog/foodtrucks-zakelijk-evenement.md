@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/foodtrucks-zakelijk-evenement"
 title: "Waarom foodtrucks werken op zakelijke evenementen"
 description: "Alles over foodtrucks inhuren voor zakelijke evenementen. Van selectie tot logistiek, vergunningen en budgettering."
 section: "Blog"
-last_updated: "2026-05-08T16:51:15+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
