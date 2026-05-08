@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/cateringformat-type-evenement"
 title: "Welk cateringformat past bij welk type zakelijk evenement?"
 description: "Het cateringformat volgt het doel van je evenement. Bij een kick-off past een walking dinner of festivalopstelling: informeel, mensen lopen door elkaar. Bij een relatie-evenement voor topklanten past een verzorgd diner aan gedekte tafels: exclusief en persoonlijk. Bij een congres is de lunchopstelli"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:46+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
