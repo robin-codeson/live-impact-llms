@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-band-kiezen-evenement"
 title: "Hoe kies je de juiste band voor je evenement?"
 description: "Begin bij het repertoire: past de muziekstijl bij de sfeer van het evenement en de smaak van je doelgroep? Kijk daarna naar de ervaring met zakelijke evenementen. Dat is echt anders dan een festivaloptreden. Vraag demo-video's op van recente shows, bij voorkeur in vergelijkbare settings. Vraag refer"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:40+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
