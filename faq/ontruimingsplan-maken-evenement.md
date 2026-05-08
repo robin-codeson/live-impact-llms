@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ontruimingsplan-maken-evenement"
 title: "Hoe maak ik een ontruimingsplan voor mijn evenement?"
 description: "Begin met het standaard ontruimingsplan van de locatie en pas het aan voor jouw specifieke eventindeling. Bepaal wie het signaal geeft, wie de nooduitgangen opent, waar het verzamelpunt is en wie de gasten telt. Zorg dat vluchtwegen vrij zijn en minimaal 1,10 meter breed. Brief elk teamlid voor aanv"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:03+00:00"
+last_updated: "2026-05-08T21:24:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
