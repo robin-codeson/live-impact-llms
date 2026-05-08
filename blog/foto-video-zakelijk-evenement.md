@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/foto-video-zakelijk-evenement"
 title: "Waarom professionele beelden je evenement meer waard maken"
 description: "Alles over fotografie en videografie op zakelijke evenementen. Van briefing tot terugblikfilm: zo leg je je evenement professioneel vast."
 section: "Blog"
-last_updated: "2026-05-08T16:51:16+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
