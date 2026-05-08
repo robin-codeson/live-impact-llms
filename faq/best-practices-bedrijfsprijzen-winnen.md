@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-bedrijfsprijzen-winnen
 title: "Wat zijn best practices voor Bedrijfsprijzen Winnen?"
 description: "Bedrijfsprijzen winnen vraagt om meer dan goede prestaties. Een sterke inzending begint met een helder verhaal. Wat deed je, waarom was het bijzonder en wat was de aantoonbare impact? Onderbouw je claim met cijfers, klanttestimonials of media-aandacht. Zorg dat de inzending aansluit bij de beoordeli"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:03+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
