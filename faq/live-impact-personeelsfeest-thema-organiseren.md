@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-personeelsfeest-thema-org
 title: "Kan Live Impact een personeelsfeest met thema voor ons organiseren?"
 description: "Ja. Live Impact organiseert personeelsfeesten met thema voor bedrijven van 50 tot 2.000 medewerkers. Van concept tot uitvoering: themaontwikkeling, locatiekeuze, decor, catering, entertainment en coördinatie op de dag. We werken altijd met één aanspreekpunt en één verantwoordelijk team. Bel ons op +"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:59+00:00"
+last_updated: "2026-05-08T21:24:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
