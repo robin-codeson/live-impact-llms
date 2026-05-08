@@ -1,6 +1,11 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/faq/waarom-kiezen-bedrijven-live-impact-evenementenbureau"
+title: "Waarom kiezen bedrijven voor Live Impact als evenementenbureau?"
+description: "Bedrijven kiezen voor Live Impact vanwege de combinatie van creativiteit, bewezen ervaring en het IDEA-keurmerk. Live Impact denkt mee vanaf het eerste idee tot de laatste act. Geen losse leveranciers die je zelf moet coördineren, maar één team dat het complete traject overziet. Klanten waarderen de"
+section: "FAQ"
+last_updated: "2026-05-08T17:18:37+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Waarom kiezen bedrijven voor Live Impact als evenementenbureau?
 
