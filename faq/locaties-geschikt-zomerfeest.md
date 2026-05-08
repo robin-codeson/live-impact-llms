@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locaties-geschikt-zomerfeest"
 title: "Welke locaties zijn geschikt voor een zomerfeest?"
 description: "De beste zomerfeestlocaties zijn het eigen bedrijfsterrein, strandlocaties en beachclubs, landgoederen, stedelijke daklocaties en parken. De zomer biedt unieke locatiemogelijkheden die de rest van het jaar niet beschikbaar zijn. Zorg altijd voor een regenscenario: een tent of overdekte buitenruimte "
 section: "FAQ"
-last_updated: "2026-05-08T17:11:07+00:00"
+last_updated: "2026-05-08T21:24:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
