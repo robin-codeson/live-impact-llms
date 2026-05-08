@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-concept-voorbeelden-zakelijk-e
 title: "Wat kost een creatief concept voor een zakelijk evenement?"
 description: "Conceptontwikkeling is bij de meeste evenementenbureaus inbegrepen in het projecthonorarium als je de volledige organisatie uitbesteedt. Als losstaand traject kost het doorgaans 2.000 tot 10.000 euro, afhankelijk van de complexiteit en het aantal uitgewerkte varianten. Live Impact werkt altijd met e"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:55+00:00"
+last_updated: "2026-05-08T21:23:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
