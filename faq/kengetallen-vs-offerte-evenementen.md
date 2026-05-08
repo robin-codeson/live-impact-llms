@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kengetallen-vs-offerte-evenementen"
 title: "Wat is het verschil tussen kengetallen en een offerte bij evenementen?"
 description: "Kengetallen zijn referentiecijfers die je gebruikt in de planningsfase, vóórdat je offertes opvraagt. Ze geven je een kader: voor je budget, voor je gastenaantal en voor je doorlooptijd. Zo zie je vooraf of je concept haalbaar is. Een offerte is een concrete prijsopgave van een specifieke leverancie"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:22+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
