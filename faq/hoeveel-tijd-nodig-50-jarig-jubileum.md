@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-nodig-50-jarig-jubileum"
 title: "Hoeveel tijd heb je nodig om een 50-jarig jubileum te organiseren?"
 description: "Reken op 6 tot 12 maanden voorbereiding voor een 50-jarig jubileum. Bij een bescheiden viering voor alleen medewerkers kan 6 maanden volstaan. Bij een groots jubileum met externe gasten, een professionele productie en een communicatiecampagne heb je meer tijd nodig. Reken dan op minstens 9 tot 12 ma"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:58+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
