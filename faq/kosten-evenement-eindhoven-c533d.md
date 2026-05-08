@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-eindhoven-c533d"
 title: "Wat kost een zakelijk evenement in Eindhoven?"
 description: "De kosten voor een zakelijk evenement in Eindhoven hangen af van groepsgrootte, locatie en programma. Een bijeenkomst voor 30 personen begint rond de 3.000 euro. Een volledig geproduceerd evenement voor 200 personen inclusief catering, techniek en entertainment zit op 25.000 tot 60.000 euro. Locatie"
 section: "FAQ"
-last_updated: "2026-05-08T17:05:26+00:00"
+last_updated: "2026-05-08T21:23:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
