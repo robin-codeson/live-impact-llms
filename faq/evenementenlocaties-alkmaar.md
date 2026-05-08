@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-alkmaar"
 title: "Welke evenementenlocaties zijn er in Alkmaar?"
 description: "Alkmaar heeft een mooi scala aan evenementenlocaties. De historische binnenstad biedt monumentale panden en kaasmarktlocaties met karakter. Daarbuiten vind je moderne zalen, stijlvolle hotels en buitenlocaties rondom de Noord-Hollandse natuur. Geschikt voor groepen van 20 tot 500 personen. Live Impa"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:44+00:00"
+last_updated: "2026-05-08T21:23:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
