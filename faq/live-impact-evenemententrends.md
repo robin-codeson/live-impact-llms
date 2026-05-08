@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenemententrends"
 title: "Hoe houdt Live Impact rekening met evenemententrends bij het organiseren?"
 description: "Live Impact volgt de trends actief en vertaalt ze naar concrete evenementconcepten. We integreren duurzame keuzes, wellbeing-ontwerp en participatieve programma-elementen standaard in ons ontwerpproces. We denken mee over hoe je als bedrijf met jouw evenement een statement maakt dat past bij de tijd"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:04+00:00"
+last_updated: "2026-05-08T21:24:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
