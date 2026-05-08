@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementen-live-impact-amsterdam"
 title: "Welk type evenementen organiseert Live Impact in Amsterdam?"
 description: "Live Impact organiseert alle soorten zakelijke evenementen in Amsterdam. Van grootschalige congressen bij de RAI of Beurs van Berlage tot creatieve personeelsfeesten in de Westergasfabriek. Van productlanceringen voor internationale pers tot teamdagen met een bijzonder programma. Van stijlvolle rela"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:28+00:00"
+last_updated: "2026-05-08T21:23:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
