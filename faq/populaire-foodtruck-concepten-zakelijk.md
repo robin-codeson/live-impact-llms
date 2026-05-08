@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/populaire-foodtruck-concepten-zakelij
 title: "Welke foodtruck-concepten zijn populair bij zakelijke evenementen?"
 description: "Bij zakelijke evenementen zijn foodtrucks een populaire keuze omdat ze sfeer en variatie toevoegen. Wij werken graag met trucks die passen bij het thema. Denk aan streetfood met bao en falafel voor een informeel evenement. Een lokaal grill-concept past bij een traditioneel zakelijk diner. Vegetarisc"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:04+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
