@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-kost-zakelijk-evenement-
 title: "Hoeveel tijd kost het om een zakelijk evenement te organiseren?"
 description: "De voorbereiding van een zakelijk evenement kost gemiddeld vier tot zes maanden. Doe je het intern, dan schat je 150 tot 400 uur aan werk in, afhankelijk van de complexiteit. Besteed je het uit, dan beperk je je eigen tijdsinvestering tot 10 tot 20 procent van die uren. Je blijft betrokken bij de be"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:57+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
