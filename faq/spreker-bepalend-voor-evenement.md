@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/spreker-bepalend-voor-evenement"
 title: "Waarom is de keuze van een spreker zo bepalend voor een evenement?"
 description: "De spreker is in veel gevallen de reden waarom mensen komen of thuisblijven. Een sterke spreker verhoogt de waarde van het evenement, een zwakke spreker trekt een schaduw over de hele dag. Investeer in de juiste match, niet alleen in een bekende naam."
 section: "FAQ"
-last_updated: "2026-05-08T17:14:10+00:00"
+last_updated: "2026-05-08T21:24:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
