@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/leveranciers-coordineren-evenement"
 title: "Hoe coördineer je leveranciers tijdens een evenement?"
 description: "Leveranciers coördineren vereist goede planning en heldere communicatie. Een zorgvuldige voorbereiding is de basis. Stap 1: creëer één centraal contactpunt, meestal de projectmanager. Stap 2: geef alle leveranciers dezelfde planning, locatiespecificaties en contactgegevens. Stap 3: bevestig twee wek"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:02+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
