@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq"
 title: "Vragen over je Bedrijfsevenement? | Live Impact FAQ"
 description: "Alles wat je wilt weten over eventproductie, kosten en samenwerking met Live Impact — duidelijk en eerlijk beantwoord. Staat je vraag er niet bij? Bel ons."
 section: "Hoofdpagina's"
-last_updated: "2026-05-08T16:53:31+00:00"
+last_updated: "2026-05-08T21:22:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
