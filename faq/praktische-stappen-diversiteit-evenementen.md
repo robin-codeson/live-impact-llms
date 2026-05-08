@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/praktische-stappen-diversiteit-evenem
 title: "Welke praktische stappen neem je voor diversiteit op evenementen?"
 description: "Diversiteit op evenementen begint met bewuste keuzes. Analyseer wie er nu aanwezig is en wie ontbreekt. Breid je bereik uit via andere kanalen of partnerorganisaties. Zorg voor diverse sprekers en moderatoren. Kijk daarbij naar geslacht, achtergrond en perspectief. Controleer of vrouwen en mensen me"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:07+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
