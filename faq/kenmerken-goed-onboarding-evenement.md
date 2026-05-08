@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kenmerken-goed-onboarding-evenement"
 title: "Wat zijn kenmerken van een goed onboarding evenement?"
 description: "Een goed onboarding evenement heeft drie kenmerken: het is persoonlijk, het is praktisch en het is verbindend. Persoonlijk betekent dat nieuwe medewerkers het gevoel krijgen dat de organisatie naar hen heeft uitgekeken, niet dat ze binnenwaaien in een standaarddagje. Praktisch betekent dat ze na afl"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:24+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
