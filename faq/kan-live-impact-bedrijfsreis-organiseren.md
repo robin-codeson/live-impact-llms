@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-bedrijfsreis-organise
 title: "Kan Live Impact een bedrijfsreis organiseren?"
 description: "Ja. Wij organiseren bedrijfsreizen van twee tot vijf dagen, in binnen- en buitenland. Van de eerste bestemmingssuggestie tot de terugvlucht. Met een programma dat past bij jullie doel, team en cultuur. Geen standaardpakketten. Alles op maat. Bel ons op +31 85 401 40 14 of mail naar hello@live-impact"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:53+00:00"
+last_updated: "2026-05-08T21:23:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
