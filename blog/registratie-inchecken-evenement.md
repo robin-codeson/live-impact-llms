@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/registratie-inchecken-evenement"
 title: "Waarom inchecken meer is dan een naamlijst afvinken"
 description: "Registratie en inchecken op je evenement soepel regelen? Lees hoe je van aanmelding tot aankomst een vlekkeloze gastbeleving creëert."
 section: "Blog"
-last_updated: "2026-05-08T16:52:26+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
