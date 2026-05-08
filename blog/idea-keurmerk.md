@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/idea-keurmerk"
 title: "Wat het IDEA-keurmerk precies is"
 description: "IDEA keurmerk: wat het betekent en waarom het ertoe doet bij de keuze voor een evenementenbureau."
 section: "Blog"
-last_updated: "2026-05-08T16:51:21+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
