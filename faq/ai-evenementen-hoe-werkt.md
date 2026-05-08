@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ai-evenementen-hoe-werkt"
 title: "Hoe werkt AI in de evenementenbranche?"
 description: "AI wordt in de evenementenbranche steeds meer ingezet voor vijf doeleinden. 1) Personalisatie: AI analyseert gastvoorkeuren en past programma's meteen aan. 2) Chatbots en registratie: automatische aanmelding en gastcommunicatie 24/7. 3) Data-analyse: welke sessies populair zijn, waar gasten afhaken "
 section: "FAQ"
-last_updated: "2026-05-08T16:53:52+00:00"
+last_updated: "2026-05-08T21:22:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
