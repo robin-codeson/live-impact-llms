@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-25-jarig-jubileum-organis
 title: "Kan Live Impact ons 25-jarig jubileum organiseren?"
 description: "Ja. Live Impact organiseert 25-jarige jubilea voor bedrijven van 30 tot 500 gasten. Wij beginnen met een gesprek over jullie verhaal: wat heeft het bedrijf in 25 jaar gebouwd, wie zijn de mensen die dat hebben gedaan, en welk gevoel moet er bij gasten achterblijven? Vanuit die antwoorden bouwen wij "
 section: "FAQ"
-last_updated: "2026-05-08T17:07:10+00:00"
+last_updated: "2026-05-08T21:23:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
