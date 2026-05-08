@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/type-evenementen-delft"
 title: "Welk type evenementen past het beste bij Delft?"
 description: "Delft is bij uitstek de stad voor kennisintensieve en innovatie-gerelateerde evenementen. Congressen, symposia, R&D-kick-offs en strategische sessies vinden hier een perfecte thuisbasis dankzij de TU Delft en het innovatie-ecosysteem. Maar ook personeelsfeesten, relatiedagen en teamdagen werken uits"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:02+00:00"
+last_updated: "2026-05-08T21:24:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
