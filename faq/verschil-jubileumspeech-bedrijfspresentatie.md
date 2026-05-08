@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-jubileumspeech-bedrijfsprese
 title: "Wat is het verschil tussen een jubileumspeech en een bedrijfspresentatie?"
 description: "Een bedrijfspresentatie draait om informatie overbrengen: cijfers, strategie, resultaten. Een jubileumspeech draait om emotie overbrengen: trots, dankbaarheid, verbinding. Bij een presentatie gebruik je slides en data. Bij een speech gebruik je verhalen en stiltes. Een presentatie mag 30 minuten dur"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:51+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
