@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kpis-evenement-beoordelen"
 title: "Welke KPI's gebruik je om een evenement te beoordelen?"
 description: "De meest gebruikte KPI's voor zakelijke evenementen zijn vier. Tevredenheidsscore meet je via NPS of rapportcijfer; streef naar een 8 of hoger. Aanwezigheidspercentage laat zien hoeveel uitgenodigden er kwamen. Betrokkenheid meet je via de participatiegraad bij programmaonderdelen. Nazorg-conversie "
 section: "FAQ"
-last_updated: "2026-05-08T17:06:52+00:00"
+last_updated: "2026-05-08T21:23:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
