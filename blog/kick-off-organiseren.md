@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/kick-off-organiseren"
 title: "Waarom een kick-off meer is dan een presentatie"
 description: "Kick-off organiseren die je team maandag anders laat starten? Opzet, programma, locatie en budget. Zo geef je richting én energie aan het jaar."
 section: "Blog"
-last_updated: "2026-05-08T16:51:39+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
