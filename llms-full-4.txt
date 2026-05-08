@@ -8,7 +8,7 @@
 <!-- canonical: https://live-impact.nl/blog/cultuurverandering-event-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/cultuurverandering-event-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Medewerkers zingen samen op podium tijdens een personeelsfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36d91bf1445cd62433e2_697612f465703f2a5f4173fe_Jubileumfeest%2520MUMC%252B%2520Personeel%2520zingen%2520op%2520podium.webp)
 
@@ -155,7 +155,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/de-projectmanager -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/de-projectmanager.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Presentator op podium bij een groot zakelijk evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6ca83aba737800ce89d_69c06766b96d18ca105197e7_Jubileumfeest%2520MUMC%252B%2520Presentator%2520Rens%2520Merkelbach.webp)
 
@@ -278,7 +278,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/de-showcaller -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/de-showcaller.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Presentator op podium bij een groot zakelijk evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6ca83aba737800ce89d_69c06766b96d18ca105197e7_Jubileumfeest%2520MUMC%252B%2520Presentator%2520Rens%2520Merkelbach.webp)
 
@@ -399,7 +399,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/de-stagemanager -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/de-stagemanager.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Presentator op podium bij een groot zakelijk evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6ca83aba737800ce89d_69c06766b96d18ca105197e7_Jubileumfeest%2520MUMC%252B%2520Presentator%2520Rens%2520Merkelbach.webp)
 
@@ -516,7 +516,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/dealer-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/dealer-evenement-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Gasten lachen en netwerken bij een zakelijke awards-ceremony](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b849_69c06403d27b527bc17b0f26_SAP%2520Partner%2520Awards%25202025%2520x%2520Live%2520Impact%2520Eventmarketing%2520-%2520Gasten%2520lachen%2520mannen.jpeg)
 
@@ -637,7 +637,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/dealerdag-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/dealerdag-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Gasten lachen en netwerken bij een zakelijke awards-ceremony](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b849_69c06403d27b527bc17b0f26_SAP%2520Partner%2520Awards%25202025%2520x%2520Live%2520Impact%2520Eventmarketing%2520-%2520Gasten%2520lachen%2520mannen.jpeg)
 
@@ -770,7 +770,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/decoratie-aankleding-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/decoratie-aankleding-evenement.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Spectaculaire groene kroonluchter-decoratie boven dansende gasten bij een feest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd6144c_697621f2a442659c9db7543c_Huisman%2520Schiedam%252090%2520jaar%2520Decor%2520kroonluchter%2520groen.webp)
 
@@ -895,7 +895,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/dresscode-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/dresscode-zakelijk-evenement.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Stijlvol stel in Gatsby-verkleding bij een themafeest met warme sfeerverlichting](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6281730788b87504a3e_69c06a6aa092d12375dc0287_Huisman%2520Schiedam%252090%2520jaar%2520Gatsby%2520stel%2520verkleed%2520stijlvol.webp)
 
@@ -1036,7 +1036,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/duurzaam-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/duurzaam-evenement-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Lachende man bij de entree van een buiten festival georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b83f_69c061595439a06ea4d878f3_Handpicked%2520festival%2520entree%2520man%2520lachen-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -1153,7 +1153,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/duurzame-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/duurzame-evenementen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:49:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:33+00:00 -->
 
 ![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -1274,7 +1274,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/een-compleet-productieteam-opbouwen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/een-compleet-productieteam-opbouwen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Sierlijke acrobate aan een swaypole met blaadjes bij een zakelijk evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7fc539d88aa8f90e0804d_697bb625e3808ecd325897ba_Hero%2520pole%2520blaadjes.webp)
 
@@ -1385,7 +1385,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/eindejaarsfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/eindejaarsfeest-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Volle zaal lacht en viert tijdens een personeelsfeest met live entertainment](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
@@ -1502,7 +1502,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/employee-engagement-via-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/employee-engagement-via-evenementen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -1623,7 +1623,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/employer-branding-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/employer-branding-evenement.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Medewerkers zingen samen op podium tijdens een personeelsfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36d91bf1445cd62433e2_697612f465703f2a5f4173fe_Jubileumfeest%2520MUMC%252B%2520Personeel%2520zingen%2520op%2520podium.webp)
 
@@ -1765,7 +1765,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/energizers-voor-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/energizers-voor-evenementen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Gasten dansen met silent disco-koptelefoons bij een interactief evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5900a96eae44ba4f8f7_69c0693611269676f19a624f_Secret%2520Silent%2520Disco%2520mensen%2520dansen.jpeg)
 
@@ -1910,7 +1910,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/entreelogistiek-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/entreelogistiek-evenement.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -2023,7 +2023,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/etiquette-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/etiquette-zakelijk-evenement.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:06+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Stijlvol stel in Gatsby-verkleding bij een themafeest met warme sfeerverlichting](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6281730788b87504a3e_69c06a6aa092d12375dc0287_Huisman%2520Schiedam%252090%2520jaar%2520Gatsby%2520stel%2520verkleed%2520stijlvol.webp)
 
@@ -2160,7 +2160,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-communicatieplan -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-communicatieplan.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Entree van een groot zakelijk evenement met gasten die binnenkomen bij sfeervolle verlichting](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda18d9916fe2a99d93ed4_69c069bf36ed4f3d7c8a73fc_KEYVISUAL%2520Overzicht%2520entree%2520met%2520gasten.jpeg)
 
@@ -2320,7 +2320,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-communicatieplan-opstellen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-communicatieplan-opstellen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:34+00:00 -->
 
 ![Gasten lopen binnen bij feestelijk versierde ingang van een jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1afe8dffa7153f60d78_69c06767a0510112846f94c9_Jubileumfeest%2520MUMC%252B%2520Inloop%2520gasten.webp)
 
