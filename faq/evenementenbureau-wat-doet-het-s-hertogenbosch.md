@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-wat-doet-het-s-hert
 title: "Wat doet een evenementenbureau in 's-Hertogenbosch?"
 description: "Een evenementenbureau in 's-Hertogenbosch helpt bedrijven bij het bedenken en uitvoeren van zakelijke evenementen. Van concept en locatiescouting tot volledige productie en begeleiding op de dag zelf. Een goed bureau neemt de logistiek uit handen zodat jij je kunt richten op jouw gasten. Live Impact"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:43+00:00"
+last_updated: "2026-05-08T21:23:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
