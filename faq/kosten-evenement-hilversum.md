@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-hilversum"
 title: "Wat kost een evenement organiseren in Hilversum?"
 description: "Een zakelijk evenement in Hilversum kost gemiddeld tussen €5.000 en €35.000. Hilversum heeft een exclusief locatieaanbod dankzij de mediawereld: creatieve studio-locaties, moderne mediabedrijfscampussen en stijlvolle villa's in het Gooi. Een borrel of teamdag voor 50 personen start rond €4.000. Een "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:36+00:00"
+last_updated: "2026-05-08T21:23:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
