@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/10-jarig-jubileum-organiseren"
 title: ""
 description: "10-jarig jubileum organiseren? Zo vier je tien jaar op een manier die écht indruk maakt."
 section: "Blog"
-last_updated: "2026-05-08T16:49:11+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
