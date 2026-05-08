@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programma-dealer-evenement-organisere
 title: "Welke programmaonderdelen werken goed bij een dealer evenement?"
 description: "Een dealerevenement opent met energie: een activerende opening gevolgd door een heldere strategiepresentatie. Daarna volgen praktische productsessies waarbij dealers zelf ervaren, niet alleen luisteren. Kennisdeling van topdealers werkt beter dan interne presentaties. Zorg voor voldoende informele n"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:20+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
