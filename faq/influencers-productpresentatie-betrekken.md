@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/influencers-productpresentatie-betrek
 title: "Hoe betrek je influencers bij je productpresentatie?"
 description: "Influencers maken een productpresentatie groter dan je eigen netwerk. Selectie staat centraal: kies op fit met merk en doelgroep, niet op aantal volgers. Een vakgerichte influencer met 10.000 echte volgers werkt beter dan een lifestyle-account met 500.000 brede volgers. Benader influencers 8 tot 12 "
 section: "FAQ"
-last_updated: "2026-05-08T17:03:17+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
