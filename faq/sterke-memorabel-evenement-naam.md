@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/sterke-memorabel-evenement-naam"
 title: "Wat maakt een evenementnaam sterk en memorabel?"
 description: "Een sterke evenementnaam heeft vijf kenmerken. Eerste: beschrijvend maar niet te letterlijk. \"Q1 Sales Kickoff\" werkt, maar \"Sales Momentum 2026\" voelt krachtiger. Tweede: memorabel (zeg het drie keer hardop; blijft het hangen?). \"Where Innovation Lives\" versus \"Innovation Conference\"? De eerste win"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:16+00:00"
+last_updated: "2026-05-08T21:24:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
