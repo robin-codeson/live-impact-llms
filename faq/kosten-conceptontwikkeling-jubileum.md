@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-conceptontwikkeling-jubileum"
 title: "Wat kost conceptontwikkeling voor een jubileum?"
 description: "Alleen de conceptontwikkeling zelf kost doorgaans tussen 3.500 en 10.000 euro. Dat hangt af van de diepte en het aantal uitgewerkte varianten. Daarin zit: DNA-sessie, concept-ontwikkeling in twee of drie richtingen, visuele uitwerking (moodboards, plattegronden, sfeerbeelden), programmavoorstel en b"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:56+00:00"
+last_updated: "2026-05-08T21:23:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
