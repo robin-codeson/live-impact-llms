@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-locatie-scouting-uitvoeren"
 title: "Hoe voer je een locatie-scouting uit voor een evenement?"
 description: "Locatiescouting volgt een vast proces. Stap 1: definieer criteria. Hoeveel gasten verwacht je? Welke sfeer wil je (formeel, creatief, rustig)? Wat is je budget? En wat zijn de infrastructuureisen (parkeren, openbaar vervoer, techniek)? Stap 2: zoek online. Google Maps, Eventlocaties.nl, lokale VVV's"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:03+00:00"
+last_updated: "2026-05-08T21:23:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
