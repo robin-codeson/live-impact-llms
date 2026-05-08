@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunningen-evenement-bezoekers"
 title: "Welke vergunningen zijn nodig voor evenementen met veel bezoekers?"
 description: "Bij 500 of meer bezoekers is een evenementenvergunning verplicht in de meeste gemeenten. Voor alcoholverstrekking heb je een horecavergunning nodig. Muziek vereist een BUMA/STEMRA-melding. Buitenlocaties vragen vaak een omgevingsvergunning. Bij evenementen op de openbare weg of met verkeersmaatregel"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:23+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
