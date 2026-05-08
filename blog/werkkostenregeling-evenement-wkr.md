@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/werkkostenregeling-evenement-wkr"
 title: ""
 description: "Werkkostenregeling (WKR) en evenementen? Zo organiseer je fiscaal slim én maximaal genietend."
 section: "Blog"
-last_updated: "2026-05-08T16:53:08+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
