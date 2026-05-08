@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/medewerkersevenement-organiseren"
 title: "Wat een medewerkersevenement onderscheidt van een personeelsfeest"
 description: "Medewerkersevenement organiseren? Zet een intern event in als strategisch instrument voor betrokkenheid, trots en cultuur. Aanpak van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:51:54+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
