@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activiteiten-onboarding-evenement"
 title: "Welke activiteiten horen bij een onboardingevenement?"
 description: "Een onboardingevenement heeft twee functies: nieuwe medewerkers informeren en ze verbinden met het bedrijf en hun collega's. Activiteiten die goed werken: een rondleiding door het bedrijf en een interactieve kennismaking, geen droge presentaties. Een gezamenlijke maaltijd, een luchtige teampuzzel of"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:44+00:00"
+last_updated: "2026-05-08T21:22:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
