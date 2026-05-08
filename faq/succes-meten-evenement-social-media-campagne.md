@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succes-meten-evenement-social-media-c
 title: "Hoe meet ik het succes van mijn evenement social media campagne?"
 description: "Meet vijf kern-KPI's: bereik, betrokkenheidspercentage, hashtag-gebruik, click-through rate naar je registratiepagina en het aantal conversies via social media. Bereik telt unieke vertoningen; betrokkenheid telt interacties als percentage van bereik. Gebruik UTM-parameters in al je links zodat Googl"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:25+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
