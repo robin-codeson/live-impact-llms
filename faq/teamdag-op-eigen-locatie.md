@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/teamdag-op-eigen-locatie"
 title: "Kun je een teamdag op eigen locatie organiseren?"
 description: "Ja, en het heeft voordelen. Een teamdag op eigen locatie bespaart locatiekosten. Als het op de werkplek plaatsvindt, valt het onder de gerichte vrijstelling van de WKR. Dat is fiscaal voordelig. Je hoeft minder te regelen op logistiek vlak. Nadeel: mensen zijn al in de werkmodus en de afwisseling me"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:38+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
