@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-helmond-eindhoven"
 title: "Wat is het verschil tussen een evenement in Helmond en Eindhoven?"
 description: "Eindhoven is de technologie-hoofdstad van Nederland: grootstedelijk, internationaal en vol designlocaties voor evenementen van 100 tot 2.000 personen. Helmond is kleiner, maar heeft een unieke troef: het middeleeuwse Kasteel van Helmond. Dat biedt een historisch decor dat Eindhoven niet kan bieden. "
 section: "FAQ"
-last_updated: "2026-05-08T17:16:13+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
