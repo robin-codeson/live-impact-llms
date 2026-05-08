@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-crowdcontrol-evenement-38
 title: "Regelt Live Impact ook de veiligheid en crowdcontrol?"
 description: "<p>Ja, Live Impact regelt de veiligheid van begin tot eind. Wij stellen een veiligheidsplan op, selecteren beveiligingspartners en stemmen af met hulpdiensten. Denk aan risicoanalyse, crowdcontrol, incident-protocollen en vergunningsaanvragen. Zo houd jij de handen vrij voor de inhoud, terwijl wij d"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:42+00:00"
+last_updated: "2026-05-08T21:23:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
