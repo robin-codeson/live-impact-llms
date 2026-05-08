@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-kost-een-verandercommunicatie
 title: "Hoeveel kost een verandercommunicatie-evenement?"
 description: "De kosten van een verandercommunicatie-evenement variëren sterk. Een interne sessie kost vanaf €5.000. Een rondreis langs meerdere vestigingen loopt op tot €50.000 of meer."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:36+00:00"
+last_updated: "2026-05-08T21:23:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
