@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-westland"
 title: "Wat kost een evenement organiseren in Westland?"
 description: "Een zakelijk evenement in Westland kost gemiddeld tussen €4.000 en €25.000. De regio is het hart van de Nederlandse glastuinbouw. Unieke locaties in kassen en agrarische omgevingen bieden een bijzondere sfeer voor een vriendelijke prijs. Een teamdag of borrel voor 50 personen start rond €3.500. Een "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:56+00:00"
+last_updated: "2026-05-08T21:23:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
