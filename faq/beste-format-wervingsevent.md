@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-format-wervingsevent"
 title: "Welk format past het beste bij een wervingsevent?"
 description: "Dat hangt af van je doelgroep. Een open avond of meet & greet werkt als je breed wilt werven. Een talent experience day (dagvullend met workshops en challenges) levert diepere matches. Een branche-specifiek evenement trekt precies de juiste doelgroep. Campus recruitment past bij starters. De sleutel"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:19+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
