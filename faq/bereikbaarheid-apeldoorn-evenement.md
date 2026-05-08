@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-apeldoorn-evenement"
 title: "Hoe bereikbaar is Apeldoorn voor zakelijke gasten?"
 description: "Apeldoorn is goed bereikbaar per auto en openbaar vervoer. Bij locatieselectie houden wij rekening met parkeergelegenheid en treinverbindingen. Voor gasten van buiten de regio is een locatie dicht bij het station of met eigen parkeerterrein ideaal. Live Impact adviseert proactief over bereikbaarheid"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:38+00:00"
+last_updated: "2026-05-08T21:22:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
