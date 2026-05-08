@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-vrijblijvende-kostenindic
 title: "Biedt Live Impact een vrijblijvende kostenindicatie?"
 description: "Ja, bij Live Impact maken we graag een vrijblijvende kostenindicatie op basis van jouw wensen. We geloven in transparantie en eerlijke communicatie over kosten."
 section: "FAQ"
-last_updated: "2026-05-08T17:10:43+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
