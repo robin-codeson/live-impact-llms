@@ -1,88 +1,91 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/evenementenbureau-inhuren"
+title: "Evenementenbureau inhuren: wat je weet voordat je begint"
+description: "Evenementenbureau inhuren? Lees wanneer het zin heeft, wat het kost, hoe de samenwerking werkt en waar je op let bij de keuze. Praktisch en eerlijk."
+section: "Blog"
+last_updated: "2026-05-08T16:50:56+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Totaal luchtfoto van een groot festivalterrein met tenten en bezoekers](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6f31730788b8750927d_69c06969a0f923be9273bfd8_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520terrein%2520totaal%2520luchtfoto.webp)
 
-# Wanneer huur je een evenementenbureau in?
+# Evenementenbureau inhuren: wat je weet voordat je begint
 
-Je staat voor een zakelijk evenement en vraagt je af: doe ik het zelf of schakel ik een evenementenbureau in? Dat is geen ja/nee-vraag maar een afweging die afhangt van drie factoren: de omvang van het evenement, de beschikbare tijd en expertise in je team, en het belang van het resultaat.
+Je staat voor een zakelijk evenement en vraagt je af: doe ik het zelf of schakel ik een evenementenbureau in? Drie factoren bepalen het antwoord: de omvang, de tijd in je team en het belang van het resultaat.
 
-Bij een klein informeel teamuitje voor 20 mensen die je elke week ziet, kun je prima zelf aan de slag. Maar bij een jubileum voor 300 gasten, een productlancering voor pers en klanten, of een gala dat uitstraalt wie jullie zijn als bedrijf, is professionele ondersteuning bijna onmisbaar.
+Bij een klein informeel teamuitje kun je prima zelf aan de slag. Maar bij een evenement voor 100+ gasten, een jubileum, een gala of een productlancering is professionele hulp bijna onmisbaar. De complexiteit neemt exponentieel toe met de omvang.
 
-De reden: de complexiteit van een evenement neemt niet lineair toe met de omvang — het neemt exponentieel toe. Twee keer zoveel gasten is niet twee keer zoveel werk. Het is vijf keer zoveel leveranciers, drie keer zoveel coördinatie en tien keer zoveel impact als er iets misgaat.
-
-Eerlijk gezegd is de drempel voor uitbesteden lager dan de meeste mensen denken. Niet omdat je het zelf niet kunt, maar omdat een bureau meedenkt vóór je, netwerk heeft dat jij niet hebt, en op de dag zelf aanwezig is zodat jij dat niet hoeft te zijn.
+Een evenementenbureau brengt drie dingen mee die je intern zelden hebt. Creatief denkvermogen en een netwerk van leveranciers. Plus ervaring met het managen van onverwachte situaties.
 
 ## Wat doet een evenementenbureau precies?
 
-Een goed evenementenbureau begeleidt het hele traject van briefing tot evaluatie. Dat klinkt breed, maar het verschil tussen bureaus zit precies in hoe ver ze gaan bij elk van die stappen.
+Een goed evenementenbureau begeleidt het hele traject van A tot Z. Dat begint met een strategische briefing: wat wil je bereiken en voor wie? Van daaruit ontwikkelen ze een concept dat past bij jullie organisatie.
 
-Het begint met strategie. Niet meteen locaties zoeken of entertainment boeken, maar eerst begrijpen: wat wil je bereiken en voor wie? Die vraag stellen is makkelijk. Hem echt beantwoorden en vertalen naar een concept dat klopt — dat is het vakmanschap.
+Vervolgens regelen ze alles. Ze scouten en boeken de locatie. Ze stellen het programma en entertainment samen en coördineren de technische productie. Daarnaast selecteren ze de catering en begeleiden ze het uitnodigingstraject. Plus het budget- en leveranciersmanagement. Op de dag zelf zorgen ze voor volledige coördinatie en regie.
 
-Van daaruit regelen ze het hele traject: locatie scouten en boeken, programma en entertainment samenstellen, technische productie coördineren, catering selecteren en briefen, het uitnodigingstraject begeleiden, leveranciersmanagement en budgetbewaking, en op de dag zelf: volledige coördinatie en regie terwijl jij met je gasten kunt zijn.
+Het voordeel: jij hebt één aanspreekpunt voor alles. Geen gedoe met tien verschillende leveranciers, geen stress over details. En geen verrassingen.
 
-Het voordeel dat mensen het meest noemen nadat ze voor het eerst met een bureau werken: één aanspreekpunt voor alles. Geen gedoe met tien verschillende leveranciers die allemaal naar jou bellen. Geen verrassingen op de dag. Geen details die je ’s avonds laat nog moet regelen.
+## Waar let je op bij het kiezen van een bureau?
 
-## Hoe kies je het juiste bureau?
+Niet elk evenementenbureau is hetzelfde. Bij de keuze gaat het om ervaring met jouw type evenement, creatieve kwaliteit, transparante kosten, persoonlijke klik en goede referenties.
 
-Niet elk evenementenbureau is hetzelfde, en voor het type evenement dat jij organiseert past het ene bureau beter dan het andere. Hier is waar je op let.
+Vraag altijd een kennismakingsgesprek aan. Een goed bureau investeert tijd in het begrijpen van jullie situatie voordat ze een voorstel doen. Wees wantrouwend bij bureaus die direct met een standaardpakket komen zonder door te vragen.
 
-Portfolio en ervaring. Heeft dit bureau aantoonbare ervaring met jouw type evenement? Een bureau dat sterk is in personeelsfeesten is niet automatisch sterk in productlanceringen. Vraag specifiek naar referenties en bekijk het portfolio kritisch.
-
-Creatief niveau. Wat laten ze zien als je vraagt naar concepten ze eerder hebben gemaakt? Een bureau dat direct met standaardoplossingen komt, denkt anders dan een bureau dat eerst doorvraagt en dan iets verrassends laat zien.
-
-Transparantie over kosten. Hoe presenteren ze de begroting? Goede bureaus werken met heldere kostenoverzichten, leggen uit welke keuzes welke impact hebben op het budget, en zijn eerlijk over marges.
-
-De persoonlijke klik. Jullie gaan maanden samenwerken in een setting die soms stressvol is. Of je het gevoel hebt dat het team jullie begrijpt en de juiste vragen stelt, is een relevante indicator. Wees wantrouwend bij bureaus die in het eerste gesprek direct beginnen met oplossingen in plaats van vragen.
+Bij Live Impact beginnen we altijd met een vrijblijvend gesprek. We willen weten wie jullie zijn, wat jullie drijft en wat het evenement moet opleveren. Pas dan gaan we bedenken.
 
 ## Wat kost het inhuren van een evenementenbureau?
 
-De kosten van een evenementenbureau bestaan uit twee componenten: een fee voor begeleiding en advies, en de doorberekening van leverancierskosten zoals locatie, catering en entertainment.
+De kosten van een evenementenbureau bestaan meestal uit twee componenten: een vergoeding voor de begeleiding en de doorberekening van leverancierskosten.
 
-De bureaufee varieert doorgaans tussen 10 en 20 procent van het totaalbudget, of als een vast bedrag afhankelijk van de omvang en het type evenement. Voor een klein evenement van 50 tot 100 personen zit de bureaufee op €2.000 tot €5.000. Voor een middelgroot evenement van 100 tot 300 personen op €5.000 tot €15.000. Voor grote evenementen van 300 personen of meer rekent een bureau €15.000 en meer afhankelijk van de omvang en complexiteit.
+De bureauvergoeding varieert van 10 tot 20% van het totaalbudget, of een vast bedrag afhankelijk van de omvang. Voor een compleet evenement kun je rekenen op:
 
-Een bureau verdient zichzelf terug op drie manieren. Ten eerste via betere leverancierstarieven — bureaus onderhandelen schaal en krijgen prijzen die jij zelf niet krijgt. Ten tweede door het voorkomen van dure fouten — een fout in de locatiekeuze of entertainmentkeuze kost meer dan de bureaufee. Ten derde door het besparen van honderden uren interne organisatietijd bij mensen die daarvoor niet worden betaald.
+**Klein evenement (50 tot 100 personen):** €2.000 tot €5.000 bureauvergoeding.  
+**Middelgroot evenement (100 tot 300 personen):** €5.000 tot €15.000 bureauvergoeding.  
+**Groot evenement (300+ personen):** €15.000 tot €30.000+ bureauvergoeding.
 
-## Zelf organiseren of uitbesteden: een eerlijk antwoord
+Een bureau verdient zichzelf vaak terug. Denk aan betere leverancierstarieven, het voorkomen van dure fouten en het besparen van honderden uren interne organisatietijd.
 
-De afweging is simpel: hoeveel tijd heb je, en hoe belangrijk is het resultaat?
+## Zelf organiseren vs. uitbesteden
 
-Een middelgroot evenement organiseren kost intern al snel 200 tot 400 uur. Dat is tijd die je niet aan je eigenlijke werk besteedt, en die je ook mist als je nadenkt over het evenement terwijl je andere dingen doet. Bovendien brengt een bureau iets mee dat je intern zelden hebt: de combinatie van creatief denkvermogen, leveranciersnetwerk en uitvoeringskennis die je alleen opbouwt door het elk jaar tientallen keer te doen.
+De afweging is simpel: hoeveel tijd heb je en hoe belangrijk is het resultaat?
 
-Zelf doen heeft ook voordelen. Je kent het bedrijf van binnenuit, je weet precies wat er verwacht wordt, en er is geen briefingstijd nodig. Voor een klein, vertrouwd evenement is die kennis meer waard dan externe ervaring.
+Zelf organiseren kost al snel 200 tot 400 uur voor een middelgroot evenement. Dat is tijd die je niet aan je eigenlijke werk besteedt. Bovendien mis je de creativiteit en ervaring die een bureau meebrengt.
 
-Het ideale scenario bij uitbesteden: jij bepaalt het wát — het doel, de doelgroep, het budget, de randvoorwaarden. Het bureau bepaalt het hóe — het concept, het programma, de leveranciers, de uitvoering. Zo combineer je interne kennis met externe creativiteit en capaciteit.
+Een bureau bespaart tijd én levert vaak een beter resultaat. Niet omdat je het zelf niet kunt, maar omdat zij het elke dag doen. Ze kennen de valkuilen, hebben de contacten en weten wat werkt bij welk publiek.
 
-## Hoe verloopt de samenwerking?
+Het ideale scenario: jij bepaalt het wat (doel, doelgroep, budget), het bureau bepaalt het hoe (concept, programma, productie).
 
-Een goede samenwerking met een evenementenbureau verloopt in herkenbare fases, maar hoe die fases verlopen verschilt per bureau.
+## Hoe werkt de samenwerking?
 
-Het begint met een briefing en conceptfase. Jullie delen de briefing, het bureau stelt vragen, denkt na en presenteert een concept met begroting. Hoe goed het bureau vraagt en hoe verrassend het concept is, zegt veel over hoe de rest van de samenwerking verloopt.
+Een goede samenwerking met een evenementenbureau verloopt in fases.
 
-Na akkoord volgt de uitwerkingsfase: locatieboeking, leveranciersselectie, programma-uitwerking, communicatiemateriaal. Dit is de fase die het meeste tijd kost en waar de kwaliteit van het projectmanagement zichtbaar wordt.
+**Fase 1: Briefing en concept.** Jullie delen de briefing, het bureau ontwikkelt een concept en presenteert het voorstel met begroting.
 
-In de productiefase — de weken voor het evenement — worden alle details afgerond, wordt het draaiboek gebouwd en vinden de technische checks plaats. Op de dag zelf coördineert het bureau alles. Jij bent aanwezig voor je gasten, niet voor de logistiek.
+**Dan: uitwerking.** Na goedkeuring werkt het bureau alles uit: locatie, leveranciers, programma en communicatie.
 
-Na afloop volgt de evaluatie. Een goed bureau kijkt terug, deelt inzichten en stelt vragen over wat de volgende keer anders kan.
+**Vervolgens: productie.** De weken voor het evenement ronden wij alle details af en maken we het draaiboek. Daarnaast doen we technische controles.
 
-## Zo schakel je het juiste evenementenbureau in
+**Op de dag zelf: uitvoering.** Het bureau coördineert alles. Jullie kunnen je richten op jullie gasten.
 
-Bij Live Impact krijg je een vast projectteam: een conceptdenker, een projectmanager en een producer. Mensen die jouw evenement behandelen alsof het hun eigen feest is.
+**Tot slot: evaluatie.** Na afloop kijken we samen terug. We delen lessen en bepalen het rendement.
 
-Het begint met een vrijblijvend kennismakingsgesprek. Geen pitch, geen standaardpakket. We vragen wie jullie zijn, wat jullie drijft en wat het evenement moet opleveren. Daarna laten we zien hoe we dat realiseren.
+## Klaar om een evenementenbureau in te schakelen?
 
-Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
+Bij Live Impact krijg je een vast projectteam: een conceptdenker, een projectmanager en een producer. Mensen die jullie evenement behandelen alsof het hun eigen feest is.
+
+Neem contact op voor een vrijblijvend gesprek. Stuur een briefing via [live-impact.nl/briefing](/briefing).
+
+Bel ons op [085 401 40 14](tel:+31854014014) of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
 *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
@@ -90,7 +93,7 @@ Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
 
 Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
 
-Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij denken mee. We stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
 
 Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
 
@@ -100,15 +103,15 @@ Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
 
 Begin minimaal **drie maanden** van tevoren. Voor grote evenementen (300+ gasten, complexe productie) is **zes maanden** realistischer.
 
-De organisatie verloopt in vier fases: fundament leggen (12–10 weken), concept en partners (10–6 weken), uitwerking (6–3 weken) en uitvoering plus nazorg. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
+De organisatie verloopt in vier fases. Eerst het fundament leggen (12 tot 10 weken voor de datum), dan concept en partners (10 tot 6 weken). Vervolgens de uitwerking (6 tot 3 weken) en tot slot uitvoering plus nazorg in de laatste 3 weken. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
 
 **[Bekijk de volledige fasering in ons artikel →](/blog/bedrijfsevenement-organiseren)**
 
 Hoe schrijf je een goede briefing voor een bedrijfsevenement?
 
-Een goede briefing bevat minimaal zes elementen: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
+Een goede briefing bevat minimaal zes elementen. Dat zijn: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
 
-Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames — en dat levert een rommelig resultaat.
+Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames. Dat levert een rommelig resultaat.
 
 **[Lees het complete artikel met alle briefing-elementen →](/blog/bedrijfsevenement-organiseren)**
 
@@ -122,17 +125,11 @@ Het verschil zit in de aanpak: een personeelsfeest draait om vieren en verbinden
 
 Wat kost het om een bedrijfsevenement te organiseren?
 
-De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100 tot €300+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
-
-De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaande brackets geven de breedte aan voor een gemiddeld zakelijk evenement.
 
 **[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
-
-Staat je vraag er niet bij?
-
-[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
