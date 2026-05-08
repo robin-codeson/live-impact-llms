@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eindheffing-overschrijding-wkr"
 title: "Wat is de eindheffing bij overschrijding van de WKR?"
 description: "Bij overschrijding van de vrije ruimte betaal je 80% eindheffing over het meerdere. Besteed je €10.000 te veel? Dan betaal je €8.000 extra belasting."
 section: "FAQ"
-last_updated: "2026-05-08T16:57:54+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
