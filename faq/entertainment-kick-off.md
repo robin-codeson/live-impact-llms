@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/entertainment-kick-off"
 title: "Welk entertainment past bij een kick-off?"
 description: "Entertainment op een kick-off is geen opvulling, het is een strategisch middel om je boodschap te laden. Kies entertainment dat energie geeft en de sfeer versterkt. Een interactieve gameshow rondom de thema's van de kick-off werkt goed. Een inspirerend optreden als opening of afsluiting zet de toon."
 section: "FAQ"
-last_updated: "2026-05-08T16:58:00+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
