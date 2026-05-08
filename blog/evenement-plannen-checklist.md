@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-plannen-checklist"
 title: "Waarom je een checklist nodig hebt (en wat er in hoort)"
 description: "Evenement plannen checklist? Compleet 5-fasenplan van briefing tot evaluatie, week voor week. Niets vergeten. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:50+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
