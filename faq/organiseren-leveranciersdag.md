@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/organiseren-leveranciersdag"
 title: "Hoe organiseer je een leveranciersdag?"
 description: "Een leveranciersdag versterkt de band met je belangrijkste partners. Het is hét moment om strategie, contracten en verbeterpunten te bespreken. Begin met een duidelijk doel: kennisdelen, evaluatie of nieuwe samenwerking. Werk in drie blokken. Het ochtenddeel start met een welkom door de directie. Ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:29+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
