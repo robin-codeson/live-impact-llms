@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/goede-sprekers-vinden-conferentie"
 title: "Hoe vind ik goede sprekers voor mijn conferentie?"
 description: "Begin minimaal negen maanden van tevoren. Zoek sprekers via vakbladen, LinkedIn en branche-evenementen. Overweeg ook eigen klanten of medewerkers als ervaringsdeskundigen."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:15+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
