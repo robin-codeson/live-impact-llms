@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-eeuwfeest-100-jaar"
 title: "Hoe vroeg moet je een eeuwfeest plannen?"
 description: "Begin minimaal 12 tot 18 maanden van tevoren. Uitzonderlijke locaties die passen bij een eeuwfeest zijn soms twee jaar van tevoren volgeboekt. Denk aan historische gebouwen, nationale monumenten of bijzondere buitenterreinen. Ook entertainmentacts van naam en bijzondere productiepartners vereisen vr"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:54+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
