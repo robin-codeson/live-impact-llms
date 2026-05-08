@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/congrestival-organiseren"
 title: "Wat is een congrestival en waarom wint het aan populariteit"
 description: "Alles over het organiseren van een congrestival. Combineer de inhoud van een congres met de beleving van een festival voor maximale impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:47+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
