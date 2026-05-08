@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-50-jarig-jubileum-bedrijfsju
 title: "Wat is het verschil tussen een 50-jarig jubileum en een bedrijfsjubileum?"
 description: "Een bedrijfsjubileum is een verzamelterm voor elk jubileum, of het nu 10, 25 of 50 jaar is. Een 50-jarig jubileum onderscheidt zich door de schaal en het erfgoedverhaal. Je hebt te maken met meerdere doelgroepen: actieve medewerkers, gepensioneerden, oud-medewerkers en externe stakeholders. Het prog"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:31+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
