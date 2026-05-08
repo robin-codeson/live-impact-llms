@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/origineel-cadeau-afscheidsfeest"
 title: "Wat is een origineel cadeau voor een afscheidsfeest?"
 description: "Het meest persoonlijke cadeau sluit aan bij de hobby's of dromen van de vertrekkende collega. Denk aan een ervaringscadeau, een gepersonaliseerd boek of een gezamenlijk fonds voor iets wat ze altijd al wilden."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:33+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
