@@ -8,7 +8,7 @@
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-breda -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-breda.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Overzicht van een festivalterrein vanaf het water met tenten en groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -123,7 +123,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-delft -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-delft.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Luchtfoto van een buitenfestival met tenten en groene omgeving georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
 
@@ -256,7 +256,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-den-haag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-den-haag.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Overzicht van een festivalterrein vanaf het water met tenten en groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -365,7 +365,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-deventer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-deventer.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Luchtfoto van een buitenfestival met tenten en groene omgeving georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
 
@@ -474,7 +474,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-dordrecht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-dordrecht.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Drone-overzicht van een groot evenemententerrein met tenten en activiteiten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5fe49303269b6603b9a_69c06388e4b31b38851974ce_Overzicht%2520terrein%2520drone.jpeg)
 
@@ -603,7 +603,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-ede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-ede.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Luchtfoto van een buitenfestival met tenten en groene omgeving georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
 
@@ -730,7 +730,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-eindhoven -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-eindhoven.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Overzicht van een festivalterrein vanaf het water met tenten en groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -839,7 +839,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-emmen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-emmen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Luchtfoto van een buitenfestival met tenten en groene omgeving georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
 
@@ -968,7 +968,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-enschede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-enschede.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Overzicht van een festivalterrein vanaf het water met tenten en groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -1077,7 +1077,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-haarlem -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-haarlem.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Overzicht van een festivalterrein vanaf het water met tenten en groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -1186,7 +1186,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-haarlemmermeer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-haarlemmermeer.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:36+00:00 -->
 
 ![Drone-overzicht van een groot evenemententerrein met tenten en activiteiten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5fe49303269b6603b9a_69c06388e4b31b38851974ce_Overzicht%2520terrein%2520drone.jpeg)
 
@@ -1317,7 +1317,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-helmond -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-helmond.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Overzicht van een grote feestzaal met podium en sfeerverlichting bij een bedrijfsevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd6143c_697621f2b722b7201ff430e9_Huisman%2520Schiedam%252090%2520jaar%2520Overzicht%2520zaal%25205.webp)
 
@@ -1426,7 +1426,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-hilversum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-hilversum.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Overzicht van een grote feestzaal met podium en sfeerverlichting bij een bedrijfsevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd6143c_697621f2b722b7201ff430e9_Huisman%2520Schiedam%252090%2520jaar%2520Overzicht%2520zaal%25205.webp)
 
@@ -1535,7 +1535,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-leeuwarden -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-leeuwarden.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Drone-overzicht van een groot evenemententerrein met tenten en activiteiten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5fe49303269b6603b9a_69c06388e4b31b38851974ce_Overzicht%2520terrein%2520drone.jpeg)
 
@@ -1658,7 +1658,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-leiden -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-leiden.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Drone-overzicht van een groot evenemententerrein met tenten en activiteiten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5fe49303269b6603b9a_69c06388e4b31b38851974ce_Overzicht%2520terrein%2520drone.jpeg)
 
@@ -1795,7 +1795,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-maastricht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-maastricht.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Drone-overzicht van een groot evenemententerrein met tenten en activiteiten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5fe49303269b6603b9a_69c06388e4b31b38851974ce_Overzicht%2520terrein%2520drone.jpeg)
 
@@ -1932,7 +1932,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-nijmegen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-nijmegen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Overzicht van een festivalterrein vanaf het water met tenten en groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -2047,7 +2047,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-oss -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-oss.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Overzicht van een grote feestzaal met podium en sfeerverlichting bij een bedrijfsevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd6143c_697621f2b722b7201ff430e9_Huisman%2520Schiedam%252090%2520jaar%2520Overzicht%2520zaal%25205.webp)
 
@@ -2162,7 +2162,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-rotterdam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-rotterdam.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Overzicht van een festivalterrein vanaf het water met tenten en groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -2281,7 +2281,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/evenement-organiseren-in-s-hertogenbosch -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/evenement-organiseren-in-s-hertogenbosch.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:50:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:37+00:00 -->
 
 ![Drone-overzicht van een groot evenemententerrein met tenten en activiteiten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5fe49303269b6603b9a_69c06388e4b31b38851974ce_Overzicht%2520terrein%2520drone.jpeg)
 
