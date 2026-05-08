@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gala-combineren-met-awards"
 title: "Kun je een gala combineren met een awards ceremony?"
 description: "Ja, en het is een van de meest populaire combinaties in de zakelijke evenementenwereld. Een gala biedt de feestelijke omlijsting: de locatie, het diner, de sfeer. De awards ceremony voegt inhoud en emotie toe: spanning, herkenning en een hoogtepunt voor de avond. Die combinatie geeft gasten zowel ie"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:57+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
