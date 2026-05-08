@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-hybride-online-evenement"
 title: "Wat is het verschil tussen een hybride en een online evenement?"
 description: "Een hybride evenement combineert fysieke deelnemers op locatie met online deelnemers die op afstand meekijken en meedoen. Een online evenement is volledig digitaal: er is geen fysieke locatie. Het verschil zit in de beleving: een hybride evenement biedt de energie van een directe omgeving voor de aa"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:41+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
