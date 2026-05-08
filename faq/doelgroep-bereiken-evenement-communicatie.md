@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/doelgroep-bereiken-evenement-communic
 title: "Hoe bereik je de juiste doelgroep voor je evenement?"
 description: "Je bereikt de juiste doelgroep door eerst scherp te definiëren wie je wilt bereiken. Voor een zakelijk evenement bijvoorbeeld: IT-directeuren van bedrijven met 50 tot 500 werknemers in Amsterdam en omstreken. Maak hun profiel scherp. Zij lezen veel op LinkedIn. Zij komen samen op vakcongressen en bi"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:26+00:00"
+last_updated: "2026-05-08T21:22:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
