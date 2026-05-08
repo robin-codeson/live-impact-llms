@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ai-aandachtspunten-evenement"
 title: "Hoe zet Live Impact AI in bij evenementen?"
 description: "Live Impact zet AI strategisch in voor drie doeleinden. Eerst voor content en planning: we gebruiken ChatGPT voor briefanalyse, speeches schrijven en evenementagenda's. Dit scheelt 15-20 planningsuren per evenement. Ten tweede voor gastenanalyse: na evenementen volgen we betrokkenheidscijfers en sen"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:52+00:00"
+last_updated: "2026-05-08T21:22:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
