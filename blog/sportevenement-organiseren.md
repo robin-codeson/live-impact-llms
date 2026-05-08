@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/sportevenement-organiseren"
 title: "Waarom een sportevenement meer is dan een middag bewegen"
 description: "Sportevenement organiseren voor je bedrijf? Van sportdag tot groot bedrijfssportief evenement. Hoe sport strategie wordt. Zo pak je het aan. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:52:37+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
