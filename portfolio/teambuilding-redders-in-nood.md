@@ -1,6 +1,11 @@
-[< Back](teambuilding-redders-in-nood.html#)[< Work](teambuilding-redders-in-nood.html#)
-
-[Next >](teambuilding-redders-in-nood.html#)
+---
+canonical_url: "https://live-impact.nl/portfolio/teambuilding-redders-in-nood"
+title: "Alle hens aan dek: Alphabet redt levens op zee"
+description: "Red levens op zee met Alphabet! Ontdek hoe Live Impact een KNRM-reddingsmissie omtoverde tot een mega teambuilding op het open water. Dat is Serieus Leuk!"
+section: "Portfolio"
+last_updated: "2026-05-08T22:30:09+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 [
 
@@ -11,7 +16,7 @@
 
 ![Redders in Nood — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce8f_KNRM-Noordwijk-mensen-in-zee.webp)
 
-[Teambuilding](teambuilding-redders-in-nood.html#)
+[Teambuilding](#)
 
 ## Redders in Nood
 
@@ -25,29 +30,37 @@ Met strak overleg en heldere afspraken kreeg de groep beide slachtoffers veilig 
 
 ‍
 
-Meer weten over teambuilding? Bekijk onze aanpak op de [teambuilding pagina](../categories/teambuilding.html).
+Meer weten over teambuilding? Bekijk onze aanpak op de [teambuilding pagina](/categories/teambuilding).
 
-Wil je ook zo'n event? [Start hier met het maken van je briefing.](../briefing.html)
+Wil je ook zo'n evenement? [Start hier met het maken van je briefing.](/briefing)
 
-[![Redders in Nood — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf2b_download-2.webp)](teambuilding-redders-in-nood.html#)
+##
 
-[![Redders in Nood — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b26739242_69762a339c7d454fd78754e2_Alphabet%2520Teambuilding%2520KNRM%2520Groepsfoto%2520.webp)](teambuilding-redders-in-nood.html#)
+##
 
-[![Redders in Nood — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3740a1893a7b2673914a_69762a33fbee567e178d4bab_Alphabet%2520Teambuilding%2520KNRM%2520Gast%2520trekt%2520pak%2520aan.webp)](teambuilding-redders-in-nood.html#)
+[![Redders in Nood — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf2b_download-2.webp)](#)
 
-[![Redders in Nood — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b267391df_69762a33c1bb8c1db4aa6c68_Alphabet%2520Teambuilding%2520KNRM%2520Gasten%2520lachen.webp)](teambuilding-redders-in-nood.html#)
+[![Redders in Nood — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b26739242_69762a339c7d454fd78754e2_Alphabet%2520Teambuilding%2520KNRM%2520Groepsfoto%2520.webp)](#)
 
-[![Redders in Nood — sfeerbeeld 5 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b267391d9_69762a332553a2f9be7c9cc9_Alphabet%2520Teambuilding%2520KNRM%2520Op%2520weg%2520naar%2520strand.webp)](teambuilding-redders-in-nood.html#)
+[![Redders in Nood — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3740a1893a7b2673914a_69762a33fbee567e178d4bab_Alphabet%2520Teambuilding%2520KNRM%2520Gast%2520trekt%2520pak%2520aan.webp)](#)
 
-[![Redders in Nood — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf2c_download-1.webp)](teambuilding-redders-in-nood.html#)
+[![Redders in Nood — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b267391df_69762a33c1bb8c1db4aa6c68_Alphabet%2520Teambuilding%2520KNRM%2520Gasten%2520lachen.webp)](#)
 
-[![Redders in Nood — sfeerbeeld 7 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf2a_download.webp)](teambuilding-redders-in-nood.html#)
+[![Redders in Nood — sfeerbeeld 5 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b267391d9_69762a332553a2f9be7c9cc9_Alphabet%2520Teambuilding%2520KNRM%2520Op%2520weg%2520naar%2520strand.webp)](#)
 
-[![Redders in Nood — sfeerbeeld 8 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b267391c0_69762a3346685eba29ca2a50_Alphabet%2520Teambuilding%2520KNRM%2520Drijven%2520in%2520zee.webp)](teambuilding-redders-in-nood.html#)
+[![Redders in Nood — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf2c_download-1.webp)](#)
 
-[![Redders in Nood — sfeerbeeld 9 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce8f_KNRM-Noordwijk-mensen-in-zee.webp)](teambuilding-redders-in-nood.html#)
+[![Redders in Nood — sfeerbeeld 7 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf2a_download.webp)](#)
+
+[![Redders in Nood — sfeerbeeld 8 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3746a1893a7b267391c0_69762a3346685eba29ca2a50_Alphabet%2520Teambuilding%2520KNRM%2520Drijven%2520in%2520zee.webp)](#)
+
+[![Redders in Nood — sfeerbeeld 9 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce8f_KNRM-Noordwijk-mensen-in-zee.webp)](#)
 
 No items found.
+
+##
+
+##
 
 ## Geïnspireerd geraakt?
 
