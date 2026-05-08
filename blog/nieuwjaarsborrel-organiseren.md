@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/nieuwjaarsborrel-organiseren"
 title: "Wat is een nieuwjaarsborrel en waarom telt hij zo?"
 description: "Nieuwjaarsborrel organiseren? Van borrel naar strategisch startmoment. Zo pak je het aan."
 section: "Blog"
-last_updated: "2026-05-08T16:52:01+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
