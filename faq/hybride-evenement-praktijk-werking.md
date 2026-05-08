@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hybride-evenement-praktijk-werking"
 title: "Hoe werkt een hybride evenement in de praktijk?"
 description: "Een hybride evenement werkt zo: fysieke deelnemers verzamelen zich op locatie, zoals een kantine, auditorium of vergaderzaal. Sprekers presenteren live voor beide groepen tegelijk. Online-deelnemers sluiten aan via een videoplatform (Zoom, Teams enzovoort) en zien dezelfde inhoud als het fysieke pub"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:04+00:00"
+last_updated: "2026-05-08T21:23:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
