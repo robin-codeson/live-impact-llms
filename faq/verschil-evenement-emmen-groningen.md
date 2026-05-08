@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-emmen-groningen"
 title: "Wat is het verschil tussen een evenement in Emmen en Groningen?"
 description: "Groningen is de dominante evenementenstad in het Noorden: druk, universitair, met een breed aanbod aan congreslocaties en hotels. Emmen is rustiger, groener en op eigen manier bijzonder. De stad heeft Dierenpark Emmen als troef. Deze evenementenlocatie heeft niets te maken met conventionele zakelijk"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:10+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
