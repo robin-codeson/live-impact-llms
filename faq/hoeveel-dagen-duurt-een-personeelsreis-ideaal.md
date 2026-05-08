@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-dagen-duurt-een-personeelsrei
 title: "Hoeveel dagen duurt een personeelsreis ideaal?"
 description: "De ideale duur hangt af van je doel. Voor teambuilding en ontspanning werken 2 tot 3 dagen het beste. Lang genoeg om echt los te komen van de dagelijkse routine, kort genoeg om de drempel laag te houden. Een enkele dag kan prima werken voor een actieve teamdag. Ga je voor een incentive-achtige reis "
 section: "FAQ"
-last_updated: "2026-05-08T17:02:23+00:00"
+last_updated: "2026-05-08T21:23:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
