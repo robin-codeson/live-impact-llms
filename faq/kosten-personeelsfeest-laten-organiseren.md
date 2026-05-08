@@ -1,14 +1,17 @@
-# Wat kost het om een personeelsfeest te laten organiseren? | Live Impact
-
-_Source: https://live-impact.nl/faq/kosten-personeelsfeest-laten-organiseren_
-
-< Back< Work
-
-Next >
+---
+canonical_url: "https://live-impact.nl/faq/kosten-personeelsfeest-laten-organiseren"
+title: "Wat kost het om een personeelsfeest te laten organiseren?"
+description: "Een personeelsfeest kost ongeveer €250 tot €350+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €225 tot €325+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €200 tot €300+ per persoon. Boven de 2.000 gasten op ongeveer €150 tot €200+ per persoon. Al"
+section: "FAQ"
+last_updated: "2026-05-08T17:06:32+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Wat kost het om een personeelsfeest te laten organiseren?
 
-Een uitbesteed personeelsfeest kost tussen €25.000 en €400.000 totaal. Voor 100 tot 200 personen reken op €25.000 tot €65.000. Voor 200 tot 400 personen op €50.000 tot €130.000. Voor 500+ personen €100.000 tot €400.000. Inclusief locatie, catering, entertainment, techniek en bureau-fee. De bureau-fee zelf zit meestal op 10 tot 20% van het totaal. Voor kleinere events hoger (vaste organisatietijd schaalt niet), voor grotere events lager.
+Een personeelsfeest kost ongeveer €250 tot €350+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €225 tot €325+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €200 tot €300+ per persoon. Boven de 2.000 gasten op ongeveer €150 tot €200+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
+
+Met de WKR kun je dit fiscaal voordelig organiseren.
 
 **[Meer weten over een personeelsfeest laten organiseren? Lees ons complete artikel →](/blog/personeelsfeest-laten-organiseren)**
 
