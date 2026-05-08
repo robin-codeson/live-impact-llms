@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/social-wall-inzetten-event"
 title: "Wat is een social wall en waarom werkt het bij zakelijke events?"
 description: "Social wall inzetten bij je event? Wat het is, welke software werkt, wat het kost en hoe je het slim in je programma verwerkt. Praktische gids van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:37+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
