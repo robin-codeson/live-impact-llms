@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-steden-brabant-zakelijke-evenem
 title: "Welke steden in Brabant zijn het meest geschikt voor zakelijke evenementen?"
 description: "Elke Brabantse stad heeft zijn eigen karakter. 's-Hertogenbosch is ideaal voor gala's, diners en congressen dankzij de historische binnenstad. Eindhoven past bij innovatieve en tech-georiënteerde evenementen op campussen en moderne locaties. Tilburg biedt creatieve, out-of-the-box formats in indrukw"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:42+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
