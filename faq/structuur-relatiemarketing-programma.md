@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/structuur-relatiemarketing-programma"
 title: "Hoe structureer je een relatiemarketing-programma over het jaar?"
 description: "Een effectief relatiemarketing-programma heeft een jaarlijkse cyclus met twee lagen. De eerste laag: één groter jaarlijks evenement waarbij alle relaties samenkomen, bijvoorbeeld een zomerfeest of eindejaarsbijeenkomst. Budget: €20.000 tot €60.000. De tweede laag: twee tot vier kleinere intieme even"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:18+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
