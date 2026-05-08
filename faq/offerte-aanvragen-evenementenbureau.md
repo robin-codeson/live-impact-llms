@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/offerte-aanvragen-evenementenbureau"
 title: "Hoe vraag je een offerte aan bij een evenementenbureau?"
 description: "Deel je doelstelling, gastenaantal, gewenste datum, budget-indicatie en type evenement. Hoe specifieker je briefing, hoe nauwkeuriger de offerte."
 section: "FAQ"
-last_updated: "2026-05-08T17:11:48+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
