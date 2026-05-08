@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-maastricht"
 title: "Kan Live Impact een evenement in Maastricht organiseren?"
 description: "Ja, Live Impact organiseert zakelijke evenementen in Maastricht en de rest van Limburg. Wij kennen de stad, de beste locaties en de Limburgse leveranciers. Of het nu gaat om een congres in het MECC, een gala-diner in een historische kelder of een teamdag in het Jekerkwartier: wij regelen het volledi"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:37+00:00"
+last_updated: "2026-05-08T21:23:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
