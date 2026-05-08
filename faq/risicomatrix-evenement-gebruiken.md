@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/risicomatrix-evenement-gebruiken"
 title: "Hoe gebruik ik een risicomatrix voor mijn evenement?"
 description: "Beoordeel elk risico op twee assen: kans en impact. Kans loopt van 1 (zeer onwaarschijnlijk) tot 5 (vrijwel zeker). Impact loopt van 1 (verwaarloosbaar) tot 5 (evenement gaat niet door). Vermenigvuldig de scores: dat geeft een risicoscore van 1 tot 25. Risico's boven de 12 verdienen een concreet act"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:44+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
