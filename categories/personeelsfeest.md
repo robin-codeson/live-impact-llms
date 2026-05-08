@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/personeelsfeest"
 title: "Personeelsfeest organiseren?"
 description: "Personeelsfeest organiseren? Vertaal jullie unieke DNA naar een spraakmakend event met onze Serious Fun aanpak. Volledig ontzorgd van A tot Z. Plan een afspraak!"
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:23+00:00"
+last_updated: "2026-05-08T21:22:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
