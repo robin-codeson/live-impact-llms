@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/tijd-locatie-scouting"
 title: "Hoeveel tijd kost een locatie-scouting?"
 description: "Goed scouten kost tijd. Voor een standaard evenement (50-100 personen): plan 3-4 weken. Week 1: criteria definiëren + online zoeken. Week 2: bellen naar longlist, afspraken maken. Week 3: locaties bezoeken (max. 3 per dag om aandacht volledig te geven). Week 4: vergelijken, onderhandelen, bevestigen"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:54+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
