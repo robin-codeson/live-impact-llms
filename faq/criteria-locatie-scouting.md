@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/criteria-locatie-scouting"
 title: "Welke criteria moet je hanteren bij locatie-scouting?"
 description: "De belangrijkste criteria bij locatie-scouting zijn capaciteit, bereikbaarheid, technische mogelijkheden en sfeer. Controleer of de ruimte groot genoeg is voor je programma. Let op aantallen en op de opstelling. Bereikbaarheid met openbaar vervoer bepaalt de opkomst. Technische mogelijkheden zoals g"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:05+00:00"
+last_updated: "2026-05-08T21:22:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
