@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/creatief-evenementconcept-kenmerken"
 title: "Wat maakt een evenementconcept echt creatief?"
 description: "Creativiteit in een evenementconcept ontstaat niet uit versiering, maar uit intentie. Een echt creatief concept heeft een verrassende insteek die direct raakt aan de boodschap. Elk element, van decor tot werkvormen, dient een doel. We activeren gasten in plaats van ze alleen aan te spreken. En het c"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:03+00:00"
+last_updated: "2026-05-08T21:22:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
