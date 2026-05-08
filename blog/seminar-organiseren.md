@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/seminar-organiseren"
 title: "Wat is een seminar?"
 description: "Seminar organiseren dat meer is dan een lezing? Opzet, sprekers en programma voor echte impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:34+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
