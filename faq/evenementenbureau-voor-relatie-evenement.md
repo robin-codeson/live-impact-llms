@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-voor-relatie-evenem
 title: "Waarom een evenementenbureau inschakelen voor je relatie-evenement?"
 description: "Een relatie-evenement is het visitekaartje van je bedrijf richting je meest waardevolle contacten. Een evenementenbureau zorgt dat dit visitekaartje er perfect uitziet. Ze brengen creativiteit voor het concept en een netwerk van locaties en leveranciers. Ook nemen ze de organisatorische ervaring mee"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:41+00:00"
+last_updated: "2026-05-08T21:23:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
