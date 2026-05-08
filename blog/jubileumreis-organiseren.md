@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/jubileumreis-organiseren"
 title: "Waarom een reis soms de betere jubileumviering is"
 description: "Jubileumreis organiseren? Ontdek wanneer een reis beter werkt dan een feest. En hoe je het jubileumverhaal verweeft in het programma."
 section: "Blog"
-last_updated: "2026-05-08T16:51:36+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
