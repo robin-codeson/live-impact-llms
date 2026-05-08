@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/klantevent-budget"
 title: "Dit bepaalt de prijs van een klantevent"
 description: "Wat kost een klantevent? Eerlijke budgetten voor 25, 75 en 150 personen, met uitsplitsing per kostenpost en advies over waar je wel en niet op moet besparen."
 section: "Blog"
-last_updated: "2026-05-08T16:51:41+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
