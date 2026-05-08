@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/professionele-beveiliging-nodig-evene
 title: "Wanneer heb ik professionele beveiliging nodig op mijn evenement?"
 description: "Bij evenementen boven de 250 gasten is professionele beveiliging aan te raden. Bij evenementen met VIP-gasten, gevoelige onderwerpen, mediacontact of alcohol is het een must. Beveiligers moeten discreet maar herkenbaar zijn en getraind in de-escalatie. Bespreek vooraf scenario's: ongenode gasten, ag"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:18+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
