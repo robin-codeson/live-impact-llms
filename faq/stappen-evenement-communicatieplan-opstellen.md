@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/stappen-evenement-communicatieplan-op
 title: "Hoe stel je stap voor stap een evenement communicatieplan op?"
 description: "Stap 1: formuleer je evenementdoel in één zin, bijvoorbeeld '80% opkomst van IT-directors'. Stap 2: maak een doelgroepprofiel. Wie zijn zij, waar zijn ze actief en waar liggen ze wakker van? Stap 3: bepaal je kernboodschap in maximaal tien woorden, zoals 'Samen innovatie in AI omarmen'. Stap 4: kies"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:14+00:00"
+last_updated: "2026-05-08T21:24:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
