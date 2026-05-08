@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/leveranciersdagen-organiseren"
 title: "Leveranciersdagen: meer dan een bedankje aan je keten"
 description: "Leveranciersdagen organiseren? Strategisch leveranciersevenement opzetten dat ketenrelaties verdiept. Voor 15 tot 400 toeleveranciers door heel Nederland."
 section: "Blog"
-last_updated: "2026-05-08T16:51:50+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
