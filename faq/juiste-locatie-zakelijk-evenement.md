@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-locatie-zakelijk-evenement"
 title: "Hoe vind je de juiste locatie voor je zakelijk evenement?"
 description: "De juiste locatie begint niet bij een zoekopdracht maar bij een helder programma van eisen: hoeveel gasten, welk type evenement, welke sfeer, welk budget en welke regio? Vanuit die criteria maak je een gerichte selectie en bezoek je de beste opties persoonlijk. Live Impact kent locaties door heel Ne"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:47+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
