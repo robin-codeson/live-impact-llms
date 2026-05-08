@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/medewerkers-betrekken-5-jarig-jubileu
 title: "Hoe betrek je medewerkers bij een 5-jarig jubileum?"
 description: "Betrek medewerkers al vóór het jubileum: laat hen bijdragen aan het concept, verzamel hun verhalen, of maak hen onderdeel van het programma. Erkenning begint niet op de avond zelf."
 section: "FAQ"
-last_updated: "2026-05-08T17:11:20+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
