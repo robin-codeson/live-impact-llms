@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/budget-pitchdocument-evenementenburea
 title: "Moet ik het budget vermelden in een pitchdocument voor een evenementenbureau?"
 description: "Ja. Budget weglaten is de meest voorkomende fout in een evenementenbriefing. Bureaus die geen budget kennen, presenteren voorstellen die er ver naast zitten. Te groot, te klein of met de verkeerde focus. Geef een bandbreedte. Voorbeeld: \"Wij werken met een budget van €50.000 tot €75.000 exclusief BT"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:37+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
