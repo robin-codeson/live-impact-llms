@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-oss"
 title: "Oss: Brabantse trots met zakelijke pit"
 description: "Evenement organiseren in Oss? Brabantse gezelligheid en industriële kracht. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:39+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
