@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-beginnen-communicatie-eveneme
 title: "Wanneer begin je met de communicatie rondom een evenement?"
 description: "Voor een evenement van 100+ gasten begin je minimaal acht weken van tevoren met de communicatie. Voor evenementen met externe VIP-gasten of drukke executives: tien tot twaalf weken. De eerste stap is een pre-aankondiging of save-the-date die de datum blokkeert in agenda's. Veel organisatoren beginne"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:45+00:00"
+last_updated: "2026-05-08T21:24:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
