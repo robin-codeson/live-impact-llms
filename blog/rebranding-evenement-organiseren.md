@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/rebranding-evenement-organiseren"
 title: "Waarom een rebranding een lanceermoment verdient"
 description: "Rebranding evenement organiseren? Hoe je je nieuwe merknaam, huisstijl of positionering lanceert met een event dat blijft hangen. Met opzetten."
 section: "Blog"
-last_updated: "2026-05-08T16:52:25+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
