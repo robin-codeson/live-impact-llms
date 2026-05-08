@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ingredienten-geslaagde-projectafsluit
 title: "Wat zijn de ingrediënten van een geslaagde projectafsluiting?"
 description: "Een geslaagde projectafsluiting heeft vier elementen. Ten eerste een terugblik: wat hebben we bereikt? Ten tweede erkenning: wie heeft welke bijdrage geleverd? Een project afsluiten zonder mensen te bedanken is een gemiste kans. Ten derde een blik vooruit: wat nemen we mee naar volgende projecten? E"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:18+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
