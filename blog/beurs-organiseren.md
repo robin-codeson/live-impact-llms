@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/beurs-organiseren"
 title: "Beurs organiseren: een platform voor je sector, je klanten of je partners"
 description: "Beurs organiseren? Van platformconcept en exposantenmix tot programma en budget. Zo zet je een professionele vakbeurs of sector-expo op. Aanpak van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:34+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
