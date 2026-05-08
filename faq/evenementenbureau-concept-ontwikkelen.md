@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-concept-ontwikkelen
 title: "Kan een evenementenbureau een concept voor mij ontwikkelen?"
 description: "Ja, conceptontwikkeling is de kern van wat wij doen. Bij Live Impact vertalen we jouw briefing, doelstelling en doelgroep naar een creatief concept dat past bij je merk. Dat begint met een grondige analyse van wat je wilt bereiken. Daarna volgt een creatieve sessie met ons team, resulterend in een c"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:32+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
