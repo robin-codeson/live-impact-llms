@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onvergetelijk-evenement-deventer"
 title: "Hoe maak je een evenement in Deventer onvergetelijk?"
 description: "Deventer is een van de mooiste middeleeuwse Hanzesteden van Nederland. Gebruik die identiteit voluit. Kies een locatie in de historische binnenstad. Denk aan een voormalig klooster, een pakhuis aan de IJssel of een sfeervolle kelder onder een 15e-eeuws pand. Voeg de IJssel toe aan je programma. Plan"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:05+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
