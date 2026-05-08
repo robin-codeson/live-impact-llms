@@ -1,8 +1,13 @@
-[< Back](algemene-voorwaarden.html#)[< Work](algemene-voorwaarden.html#)
+---
+canonical_url: "https://live-impact.nl/algemene-voorwaarden"
+title: "Algemene Voorwaarden | Live Impact Evenementenbureau"
+description: "Alles over onze afspraken, diensten en juridische informatie — duidelijk opgeschreven. Live Impact werkt transparant. Lees ze hier."
+section: "Hoofdpagina's"
+last_updated: "2026-05-08T16:49:07+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](algemene-voorwaarden.html#)
-
-# Algemene Voorwaarden
+## Algemene Voorwaarden
 
 ## Algemene voorwaarden Live Impact Eventmarketing / IDEA
 
@@ -218,9 +223,9 @@ Opdrachtnemer is gerechtigd om de kosten van de beantwoording van verzoeken van 
 
 ## Contactgegevens
 
-Live Impact | Eventmarketing
-De heer R. Hensen
-Veemarktkade 8
+Live Impact | Eventmarketing  
+De heer R. Hensen  
+Veemarktkade 8  
 5222 AE ‘s-Hertogenbosch
 
 ‍
