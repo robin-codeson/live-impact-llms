@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/teambuilding-activiteiten"
 title: "Teambuilding activiteiten die verder gaan dan een dagje uit"
 description: "Teambuilding activiteiten die meer doen dan een dagje uit? 20 bewezen ideeën voor elk teamtype."
 section: "Blog"
-last_updated: "2026-05-08T16:52:42+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
