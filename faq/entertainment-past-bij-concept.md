@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/entertainment-past-bij-concept"
 title: "Hoe zorg je dat entertainment past bij je concept?"
 description: "Entertainment dat losstaat van het concept voelt als twee aparte evenementen. Begin bij je thema en doelstelling: welk gevoel wil je oproepen en wat moet er hangen blijven? Bespreek dit met de artiest vóór de boeking. Veel acts passen hun optreden aan op het concept. Denk ook aan de plek in het prog"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:02+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
