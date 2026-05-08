@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-eventbureau-inschakelen"
 title: "Waarom een eventbureau inschakelen?"
 description: "Een eventbureau bespaart je tijd. Je krijgt expertise in huis en een beter resultaat. Geen zorgen meer over de details. Zij regelen het."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:33+00:00"
+last_updated: "2026-05-08T21:24:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
