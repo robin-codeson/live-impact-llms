@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-teambuilding-buiten-teamdag"
 title: "Wat is het verschil tussen teambuilding buiten en een reguliere teamdag?"
 description: "Een reguliere teamdag kan ook binnenshuis plaatsvinden. Teambuilding buiten is een bewuste keuze: de buitenomgeving wordt ingezet als inhoudelijk instrument. Buiten bewegen mensen anders, praten mensen eerlijker en vallen hiërarchische grenzen sneller weg. Dat maakt teambuilding in de buitenlucht bi"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:33+00:00"
+last_updated: "2026-05-08T21:24:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
