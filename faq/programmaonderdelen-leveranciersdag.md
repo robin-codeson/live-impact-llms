@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programmaonderdelen-leveranciersdag"
 title: "Welke programmaonderdelen passen bij een leveranciersdag?"
 description: "Een succesvolle leveranciersdag combineert zakelijk met sociaal. Start met een presentatie (30 min) van je CFO of CEO over de strategie: groeiplannen, innovatiefocus, toekomstvisie. Dit maakt duidelijk waarom je leveranciers nodig hebt. Volg op met een productrondleiding als je iets nieuws hebt gela"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:28+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
