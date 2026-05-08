@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-leveranciersdag-9b87a"
 title: "Kan Live Impact een leveranciersdag voor ons organiseren?"
 description: "Ja, Live Impact is expert in het organiseren van leveranciersdagen. Dit is een gespecialiseerde vorm van B2B-evenement, waarbij subtiliteit en strategische timing belangrijk zijn. Ons proces: je vertelt ons wat je wilt bereiken (relatieversterking, feedback verzamelen, innovatieprikkels), en wij bou"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:43+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
