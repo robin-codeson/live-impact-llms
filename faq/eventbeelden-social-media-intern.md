@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eventbeelden-social-media-intern"
 title: "Hoe gebruik je eventbeelden nadien voor social media en intern?"
 description: "Eventbeelden zijn goud voor je personeelsmagazine, intranet en socialmediakanalen. Voor LinkedIn: kies 20 tot 30 beste stilstaande beelden, voeg citaten van sprekers toe en plaats ze in een carrouselpost. Voor interne nieuwsbrieven: selecteer momentopnames die de sfeer van het evenement weergeven en"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:18+00:00"
+last_updated: "2026-05-08T21:23:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
