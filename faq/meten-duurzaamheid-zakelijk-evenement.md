@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/meten-duurzaamheid-zakelijk-evenement
 title: "Hoe meet je de duurzaamheidsprestaties van een zakelijk evenement?"
 description: "De meest gebruikte indicatoren zijn de CO2-uitstoot per deelnemer en het afvalpercentage. De CO2-uitstoot bestaat uit transport, energie en catering. Het afvalpercentage geeft aan hoeveel procent werd gescheiden of hergebruikt. Een derde indicator is het aandeel duurzame leveranciers. Voor CO2-metin"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:29+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
