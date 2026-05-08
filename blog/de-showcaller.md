@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/de-showcaller"
 title: "De onzichtbare kracht achter een strakke show"
 description: "Showcaller inhuren voor je evenement? De dirigent die live cue-to-cue regisseert. Wat hij doet, wanneer nodig, wat het kost. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:49:55+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
