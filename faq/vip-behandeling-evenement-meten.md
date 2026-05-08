@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vip-behandeling-evenement-meten"
 title: "Hoe meet ik of de VIP-behandeling bij een evenement werkt?"
 description: "Vraag VIP-gasten persoonlijk om feedback na het evenement. Kijk daarnaast naar de zakelijke uitkomst: welke relaties zijn verdiept en welke gesprekken zijn op gang gekomen?"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:53+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
