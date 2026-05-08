@@ -1,17 +1,18 @@
-[< Back](opening-centrum-kindermishandeling.html#)[< Work](opening-centrum-kindermishandeling.html#)
-
-[Next >](opening-centrum-kindermishandeling.html#)
-
-[
-
-](opening-centrum-kindermishandeling.html)
+---
+canonical_url: "https://live-impact.nl/portfolio/opening-centrum-kindermishandeling"
+title: "Samen muren doorbreken"
+description: "MDCK opening Hoofddorp: samen muren breken tegen kindermishandeling. Ontdek hoe Live Impact met Prinses Beatrix een krachtige 'Serieus Leuke' start neerzette."
+section: "Portfolio"
+last_updated: "2026-05-08T22:30:09+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
 ![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
 
 ![Centrum Kindermishandeling — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce8_69761540fe4ab7cb47bcf695_03.%2520Beatrix%2520applaus.webp)
 
-[Opening bedrijf](opening-centrum-kindermishandeling.html#)
+[Opening bedrijf](#)
 
 ## Centrum Kindermishandeling
 
@@ -29,31 +30,39 @@ Bij zo’n zwaar onderwerp moet de boodschap hard binnenkomen. Een barrière doo
 
 ‍
 
-Meer weten over openingsevenementen? Bekijk onze aanpak op de [opening pagina](../categories/opening.html).
+Meer weten over openingsevenementen? Bekijk onze aanpak op de [opening pagina](/categories/opening).
 
-Wil je ook zo’n event? [Start hier met het maken van je briefing.](../briefing.html)
+Wil je ook zo’n evenement? [Start hier met het maken van je briefing.](/briefing)
 
-Meer weten over het organiseren van een [opening](../categories/opening.html)? Bekijk onze aanpak.
+##
 
-Wil je ook zo'n event? [Start hier met het maken van je briefing.](../briefing.html)
+Meer weten over het organiseren van een [opening](/categories/opening)? Bekijk onze aanpak.
 
-[![Centrum Kindermishandeling — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd624345c_697615403ba03c51352284da_05.%2520Medewerkers%2520breken%2520door%2520muur.webp)](opening-centrum-kindermishandeling.html#)
+Wil je ook zo'n evenement? [Start hier met het maken van je briefing.](/briefing)
 
-[![Centrum Kindermishandeling — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36db1bf1445cd62434ef_69761540f3e180ea645809ae_08.%2520Aankomst%2520met%2520politie.webp)](opening-centrum-kindermishandeling.html#)
+##
 
-[![Centrum Kindermishandeling — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce8_69761540fe4ab7cb47bcf695_03.%2520Beatrix%2520applaus.webp)](opening-centrum-kindermishandeling.html#)
+[![Centrum Kindermishandeling — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd624345c_697615403ba03c51352284da_05.%2520Medewerkers%2520breken%2520door%2520muur.webp)](#)
 
-[![Centrum Kindermishandeling — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434d0_69761540e05ee9209b2ddea7_Beatrix%2520komt%2520gebrouw%2520uit%2520na%2520opening.webp)](opening-centrum-kindermishandeling.html#)
+[![Centrum Kindermishandeling — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36db1bf1445cd62434ef_69761540f3e180ea645809ae_08.%2520Aankomst%2520met%2520politie.webp)](#)
 
-[![Centrum Kindermishandeling — sfeerbeeld 7 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434ca_69761540afd5a9c2c4405f53_02.%2520Beatrix%2520in%2520zaal.webp)](opening-centrum-kindermishandeling.html#)
+[![Centrum Kindermishandeling — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce8_69761540fe4ab7cb47bcf695_03.%2520Beatrix%2520applaus.webp)](#)
 
-[![Centrum Kindermishandeling — sfeerbeeld 8 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434cd_6976154081fe246e3329ec8a_Beatrix%2520steen.webp)](opening-centrum-kindermishandeling.html#)
+[![Centrum Kindermishandeling — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434d0_69761540e05ee9209b2ddea7_Beatrix%2520komt%2520gebrouw%2520uit%2520na%2520opening.webp)](#)
 
-[![Centrum Kindermishandeling — sfeerbeeld 9 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434df_69761540b0ff80ea78340bff_Philip%2520gouden%2520steen.webp)](opening-centrum-kindermishandeling.html#)
+[![Centrum Kindermishandeling — sfeerbeeld 7 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434ca_69761540afd5a9c2c4405f53_02.%2520Beatrix%2520in%2520zaal.webp)](#)
 
-[![Centrum Kindermishandeling — sfeerbeeld 10 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434d3_69761540db0a086874a3a766_01.%2520Dozen%2520in%2520restaurant.webp)](opening-centrum-kindermishandeling.html#)
+[![Centrum Kindermishandeling — sfeerbeeld 8 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434cd_6976154081fe246e3329ec8a_Beatrix%2520steen.webp)](#)
+
+[![Centrum Kindermishandeling — sfeerbeeld 9 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434df_69761540b0ff80ea78340bff_Philip%2520gouden%2520steen.webp)](#)
+
+[![Centrum Kindermishandeling — sfeerbeeld 10 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434d3_69761540db0a086874a3a766_01.%2520Dozen%2520in%2520restaurant.webp)](#)
 
 No items found.
+
+##
+
+##
 
 ## Geïnspireerd geraakt?
 
