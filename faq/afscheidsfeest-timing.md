@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/afscheidsfeest-timing"
 title: "Wat levert Live Impact bij een afscheidsfeest?"
 description: "Ja, Live Impact organiseert waardige en persoonlijke afscheidsfeesten op maat. We helpen bij alles: locatiekeuze, thema, catering, decoratie, toespraak en cadeauselectie. We begeleiden je door het emotionele en praktische proces. Zo creëer je een onvergetelijk afscheid waarin de vertrekkende zich ec"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:50+00:00"
+last_updated: "2026-05-08T21:22:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
