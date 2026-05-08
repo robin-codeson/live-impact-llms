@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/formats-loyaliteitsevenement"
 title: "Welke formats zijn effectief voor een loyaliteitsevenement?"
 description: "Voor een loyaliteitsevenement werken twee formats goed. Format 1: exclusieve dinerclub. Intiem (15-25 personen), mooie locatie (restaurant, landgoed, tophotel), 2-3 uur. Zorg voor gespreksopeners: een tafelronde met thematische vragen (bijv. \"wat is je grootste professionele succes van dit jaar?\"). "
 section: "FAQ"
-last_updated: "2026-05-08T16:59:43+00:00"
+last_updated: "2026-05-08T21:23:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
