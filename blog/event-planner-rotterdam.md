@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/event-planner-rotterdam"
 title: "Wat een event planner in Rotterdam voor je doet"
 description: "Event planner Rotterdam nodig? Eén vaste contactpersoon die jouw zakelijk event uit handen neemt. Kent de stad, regelt alles."
 section: "Blog"
-last_updated: "2026-05-08T16:51:06+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
