@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-toegankelijk-evenement"
 title: "Kan Live Impact je helpen een toegankelijk evenement te organiseren?"
 description: "Live Impact ziet toegankelijkheid als kernstandaard, niet als toevoeging. Ons proces bestaat uit zes onderdelen. Bij de evenement-briefing vragen we naar doelgroep-diversiteit en aandacht voor beperkingen. De locatie selecteren we met een toegankelijkheidschecklist. Het programma krijgt rustmomenten"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:31+00:00"
+last_updated: "2026-05-08T21:24:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
