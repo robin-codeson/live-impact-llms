@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eisen-idea-keurmerk-evenementenbureau
 title: "Wat zijn de eisen voor het IDEA-keurmerk?"
 description: "De IDEA-eisen voor evenementenbureaus zijn streng. De kernvereisten staan hieronder. 1) Voldoende bedrijfservaring (minimaal 3 jaar). 2) Minstens 2 gekwalificeerde medewerkers met certificering. 3) Een bedrijfsaansprakelijkheidsverzekering van minimaal 500.000 euro per schadeval. 4) Naleving van Ned"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:55+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
