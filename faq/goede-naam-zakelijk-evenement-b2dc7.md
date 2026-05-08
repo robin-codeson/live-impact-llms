@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/goede-naam-zakelijk-evenement-b2dc7"
 title: "Hoe bedenk je een goede naam voor een zakelijk evenement?"
 description: "Een goede naam voor een zakelijk evenement begint met jouw doel. Wat wil je bereiken? Innovatie stimuleren? Zeg het in de naam: \"Innovation Summit 2026\". Relaties bouwen? \"Connected Leaders Diner\". Klanten waarderen? \"VIP Celebration Night\". Stap 2: definieer je doelgroep. Voor bestuurders? Kies iet"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:14+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
