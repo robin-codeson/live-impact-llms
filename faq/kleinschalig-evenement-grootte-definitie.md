@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kleinschalig-evenement-grootte-defini
 title: "Wat is een kleinschalig evenement qua grootte?"
 description: "Een kleinschalig evenement ligt tussen 20 en 150 personen, met nadruk op 20-50 voor echte intimiteit. Dit onderscheidt zich van grote evenementen (150+) en kleine privé-bijeenkomsten (<20). De voordelen van deze grootte: je kunt nog iedereen persoonlijk groeten, chaotische logistiek blijft beheersba"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:35+00:00"
+last_updated: "2026-05-08T21:23:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
