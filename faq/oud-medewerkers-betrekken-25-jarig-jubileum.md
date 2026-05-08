@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/oud-medewerkers-betrekken-25-jarig-ju
 title: "Hoe betrek je oud-medewerkers bij een 25-jarig jubileum?"
 description: "Oud-medewerkers betrekken bij een 25-jarig jubileum geeft de avond extra diepte en emotie. Praktische manieren: stuur een persoonlijke uitnodiging naar oud-collega's via LinkedIn of via het netwerk van huidige medewerkers. Maak een herinneringswand of digitale tijdlijn. Iedereen, oud en nieuw, kan h"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:35+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
