@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-ede-arnhem"
 title: "Wat is het verschil tussen een evenement in Ede en Arnhem?"
 description: "Ede en Arnhem liggen vlak bij elkaar op de Veluwe, maar hebben een heel andere evenementenpersoonlijkheid. Arnhem is stedelijker en cultureler, met meer grootstedelijke allure. Denk aan evenementen in lofts, musea en designlocaties. Ede is groener en ruimtelijker, natuurgerichter ook. Perfect voor e"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:08+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
