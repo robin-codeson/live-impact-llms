@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-bedrijfsopening-organi
 title: "Wat zijn best practices voor Bedrijfsopening Organiseren?"
 description: "Een geslaagde bedrijfsopening vraagt om een formeel openingsmoment, goede communicatie naar genodigden en een programma dat de identiteit van het bedrijf weerspiegelt. Nodig de juiste mix van gasten uit: klanten, partners, gemeente en media. Zorg voor een symbolische handeling die de opening markeer"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:02+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
