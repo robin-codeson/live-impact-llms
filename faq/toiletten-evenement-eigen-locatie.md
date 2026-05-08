@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/toiletten-evenement-eigen-locatie"
 title: "Hoe zorg je voor voldoende toiletten bij een evenement op eigen locatie?"
 description: "De basisregel: reken op één toilet per 25 gasten. Heb je onvoldoende sanitair op je locatie? Dan huur je mobiele toiletunits of luxe sanitaire cabines. Dat is gangbaar en werkt goed. Let daarbij ook op wateraansluiting, afvoermogelijkheden en de loopafstand voor gasten. Voor grote evenementen zorg j"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:59+00:00"
+last_updated: "2026-05-08T21:24:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
