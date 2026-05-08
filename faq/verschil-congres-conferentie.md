@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-congres-conferentie"
 title: "Wat is het verschil tussen een congres en een conferentie?"
 description: "In de praktijk worden congres en conferentie door elkaar gebruikt, maar er is een nuanceverschil. Een congres is doorgaans groter en formeler, gericht op brede kennisdeling binnen een sector of vakgebied. Een conferentie is iets breder. Ze bevat vaker interactieve en werkgerichte elementen, zoals we"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:46+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
