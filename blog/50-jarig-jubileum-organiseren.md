@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/50-jarig-jubileum-organiseren"
 title: "Waarom een 50-jarig jubileum meer is dan een feest"
 description: "Een 50-jarig jubileum organiseren? Ontdek hoe je een halve eeuw vertaalt naar een evenement dat raakt, verbindt en vooruitkijkt. Tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:17+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
