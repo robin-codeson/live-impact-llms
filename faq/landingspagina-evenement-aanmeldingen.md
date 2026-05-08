@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/landingspagina-evenement-aanmeldingen
 title: "Wat zet je op de landingspagina voor evenement-aanmeldingen?"
 description: "Een goede evenementlandingspagina bevat de kernbelofte: wat krijg je als je komt? Geef ook datum, locatie en duur, een overzicht van sprekers of hoogtepunten, een kort programmaschema en een helder aanmeldformulier. Vraag niet meer dan nodig: naam, e-mail en bedrijf is genoeg. Houd de pagina kort en"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:57+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
