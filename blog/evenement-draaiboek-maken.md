@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-draaiboek-maken"
 title: "Draaiboek vs. checklist: twee instrumenten, twee functies"
 description: "Evenement draaiboek maken dat écht werkt op de dag zelf? Rollen, tijdlijn en uitloopopties."
 section: "Blog"
-last_updated: "2026-05-08T16:50:10+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
