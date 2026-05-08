@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/merkactivatie-organiseren"
 title: "Wat merkactivatie is en waarom het werkt"
 description: "Merkactivatie organiseren die indruk maakt? Zo breng je je merk tot leven, voorbij alleen zichtbaarheid."
 section: "Blog"
-last_updated: "2026-05-08T16:51:55+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
