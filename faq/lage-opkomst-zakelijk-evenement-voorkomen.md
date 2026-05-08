@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/lage-opkomst-zakelijk-evenement-voork
 title: "Hoe voorkom ik een lage opkomst bij een zakelijk evenement?"
 description: "Stuur drie communicatiemomenten. Verstuur een uitnodiging vier weken van tevoren. Volg op met een reminder twee weken vooraf en een praktisch bericht drie dagen ervoor."
 section: "FAQ"
-last_updated: "2026-05-08T17:06:56+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
