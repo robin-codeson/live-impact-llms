@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-zoetermeer-db61
 title: "Kan Live Impact een evenement in Zoetermeer organiseren?"
 description: "Ja. Live Impact organiseert zakelijke evenementen in Zoetermeer en de regio Den Haag. Zoetermeer is goed bereikbaar via de snelweg en het openbaar vervoer. De stad heeft meerdere professionele locaties die geschikt zijn voor congressen, kick-offs en personeelsfeesten. Wij kennen de regio, de lokale "
 section: "FAQ"
-last_updated: "2026-05-08T17:09:00+00:00"
+last_updated: "2026-05-08T21:24:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
