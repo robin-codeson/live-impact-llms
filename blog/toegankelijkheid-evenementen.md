@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/toegankelijkheid-evenementen"
 title: ""
 description: "Toegankelijke evenementen? Verder dan een rolstoelplaats — zo voelt iedereen zich welkom. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:52:54+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
