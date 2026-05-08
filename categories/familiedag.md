@@ -1,89 +1,111 @@
-[< Back](familiedag.html#)[< Work](familiedag.html#)
+---
+canonical_url: "https://live-impact.nl/categories/familiedag"
+title: "De familiedag als HR-instrument"
+description: "Familiedag voor je bedrijf organiseren? Een dag die medewerkers én hun gezin bijblijft. Serieus Leuk."
+section: "Categorieën"
+last_updated: "2026-05-08T16:53:18+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](familiedag.html#)
+![Sfeerbeeld van een groot familiefestival bij daglicht in het groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f68986cf1046e96b71c2_69c061720a60bf478e2227cf_Togetherland_LiveImpact_BartHeemskerk_366_HQ-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
-[
+# De familiedag als HR-instrument
 
-](https://s3.amazonaws.com/webflow-prod-assets/695b829c457806268234cdfa/6973818bb9b50189d475335b_Heijmans%20Familiefestival%202025%20-%20Live%20Impact%20Eventmarketing.mp4)
+Een familiedag wordt te vaak gezien als een 'leuk extraatje': een vrijblijvende dag voor de kinderen, met een springkasteel en een hotdog. En als het meezit, volgen blije foto's op intranet.
 
-![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
-![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+Een goed opgezette familiedag is veel meer dan dat. Het is het moment waarop medewerkers hun thuiswereld meenemen naar het werk. Ze tonen hun werkwereld aan de mensen die thuis op hen wachten.
 
-# Familiedag organiseren?
+Partner en kinderen begrijpen nu wat een medewerker zo druk mee is. Ze zien het kantoor, de collega's, de sfeer. Ze horen waarom iemand elke dag met energie naar dat werk gaat. Of, als het een moeizame periode was, krijgen ze een nieuw perspectief.
 
-Een familiedag voor je bedrijf die laat zien wie jullie zijn
+Een familiedag kan iets repareren. En het kan iets vieren. In beide gevallen is het een kans die je maar een paar keer per jaar hebt, en die de meeste organisaties onbenut laten.
 
-[Familiedag](familiedag.html#)
+## Drie doelgroepen, één programma
 
-## Groots & Gastvrij
+Dat is meteen de grootste uitdaging van de familiedag: je organiseert voor drie zeer verschillende groepen tegelijk. Medewerkers, partners en kinderen. Elke groep wil iets anders.
 
-Soms voel je het: de trots in de organisatie is er, maar je ziet ’m te weinig terug. Tussen de dagelijkse routine en wat jullie merk echt betekent, zit afstand. Een bedrijfsfamiliedag is het moment om die afstand te dichten. Niet met een “leuk uitje”, maar met een dag waarop partners en kinderen snappen waar hun thuisfront elke week aan meebouwt.
+Medewerkers willen verbinding met collega's en een ontspannen sfeer waarin ze trots kunnen voelen. Partners willen begrijpen waar hun wederhelft elke dag zit, en voelen zich welkom als dat lukt. Kinderen willen bewegen en spelen, maar niet te lang stilzitten.
 
-Leiderschap is dan: kiezen voor hulp die het groter maakt. Haak een partner aan die jullie cultuur begrijpt en het verhaal kan vertalen naar een dag die klopt. Zo wordt een bijeenkomst meer dan gezellig. Medewerkers voelen zich gezien, families voelen zich welkom, en de organisatie staat er ineens als één geheel.
+Het goede nieuws: dit hoeft niet te conflicteren. Met de juiste programmaopbouw geef je elk publiek wat het nodig heeft, zonder het voor een ander te verpesten.
 
-### Familieleden worden ambassadeurs
+De sleutel is parallelle programmalijnen. Terwijl de kinderen bezig zijn met activiteiten, kunnen volwassenen verbinden. Op momenten dat het programma gezamenlijk is (lunch, afsluiting, een optreden), komen alle drie de groepen samen.
 
-In een bedrijf waar uitstraling telt, is een voorspelbaar evenement een gemiste kans. Mensen voelen het meteen als iets “erbij” is gedaan. Daarom zien wij een familiedag niet als een los feest, maar als een traject: een goede opbouw, een sterke dag zelf, en een slimme afronding. Ons ‘Serious Fun’-principe is simpel: strakke organisatie, met genoeg creativiteit voor momenten waar mensen het later nog over hebben.
+## Locatie: groot, groen en kindvriendelijk
 
-We werken altijd vanuit drie onderdelen:
+Een familiedag vraagt een andere locatie dan een personeelsfeest. Je hebt ruimte nodig. Veel ruimte. Kinderen rennen. Ze moeten kunnen rennen.
 
-Identiteit: Wat typeert jullie echt? Dat vertalen we naar de ontvangst, de sfeer, de taal, de details.
-Concept: Geen kopie van een draaiboek, maar een invalshoek die past bij jullie mensen en jullie werk.
-Productie: We regelen leveranciers, techniek, planning en catering. Zodat de dag soepel loopt en iedereen zich veilig en welkom voelt.
+Parken, landgoederen, recreatieterreinen en buitenlocaties zijn ideaal. Ze bieden ruimte voor activiteiten en rustige plekken. Een tent als het regent. Een grasveld voor de kinderen. Een zithoek voor wie een gesprek wil voeren.
 
-Het resultaat: de buitenkant en het gevoel van binnen gaan dichter bij elkaar liggen. Je laat waardering zien op een manier die blijft hangen.
+Let bij de locatiekeuze op: bereikbaarheid met de auto (gezinnen rijden), parkeergelegenheid, toiletten (liefst ook voor kleine kinderen) en schaduw of overdekte opvang als het warm of nat wordt.
 
-‍
+## Programma: van ontvangst tot afsluiting
 
-[![Heijmans Familie Festival — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb6c_697251dd6faaf0888d4a4952_Overzicht%2520terrein%2520drone%25201300.jpeg)
+Een goede familiedag heeft een heldere dramaturgie. De ontvangst van 10:00 tot 11:00 is informeel. Mensen komen binnen met een welkomstdrankje en de kinderactiviteit start meteen. Geen toespraak bij aankomst, laat mensen landen.
 
-### Heijmans Familie Festival
+Van 11:00 tot 13:00 lopen parallelle activiteiten. Kinderen doen sportopdrachten, knutselen of springen, terwijl volwassenen een rondleiding krijgen of informeel netwerken. De gezamenlijke lunch van 13:00 tot 14:00 is het hart van de dag: iedereen samen, informeel, buiten als het kan.
 
-Familiedag
+Het middagprogramma van 14:00 tot 16:30 bestaat uit familiespelen in gemengde teams, gevolgd door een afsluiting met een klein optreden of verrassing. De dag sluit af tussen 16:30 en 17:00 met een dankwoord van de directeur van maximaal drie minuten, een cadeautasje voor de kinderen en een fotomoment.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/heijmans-familie-festival.html)
+## Budget en planning: wat kost een familiedag organiseren?
 
-[![Boskalis Beach Cleanup — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce9d_2.-Afvalzakken-wegen-1-scaled.webp)
+Een familiedag, open dag of leveranciersdag kost ongeveer €200 tot €300+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €175 tot €275+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €150 tot €250+ per persoon. Voor meer dan 2.000 gasten op ongeveer €100 tot €150+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-### Boskalis Beach Cleanup
+Een familiedag of open dag richt zich op een brede groep waaronder kinderen en partners. De prijs per persoon ligt lager dan bij een avondfeest doordat het programma en het cateringniveau anders zijn.
 
-Familiedag
+## Waarom de familiedag uitbesteden?
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/familiedag-boskalis-beach-cleanup.html)
+Een familiedag zelf organiseren is verleidelijk. De programmaopbouw voor drie doelgroepen tegelijk is een vak apart. Dat roept praktische vragen op: wanneer schakel je de kinderactiviteiten in en hoe houd je tegelijkertijd de volwassenen betrokken?
 
-[![Offshore Experience — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce9b_Familiedag-Ijsesmeisje-3-scaled-e1658756258366.webp)
+Er is ook de coöordinatieparadox: de HR-manager die de dag organiseert, kan op die dag zelf niet volledig aanwezig zijn. Je bent tegelijk producent en gast, en die twee rollen bijten elkaar.
 
-### Offshore Experience
+Bij Live Impact bouwen wij familiedagen met bewezen programmaopzetten. Een productieteam stuurt op de dag zelf alles aan. Zodat jij (en jouw collega's) kunt genieten.
 
-Familiedag
+## Zo organiseer je een familiedag die echt raakt
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/familiedag-offshore-experience.html)
+Eén dag. Drie doelgroepen. En als je het goed doet: een onvergetelijk moment voor iedereen die er bij was.
 
-[![100 jaar Hendriks Bouw — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce98_Foto-Wim-Roefs-5749_1200_.webp)
+Wij helpen je die dag bouwen. Van het eerste concept tot het laatste cadeautasje.
 
-### 100 jaar Hendriks Bouw
+Bel ons op **085 401 40 14** of mail naar **hello@live-impact.nl**.
 
-Jubileumfeest
+*Serieus Leuk.*
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileum-100-jaar-hendriks-bouw.html)
+## Lees ook
 
-[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](familiedag.html#)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-## Maak indruk bij het MT met een strak uitgevoerde familiedag
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-Een groot evenement organiseren brengt druk mee. Je wilt dat alles klopt: veiligheid, gastvrijheid, timing, details. Als je ons inschakelt voor jullie familiedag, nemen wij de regie over. Van eerste idee tot laatste tas bij de uitgang. Jij hoeft niet te rennen, te bellen of te fixen.
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
-Dat geeft je ruimte om de opbrengst te pakken. Je kunt in het MT laten zien wat dit oplevert: meer betrokkenheid, meer trots, een sterker werkgeversmerk. Geen “kostenpost”, maar een keuze die mensen voelen. En terwijl wij de logistiek bewaken, sta jij tussen je collega’s en hoor je direct wat het met ze doet.
+## Veelgestelde vragen
 
-Live Impact bedenkt en organiseert sinds 1998 familiedagen met een creatief en origineel verhaal. Waar je enthousiast van wordt, waar medewerkers en familieleden op af komen en waar ze energie van krijgen. Met als ultieme uitkomst dat na afloop elke deelnemer een nieuwe ambassadeur van jouw bedrijf is geworden.
+Maakt Live Impact een eerlijke begroting voor een familiedag?
 
-‍
+Ja. Wij maken voor elke familiedag een begroting waarin alles zichtbaar is: geen vage posten, geen verstopte marges. Je ziet precies waar je geld heen gaat en wat het effect is van plussen of minnen. Wij zijn een bureau dat concepten bedenkt en uitvoert, dus begroting en productie komen uit één hand.
 
-## Meer lezen
+Meer weten? [Lees het volledige artikel](/blog/familiedag-budget) of neem direct contact op.
 
-Lees ook: [Zakelijk evenement organiseren](../blog/zakelijk-evenement-organiseren.html) — of bekijk de mogelijkheden voor een [personeelsfeest](personeelsfeest.html). Antwoord op veelgestelde vragen vind je op onze [FAQ-pagina](../faq.html).
+Welke verborgen kosten zitten in een familiedag?
 
-![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+Vergeet verzekering, vergunningen, beveiliging, toiletten, EHBO, schoonmaak en op- en afbouw niet. Op papier saai, op de dag zelf onmisbaar. Reken deze kosten vooraf mee, anders krijg je halverwege je organisatieproces een nare verrassing. Live Impact beheert het volledige budget inclusief alle bijkomende kosten. Zo weet je van tevoren wat het totaal is en blijven er geen onvoorziene bedragen over.
+
+Meer over de volledige begroting? [Lees het volledige artikel](/blog/familiedag-budget).
+
+Hoe houd je een familiedag betaalbaar zonder dat het schraal voelt?
+
+Concentreer op één sterk hoofdmoment in plaats van tien middelmatige acts. Kies voor onbeperkt eten en drinken in plaats van muntjes. Maak de entree groots. Dat soort keuzes scheelt geld zonder dat het voelt als bezuinigen. Mensen voelen ruimhartigheid in details, niet in extra dure acts.
+
+Meer slimme keuzes? [Lees het volledige artikel](/blog/familiedag-budget).
+
+Wat kost een familiedag per persoon?
+
+Een familiedag, open dag of vitaliteitsevent kost ongeveer €200 tot €300+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €175 tot €275+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €150 tot €250+ per persoon. Boven de 2.000 gasten op ongeveer €100 tot €150+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
+
+Kan Live Impact het concept en de uitvoering van een familiedag verzorgen?
+
+Ja. Wij zijn een bureau dat concepten bedenkt en uitvoert. Wij bedenken het verhaal, kiezen de locatie en regelen de acts uit onze database. We bouwen het terrein op en zorgen op de dag dat alles loopt. Daardoor blijft het concept overeind tot het laatste opblaaskussen wordt opgeruimd.
+
+Meer weten? [Lees het volledige artikel](/blog/familiedag-concept) of neem direct contact op.
 
 ## Geïnspireerd geraakt?
 
