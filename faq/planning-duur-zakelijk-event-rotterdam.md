@@ -1,10 +1,11 @@
-# Hoe lang duurt de planning van een zakelijk event in Rotterdam? | Live Impact
-
-_Source: https://live-impact.nl/faq/planning-duur-zakelijk-event-rotterdam_
-
-< Back< Work
-
-Next >
+---
+canonical_url: "https://live-impact.nl/faq/planning-duur-zakelijk-event-rotterdam"
+title: "Hoe lang duurt de planning van een zakelijk event in Rotterdam?"
+description: "Voor een zakelijk event in Rotterdam met meer dan 100 personen reken je op 8 tot 12 weken voorbereiding. Grote producties (300+, met AV-techniek en catering van derden) vragen 4 tot 6 maanden. Voor een borrel of klein diner tot 80 personen volstaat 3 tot 4 weken, mits locatie en gastenlijst snel vas"
+section: "FAQ"
+last_updated: "2026-05-08T17:12:53+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Hoe lang duurt de planning van een zakelijk event in Rotterdam?
 
