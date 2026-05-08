@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/media-coverage-opening"
 title: "Hoe zorg ik voor mediaberichtgeving van mijn bedrijfsopening?"
 description: "Mediaberichtgeving begint met een nieuwswaardig moment. Koppel je opening aan een concrete boodschap: een primeur, een investering, een nieuwe locatie of een maatschappelijke impact. Stel een persmap samen met feiten, foto's en citaten. Nodig relevante redacties minimaal drie weken vooruit uit via e"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:24+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
