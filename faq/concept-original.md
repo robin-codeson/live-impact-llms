@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/concept-original"
 title: "Hoe zorg ik dat een concept niet cliché wordt?"
 description: "Een bestaand concept kun je op vijf manieren aanpassen aan jouw bedrijfscultuur. 1) Houd de kern, verander de verpakking: een standaardconcept krijgt jouw merkkleuren, jouw taal en jouw sfeer. 2) Maak de inhoud lokaal relevant: wat werkt voor een tech-bedrijf, vraagt bij een traditionele organisatie"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:55+00:00"
+last_updated: "2026-05-08T21:22:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
