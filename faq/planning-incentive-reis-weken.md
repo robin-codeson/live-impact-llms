@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-incentive-reis-weken"
 title: "Hoeveel weken van tevoren plan je een incentive reis?"
 description: "Plan 10 tot 14 weken vooraf. Dan heb je tijd voor budgetgoedkeuring, het kiezen van bestemming en partners, en voor vluchtboekingen. Ook de logistieke voorbereiding lukt dan ontspannen. Voor groepen boven de 50 personen plan je beter 4 tot 5 maanden vooruit. Hotels hebben dan meer beschikbaarheid en"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:56+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
