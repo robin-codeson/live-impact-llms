@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/productlancering-organiseren"
 title: "Productlancering organiseren: zo maak je van je lancering een moment dat mensen onthouden"
 description: "Productlancering organiseren? Lees alles over concept, onthulling, mediawaarde en budget. Zo maak je van je lancering een moment dat mensen onthouden."
 section: "Blog"
-last_updated: "2026-05-08T16:52:20+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
