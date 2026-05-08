@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunning-besloten-bedrijfsfeest"
 title: "Heb ik een vergunning nodig voor een besloten bedrijfsfeest?"
 description: "Niet altijd, maar soms wel. Een besloten feest op een externe locatie met eigen vergunning: meestal geen extra vergunning. Een besloten feest op eigen terrein met muziek of alcohol: vaak wel een ontheffing vereist."
 section: "FAQ"
-last_updated: "2026-05-08T17:15:19+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
