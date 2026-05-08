@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/leden-betrekken-evenement-vereniging"
 title: "Hoe betrek je leden bij de organisatie van een evenement?"
 description: "Leden betrekken je structureel: niet alleen op het evenement zelf, maar ook in de voorbereiding. Zet een planningscommissie van 5-7 leden samen. Laat hen mee bepalen wat er gebeurt, waar het plaatsvindt, wat er gegeten wordt. Dit geeft eigenaarschap. Vraag leden van tevoren hun onderwerpen in: 'Wat "
 section: "FAQ"
-last_updated: "2026-05-08T17:06:58+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
