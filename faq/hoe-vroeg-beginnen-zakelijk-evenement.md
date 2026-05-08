@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-vroeg-beginnen-zakelijk-evenement
 title: "Hoe ver van tevoren begin ik met het organiseren van een zakelijk evenement?"
 description: "Begin minimaal drie maanden van tevoren voor evenementen van honderd mensen of meer. Voor kleine teamevenementen is vier tot zes weken voldoende, mits de locatie beschikbaar is."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:13+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
