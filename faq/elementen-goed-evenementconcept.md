@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/elementen-goed-evenementconcept"
 title: "Welke elementen bevat een goed evenementconcept?"
 description: "Een goed evenementconcept heeft vijf bouwstenen: een thema, een rode draad, een kernboodschap, een visuele stijl en een programmaverhaal. Het thema vertaalt de kern van de boodschap. De rode draad verbindt alle programmaonderdelen. De kernboodschap nemen gasten mee naar huis. De visuele stijl bepaal"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:56+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
