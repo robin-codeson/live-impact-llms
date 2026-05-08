@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-zwolle"
 title: "Zwolle: de verrassende evenementenstad van Oost-Nederland"
 description: "Evenement organiseren in Zwolle? De Hanzestad als podium voor jouw zakelijk evenement. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:49+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
