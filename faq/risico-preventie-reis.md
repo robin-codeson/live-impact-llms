@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/risico-preventie-reis"
 title: "Hoe voorkom ik problemen op een bedrijfsreis?"
 description: "Goede preventie van problemen op een bedrijfsreis begint bij de voorbereiding. Check de geldigheid van paspoorten 8 weken vooraf: nog minimaal 6 maanden geldig na terugkomst. Verzamel kopieen van paspoorten en houd 1 set centraal beschikbaar. Sluit een collectieve reisverzekering af inclusief medisc"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:43+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
