@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-amsterdam"
 title: "Jouw evenementenbureau in Amsterdam"
 description: "Live Impact is het evenementenbureau voor jouw Amsterdam-evenement. Van concept tot uitvoering. 25+ jaar ervaring, IDEA-gecertificeerd. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:52+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
