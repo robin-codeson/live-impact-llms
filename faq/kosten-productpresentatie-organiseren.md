@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-productpresentatie-organiseren
 title: "Wat kost het organiseren van een productpresentatie?"
 description: "De kosten van een productpresentatie variëren van enkele honderden tot meerdere duizenden euro's. Locatie, catering, AV-techniek en het aantal gasten bepalen de prijs. Een compacte presentatie voor 30 gasten kan al voor 2.000 euro. Een grootschalige lancering met mediawall, livestream en entertainme"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:35+00:00"
+last_updated: "2026-05-08T21:23:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
