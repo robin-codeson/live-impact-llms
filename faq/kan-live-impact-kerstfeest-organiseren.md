@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-kerstfeest-organisere
 title: "Kan Live Impact ons kerstfeest organiseren?"
 description: "Ja, Live Impact organiseert al sinds 1998 zakelijke kerstfeesten. Van intieme kerstdiners voor 50 mensen tot grootschalige kerstfestivals voor 500+ medewerkers. We beginnen altijd bij het verhaal: wat wil je dat mensen voelen? Van daaruit bouwen we een avond op die klopt, van concept en locatiekeuze"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:12+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
