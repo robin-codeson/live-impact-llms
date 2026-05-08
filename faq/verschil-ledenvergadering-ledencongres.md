@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-ledenvergadering-ledencongre
 title: "Wat is het verschil tussen een ledenvergadering en een ledencongres?"
 description: "Een ledenvergadering is een formeel besluitvormingsmoment. Leden stemmen over het jaarverslag, de begroting, bestuursverkiezingen en eventuele amendementen. Dit is een statutaire verplichting voor elke vereniging. Een ledencongres gaat verder dan alleen besluitvorming. Het is een volwaardig evenemen"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:01+00:00"
+last_updated: "2026-05-08T21:24:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
