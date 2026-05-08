@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/wervingsevent-organiseren"
 title: "Waarom een wervingsevent werkt waar een vacature tekortschiet"
 description: "Een wervingsevent organiseren dat echt talent aantrekt? Van concept en opzet tot communicatie en opvolging. Zo doet Live Impact het."
 section: "Blog"
-last_updated: "2026-05-08T16:53:09+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
