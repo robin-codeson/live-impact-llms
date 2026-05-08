@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-twente"
 title: "Waarom Twente een regio is die evenementen serieus neemt"
 description: "Evenementenbureau in Twente nodig? Live Impact organiseert personeelsfeesten, jubilea en kick-offs in Enschede, Hengelo en Almelo. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:02+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
