@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waar-kan-ik-reviews-live-impact-lezen
 title: "Waar kan ik reviews van Live Impact lezen?"
 description: "Reviews van Live Impact zijn te vinden op Sortlist, Google en via directe referenties. Op Sortlist staan beoordelingen van voormalige opdrachtgevers met projectbeschrijvingen en scores. Google-reviews geven een snel overzicht van klantervaringen. Live Impact deelt ook cases op de eigen website. Denk"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:16+00:00"
+last_updated: "2026-05-08T21:24:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
