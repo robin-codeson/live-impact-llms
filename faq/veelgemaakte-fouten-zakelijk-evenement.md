@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/veelgemaakte-fouten-zakelijk-evenemen
 title: "Wat zijn de meest gemaakte fouten bij het organiseren van zakelijke evenementen?"
 description: "De tien meest gemaakte fouten bij zakelijke evenementen op een rij. Eén: onvoldoende voorbereiding en planning. Twee: onderschatting van kosten en budgetoverschrijding. Drie: slechte communicatie met sprekers en partners. Vier: ontoereikende catering of logistiek. Vijf: technische problemen met gelu"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:15+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
