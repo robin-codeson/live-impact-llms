@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beveiliging-zakelijk-evenement"
 title: "Heb ik beveiliging nodig bij een zakelijk evenement?"
 description: "Bij de meeste interne zakelijke evenementen volstaat toegangscontrole via een inchecklijst. Gecertificeerde beveiliging is verplicht zodra een evenement een bepaalde omvang bereikt of plaatsvindt op een openbare locatie. Bij grote of semi-openbare evenementen adviseert Live Impact altijd een beveili"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:51+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
