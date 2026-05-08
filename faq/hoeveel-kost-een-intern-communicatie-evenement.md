@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-kost-een-intern-communicatie-
 title: "Hoeveel kost een interne-communicatie-evenement?"
 description: "Reken op €50 tot €200 per persoon voor een interne-communicatie-evenement, afhankelijk van locatie, programma en schaal."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:32+00:00"
+last_updated: "2026-05-08T21:23:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
