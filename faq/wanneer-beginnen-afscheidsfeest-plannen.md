@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-beginnen-afscheidsfeest-plann
 title: "Hoe ver van tevoren plan ik een afscheidsfeest?"
 description: "Begin minimaal twee tot vier weken van tevoren, afhankelijk van de schaal. Voor een groter feest met externe locatie en catering is zes weken realistischer."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:45+00:00"
+last_updated: "2026-05-08T21:24:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
