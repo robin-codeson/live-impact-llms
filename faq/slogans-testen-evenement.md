@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/slogans-testen-evenement"
 title: "Hoeveel slogans test je voordat je er één kiest?"
 description: "Je test minimaal 3-5 sterke slogans voordat je er één kiest. De testmethode bestaat uit drie stappen. Eén: een steekproef van 30-50 doelgroepleden. Twee: toon slogans zonder context (blinde test). Drie: vraag naar herinnering, resonantie en intentie. Meet kwantitatief met scores en percentages. Veel"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:58+00:00"
+last_updated: "2026-05-08T21:24:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
