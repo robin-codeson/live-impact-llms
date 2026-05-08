@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eventproductieteam-samenstelling"
 title: "Wie horen er in een professioneel eventproductieteam?"
 description: "Een professioneel productieteam bestaat uit meerdere gespecialiseerde rollen. De projectmanager leidt de operatie en stemt alles af. Geluid, licht, beeld en livestream vallen onder de technisch directeur. Logistiek, planning, catering en leveranciers regelt de producent. De talentmanager boekt acts "
 section: "FAQ"
-last_updated: "2026-05-08T16:59:26+00:00"
+last_updated: "2026-05-08T21:23:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
