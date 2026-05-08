@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsopening-organiseren"
 title: "De opening die mensen nog jaren onthouden"
 description: "Een bedrijfsopening organiseren die indruk maakt op klanten, pers en relaties? Ontdek hoe je een opening organiseert die mensen bijblijft. Tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:29+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
