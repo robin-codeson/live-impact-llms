@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/success-brand-activation"
 title: "Hoe meet je het succes van een merkactivatie?"
 description: "Het budget voor een merkactivatie varieert sterk op basis van schaal en ambitie. Kleine activatie (1 locatie, 1 dag): 5.000-15.000 euro voor personeel, product en opzet. Middelgrote activatie (3-5 locaties, 1-2 weken): 50.000-150.000 euro voor merchandise, mobiele units en media. Grote activatie (la"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:28+00:00"
+last_updated: "2026-05-08T21:24:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
