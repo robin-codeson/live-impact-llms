@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenementenvervoer"
 title: "Regelt Live Impact ook het vervoer bij evenementen?"
 description: "Ja, Live Impact regelt het volledige vervoersplan voor je evenement. We bepalen samen welke optie past: bus, trein, shuttlebus of een mix. We onderhandelen het tarief met onze vervoerspartners (TNP, Temos, NS). We communiceren alle praktische informatie naar deelnemers: vertrekplek, tijd en route. W"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:05+00:00"
+last_updated: "2026-05-08T21:24:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
