@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/personeelsfeest-eigen-kantoor-organis
 title: "Kan ik een personeelsfeest organiseren op mijn eigen kantoor?"
 description: "Ja, dat kan, maar het vraagt goede voorbereiding. De ruimte moet worden getransformeerd, catering en techniek extern worden ingehuurd, en je moet nagaan of er vergunningen nodig zijn."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:42+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
