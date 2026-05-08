@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evaluatie-implementatie"
 title: "Hoe evalueer en implementeer je brainstorm ideeen?"
 description: "De waarde van een brainstorm zit in de opvolging, niet in de sessie zelf. Begin direct na de sessie met clusteren: groepeer ideeen op thema in 30 minuten. Vermijd inhoudelijke discussie tijdens clusteren. Dat doe je later. Werk met een impact-effort-matrix om te prioriteren: hoge impact + lage effor"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:06+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
