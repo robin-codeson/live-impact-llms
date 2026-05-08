@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-bedenk-je-mechanisme-evenement"
 title: "Hoe bedenk je een mechanisme voor een evenement?"
 description: "Begin niet bij de uitvoering, maar bij de boodschap. Schrijf in een zin op wat je wilt dat collega's maandag anders doen. Bedenk vervolgens welk gedrag dat vraagt. Verzin daarna een programmaonderdeel waarin dat gedrag echt wordt uitgelokt, niet gespeeld. Stap vier: check of het alleen werkt in de c"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:31+00:00"
+last_updated: "2026-05-08T21:23:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
