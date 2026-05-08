@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-zoetermeer-evenement"
 title: "Is Zoetermeer bereikbaar vanuit Den Haag en de regio?"
 description: "Uitstekend. Zoetermeer heeft directe tramverbindingen met Den Haag Centraal in 20 minuten. Per auto via de A12 bereikbaar vanuit Utrecht, Rotterdam en Amsterdam. De stad heeft ruime parkeerfaciliteiten. Een groot voordeel ten opzichte van Den Haag centrum. Voor evenementen met deelnemers uit de Rand"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:00+00:00"
+last_updated: "2026-05-08T21:22:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
