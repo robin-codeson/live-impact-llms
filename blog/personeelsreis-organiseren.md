@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personeelsreis-organiseren"
 title: "Waarom een personeelsreis meer doet dan een dagje uit"
 description: "Personeelsreis organiseren voor een grote groep? Lees alles over bestemmingen, logistiek, programma en budget. Praktische tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:14+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
