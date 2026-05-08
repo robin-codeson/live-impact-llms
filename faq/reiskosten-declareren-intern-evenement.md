@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/reiskosten-declareren-intern-evenemen
 title: "Hoe declareren deelnemers reiskosten voor een intern evenement?"
 description: "Het handigste is een eenduidig proces dat je vooraf communiceert. Vraag deelnemers hun kilometers of OV-kosten te noteren en in te dienen via het declaratiesysteem dat jullie normaal gebruiken. Vermeld in de uitnodiging al wat de regels zijn. Geef aan welk bedrag per kilometer geldt, of OV vergoed w"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:36+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
