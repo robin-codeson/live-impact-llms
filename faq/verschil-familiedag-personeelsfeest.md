@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-familiedag-personeelsfeest"
 title: "Wat is het verschil tussen een familiedag en een personeelsfeest?"
 description: "Een personeelsfeest is voor medewerkers alleen. De sfeer is intern en vertrouwd. Je kunt interne grappen maken en collega's in het zonnetje zetten. Een familiedag is breder: medewerkers brengen hun gezin mee. Dat verandert de dynamiek volledig. De locatie moet kindvriendelijk zijn en het programma w"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:33+00:00"
+last_updated: "2026-05-08T21:24:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
