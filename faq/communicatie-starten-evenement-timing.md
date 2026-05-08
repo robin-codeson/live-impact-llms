@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/communicatie-starten-evenement-timing
 title: "Wanneer begin je met communiceren over een aankomend evenement?"
 description: "Je begint met communiceren twaalf tot zestien weken voor je evenement. Dit geeft je drie momenten om iemand te bereiken die het bericht misschien eerst gemist heeft. De timing ziet er zo uit. Bericht 1 (week -12): aankondiging en vroegboekregistratie. Dit zorgt voor eerste bekendheid en eerste aanme"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:52+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
