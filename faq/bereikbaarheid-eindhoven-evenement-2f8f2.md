@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-eindhoven-evenement-2f
 title: "Hoe bereikbaar is Eindhoven voor zakelijke gasten?"
 description: "Eindhoven is uitstekend bereikbaar. Per trein zijn er directe verbindingen met Amsterdam, Utrecht en Den Haag. Eindhoven Airport heeft tientallen Europese bestemmingen. Per auto is de stad bereikbaar via de A2, A50, A58 en A67. Wij selecteren locaties met parkeergelegenheid of goede OV-verbinding. V"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:46+00:00"
+last_updated: "2026-05-08T21:22:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
