@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-eindejaarsfeest-personeelsfe
 title: "Wat is het verschil tussen een eindejaarsfeest en een personeelsfeest?"
 description: "Een personeelsfeest kan op elk moment in het jaar plaatsvinden. Een eindejaarsfeest is specifiek verbonden aan de jaarafsluiting in december. De winterse sfeer, een terugblik op het jaar en de feestdagensfeer geven het een extra dimensie. Dat geeft het een sterkere emotionele lading dan een regulier"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:55+00:00"
+last_updated: "2026-05-08T21:24:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
