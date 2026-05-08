@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-werkt-een-droneshow-op-een-zakeli
 title: "Hoe werkt een droneshow op een zakelijk evenement?"
 description: "Een droneshow op een zakelijk evenement werkt met tientallen tot honderden geprogrammeerde drones. Ze vliegen synchroon en vormen lichtformaties in de lucht. Je kunt logo's, boodschappen en animaties laten uitbeelden. De show wordt vooraf geprogrammeerd met speciale software en duurt meestal 5 tot 1"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:14+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
