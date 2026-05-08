@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/grootste-impact-verduurzamen-evenemen
 title: "Welke stap heeft de grootste impact op het verduurzamen van een evenement?"
 description: "De locatiekeuze heeft verreweg de grootste impact op de CO2-voetafdruk van een evenement. Transport is de grootste emissiebron bij zakelijke evenementen. Een locatie die goed bereikbaar is met openbaar vervoer scoort hier het beste. Zo'n locatie reduceert de uitstoot soms met 50% of meer. Dat scheel"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:27+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
