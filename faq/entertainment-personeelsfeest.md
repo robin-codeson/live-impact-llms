@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/entertainment-personeelsfeest"
 title: "Welk entertainment past bij een personeelsfeest?"
 description: "Het entertainment bepaalt voor een groot deel de sfeer van het personeelsfeest. Voor een feestelijk avondevenement werkt een liveband of DJ als ruggengraat van het programma. Combineer dat met side-acts tijdens de borrel, zoals close-up magie of een karikaturist. Wil je iets bijzonders? Denk aan een"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:03+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
