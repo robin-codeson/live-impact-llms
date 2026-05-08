@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/kosten-evenementenbureau"
 title: "Wat kost een evenementenbureau?"
 description: "Wat kost een evenementenbureau? Eerlijk overzicht van tarieven, kostenmodellen en wat je ervoor krijgt."
 section: "Blog"
-last_updated: "2026-05-08T16:51:48+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
