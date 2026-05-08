@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/boodschappen-per-fase-evenement"
 title: "Welke boodschappen zet je in per fase van je evenement?"
 description: "De communicatie rondom een evenement verloopt in fasen, elk met een eigen toon en doel. In de aankondigingsfase wek je nieuwsgierigheid en zorg je voor bekendheid. Tijdens de inschrijfperiode draag je de inhoud en waarde uit, met concrete redenen om deel te nemen. Vlak voor het evenement herinner je"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:21+00:00"
+last_updated: "2026-05-08T21:22:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
