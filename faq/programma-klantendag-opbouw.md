@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programma-klantendag-opbouw"
 title: "Hoe bouw je een programma voor een klantendag op?"
 description: "Drie blokken vormen de ruggengraat van een goede klantendag. Blok één: kennis. Een keynote, paneltalk of masterclass. Dertig tot zestig minuten waarin klanten iets leren dat ze elders niet krijgen. Blok twee: interactie. Roundtables, workshops of co-creatie-sessies rond een gedeeld vraagstuk. Blok d"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:21+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
