@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-tilburg"
 title: "Evenementenbureau Tilburg: het Brabantse bureau dat doet wat het belooft"
 description: "Evenementenbureau in Tilburg kiezen? De Brabantse manier van werken: nuchter, scherp geprijsd, hoge kwaliteit. Wat dat betekent voor jouw evenement."
 section: "Blog"
-last_updated: "2026-05-08T16:51:01+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
