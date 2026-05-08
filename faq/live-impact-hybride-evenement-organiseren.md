@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-hybride-evenement-organis
 title: "Kan Live Impact een hybride evenement organiseren?"
 description: "Ja, Live Impact organiseert hybride evenementen waarbij de beleving voor zaal en scherm gelijkwaardig is. Wij ontwerpen twee programmaflows die op de belangrijkste momenten samenkomen. We schrijven een draaiboek voor beide kanten en regelen de rehearsal met alle partijen. Op de dag zelf staan we bij"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:20+00:00"
+last_updated: "2026-05-08T21:24:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
