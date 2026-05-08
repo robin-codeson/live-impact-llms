@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/meerdaags-evenement-emmen"
 title: "Is Emmen geschikt voor een meerdaags zakelijk evenement?"
 description: "Ja, Emmen en Drenthe zijn uitstekend geschikt voor meerdaagse zakelijke evenementen. De regio heeft diverse hotels en verblijfsaccommodaties. Er zijn landgoederen met overnachtingsmogelijkheden en conferentiefaciliteiten voor groepen van 20 tot 200 personen. Een combinatie van strategie overdag en o"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:24+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
