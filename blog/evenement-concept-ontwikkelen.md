@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-concept-ontwikkelen"
 title: ""
 description: "Evenementconcept ontwikkelen? Het stap-voor-stap proces van strategische briefing naar creatieve verkenning tot concept-validatie. Geen theorie, wel methode."
 section: "Blog"
-last_updated: "2026-05-08T16:50:08+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
