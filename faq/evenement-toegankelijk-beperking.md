@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-toegankelijk-beperking"
 title: "Hoe maak je een evenement toegankelijk voor mensen met een beperking?"
 description: "Een toegankelijk evenement voor mensen met beperkingen vereist tien aandachtspunten. De basis is fysieke toegang: een helling of lift voor rolstoelen en nette toiletten op de begane grond. Zorg voor parkeerplaatsen dicht bij de ingang, inclusief gehandicaptenparkeerplekken. Maak de bewegwijzering du"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:21+00:00"
+last_updated: "2026-05-08T21:23:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
