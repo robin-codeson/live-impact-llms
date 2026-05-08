@@ -1,158 +1,136 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/evenement-coordinator"
+title: "Wat een evenementcoördinator precies doet"
+description: "Eventcoördinator inhuren? Wat een coördinator doet, wat het kost en wanneer je er echt een nodig hebt."
+section: "Blog"
+last_updated: "2026-05-08T16:50:09+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Presentator op podium bij een groot zakelijk evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6ca83aba737800ce89d_69c06766b96d18ca105197e7_Jubileumfeest%2520MUMC%252B%2520Presentator%2520Rens%2520Merkelbach.webp)
 
-# Wat doet een evenement coördinator precies?
+# Wat een evenementcoördinator precies doet
 
-Een **evenementcoördinator** is de spil van elk goed georganiseerd zakelijk evenement. Deze professional coördineert alle facetten: van planning en leveranciersbeheer tot de uitvoering op de dag zelf. Een goede coördinator zorgt ervoor dat alles op tijd, binnen budget en volgens verwachting verloopt.
+Een evenementcoördinator regelt en stuurt alle praktische uitvoering van een event aan: vervoer, leveranciers, tijdlijn, communicatie op de dag en overgangen tussen programmablokken. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen. In elk team zit minimaal één coördinator. Vaak twee.
 
-Maar er is meer. Een evenementcoördinator is degene die ziet wat er misgaat voordat het misgaat. Die een leverancier belt als de bevestiging uitblijft. Die op de dag zelf het draaiboek bewaakt terwijl de catering tegelijkertijd vijf vragen stelt, de band wil weten wanneer ze mogen soundchecken en de directeur vraagt of de microfoons al klaarstaan. Zonder coördinator beantwoord jij die vragen.
+Waar een eventmanager het strategische en creatieve kader bouwt, bewaakt de coördinator de uitvoering. Hij zorgt dat het kader op de dag precies zo loopt als bedacht. Het is de spil tussen de klant, de locatie en alle leveranciers. Iedereen weet wie de coördinator is. De coördinator weet waar iedereen is.
 
-De rol verschilt van een [evenementenbureau](https://live-impact.nl/blog/evenementenbureau-inhuren) in die zin dat een coördinator zich primair richt op de operationele uitvoering, terwijl een bureau ook het [creatieve concept](https://live-impact.nl/blog/evenement-concept-ontwikkelen), de strategie en de volledige productie verzorgt. Bij Live Impact zijn beide disciplines geïntegreerd in één team — je krijgt een coördinator die ook meedenkt over concept en programma.
+Hoe herken je een goede coördinator? Drie dingen. Hij houdt overzicht over dertig dingen tegelijk zonder één uit het oog te verliezen. Kleine beslissingen neemt hij snel, grote beslissingen gestructureerd. Bovendien blijft hij rustig als er iets misgaat. Zonder die drie eigenschappen wordt de rol een stressmotor in plaats van een stabilisator.
 
-Een evenementcoördinator werkt altijd met een gedetailleerd draaiboek. Dat document bevat per minuut wat er wanneer en door wie wordt gedaan. Het is het centrale zenuwstelsel van het evenement — iedereen die erbij betrokken is weet wat er van hem of haar wordt verwacht.
+## De taken: voor, tijdens en na het event
 
-Kortom: een evenementcoördinator is de reden dat jij op de dag zelf kunt genieten van het evenement dat je organiseerde, in plaats van er doorheen te rennen met een klembord.
+Een coördinator werkt in drie tijdvakken, elk met eigen taken. Vooraf draait het om productievoorbereiding, leveranciersplanning en draaiboek. Tijdens het event om uitvoering, bijsturing en communicatie. Achteraf om afronding, leveranciers-afrekening en evaluatie.
 
-## Wanneer heb je een evenement coördinator nodig?
+Vooraf neemt de coördinator het draaiboek over van de eventmanager. Hij belt de leveranciers, zet de opbouwplanning op, maakt het minuut-voor-minuut schema voor de eventdag en brieft het team. Reken op 40 tot 80 uur voorbereiding voor een middelgroot event (150 tot 400 gasten).
 
-Niet elk evenement vraagt om een externe evenementcoördinator, maar in veel situaties is het de slimste investering die je kunt doen.
+Op de dag is de coördinator de enige persoon die het overzicht bewaart. Hij ziet of de band op tijd is en of de catering uitloopt. Hij hoort of de spreker een aanpassing vraagt in de techniek. Elke beslissing die geen strategische consequentie heeft, neemt hij zelf. Alles daarboven escaleert naar de eventmanager of klant. Na afloop regelt de coördinator de afbouw, de leveranciers-afrekening en de evaluatie met het team.
 
-Bij evenementen met meer dan honderd deelnemers neemt de complexiteit exponentieel toe. Meer gasten betekent meer bewegende delen: meer cateringpersoneel, meer leveranciers, meer ingangen die bewaakt moeten worden, meer mensen die tegelijkertijd vragen stellen. Op dat moment is één persoon die de regie heeft onmisbaar.
+## Wanneer je een coördinator nodig hebt
 
-Ook als er meerdere leveranciers en locaties betrokken zijn, betaalt een coördinator zich snel terug. De coördinator is het centrale aanspreekpunt voor iedereen: de locatie, de band, het cateringbedrijf, de technicus. Zonder coördinator word jij dat aanspreekpunt — ook op de dag zelf, ook als je eigenlijk wilt deelnemen.
+Niet elk event vraagt een aparte coördinator. Een borrel voor 50 man regelt een senior marketingmanager er prima zelf bij. Maar zodra één of meer van de volgende factoren speelt, is een coördinator geen luxe maar een noodzaak.
 
-Heb je intern niet genoeg capaciteit of ervaring? Dan is uitbesteden bijna altijd slim. Iemand die eventcoördinatie erbij doet naast een volle baan, maakt fouten die niet zichtbaar zijn totdat het te laat is. Een ervaren coördinator heeft dit al honderd keer eerder gedaan en weet waar de valkuilen zitten.
+Er zijn drie signalen. Het eerste: meer dan vier externe leveranciers op één dag, denk aan catering, techniek, entertainment, vervoer en hosts. Het tweede: meer dan 150 gasten waarvan er minimaal één groep VIP-behandeling krijgt. Het derde: een programma met meer dan vier inhoudelijke wisselingen tussen podium, workshop en netwerkmoment. Elk van die drie maakt de logistiek te complex om ernaast te doen.
 
-Bij evenementen met een hoge organisatorische prioriteit — een jubileum, een productlancering, een groot relatiefeest — is externe coördinatie extra verstandig. Het risico dat iets misgaat is te groot om aan toeval over te laten.
+Een vierde signaal is zachter maar even belangrijk. Als de opdrachtgever zelf aanwezig wil zijn als gastheer, kan hij niet tegelijk regisseren. Dan is de coördinator de plaatsvervanger van zijn aandacht. Zonder die rol kan de opdrachtgever niet aanwezig zijn op zijn eigen event.
 
-Wil je zelf kunnen deelnemen? Dan is een coördinator geen luxe maar een noodzaak. Als jij de organisator bent en de hele avond achter brandjes aanloopt, ben je niet écht aanwezig. Jouw deelname als collega of leidinggevende maakt een evenement waardevoller. Een coördinator maakt dat mogelijk.
+## Soorten coördinators: freelance, in-house of via een bureau
 
-## Het verschil tussen een evenement coördinator en een evenementenbureau
+Er zijn drie manieren om aan een coördinator te komen, elk met eigen voor- en nadelen: freelance, in-house via eigen personeel of via een evenementenbureau.
 
-De termen worden vaak door elkaar gebruikt, maar er zijn belangrijke verschillen die bepalend zijn voor welke partij je nodig hebt.
+Een freelance coördinator werkt per project. Dagtarief tussen €600 en €1.200, exclusief voorbereidingsuren. Reken op 3 tot 5 dagen voorbereiding plus de eventdag zelf. Voordeel: flexibel, vaak ervaren. Nadeel: geen productieteam om op terug te vallen als er iets schuift.
 
-Een evenementcoördinator richt zich primair op de logistieke en operationele kant: de planning, het leveranciersbeheer, de draaiboekbewaking en de uitvoering op de dag zelf. Die rol is onmisbaar maar beperkt zich tot de uitvoering van een concept dat al bestaat.
+In-house coördinatie werkt als je meerdere events per jaar doet en de investering in kennis rendeert. Een eventcoördinator in loondienst kost €50.000 tot €75.000 bruto per jaar. Voordeel: kennis blijft intern en groeit mee met het bedrijf. Nadeel: één persoon dekt niet alle momenten.
 
-Een [evenementenbureau](https://live-impact.nl/blog/evenementenbureau-inhuren) doet dit en meer. Het bureau ontwikkelt het creatieve concept, geeft strategisch advies, boekt [entertainment](https://live-impact.nl/blog/evenement-entertainment-boeken), regelt de productie en coördineert alles van begin tot eind. Een bureau is breder inzetbaar — ideaal als je niet weet hoe de avond eruit moet zien, niet alleen hoe die gepland moet worden.
+Via een evenementenbureau krijg je de coördinator in een team. De bureau-coördinator werkt samen met een producer, een content-regisseur en een creative. [Over de keuze tussen freelance en bureau schreven we een aparte gids.](/blog/evenementenbureau-inschakelen) Bij een bureau zit de achtervang meteen naast de coördinator. Dat maakt het bestand tegen uitval.
 
-Het praktische verschil: als je al weet wat je wilt — een diner voor honderd mensen op locatie X met band Y en spreker Z — dan heb je primair een coördinator nodig die dat uitvoert. Als je begint bij een blanco vel en hulp nodig hebt bij de vraag wat je eigenlijk wilt organiseren, dan heb je een bureau nodig.
+## Wat kost een coördinator per event?
 
-Bij Live Impact zijn beide disciplines geïntegreerd in één team. Je krijgt een vaste coördinator als aanspreekpunt, maar die coördinator wordt ondersteund door conceptontwikkelaars, producers en entertainmentspecialisten. Zo heb je één partij die meedenkt van het eerste idee tot de laatste act van de avond.
+Een coördinator voor een eendaags event kost tussen €2.500 en €7.500. Die marge dekt voorbereidingsuren plus de eventdag. De prijs hangt af van complexiteit, groepsgrootte en senioriteit van de coördinator.
 
-Voor complexe evenementen is dat de meest efficiënte aanpak: minder schakels, meer samenhang, betere uitkomst.
+Richtprijzen per eventgrootte:
 
-## Wat kost het inhuren van een evenement coördinator?
+* Kleine events (50-100 gasten, 1 locatie, max 3 leveranciers): €2.500 tot €3.500
+* Middelgrote events (100-300 gasten, 4-6 leveranciers): €3.500 tot €5.500
+* Grote events (300-800 gasten, 7+ leveranciers, meerdere ruimtes): €5.500 tot €9.000
+* Meerdaagse events of congressen met volledige productie: €8.000 tot €18.000
 
-De kosten van een evenementcoördinator hangen af van de omvang van het evenement, het aantal benodigde uren, de complexiteit en de ervaring van de coördinator.
+Tel daar bij op: reis- en verblijfkosten bij locaties buiten de regio, extra assistentie bij groepen boven 400 en overuren bij events die doorlopen na middernacht. [Over hoe de totaalkosten van een evenementenbureau zijn opgebouwd, schreven we een complete gids.](/blog/kosten-evenementenbureau)
 
-Een freelance evenementcoördinator rekent doorgaans 50 tot 100 euro per uur afhankelijk van ervaring en specialisatie. Voor een middelgroot evenement van 150 tot 200 gasten ben je al snel 40 tot 60 uur kwijt inclusief voorbereiding, leverancierscontact, draaiboekschrijven en de dag zelf. Dat betekent een totale coördinatiekosten van 2.000 tot 6.000 euro, exclusief eventuele overheadkosten.
+## Een coördinator inschakelen: drie vragen die je stelt
 
-Via een evenementenbureau is coördinatie vaak geïntegreerd in een totaalpakket. Je rekent dan geen losse uren af maar een vast projectbudget dat concept, coördinatie en productie omvat. Dat geeft meer zekerheid over de totale investering en zorgt ervoor dat er geen verborgen kosten opduiken.
+Voordat je een coördinator inhuurt, stel drie vragen. Die drie vragen scheiden de goede van de middelmatige heel snel.
 
-Wil je alleen coördinatie op de dag zelf — waarbij de coördinator het draaiboek uitvoert dat je zelf hebt gemaakt — dan betaal je doorgaans 750 tot 1.500 euro voor een dagdeel of volledige dag.
+Vraag één: kun je drie events noemen die je recent hebt gedaan, vergelijkbaar in grootte en format? Wie geen drie concrete cases heeft, heeft te weinig portfolio-ervaring om dit event aan te kunnen.
 
-Let bij de prijsvergelijking op wat er in de prijs is inbegrepen. Sommige freelancers rekenen reiskosten, verblijf en materialen apart. Bij een bureau zijn die kosten vaak al opgenomen in de totaalprijs.
+Vraag twee: wat doe je als de hoofdspreker een uur te laat is? Een goede coördinator geeft meteen drie opties, gerangschikt op impact. Wie twijfelt of een proces opsomt in plaats van een oplossing, kan niet snel beslissen onder druk.
 
-Bekijk ook de [werkkostenregeling](https://live-impact.nl/blog/werkkostenregeling-evenement-wkr) — bij bedrijfsevenementen kan dat de netto investering aanzienlijk verlagen.
+Vraag drie: welke leveranciers heb je meegenomen vanuit eerdere events en waarom? Ervaren coördinators hebben een vaste pool van techniek, catering en entertainment. Die pool is hun kwaliteitsgarantie. Wie volledig afhankelijk is van jouw contacten, heeft geen eigen staat van dienst om op terug te vallen.
 
-## Waar let je op bij het kiezen van een evenement coördinator?
+## Waarom Live Impact de coördinatie zelf regisseert
 
-De juiste evenementcoördinator maakt het verschil tussen een stressvol en een ontspannen evenement. Maar hoe kies je de juiste?
+Wij maken evenementen voor bedrijven tussen de 100 en 10.000 medewerkers. Van Heijmans en Carglass tot SAP. Onze coördinators komen niet los van de productie. Ze werken altijd in een team met een evenementmanager, een producer en een creative.
 
-Ervaring met vergelijkbare evenementen is het eerste criterium. Een coördinator die vijftig borrels voor vijftig mensen heeft georganiseerd, heeft niet automatisch de ervaring om een congres voor driehonderd gasten te runnen. Vraag specifiek naar evenementen van vergelijkbare omvang en complexiteit.
+Bij Live Impact starten we met een gesprek over het doel van het evenement. Daarna zetten we het productieteam op, waarin de coördinator vanaf week één meeloopt. Dat maakt de dag zelf een uitvoering, geen improvisatie. De coördinator kent de leveranciers. De leveranciers kennen de coördinator. Die kleine verschillen maken de grote verschillen op de dag.
 
-Referenties zijn bewijslast, geen bijzaak. Vraag om contactgegevens van eerdere opdrachtgevers en bel ze. Vraag niet alleen of het goed ging, maar ook hoe de coördinator omging met problemen. Elk evenement heeft momenten waarop er iets niet gaat zoals gepland. Hoe iemand dan reageert, zegt meer over zijn kwaliteit dan een vlekkeloos verlopen dag.
-
-Communicatie is een onderschat criterium. Een coördinator die traag reageert, onduidelijk communiceert of je het gevoel geeft dat je achter informatie aanloopt, werkt ook zo op de dag zelf. Test dit al in het eerste gesprek: hoe snel reageert iemand, hoe helder zijn de antwoorden?
-
-Netwerk van leveranciers maakt een coördinator beter dan zijn eigen kwaliteiten. Iemand met vaste relaties met betrouwbare cateraars, technici en locaties kan problemen oplossen die een nieuwkomer in het veld niet eens ziet aankomen.
-
-Certificering geeft een basale kwaliteitsgarantie. Een IDEA-gecertificeerd bureau als Live Impact voldoet aan strenge kwaliteitseisen op het gebied van financiële gezondheid, vakmanschap en transparantie. Niet verplicht, maar het geeft zekerheid.
-
-## Voordelen van een evenement coördinator via een evenementenbureau
-
-Het inhuren van een evenementcoördinator via een evenementenbureau heeft concrete voordelen ten opzichte van een freelancer.
-
-Het meest directe voordeel is volledige ontzorging. Een bureau regelt niet alleen de coördinatie maar ook het [concept](https://live-impact.nl/blog/evenement-concept-ontwikkelen), de [locatieselectie](https://live-impact.nl/blog/evenementenlocatie-vinden) en het [entertainment](https://live-impact.nl/blog/evenement-entertainment-boeken). Dat betekent minder schakels, minder kans op miscommunicatie en meer samenhang in het eindresultaat.
-
-Een bureau heeft ook een back-up. Als een freelance coördinator ziek wordt — en dat kan — heb je een probleem. Een bureau springt bij: er is altijd iemand die het werk kan overnemen, die het dossier kent en die de dag kan leiden. Die zekerheid heeft een reële waarde bij evenementen die niet uitgesteld of afgezegd kunnen worden.
-
-Schaalvoordeel bij leveranciers is een voordeel dat je als opdrachtgever niet direct ziet maar wel voelt. Een bureau dat al jaren samenwerkt met dezelfde locaties, cateraars en technici, krijgt betere tarieven en prioritaire beschikbaarheid. Die voordelen worden deels doorgegeven aan de opdrachtgever.
-
-Één aanspreekpunt maakt het overzichtelijk. Al je communicatie loopt via je vaste contactpersoon. Geen telefoontjes naar vijf verschillende leveranciers, geen vragen over wie verantwoordelijk is voor wat.
-
-Tot slot: de kwaliteitsgarantie die een IDEA-gecertificeerd bureau biedt. Die certificering stelt eisen aan de bedrijfsvoering, de werkwijze en de klanttevredenheid. Het is geen garantie dat alles altijd perfect gaat, maar het is een indicatie dat je met een serieuze partij te maken hebt. Dit maakt samenwerken via een bureau bijzonder efficiënt bij complexere evenementen zoals [congressen](https://live-impact.nl/blog/congres-organiseren), [gala’s](https://live-impact.nl/blog/gala-organiseren) of [bedrijfsfestivals](https://live-impact.nl/blog/bedrijfsfestival-organiseren).
-
-## Eventcoördinator nodig? Neem contact op met Live Impact
-
-Wij organiseren evenementen door heel Nederland — in [Amsterdam](https://live-impact.nl/blog/evenementenbureau-amsterdam), [Rotterdam](https://live-impact.nl/blog/evenementenbureau-rotterdam), [Den Haag](https://live-impact.nl/blog/evenementenbureau-den-haag), [Utrecht](https://live-impact.nl/blog/evenementenbureau-utrecht) en ver daarbuiten. Als IDEA-gecertificeerd [evenementenbureau](https://live-impact.nl/blog/evenementenbureau-inhuren) bieden we volledige ontzorging: van het eerste idee en de planning tot de coördinatie op de dag zelf.
-
-Je krijgt bij ons een dedicated coördinator als vast aanspreekpunt, ondersteund door een team van conceptontwikkelaars, producers en entertainmentspecialisten. Zo heb je één partij die alles kent — van het concept tot de catering, van de locatie tot de livemuziek.
-
-Bel ons op **085 401 40 14** of stuur een mail naar **hello@live-impact.nl**. We plannen een gesprek, stellen de juiste vragen en komen terug met een voorstel dat klopt.
-
-Serieus Leuk.
+Bel [085 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:hello@live-impact.nl) voor een kennismaking. **Serieus Leuk.**
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
-Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
+Wat kost een evenementcoördinator voor één dag?
 
-Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
+Een evenementcoördinator voor een eendaags event kost tussen €2.500 en €7.500. Die range dekt voorbereidingsuren plus de eventdag. Kleine events van 50 tot 100 gasten met maximaal drie leveranciers zitten tussen €2.500 en €3.500. Middelgrote events van 100 tot 300 gasten met vier tot zes leveranciers tussen €3.500 en €5.500. Grote events van 300 tot 800 gasten met meer ruimtes en zeven of meer leveranciers tussen €5.500 en €9.000.
 
-Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+Freelance dagtarieven liggen tussen €600 en €1.200 per dag, plus voorbereidingsuren. Reken op drie tot vijf dagen voorbereiding voor een middelgroot event. Reis- en verblijfkosten komen apart, net als overuren na middernacht en extra assistentie boven 400 gasten.
 
-Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
+**[Meer weten over een evenementcoördinator inhuren? Lees ons complete artikel →](/blog/evenement-coordinator)**
 
-**[Lees ons volledige artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
+Wat is het verschil tussen een coördinator en een eventmanager?
 
-Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
+Een eventmanager bouwt het strategische en creatieve kader. Hij bepaalt doel, concept en budget. Hij is het aanspreekpunt voor de opdrachtgever tijdens de voorbereiding. Een coördinator werkt in dat kader en zorgt dat de uitvoering op de dag zelf klopt.
 
-Begin minimaal **drie maanden** van tevoren. Voor grote evenementen (300+ gasten, complexe productie) is **zes maanden** realistischer.
+De eventmanager kijkt vooruit en bepaalt de richting. De coördinator kijkt nu en bepaalt de volgorde. Bij kleine events kunnen beide rollen bij één persoon liggen. Bij events vanaf 150 gasten met vier of meer leveranciers zijn het twee aparte rollen. Eén persoon kan niet tegelijk strategisch meedenken en praktisch regisseren.
 
-De organisatie verloopt in vier fases: fundament leggen (12–10 weken), concept en partners (10–6 weken), uitwerking (6–3 weken) en uitvoering plus nazorg. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
+Bij Live Impact werken de eventmanager en de coördinator in hetzelfde team vanaf de eerste briefing. Zo kent de coördinator het concept van binnenuit, niet alleen van papier.
 
-**[Bekijk de volledige fasering in ons artikel →](/blog/bedrijfsevenement-organiseren)**
+**[Meer weten over een evenementcoördinator inhuren? Lees ons complete artikel →](/blog/evenement-coordinator)**
 
-Hoe schrijf je een goede briefing voor een bedrijfsevenement?
+Wanneer heb je een evenementcoördinator nodig?
 
-Een goede briefing bevat minimaal zes elementen: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
+Niet elk event vraagt een aparte coördinator. Een borrel voor 50 mensen regelt een ervaren marketingmanager er prima bij. Maar zodra één van drie factoren speelt, is een coördinator geen luxe meer maar een noodzaak.
 
-Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames — en dat levert een rommelig resultaat.
+Drie signalen. Meer dan vier externe leveranciers op één dag: catering, techniek, entertainment, vervoer, hosts, meubilair. Meer dan 150 gasten waarvan één groep VIP-behandeling krijgt. Of een programma met meer dan vier inhoudelijke wisselingen tussen podium, workshop en netwerkmoment.
 
-**[Lees het complete artikel met alle briefing-elementen →](/blog/bedrijfsevenement-organiseren)**
+Een vierde signaal is zachter maar even belangrijk. Als de opdrachtgever zelf aanwezig wil zijn als gastheer, heeft hij geen capaciteit om tegelijk te regisseren. Dan vervangt de coördinator zijn aandacht op de logistieke kant.
 
-Wat is het verschil tussen een bedrijfsevenement en een personeelsfeest?
+**[Meer weten over een evenementcoördinator inhuren? Lees ons complete artikel →](/blog/evenement-coordinator)**
 
-Een **personeelsfeest** is specifiek voor medewerkers: intern, vertrouwd, de sfeer is losser. Een **bedrijfsevenement** is breder en kan een personeelsfeest zijn, maar ook een congres, kick-off, jubileum of relatie-evenement.
+Is een freelance coördinator of een bureau beter?
 
-Het verschil zit in de aanpak: een personeelsfeest draait om vieren en verbinden. Een bedrijfsevenement kan ook strategische doelen dienen, zoals kennisdeling, merkpositionering of cultuurverandering.
+Dat hangt af van complexiteit en risico. Een freelance coördinator werkt per project, is flexibel en vaak ervaren. Dagtarief tussen €600 en €1.200. Nadeel: bij uitval of onverwachte problemen staat hij er alleen voor. Geen productieteam om op terug te vallen.
 
-**[Meer over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
+Een bureau levert de coördinator in een team. Een producer, een content-regisseur en een creative zitten ernaast. Bij Live Impact betekent dat: elke coördinator heeft backup op vraag- en uitvalmomenten. Dat maakt het bestand tegen kleine en grote problemen.
 
-Wat kost het om een bedrijfsevenement te organiseren?
+Kies freelance voor standaard events met een vertrouwde coördinator en een voorspelbaar draaiboek. Kies bureau bij events met veel bewegende delen, meerdere doelgroepen of hoge reputatierisico's. Het kostenverschil haal je op de dag zelf terug via minder stress en minder fouten.
 
-De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+**[Meer weten over een evenementcoördinator inhuren? Lees ons complete artikel →](/blog/evenement-coordinator)**
 
-Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
+Kan Live Impact de coördinatie van ons event verzorgen?
 
-De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen. In elk team zit minimaal één coördinator, vaak twee.
 
-**[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
+We werken voor bedrijven tussen de 100 en 10.000 medewerkers, van Heijmans tot Carglass tot SAP. Onze coördinators komen niet los van de productie. Ze werken altijd in een team met een eventmanager, een producer en een creative. Daardoor kent de coördinator het concept van binnenuit en de leveranciers vanuit eerdere projecten.
 
-Staat je vraag er niet bij?
+Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:hello@live-impact.nl) voor een kennismaking. **Serieus Leuk.**
 
-[Bekijk onze complete FAQ →](/faq)
+**[Meer weten over een evenementcoördinator inhuren? Lees ons complete artikel →](/blog/evenement-coordinator)**
 
 ## Geïnspireerd geraakt?
 
