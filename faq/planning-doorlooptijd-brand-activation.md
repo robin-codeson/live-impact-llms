@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-doorlooptijd-brand-activatio
 title: "Hoe lang van tevoren moet je een brand activation plannen?"
 description: "Reken op minimaal drie maanden voor een kleine tot middelgrote activatie, en zes maanden voor een grote multi-locatie-campagne. De doorlooptijden worden niet bepaald door creatief werk (dat kan sneller), maar door vergunningen, locatie-afspraken en productielevertijden. Een gemeentelijke vergunning "
 section: "FAQ"
-last_updated: "2026-05-08T17:12:53+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
