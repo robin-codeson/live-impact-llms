@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-draaiboek-runsheet-evenement
 title: "Wat is het verschil tussen een draaiboek en een runsheet?"
 description: "Een draaiboek is het uitgebreide basisdocument van je evenement: alle planning, rollen, technische eisen, risicoplan en evaluatie. Twintig tot dertig pagina's, opgesteld in de weken voor het evenement. Een runsheet is de compacte uitvoeringsversie voor de dag zelf: minuut voor minuut, wie doet wat e"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:55+00:00"
+last_updated: "2026-05-08T21:24:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
