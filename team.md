@@ -1,8 +1,13 @@
-[< Back](team.html#)[< Work](team.html#)
+---
+canonical_url: "https://live-impact.nl/team"
+title: "Het Team achter Live Impact | Eventprofessionals"
+description: "Ontmoet het team van Live Impact — ervaren eventprofessionals in creatie, productie en showregie. Samen maken wij jouw bedrijfsevenement onvergetelijk."
+section: "Hoofdpagina's"
+last_updated: "2026-05-08T22:30:10+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](team.html#)
-
-# Dit zijn onze serieus leuke mensen.
+## Dit zijn onze serieus leuke mensen.
 
 [### Philip
 
@@ -14,7 +19,7 @@ Learn More
 
 Website
 
-See More](team/philip.html)
+See More](/team/philip)
 
 [### Anouk
 
@@ -26,7 +31,7 @@ Learn More
 
 Website
 
-See More](team/anouk.html)
+See More](/team/anouk)
 
 [### Robin
 
@@ -38,7 +43,7 @@ Learn More
 
 Website
 
-See More](team/robin.html)
+See More](/team/robin)
 
 [### Jim
 
@@ -50,7 +55,7 @@ Learn More
 
 Website
 
-See More](team/jim-van-de-sande.html)
+See More](/team/jim-van-de-sande)
 
 [### Ginny
 
@@ -62,7 +67,7 @@ Learn More
 
 Website
 
-See More](team/ginny.html)
+See More](/team/ginny)
 
 [### Esther
 
@@ -74,7 +79,7 @@ Learn More
 
 Website
 
-See More](team/esther.html)
+See More](/team/esther)
 
 [### Frans
 
@@ -86,7 +91,7 @@ Learn More
 
 Website
 
-See More](team/frans.html)
+See More](/team/frans)
 
 [### Tamara
 
@@ -98,7 +103,7 @@ Learn More
 
 Website
 
-See More](team/tamara.html)
+See More](/team/tamara)
 
 [### Susan
 
@@ -110,7 +115,7 @@ Learn More
 
 Website
 
-See More](team/susan.html)
+See More](/team/susan)
 
 [### Bart
 
@@ -122,7 +127,7 @@ Learn More
 
 Website
 
-See More](team/bart.html)
+See More](/team/bart)
 
 [### Lizzy
 
@@ -134,7 +139,7 @@ Learn More
 
 Website
 
-See More](team/lizzy.html)
+See More](/team/lizzy)
 
 [### Rolf
 
@@ -146,7 +151,7 @@ Learn More
 
 Website
 
-See More](team/rolf.html)
+See More](/team/rolf)
 
 [### Linda
 
@@ -158,7 +163,7 @@ Learn More
 
 Website
 
-See More](team/linda.html)
+See More](/team/linda)
 
 [### Sanne
 
@@ -170,7 +175,7 @@ Learn More
 
 Website
 
-See More](team/sanne.html)
+See More](/team/sanne)
 
 [### Joyce
 
@@ -182,7 +187,7 @@ Learn More
 
 Website
 
-See More](team/joyce.html)
+See More](/team/joyce)
 
 [### Karin
 
@@ -194,4 +199,4 @@ Learn More
 
 Website
 
-See More](team/karin.html)
+See More](/team/karin)
