@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/meest-gemaakte-fout-zakelijk-evenemen
 title: "Wat is de meest gemaakte fout bij zakelijke evenementen?"
 description: "De meest gemaakte fout is te laat beginnen met plannen. Populaire locaties, goede sprekers en catering zijn maanden van tevoren volgeboekt."
 section: "FAQ"
-last_updated: "2026-05-08T17:11:24+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
