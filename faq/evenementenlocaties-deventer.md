@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-deventer"
 title: "Welke evenementenlocaties zijn er in Deventer?"
 description: "Deventer heeft bijzondere evenementenlocaties. Monumentale panden in de historische binnenstad geven elk evenement karakter. Langs de IJssel vind je waterlocaties die werken voor zomerevents en outdoorprogramma's. Moderne zalen en hotellocaties bieden professionele capaciteit. Geschikt voor 20 tot 4"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:58+00:00"
+last_updated: "2026-05-08T21:23:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
