@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/mag-je-fotos-en-videos-van-eventbezoe
 title: "Mag je foto's en video's van evenementbezoekers gebruiken?"
 description: "Het gebruik van foto's en video's van evenementbezoekers raakt aan portretrecht en auteursrecht. Communiceer bij de uitnodiging en entree dat er wordt gefotografeerd. Geef mensen de mogelijkheid om aan te geven dat ze niet op beeld willen, bijvoorbeeld via een gekleurde lanyard. Content die bezoeker"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:20+00:00"
+last_updated: "2026-05-08T21:24:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
