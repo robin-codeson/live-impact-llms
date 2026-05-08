@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/aantal-deelnemers-brainstorm-evenemen
 title: "Hoeveel mensen zet je aan tafel bij een brainstorm?"
 description: "Drie tot zes mensen, plus één facilitator die niet meedoet. Kleiner dan drie mist de wrijving die goede ideeën triggert. Groter dan zes en je verliest mensen: sommigen praten nooit, anderen domineren, en het gesprek versnippert. Kies mensen uit verschillende lagen en disciplines. Niet per se de zoge"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:33+00:00"
+last_updated: "2026-05-08T21:22:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
