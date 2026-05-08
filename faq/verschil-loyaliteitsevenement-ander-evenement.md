@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-loyaliteitsevenement-ander-e
 title: "Wat is het verschil tussen een loyaliteitsevenement en een ander evenement?"
 description: "Het onderscheid is subtiel maar belangrijk. Een klantevenement is voor nieuwe en bestaande klanten samen; het doel is groei en brede relatiebouw. Een loyaliteitsevenement is exclusief voor je beste, meest trouwe klanten; het doel is erkenning en verdieping. Met een klantevenement probeer je indruk t"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:03+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
