@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-evenementenbureau-breda-inscha
 title: "Waarom een evenementenbureau in Breda inschakelen?"
 description: "Een evenementenbureau met ervaring in Breda kent de lokale locaties, leveranciers en logistieke mogelijkheden. Live Impact biedt volledige ontzorging en combineert Brabantse gastvrijheid met creatieve concepten die écht impact maken op je doelgroep."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:31+00:00"
+last_updated: "2026-05-08T21:24:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
