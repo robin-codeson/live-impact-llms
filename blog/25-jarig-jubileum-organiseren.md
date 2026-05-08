@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/25-jarig-jubileum-organiseren"
 title: "Wat maakt 25 jaar bijzonder: anders dan 10 of 50?"
 description: "25-jarig jubileum organiseren? Een kwart eeuw is een bijzonder scharnierpunt. Hoe je erfgoed en ambitie samenvoegt in één onvergetelijk feest. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:49:14+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
