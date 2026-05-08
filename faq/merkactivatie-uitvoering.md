@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/merkactivatie-uitvoering"
 title: "Hoe voer je merkactivatie uit?"
 description: "Een succesvolle merkactivatie bestaat uit meerdere stappen: 1) Definieer je doel en doelgroep, 2) Ontwerp een unieke merkbeleving, 3) Zorg voor professionele uitvoering en branding, 4) Activeer je kanalen (social media, PR, direct contact), 5) Meet resultaten en betrokkenheid. Bij Live Impact begele"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:27+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
