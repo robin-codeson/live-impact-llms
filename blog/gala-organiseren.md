@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/gala-organiseren"
 title: "Waarom een gala het meest exclusieve zakelijke evenement is"
 description: "Gala organiseren dat gasten nog weken napraten? Concept, dresscode, entertainment. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:18+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
