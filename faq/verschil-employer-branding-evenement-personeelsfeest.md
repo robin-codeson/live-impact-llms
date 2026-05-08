@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-employer-branding-evenement-
 title: "Wat is het verschil tussen een employer branding evenement en een personeelsfeest?"
 description: "Een personeelsfeest is primair gericht op ontspanning en plezier voor bestaande medewerkers. Een employer branding evenement heeft een breder en strategischer doel: het versterken van het werkgeversimago, zowel intern als extern. Bij een employer branding evenement staat de boodschap centraal, wie z"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:57+00:00"
+last_updated: "2026-05-08T21:24:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
