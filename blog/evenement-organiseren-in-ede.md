@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-ede"
 title: "Ede: natuur, rust en focus voor jouw zakelijk evenement"
 description: "Evenement organiseren in Ede? Groene Veluwe-sfeer voor evenementen die écht anders zijn. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:29+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
