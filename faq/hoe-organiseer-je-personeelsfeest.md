@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-je-personeelsfeest"
 title: "Hoe organiseer je een personeelsfeest?"
 description: "Een goed personeelsfeest organiseren begint met een helder doel: wil je bedanken, vieren, verbinden of inspireren? Vanuit dat doel kies je het concept, de locatie, het entertainment en de catering. Betrek medewerkers bij de thema-selectie via een interne stemming. Communiceer tijdig. Stuur een save-"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:37+00:00"
+last_updated: "2026-05-08T21:23:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
