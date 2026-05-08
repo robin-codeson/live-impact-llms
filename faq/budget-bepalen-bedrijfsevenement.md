@@ -1,15 +1,18 @@
-[< Back](budget-bepalen-bedrijfsevenement.html#)[< Work](budget-bepalen-bedrijfsevenement.html#)
-
-[Next >](budget-bepalen-bedrijfsevenement.html#)
+---
+canonical_url: "https://live-impact.nl/faq/budget-bepalen-bedrijfsevenement"
+title: "Hoe bepaal je het budget voor een bedrijfsevenement?"
+description: "Een goed budget bepalen begint bij je doelstelling en gastenaantal. Reken voor een professioneel zakelijk evenement op ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €125 to"
+section: "FAQ"
+last_updated: "2026-05-08T16:56:34+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Hoe bepaal je het budget voor een bedrijfsevenement?
 
-Start met je doelstelling en het aantal gasten. Dat geeft je een eerste kader. Reken voor een compleet zakelijk evenement op 75 tot 250 euro per persoon, afhankelijk van je ambities.
+Een goed budget bepalen begint bij je doelstelling en gastenaantal.
 
-Verdeel je budget over de hoofdposten: locatie (25-30%), catering (25-30%), entertainment en techniek (15-20%), communicatie (5-10%) en organisatiekosten (10-15%). Houd altijd een post onvoorzien aan van 5 tot 10 procent.
+Reken voor een professioneel zakelijk evenement op ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €125 tot €350+ per persoon. Boven de 2.000 gasten op ongeveer €100 tot €300+ per persoon. Alle bedragen inclusief locatie, catering, entertainment, techniek en organisatie.
 
-Een veelgemaakte fout is te veel budget in de locatie stoppen en te weinig in het programma. Het programma maakt je evenement memorabel, niet de zaal. Wij helpen je om slim te begroten en maximale impact te maken.
+Verdeel het budget slim: investeer het meeste in beleving, in entertainment en programma, in plaats van in luxe locatiehuur.
 
-**[Meer weten over zakelijke evenementen organiseren? Lees ons complete artikel →](../blog/zakelijk-evenement-organiseren.html)**
-
-[Meer over zakelijke evenementen](../blog/zakelijk-evenement-organiseren.html)
+[Meer over zakelijke evenementen](/blog/zakelijk-evenement-organiseren)
