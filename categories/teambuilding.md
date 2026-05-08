@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/teambuilding"
 title: "Teambuilding organiseren?"
 description: "Maak interne trots tastbaar met een krachtige teambuilding. Focus op teamkracht, versterk de verbinding en laat je organisatie bruisen. Ontdek onze aanpak!"
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:27+00:00"
+last_updated: "2026-05-08T21:22:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
