@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-reiskosten-vervoer-evenem
 title: "Helpt Live Impact ook bij de reiskosten- en vervoersorganisatie?"
 description: "Ja. Live Impact denkt mee over de totale deelnemerservaring, en vervoer en reiskosten horen daarbij. We adviseren over pendeldiensten vanuit treinstations, groepsvervoer, parkeerbeleid en de communicatie naar deelnemers. We ontzorgen je bij de logistieke planning rondom aankomst en vertrek. Voor de "
 section: "FAQ"
-last_updated: "2026-05-08T17:10:06+00:00"
+last_updated: "2026-05-08T21:24:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
