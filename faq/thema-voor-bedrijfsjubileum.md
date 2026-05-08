@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/thema-voor-bedrijfsjubileum"
 title: "Wat is een goed thema voor een bedrijfsjubileum?"
 description: "Het sterkste jubileumthema is geen decoratiethema maar een inhoudelijk verhaal. Verbind verleden, heden en toekomst: waar kwamen we vandaan, waar staan we nu en waar gaan we naartoe? Dat verhaal geeft het programma richting en emotie. Wil je toch een visueel thema? Kies er dan een dat echt iets zegt"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:51+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
