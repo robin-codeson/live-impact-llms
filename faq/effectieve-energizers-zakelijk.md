@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/effectieve-energizers-zakelijk"
 title: "Wat zijn effectieve energizers voor zakelijke bijeenkomsten?"
 description: "Effectieve energizers voor zakelijke bijeenkomsten zijn niet zeer sportief, maar activeren wel lichaam en geest. Vijf voorbeelden. Een staande rekoefening van drie minuten met geleide armbeweging. Een kennismakingsronde van twee minuten: mensen stellen elkaar een vraag en wisselen van partner. Snell"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:49+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
