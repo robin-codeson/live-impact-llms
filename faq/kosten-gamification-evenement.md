@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-gamification-evenement"
 title: "Wat kost het toevoegen van gamification aan een evenement?"
 description: "Gamification kan goedkoop of duur zijn, afhankelijk van de complexiteit. Een basisopstelling kost ongeveer 2.000 tot 5.000 euro. Denk aan digitale punten via een evenementenapp, ranglijsten en eenvoudige prijzen zoals cadeaubonnen of merkartikelen. Meer geavanceerde opstellingen kosten fors meer. Me"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:18+00:00"
+last_updated: "2026-05-08T21:23:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
