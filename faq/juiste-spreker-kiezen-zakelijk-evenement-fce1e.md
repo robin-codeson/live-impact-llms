@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-spreker-kiezen-zakelijk-evenem
 title: "Hoe kies je de juiste spreker voor een zakelijk evenement?"
 description: "Begin bij de doelstelling: wat moet de spreker teweegbrengen? Inspiratie, kennis, gedragsverandering of entertainment? Match daarna op inhoud, stijl en relevantie voor de doelgroep. Een keynote voor directeuren vraagt een andere aanpak dan een sessie voor medewerkers. Vraag altijd referenties en dem"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:48+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
