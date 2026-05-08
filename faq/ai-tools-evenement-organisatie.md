@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ai-tools-evenement-organisatie"
 title: "Welke AI-tools gebruiken we voor evenementen?"
 description: "AI-tools maken het werk van evenementenorganisatoren slimmer en sneller. Chatbots beantwoorden vragen van deelnemers automatisch. Voorspellende analyses helpen inschatten wie zich aanmeldt en wie afhaakt. Generatieve AI versnelt het schrijven van uitnodigingen, programma-informatie en communicatie. "
 section: "FAQ"
-last_updated: "2026-05-08T16:53:59+00:00"
+last_updated: "2026-05-08T21:22:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
