@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/familiedag-met-thema"
 title: "Hoe organiseer je een familiedag met een thema?"
 description: "Populaire familiedagthema's zijn festivaldag (foodtrucks, podium), sportdag (olympisch format), avonturendag (speurtocht, survival) of een seizoensthema. Een thema geeft structuur en maakt het leuker voor alle leeftijden."
 section: "FAQ"
-last_updated: "2026-05-08T16:59:32+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
