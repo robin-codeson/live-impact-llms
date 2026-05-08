@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/dresscode-zakelijk-evenement"
 title: "Waarom dresscode meer is dan kledingadvies"
 description: "Dresscode op je zakelijk evenement communiceren? Van smart casual tot black tie: zo doe je het duidelijk."
 section: "Blog"
-last_updated: "2026-05-08T16:49:58+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
