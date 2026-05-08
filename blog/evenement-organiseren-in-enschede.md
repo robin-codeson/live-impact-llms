@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-enschede"
 title: "Waarom Enschede een verrassende evenementenstad is"
 description: "Evenement organiseren in Enschede? Twents karakter, campus-locaties en technologische sfeer."
 section: "Blog"
-last_updated: "2026-05-08T16:50:31+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
