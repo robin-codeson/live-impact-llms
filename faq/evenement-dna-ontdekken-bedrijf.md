@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-dna-ontdekken-bedrijf"
 title: "Hoe ontdek je het evenement DNA van jouw bedrijf?"
 description: "Evenement-DNA van je bedrijf ontdek je door vier vragen te stellen. (1) Welke drie waarden zijn ons belangrijkst als organisatie? Bijvoorbeeld innovatie, vertrouwen of inclusiviteit. Dit zijn je merkpijlers. (2) Hoe willen we dat deelnemers zich voelen tijdens ons evenement? Denk aan gesterkt, uitge"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:11+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
