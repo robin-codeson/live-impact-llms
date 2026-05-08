@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/uitnodiging-formeel-zakelijk-evenemen
 title: "Wat zet ik op de uitnodiging voor een formeel zakelijk evenement?"
 description: "Een goede uitnodiging voor een formeel evenement bevat acht elementen. Naam en organisatie van de afzender. Aanleiding of thema van het evenement. Datum en tijdstip, met deuren open én aanvang programma. Locatie met adres en routebeschrijving. Dresscode als die van toepassing is. RSVP-instructies me"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:08+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
