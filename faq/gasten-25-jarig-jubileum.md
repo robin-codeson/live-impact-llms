@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gasten-25-jarig-jubileum"
 title: "Hoeveel gasten nodig je uit voor een 25-jarig jubileum?"
 description: "Dat hangt af van je doel. Een intieme viering met medewerkers en directe relaties: 50–150 personen. Een groot jubileumfeest met klanten, partners en pers: 200–500+."
 section: "FAQ"
-last_updated: "2026-05-08T16:59:59+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
