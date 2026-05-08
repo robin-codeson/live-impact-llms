@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/sfeervol-decoreren-beperkt-budget"
 title: "Hoe maak je een ruimte sfeervol zonder groot budget?"
 description: "Sfeer creëer je primair met licht, kleuren en bloemen, niet altijd met grote budgetten. Tip 1: gebruik je huisstijl consequent (banners, tafellopers en bordjes in merkkleur geven direct profiel). Tip 2: groen en bloemen zijn relatief goedkoop en maken een ruimte meteen gezelliger. Een paar bundels t"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:56+00:00"
+last_updated: "2026-05-08T21:24:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
