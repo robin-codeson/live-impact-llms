@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/niet-ontbreken-opening-bedrijf"
 title: "Wat mag niet ontbreken bij de opening van een bedrijf?"
 description: "Bij een bedrijfsopening mag een formeel openingsmoment niet ontbreken: een lintje knippen, een sleuteloverhandiging of een symbolische eerste handeling die het moment markeert. Verder zijn een welkomstwoord van de eigenaar of directeur, een rondleiding door de ruimte, catering voor de gasten en prof"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:39+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
