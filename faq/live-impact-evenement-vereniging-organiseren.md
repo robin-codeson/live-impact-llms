@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-vereniging-orga
 title: "Kan Live Impact een evenement voor onze vereniging organiseren?"
 description: "Ja. Live Impact heeft ruime ervaring met evenementen voor verenigingen, bonden en ledenorganisaties. We begrijpen de democratische dynamiek. Beslissingen hebben draagvlak nodig en leden zijn mondige deelnemers. Ook kostenverantwoording wordt serieus genomen. We begeleiden het complete traject: van c"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:55+00:00"
+last_updated: "2026-05-08T21:24:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
