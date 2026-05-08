@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/idea-keurmerk-evenementenbureaus-defi
 title: "Wat is het IDEA-keurmerk voor evenementenbureaus?"
 description: "Het IDEA-keurmerk is een erkend certificaat van de Nederlandse branchevereniging voor evenementenbureaus. Het garandeert dat een bureau aan strenge kwaliteitseisen voldoet: professionaliteit, integriteit, financieel beheer en klantgerichtheid. Gecertificeerde bureaus doorlopen een externe audit en m"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:09+00:00"
+last_updated: "2026-05-08T21:23:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
