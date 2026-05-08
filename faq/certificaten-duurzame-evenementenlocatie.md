@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/certificaten-duurzame-evenementenloca
 title: "Welke certificaten heeft een duurzame evenementenlocatie?"
 description: "Kijk naar Green Key (internationaal keurmerk voor duurzame horeca en locaties), BREEAM-certificering (gebouwen op duurzaamheidsprestaties) en ISO 14001 (milieumanagementsysteem). Ook een goede OV-verbinding, zonnepanelen en afvalscheiding zijn concrete indicatoren, soms relevanter dan een certificaa"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:48+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
