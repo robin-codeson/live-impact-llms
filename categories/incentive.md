@@ -1,21 +1,21 @@
-[< Back](incentive.html#)[< Work](incentive.html#)
+---
+canonical_url: "https://live-impact.nl/categories/incentive"
+title: "Incentive reis organiseren?"
+description: "Een incentive reis organiseren die impact maakt? Ontdek Serious Fun en Slow MICE voor meer trots en energie. Wij ontzorgen je volledig. Plan een kennismaking!"
+section: "Categorieën"
+last_updated: "2026-05-08T16:53:20+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](incentive.html#)
+![Incentive reis organiseren — Live Impact evenementenbureau](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3184c1dfdb96aaa63396f_696fc30511cecea2f672bc51_Activiteit%2520vrije%2520tijd%2520verkeer%2520kleine%2520karretjes.webp)
 
-![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
-
-[
-
-](incentive.html)
-
-![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
-![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+![Hero image](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3184c1dfdb96aaa63396f_696fc30511cecea2f672bc51_Activiteit%2520vrije%2520tijd%2520verkeer%2520kleine%2520karretjes.webp)
 
 # Incentive reis organiseren?
 
 Durf te kiezen voor iets dat mensen écht bijblijft
 
-[Incentive](incentive.html#)
+[Incentive](#)
 
 ## Samen Sterker, Samen Verder
 
@@ -33,28 +33,28 @@ Daarom werken we volgens het Serious Fun concept: plezier als motor voor doelen.
 
 We werken met drie onderdelen:
 
-**Identiteit**
+**Identiteit**  
 We vertalen jullie kernwaarden en verhalen naar één duidelijke lijn waar mensen zich in herkennen.
 
-**Concept**
+**Concept**  
 We maken een voor–tijdens–na aanpak met een intern plan: communicatie, ritme, verrassingen en momenten die passen bij jullie manier van werken.
 
-**Productie**
+**Productie**  
 Van WKR-regels tot logistiek en draaiboeken: wij regelen het. En we kiezen activiteiten die de sleur breken.
 
 Een incentive reis organiseer je om iets in beweging te zetten, niet om een programma af te vinken.
 
 ‍
 
-[![Wicked Wonderland — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb5f_69764f2817f8c645fe574ef9_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520Loods%2520Loco%2520Bladblazer%2520vrouw%2520haar.webp)
+[![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69e2e191dde697deb003e9c5_69e2e154058221a412832484_wicked-wonderland-1080.webp)
 
 ### Wicked Wonderland
 
 Personeelsfeest
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/wicked-wonderland.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/wicked-wonderland)
 
-[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](incentive.html#)
+[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](#)
 
 ## Zekerheid voor het MT, rust voor jou
 
@@ -70,9 +70,15 @@ Klaar om dit goed neer te zetten? Plan een kennismaking en we vertalen jullie do
 
 ## Meer lezen
 
-Lees ook: [Zakelijk evenement organiseren](../blog/zakelijk-evenement-organiseren.html) — of bekijk onze aanpak voor een [teambuilding](teambuilding.html). Bekijk de [veelgestelde vragen](../faq.html).
+Lees ook: [Zakelijk evenement organiseren](/blog/zakelijk-evenement-organiseren) — of bekijk onze aanpak voor een [teambuilding](/categories/teambuilding). Bekijk de [veelgestelde vragen](/faq).
+
+##
+
+##
 
 ![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+
+##
 
 ## Geïnspireerd geraakt?
 
