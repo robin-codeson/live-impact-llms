@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/regels-decoratie-evenementenlocatie"
 title: "Wat zijn de regels voor decoratie op een evenementenlocatie?"
 description: "Elke locatie heeft eigen restricties. Veel locaties staan decoratie toe tot een bepaalde hoogte, maar verbieden boren, plakken of hijsen. Hangende constructies aan het plafond zijn vaak alleen toegestaan na schriftelijke goedkeuring en met een gecertificeerde rigger. Kaarsen zijn op veel locaties ni"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:33+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
