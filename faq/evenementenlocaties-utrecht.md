@@ -1,0 +1,16 @@
+---
+canonical_url: "https://live-impact.nl/faq/evenementenlocaties-utrecht"
+title: "Welke evenementenlocaties zijn er in Utrecht?"
+description: "Utrecht heeft diverse geschikte locaties voor zakelijke evenementen: van moderne congrescentra en stijlvolle hotels tot industriële panden en unieke buitenlocaties. De juiste keuze hangt af van je groepsgrootte (20 tot 500+ personen), gewenste sfeer en bereikbaarheid per OV en auto. Live Impact kent"
+section: "FAQ"
+last_updated: "2026-05-08T16:59:09+00:00"
+source: "live-impact.nl HTML mirror"
+---
+
+# Welke evenementenlocaties zijn er in Utrecht?
+
+Utrecht heeft diverse geschikte locaties voor zakelijke evenementen: van moderne congrescentra en stijlvolle hotels tot industriële panden en unieke buitenlocaties. De juiste keuze hangt af van je groepsgrootte (20 tot 500+ personen), gewenste sfeer en bereikbaarheid per OV en auto. Live Impact kent de best passende locaties in Utrecht en selecteert altijd op basis van het concept.
+
+**[Meer weten? Lees ons complete artikel →](/blog/evenement-organiseren-in-utrecht)**
+
+[Meer over zakelijke evenementen](/blog/zakelijk-evenement-organiseren)
