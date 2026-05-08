@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/5-jarig-jubileum-groot-feest"
 title: "Is een 5-jarig jubileum groot genoeg voor een groots feest?"
 description: "Absoluut. 5 jaar is een echte mijlpaal, zeker in het ondernemerschap. Of je het groot of intiem viert, hangt af van je doelgroep, cultuur en budget."
 section: "FAQ"
-last_updated: "2026-05-08T16:53:32+00:00"
+last_updated: "2026-05-08T21:22:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
