@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/verandercommunicatie-evenement-organ
 title: "Waarom verandering een evenement verdient"
 description: "Verandercommunicatie evenement organiseren? Hoe je reorganisatie, fusie of strategiewijziging landt bij medewerkers. Formats, tips en voorbeelden."
 section: "Blog"
-last_updated: "2026-05-08T16:53:04+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
