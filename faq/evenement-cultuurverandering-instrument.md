@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-cultuurverandering-instrume
 title: "Hoe gebruik je een evenement als instrument voor cultuurverandering?"
 description: "Evenementen creëren een veilige ruimte voor nieuwe denkwijzen. Via verhalen, ervaringsmodules en gesprekken tussen collega's introduceer je andere werkwijzen. Belangrijke sleutels: maak de betrokkenheid van de directie zichtbaar. Geef medewerkers het podium, en laat niet alleen experts aan het woord"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:09+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
