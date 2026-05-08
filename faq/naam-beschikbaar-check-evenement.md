@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/naam-beschikbaar-check-evenement"
 title: "Hoe weet je of een evenement-naam al in gebruik is door iemand anders?"
 description: "Doe drie checks voordat je kiest. Google-check: zoek de naam letterlijk en met 'evenement' erbij. Levert dat al honderden hits van andere evenementen op, loop je een risico op verwarring. Domain-check: kijk of de .nl of .com beschikbaar is als je een eventsite wilt. Merkenregister-check: zoek de naa"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:37+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
