@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ambassadeur-aanspreken-evenement"
 title: "Hoe spreek ik een ambassadeur aan op een evenement?"
 description: "Een ambassadeur spreek je aan als 'Excellentie'. Dit geldt zowel in het Nederlands als in het Engels ('Your Excellency'). Bij een formele ontvangst word je door de medewerker van de ambassade geïnformeerd over specifieke protocollaire wensen. Ambassadeurs worden doorgaans vergezeld door een medewerk"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:03+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
