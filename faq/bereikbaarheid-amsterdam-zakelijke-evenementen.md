@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-amsterdam-zakelijke-ev
 title: "Hoe bereikbaar is Amsterdam voor zakelijke evenementen?"
 description: "Amsterdam is uitstekend bereikbaar. Per trein: Utrecht 27 minuten, Rotterdam 41 minuten, Den Haag 52 minuten, Eindhoven 78 minuten. Voor internationale gasten: Schiphol ligt op 17 minuten van Amsterdam Centraal. Directe vluchten vanuit Londen, Parijs en Frankfurt maken Amsterdam de meest internation"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:37+00:00"
+last_updated: "2026-05-08T21:22:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
