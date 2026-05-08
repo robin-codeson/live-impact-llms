@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succes-relatie-evenement-meten"
 title: "Hoe meet je het succes van een relatie-evenement?"
 description: "Stel vooraf meetbare doelen. Meet de opkomst als percentage van de uitgenodigden. Verzamel direct na het evenement een Net Promoter Score (NPS): zou je gast het evenement aanbevelen? Voer in de weken erna follow-upgesprekken via je accountmanagers. Meet op langere termijn de impact op klantbehoud. T"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:28+00:00"
+last_updated: "2026-05-08T21:24:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
