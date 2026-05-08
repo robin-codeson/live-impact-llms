@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-employee-engagement-evenemen
 title: "Wat is het verschil tussen medewerkersbetrokkenheid-evenementen en een personeelsfeest?"
 description: "Een personeelsfeest is een viering: gezelligheid, eten, drinken, entertainment. Dat is waardevol, maar het doel is ontspanning. Medewerkersbetrokkenheid-evenementen hebben een explicieter strategisch doel: het versterken van de verbinding tussen medewerkers en organisatie. Dat kan via een inspiratie"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:56+00:00"
+last_updated: "2026-05-08T21:24:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
