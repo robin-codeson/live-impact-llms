@@ -8,7 +8,7 @@
 <!-- canonical: https://live-impact.nl/blog/zomerborrel-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/zomerborrel-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:53:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:51+00:00 -->
 
 ![Meisje achter een sfeervolle cocktailbar tijdens een Gatsby-thema zomerborrel](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3706bc3028ce0bd61411_697621f2cc5af991a8fb531f_Huisman%2520Schiedam%252090%2520jaar%2520Catering%2520meisje%2520bar%2520Gatsby.webp)
 
@@ -151,7 +151,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/zomerfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/zomerfeest-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:53:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:51+00:00 -->
 
 ![Meisje danst in zonlicht met handen omhoog bij een zomers buitenevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f68886cf1046e96b7156_69c0693532ac54b23967b897_Zonlicht%2520schaduw%2520meisje%2520dansen%2520handen%2520omhoog.jpeg)
 
@@ -306,7 +306,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/zorg-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/zorg-evenement-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:53:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:52+00:00 -->
 
 ![Collega's vormen een erehaag als warm welkom bij een jubileumviering](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434b7_697612f45b94c920c46aee81_Jubileumfeest%2520MUMC%252B%2520Erehaag%2520door%2520collegas.webp)
 
@@ -445,7 +445,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/activatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/activatie.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:52+00:00 -->
 
 ![Guerilla-marketingactie met laserprojectie op een brug bij nacht](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5eb83aba737800c4be6_69c061571c9ceaffe827373c_Oostenrijk%2520Toeristenburo%2520guerilla%2520actie%2520brug%2520laserprojectie%2520uitdelen%2520folder.jpeg)
 
@@ -574,7 +574,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/bedrijfsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/bedrijfsfeest.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:52+00:00 -->
 
 ![Volle zaal lacht en viert tijdens een personeelsfeest met live entertainment](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
@@ -719,7 +719,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/congres.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:52+00:00 -->
 
 ![Plenaire sessie met sprekers op podium tijdens een zakelijk congres](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1776ed71e373c2fec65_69c069be6843e2faf10f2bcc_Podiumsettin%2520plenair%2520directie.jpeg)
 
@@ -843,7 +843,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/familiedag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/familiedag.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:53+00:00 -->
 
 ![Sfeerbeeld van een groot familiefestival bij daglicht in het groen](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f68986cf1046e96b71c2_69c061720a60bf478e2227cf_Togetherland_LiveImpact_BartHeemskerk_366_HQ-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -958,7 +958,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/incentive -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/incentive.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:53+00:00 -->
 
 ![Incentive reis organiseren — Live Impact evenementenbureau](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3184c1dfdb96aaa63396f_696fc30511cecea2f672bc51_Activiteit%2520vrije%2520tijd%2520verkeer%2520kleine%2520karretjes.webp)
 
@@ -1046,7 +1046,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/jubileumfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/jubileumfeest.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:53+00:00 -->
 
 ![Luchtfoto van coverband op catwalk met groot publiek bij een jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5900a96eae44ba4f8e0_69c0696900fa33741dc8db55_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520lucht%2520entertainment%2520Discophonic%2520Pety%2520catwalk.webp)
 
@@ -1228,7 +1228,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/kick-off -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/kick-off.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:53+00:00 -->
 
 ![Hero image](https://cdn.prod.website-files.com/695b829c457806268234ce0e/696eadb7d8b1632028e1b465_KEYVISUAL%20Overzicht%20entree%20met%20gasten.webp)
 
@@ -1367,7 +1367,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/open-dag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/open-dag.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:53+00:00 -->
 
 ![Man en vrouw glimlachen met ijsje bij een ontspannen open dag](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f71b9d88aa8f90dd7f69_69c061588ca16615fa3473a1_Huisman%2520open%2520dag%2520man%2520vrouw%2520ijsje%2520glimlachen-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -1474,7 +1474,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/opening -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/opening.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:54+00:00 -->
 
 ![Spectaculaire lichtshow bij de opening van een bedrijfspand](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f696bd7565a25306d0b6_69c06158a6f2802c48b169e7_Opening%25201931%2520lichtshow-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -1596,7 +1596,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/personeelsfeest.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:54+00:00 -->
 
 ![Hero image](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf1d_Thuishaven-Loods-Loco-Bladblazer-vrouw-haar-1.webp)
 
@@ -1751,7 +1751,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/relaties -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/relaties.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:54+00:00 -->
 
 ![Hero image](https://cdn.prod.website-files.com/695b829c457806268234ce0e/696fd8c7f04ca2e86aa6dacc_APG%20100%20Inspirium%20dakterras-%20(c)%202025%20Live%20Impact%20Eventmarketing.webp)
 
@@ -1912,7 +1912,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/schip-dopen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/schip-dopen.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:54+00:00 -->
 
 ![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd6143c_697621f2b722b7201ff430e9_Huisman%2520Schiedam%252090%2520jaar%2520Overzicht%2520zaal%25205.webp)
 
@@ -2039,7 +2039,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/teambuilding -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/teambuilding.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:54+00:00 -->
 
 ![Hero image](https://cdn.prod.website-files.com/695b829c457806268234ce0e/696fd40abc2e575cf9d8331e_Alphabet%20KNRM%20redding%20op%20zee-%20(c)%202025%20Live%20Impact%20Eventmarketing.webp)
 
@@ -2128,7 +2128,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/categories/zorg-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/categories/zorg-evenementen.md -->
 <!-- section: Categorieën -->
-<!-- last_updated: 2026-05-08T16:53:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 ![Collega's vormen een erehaag als warm welkom bij een jubileumviering](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd62434b7_697612f45b94c920c46aee81_Jubileumfeest%2520MUMC%252B%2520Erehaag%2520door%2520collegas.webp)
 
@@ -2267,7 +2267,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/faq/25-jarig-jubileum-onvergetelijk-maken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/25-jarig-jubileum-onvergetelijk-maken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 # Hoe maak je een 25-jarig jubileum van een bedrijf onvergetelijk?
 
@@ -2286,7 +2286,7 @@ Concrete tips. Maak een bedrijfsfilm van 5 tot 8 minuten met getuigenissen. Kies
 <!-- canonical: https://live-impact.nl/faq/5-jarig-jubileum-groot-feest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/5-jarig-jubileum-groot-feest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 # Is een 5-jarig jubileum groot genoeg voor een groots feest?
 
@@ -2305,7 +2305,7 @@ Tip: gebruik het jubileum ook als communicatiemoment naar buiten. 5 jaar is nieu
 <!-- canonical: https://live-impact.nl/faq/aanmeldtool-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aanmeldtool-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 # Welke tool gebruik ik voor aanmeldingen bij een zakelijk evenement?
 
@@ -2322,7 +2322,7 @@ Meer over aanmeldingsmanagement in ons artikel over [uitnodigingsstrategie voor 
 <!-- canonical: https://live-impact.nl/faq/aantal-bureaus-uitnodigen-presentatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aantal-bureaus-uitnodigen-presentatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 # Hoeveel bureaus nodig ik uit voor een presentatie?
 
@@ -2337,7 +2337,7 @@ Nodig 3 tot maximaal 5 bureaus uit. Minder dan 3 geeft onvoldoende vergelijkings
 <!-- canonical: https://live-impact.nl/faq/aantal-deelnemers-brainstorm-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aantal-deelnemers-brainstorm-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 # Hoeveel mensen zet je aan tafel bij een brainstorm?
 
@@ -2360,7 +2360,7 @@ Eén uitzondering: als je met een groter team echt iedereen wilt betrekken, werk
 <!-- canonical: https://live-impact.nl/faq/aantal-foodtrucks-groep-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aantal-foodtrucks-groep-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 # Hoeveel foodtrucks heb je nodig voor jouw groep?
 
@@ -2377,7 +2377,7 @@ Vuistregel: één foodtruck per 75-100 gasten. Voor 50 personen volstaat één t
 <!-- canonical: https://live-impact.nl/faq/aantal-gasten-crowdcontrolplan-nodig -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aantal-gasten-crowdcontrolplan-nodig.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:55+00:00 -->
 
 # Vanaf welk aantal gasten heb ik een crowdcontrolplan nodig?
 
@@ -2394,7 +2394,7 @@ Formeel schrijft de gemeente bij evenementen boven de 250 personen in de openbar
 <!-- canonical: https://live-impact.nl/faq/aantal-gasten-klantevent -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aantal-gasten-klantevent.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Wat is een goed aantal gasten voor een klantevent?
 
@@ -2413,7 +2413,7 @@ Kies de grootte op basis van het gesprek dat je wilt voeren. Niet op basis van d
 <!-- canonical: https://live-impact.nl/faq/aantal-namen-longlist-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aantal-namen-longlist-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Hoeveel namen moet je bedenken voordat je kiest?
 
@@ -2434,7 +2434,7 @@ Een tip: wissel tijdens het bedenken van modus. Eerst vijf minuten gewone brains
 <!-- canonical: https://live-impact.nl/faq/aanvraagtermijn-evenementenvergunning -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/aanvraagtermijn-evenementenvergunning.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Hoe lang van tevoren moet ik een evenementenvergunning aanvragen?
 
@@ -2455,7 +2455,7 @@ Let ook op: de evenementenvergunning is één vergunning. De geluids- en alcohol
 <!-- canonical: https://live-impact.nl/faq/activatie-evenement-wat-is-het -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activatie-evenement-wat-is-het.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Wat is een activatie in de context van een evenement?
 
@@ -2472,7 +2472,7 @@ Een activatie richt zich op merkbeleving en directe consumenteninteractie met ee
 <!-- canonical: https://live-impact.nl/faq/activaties-aansluiten-concept -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activaties-aansluiten-concept.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Hoe maak je een merkactivatie die blijft hangen?
 
@@ -2489,7 +2489,7 @@ Een activatie blijft bij door emotie, waarneming en relevantie. Gebruik sensoris
 <!-- canonical: https://live-impact.nl/faq/activatiestrategieen-ugc-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activatiestrategieen-ugc-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Welke activatiestrategieën voor UGC werken het beste?
 
@@ -2508,7 +2508,7 @@ Actief: gebruik een live social wall waar berichten met jouw hashtag in realtime
 <!-- canonical: https://live-impact.nl/faq/activiteiten-afscheidsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-afscheidsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Wat zijn leuke activiteiten voor een afscheidsfeest?
 
@@ -2525,7 +2525,7 @@ Plan een gedenkwaardig cadeau-moment met aandacht voor de persoon en zijn of haa
 <!-- canonical: https://live-impact.nl/faq/activiteiten-bedrijfsreis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-bedrijfsreis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Welke activiteiten zijn geschikt voor een bedrijfsreis?
 
@@ -2544,7 +2544,7 @@ Avontuurlijke activiteiten als kajakken of wandelen geven energie. Een spa- of k
 <!-- canonical: https://live-impact.nl/faq/activiteiten-bedrijfsuitje -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-bedrijfsuitje.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Welke activiteiten zijn populair voor bedrijfsuitjes?
 
@@ -2559,7 +2559,7 @@ Populaire activiteiten voor bedrijfsuitjes in 2026 verschillen per groep, maar e
 <!-- canonical: https://live-impact.nl/faq/activiteiten-familiedag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-familiedag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Welke activiteiten werken goed op een familiedag?
 
@@ -2578,7 +2578,7 @@ Gezamenlijk: familiespelen in gemengde teams, een kookwedstrijd of een kindvrien
 <!-- canonical: https://live-impact.nl/faq/activiteiten-familiedag-aan-zee -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-familiedag-aan-zee.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Welke activiteiten passen bij een familiedag aan zee?
 
@@ -2597,7 +2597,7 @@ Combineer activiteiten voor meerdere leeftijdsgroepen en kies catering via een s
 <!-- canonical: https://live-impact.nl/faq/activiteiten-familiedag-kinderen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-familiedag-kinderen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Welke activiteiten zijn geschikt voor een familiedag met kinderen?
 
@@ -2616,7 +2616,7 @@ Meer ideeën op [familiedag organiseren](/blog/familiedag-organiseren).
 <!-- canonical: https://live-impact.nl/faq/activiteiten-gemengd-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-gemengd-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:56+00:00 -->
 
 # Welke activiteiten zijn geschikt voor een gemengd personeelsfeest?
 
@@ -2635,7 +2635,7 @@ Vermijd puur competitieve sporten als hoofdactiviteit voor gemengde groepen: die
 <!-- canonical: https://live-impact.nl/faq/activiteiten-geschikt-teamdag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-geschikt-teamdag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Welke activiteiten zijn geschikt voor een teamdag?
 
@@ -2652,7 +2652,7 @@ De beste activiteiten sluiten aan bij je doelstelling. Wil je samenwerking verst
 <!-- canonical: https://live-impact.nl/faq/activiteiten-incentive-reis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-incentive-reis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Welke activiteiten passen goed bij een incentive reis?
 
@@ -2669,7 +2669,7 @@ De beste activiteiten brengen sport, cultuur en ontspanning in balans. Teambuild
 <!-- canonical: https://live-impact.nl/faq/activiteiten-onboarding-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-onboarding-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Welke activiteiten horen bij een onboardingevenement?
 
@@ -2688,7 +2688,7 @@ Voeg een cultureel moment toe: wat maakt dit bedrijf uniek? Niet als PowerPoint,
 <!-- canonical: https://live-impact.nl/faq/activiteiten-projectafronding -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-projectafronding.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Wat zijn goede activiteiten voor een projectafronding?
 
@@ -2705,7 +2705,7 @@ Zorg altijd voor een persoonlijk moment: noem mensen bij naam, vier specifieke b
 <!-- canonical: https://live-impact.nl/faq/activiteiten-teamuitje-noordwijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/activiteiten-teamuitje-noordwijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Welke activiteiten passen bij een teamuitje Noordwijk?
 
@@ -2724,7 +2724,7 @@ Bereikbaar vanuit Amsterdam, Rotterdam en Den Haag in circa een uur.
 <!-- canonical: https://live-impact.nl/faq/acts-kiezen-familiedag-concept -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/acts-kiezen-familiedag-concept.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Hoe kies je acts die in hetzelfde familiedag-concept passen?
 
@@ -2743,7 +2743,7 @@ Gasten hoeven niet te weten dat het een concept is, ze voelen het als samenhang.
 <!-- canonical: https://live-impact.nl/faq/afscheidsfeest-inclusief -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/afscheidsfeest-inclusief.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Wat is de ideale locatie voor een afscheidsfeest?
 
@@ -2760,7 +2760,7 @@ De ideale locatie voor een afscheidsfeest combineert warmte, intimiteit en prakt
 <!-- canonical: https://live-impact.nl/faq/afscheidsfeest-introvert-collega -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/afscheidsfeest-introvert-collega.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Wat als de vertrekkende collega niet van aandacht houdt?
 
@@ -2777,7 +2777,7 @@ Kies voor een kleinere setting: een diner met de directe collega's in plaats van
 <!-- canonical: https://live-impact.nl/faq/afscheidsfeest-kosten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/afscheidsfeest-kosten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T16:53:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:57+00:00 -->
 
 # Wat kost een afscheidsfeest organiseren?
 
