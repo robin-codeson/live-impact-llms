@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-een-evenement-organis
 title: "Kan Live Impact een evenement organiseren in Rotterdam?"
 description: "<p>Absoluut. Live Impact heeft ruime ervaring met zakelijke evenementen in Rotterdam en de regio Rijnmond. Van productlanceringen op de Kop van Zuid tot teamdagen aan de Maas — wij kennen de stad, de locaties en de beste leveranciers. Neem contact op via 085-4014014 of hello@live-impact.nl om de mog"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:03+00:00"
+last_updated: "2026-05-08T21:23:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
