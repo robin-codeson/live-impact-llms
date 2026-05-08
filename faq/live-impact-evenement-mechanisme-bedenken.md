@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-mechanisme-bede
 title: "Kan Live Impact een mechanisme voor ons concept bedenken?"
 description: "Ja. Bij elk concept dat wij maken hoort een mechanisme. Wij zien het als het onderdeel dat het verschil maakt. Een goed mechanisme zorgt dat mensen het evenement nog maanden napraten in plaats van vergeten. Wij beginnen altijd bij de boodschap en werken van daaruit naar het mechanisme toe, niet ande"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:40+00:00"
+last_updated: "2026-05-08T21:23:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
