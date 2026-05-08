@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/spectaculaire-opening-nieuw-pand"
 title: "Hoe organiseer je een spectaculaire opening van een nieuw pand?"
 description: "Een spectaculaire bedrijfsopening organiseer je door vier elementen goed te combineren. Eén: een sterke openingshandeling (lint knippen, sleutelceremonie, onthulling). Twee: een beleving van het pand (rondleiding, open concept). Drie: een warme ontvangst (catering, muziek, sfeer). Vier: één memorabe"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:08+00:00"
+last_updated: "2026-05-08T21:24:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
