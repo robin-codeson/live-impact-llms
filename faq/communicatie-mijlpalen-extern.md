@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/communicatie-mijlpalen-extern"
 title: "Hoe communiceer je bedrijfsmijlpalen extern?"
 description: "Externe communicatie van een bedrijfsmijlpaal werkt het beste in lagen. Begin met het verhaal: waarom is deze mijlpaal belangrijk, voor wie en wat zegt hij over je bedrijf? Schrijf een persbericht van 1 A4 met kerncijfers, citaten van directie en een persoonlijk anekdotaal element. Verspreid het naa"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:51+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
