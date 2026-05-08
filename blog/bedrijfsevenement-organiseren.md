@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsevenement-organiseren"
 title: "Waarom de meeste bedrijfsevenementen vastlopen vóór ze beginnen"
 description: "Bedrijfsevenement organiseren? Het draait niet om de locatie of de band. Het draait om het interne proces. Zo pak je het aan."
 section: "Blog"
-last_updated: "2026-05-08T16:49:24+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
