@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-evenementcoordinator-nodig"
 title: "Wanneer heb je een evenementcoördinator nodig?"
 description: "Niet elk event vraagt een aparte coördinator. Een borrel voor 50 mensen regelt een ervaren marketingmanager er prima bij. Maar zodra één van drie factoren speelt, is een coördinator geen luxe meer maar een noodzaak. Drie signalen. Meer dan vier externe leveranciers op één dag: catering, techniek, en"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:51+00:00"
+last_updated: "2026-05-08T21:24:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
