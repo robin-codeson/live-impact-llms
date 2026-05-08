@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-catering-regelen-evenemen
 title: "Kan Live Impact catering regelen voor ons zakelijk evenement?"
 description: "Ja. Wij regelen catering als integraal onderdeel van je evenementconcept. Wij hebben een netwerk van cateraars in heel Nederland, van foodtrucks tot Michelin-sterren-chefs, van streetfood concepten tot exclusieve dinerformats. Wij matchen de cateraar op jouw concept en doelgroep, bewaken de afstemmi"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:33+00:00"
+last_updated: "2026-05-08T21:23:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
