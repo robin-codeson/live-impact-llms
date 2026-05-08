@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/ideeen-voor-personeelsfeest"
 title: "Waarom originele ideeën voor je personeelsfeest ertoe doen"
 description: "Op zoek naar ideeën voor een personeelsfeest? Van sportief tot culinair, van intiem tot grootschalig — 15 originele concepten voor elk team en budget."
 section: "Blog"
-last_updated: "2026-05-08T16:51:22+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
