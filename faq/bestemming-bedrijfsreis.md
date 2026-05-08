@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bestemming-bedrijfsreis"
 title: "Hoe kies ik de perfecte bestemming voor een bedrijfsreis?"
 description: "Een goede bestemming voor een bedrijfsreis matcht het doel, niet andersom. Begin met een vraag: is dit een training, conferentie, incentive of teamervaring? Een leerreis vraagt een stad met inhoudelijk programma. Denk aan bezoeken aan bedrijven of congrescentra. Een incentive vraagt een belevenis-be"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:42+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
