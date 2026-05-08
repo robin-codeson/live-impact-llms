@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-evalueren"
 title: "Kan Live Impact helpen bij het evalueren van een evenement?"
 description: "Ja, Live Impact levert na elk evenement een evaluatierapport met harde cijfers (opkomst, NPS, sessie-deelname), kwalitatieve feedback en observaties vanuit de productie. Dat rapport is de basis voor het volgende evenement. We helpen ook met de follow-up communicatie: bedankmail, aftermovie, het dele"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:30+00:00"
+last_updated: "2026-05-08T21:23:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
