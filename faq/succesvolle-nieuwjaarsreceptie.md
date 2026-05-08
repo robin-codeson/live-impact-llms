@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succesvolle-nieuwjaarsreceptie"
 title: "Hoe organiseer je een succesvol nieuwjaarsreceptie?"
 description: "Dit is een veelgestelde vraag over het organiseren van nieuwjaarsrecepties. Live Impact helpt je hier graag verder. Neem contact op voor een vrijblijvend gesprek."
 section: "FAQ"
-last_updated: "2026-05-08T17:14:33+00:00"
+last_updated: "2026-05-08T21:24:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
