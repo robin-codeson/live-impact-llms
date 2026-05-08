@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-gasten-loyaliteitsevenement"
 title: "Hoeveel gasten nodig je uit voor een loyaliteitsevenement?"
 description: "Houd de gastenlijst exclusief: 20 tot 80 gasten is ideaal. Hoe kleiner de groep, hoe persoonlijker het contact."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:27+00:00"
+last_updated: "2026-05-08T21:23:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
