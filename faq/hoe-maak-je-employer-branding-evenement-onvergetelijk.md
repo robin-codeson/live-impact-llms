@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-employer-branding-eveneme
 title: "Hoe maak je een employer branding evenement onvergetelijk?"
 description: "Een onvergetelijk employer branding evenement staat of valt met één ding: authenticiteit. Laat zien wie je écht bent als werkgever, geen gepolijste pr-boodschap, maar echte verhalen van echte mensen. Laat medewerkers aan het woord. Zorg voor een visuele uitstraling die past bij je merkidentiteit, va"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:09+00:00"
+last_updated: "2026-05-08T21:23:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
