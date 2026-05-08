@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bijzonder-evenement-alphen-aan-den-ri
 title: "Hoe maak je een evenement in Alphen aan den Rijn bijzonder?"
 description: "De Rijn is het visitekaartje van Alphen. Gebruik die troef. Denk aan een rondvaart over de rivier als opening of afsluiting. Of een diner op een terras aan het water. Of een teambuilding langs het Archeon. Alphen heeft ook Avifauna, een unieke dierentuin die evenementen organiseert in een onverwacht"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:59+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
