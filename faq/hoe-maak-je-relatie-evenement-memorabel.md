@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-relatie-evenement-memorab
 title: "Hoe maak je een relatie-evenement memorabel?"
 description: "Een memorabel relatie-evenement heeft drie ingrediënten: een bijzondere locatie, persoonlijke aandacht en een onverwacht moment. De locatie: kies een plek die gasten niet zelf zouden kiezen, maar die ze achteraf geweldig vinden. Denk aan een restaurant dat al maanden volgeboekt is. Of een bijzondere"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:13+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
