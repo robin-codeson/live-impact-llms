@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/groepsgrootte-evenement-leeuwarden"
 title: "Hoeveel mensen kun je uitnodigen voor een evenement in Leeuwarden?"
 description: "Leeuwarden is ideaal voor evenementen van 30 tot 400 personen. De binnenstad heeft tientallen intieme en grotere locaties voor diverse formats. Denk aan een diner voor 40 personen of een personeelsfeest voor 300 gasten. Voor heel grote evenementen (500+) zijn de mogelijkheden beperkter dan in Gronin"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:19+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
