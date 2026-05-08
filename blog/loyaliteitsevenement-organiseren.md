@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/loyaliteitsevenement-organiseren"
 title: "Waarom loyaliteit een evenement waard is"
 description: "Een loyaliteitsevenement organiseren? Ontdek hoe je klanten, relaties en partners bindt met een evenement dat verder gaat dan een borrel. Tips en formats."
 section: "Blog"
-last_updated: "2026-05-08T16:51:53+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
