@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-cultureel-evenement-bedrijfs
 title: "Wat is het verschil tussen een cultureel evenement en een bedrijfsevenement?"
 description: "Het grootste verschil zit in het vertrekpunt. Een bedrijfsevenement begint bij de doelgroep en een marketingdoel: teambuilding, klantbinding, merkactivatie. Een cultureel evenement begint bij de inhoud: een collectie, een voorstelling, een maatschappelijke missie. De stakeholders zijn anders: subsid"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:51+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
