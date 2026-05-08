@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-marketing"
 title: "Evenementen als marketingkanaal: onderschat maar krachtig"
 description: "Evenement marketing slim inzetten? Van pre-event promotie tot content oogsten en ROI meten: zo haal je het maximale uit elk zakelijk evenement."
 section: "Blog"
-last_updated: "2026-05-08T16:50:11+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
