@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/dresscode-kiezen-zakelijk-evenement"
 title: "Welke dresscode kies je voor een zakelijk evenement?"
 description: "De dresscode kies je op basis van drie factoren: het type evenement, de doelgroep en de bedrijfscultuur. Een formeel gala of sterrendiner vraagt om Black Tie. Bij een conferentie of relatiediner past Business Formal. Voor een kick-off of brainstormdag volstaat Smart Casual. Communiceer de dresscode "
 section: "FAQ"
-last_updated: "2026-05-08T16:57:34+00:00"
+last_updated: "2026-05-08T21:22:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
