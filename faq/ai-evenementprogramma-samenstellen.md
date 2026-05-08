@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ai-evenementprogramma-samenstellen"
 title: "Kan AI een evenementenprogramma samenstellen?"
 description: "AI kan een programma aanbevelen, niet ontwerpen. Op basis van deelnemersprofielen kan een aanbevelingsalgoritme suggereren welke parallelsessies het meest relevant zijn voor wie. Dat is een waardevolle toevoeging voor grote congressen met veel keuze. Maar het creatieve concept, de programmalogica, d"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:57+00:00"
+last_updated: "2026-05-08T21:22:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
