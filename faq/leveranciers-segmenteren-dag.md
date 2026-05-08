@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/leveranciers-segmenteren-dag"
 title: "Hoe segmenteer je leveranciers voor een leveranciersdag?"
 description: "Niet elke leverancier hoort in dezelfde ruimte. Segmenteer op strategisch belang, samenwerking en volume. Dat bepaalt wie je uitnodigt, wat je deelt en hoe intensief het programma wordt."
 section: "FAQ"
-last_updated: "2026-05-08T17:07:02+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
