@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-mechanisme-testen-doelgroep
 title: "Hoe test je of een evenementmechanisme werkt voor jouw doelgroep?"
 description: "Voer een prototype-sessie uit met 20 tot 30 mensen uit je doelgroep. Blijf observeren zonder veel uit te leggen. Let op: begrijpen ze het direct? Participeren ze enthousiast? Ontstaan de interacties die je wilt? Vraag feedback na afloop. Aanpassingen: vereenvoudig instructies, vergroot de urgentie, "
 section: "FAQ"
-last_updated: "2026-05-08T16:58:17+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
