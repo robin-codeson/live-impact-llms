@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-vaak-employee-betrokkenheid-evene
 title: "Hoe vaak moet je medewerkersbetrokkenheid evenementen organiseren?"
 description: "Er is geen vaste formule. Een ritme van twee tot vier momenten per jaar werkt voor de meeste organisaties. Denk aan een groot jaarlijks evenement als ankerpunt: het personeelsfeest of een inspiratiedag. Vul aan met kleinere tussentijdse momenten zoals een teamdag, een kick-off of een informele borre"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:55+00:00"
+last_updated: "2026-05-08T21:23:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
