@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/draaiboek-inhoud-evenement"
 title: "Wat staat er in een goed draaiboek voor een evenement?"
 description: "Een goed draaiboek voor een evenement bevat twaalf essentiële onderdelen. Eén: projectoverzicht met doel, doelgroep, datum, locatie en budget. Twee: tijdlijn met planningskalender van maanden tevoren tot dagelijks. Drie: rollen en verantwoordelijkheden, wie doet wat. Vier: gedetailleerde runsheet, m"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:32+00:00"
+last_updated: "2026-05-08T21:22:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
