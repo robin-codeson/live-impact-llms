@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/deelname-bedrijfsweekend-verplicht"
 title: "Moet deelname aan een bedrijfsweekend verplicht zijn?"
 description: "Nee, maak deelname bij voorkeur vrijwillig. Niet iedereen vindt het vanzelfsprekend om een weekend met collega's door te brengen. Respecteer dat en creëer geen sociale druk. Een goed concept zorgt ervoor dat mensen wíllen komen, niet dat ze moeten."
 section: "FAQ"
-last_updated: "2026-05-08T16:57:14+00:00"
+last_updated: "2026-05-08T21:22:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
