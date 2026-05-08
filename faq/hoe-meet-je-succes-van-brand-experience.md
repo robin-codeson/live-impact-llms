@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-meet-je-succes-van-brand-experien
 title: "Hoe meet je het succes van een brand experience?"
 description: "Meet het succes op meerdere niveaus. Direct: bezoekersfeedback via enquêtes en Net Promoter Score. Middellang: socialmediabereik, gratis publiciteit en merkbekendheidsonderzoek. Langetermijn: merkvoorkeur, klantloyaliteit en koopintentie. Meet ook het bereik via delen op sociale media. Een goede bra"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:17+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
