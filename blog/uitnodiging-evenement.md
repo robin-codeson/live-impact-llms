@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/uitnodiging-evenement"
 title: "De uitnodiging is je eerste indruk"
 description: "Een uitnodiging voor je evenement die converteert? Lees hoe je timing, toon en verwachtingsmanagement inzet om je gasten over de streep te trekken."
 section: "Blog"
-last_updated: "2026-05-08T16:52:58+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
