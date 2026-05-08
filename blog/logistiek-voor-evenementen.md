@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/logistiek-voor-evenementen"
 title: ""
 description: "Logistiek voor evenementen? De details die het verschil maken tussen soepel en stress. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:52+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
