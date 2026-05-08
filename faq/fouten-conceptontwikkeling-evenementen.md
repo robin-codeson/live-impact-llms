@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/fouten-conceptontwikkeling-evenemente
 title: "Wat zijn veelgemaakte fouten bij conceptontwikkeling voor evenementen?"
 description: "1) Gebrek aan een duidelijke briefing, waardoor vaagheid tot rondjes leidt. 2) In de ideeënfase alles oppakken in plaats van kiezen. 3) Een concept dat niet past bij budget of planning, en dus niet realistisch is. 4) Te veel lagen, waardoor 'alles moet' de aandacht verzwakt. 5) Geen echte participat"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:52+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
