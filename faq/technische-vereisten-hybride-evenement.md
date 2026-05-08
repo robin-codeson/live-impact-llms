@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/technische-vereisten-hybride-evenemen
 title: "Wat zijn de technische vereisten voor een hybride evenement?"
 description: "De technische vereisten voor een hybride evenement staan hieronder. 1) Stabiel internet: minimaal 50-100 Mbps dataverkeer, liefst via glasvezel. 4G is risicovol. 2) Livestreamplatform: Zoom Business, Microsoft Teams of een specialist als Airmeet of Splixed. 3) Apparatuur: 2 tot 3 camera's (één voor "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:41+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
