@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bruto-netto-oppervlakte-evenementenlo
 title: "Wat is het verschil tussen bruto en netto oppervlakte bij een evenementenlocatie?"
 description: "Bruto-oppervlakte is het totale vloeroppervlak van een ruimte, gemeten van muur tot muur. Netto-oppervlakte is wat er overblijft voor je gasten. Trek alle ruimte-etende elementen af: podium, bar, garderobe, techniekruimte, vluchtwegen en gangpaden. In de praktijk is netto 60 tot 75% van bruto. Een z"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:31+00:00"
+last_updated: "2026-05-08T21:22:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
