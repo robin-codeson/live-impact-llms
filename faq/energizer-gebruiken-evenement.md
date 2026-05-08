@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/energizer-gebruiken-evenement"
 title: "Wanneer gebruik je een energizer tijdens een evenement?"
 description: "Een energizer gebruik je op strategische momenten in je evenement. Bijvoorbeeld na uitgebreide presentaties, wanneer mensen al 2 uur hebben geluisterd. Of na de lunch, tijdens de mentale dip rond 14:00. Ook vóór een spannend onderdeel werkt het, om vaart op te bouwen. En halverwege het evenement, bi"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:57+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
