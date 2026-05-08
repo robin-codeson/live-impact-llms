@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/balans-content-entertainment"
 title: "Hoe balanceer ik content met entertainment op een congrestival?"
 description: "Zonering is essentieel: ruimte voor sessies en workshops, maar ook voor lounges, bars, foodcourts en podia met entertainment. Timing: content 's ochtends en 's middags, meer ontspanningsactiviteiten later. Acts, DJ's en interactieve installaties vullen pauzes en avonden. Sprekers en acts afwisselen "
 section: "FAQ"
-last_updated: "2026-05-08T16:54:12+00:00"
+last_updated: "2026-05-08T21:22:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
