@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/afscheidsfeest-organiseren"
 title: "Waarom een goed afscheidsfeest meer doet dan je denkt"
 description: "Hoe organiseer je een mooi afscheidsfeest voor een collega? Van opzet en budget tot toespraken, activiteiten en cadeau. Praktisch advies van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:18+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
