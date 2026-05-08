@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-almere"
 title: "Welke evenementenlocaties zijn er in Almere?"
 description: "Almere heeft diverse geschikte locaties voor zakelijke evenementen. Denk aan moderne congrescentra, stijlvolle hotels, industriële panden en unieke buitenlocaties. De juiste keuze hangt af van je groepsgrootte (20 tot 500 of meer personen). Ook gewenste sfeer en bereikbaarheid per OV en auto wegen m"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:47+00:00"
+last_updated: "2026-05-08T21:23:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
