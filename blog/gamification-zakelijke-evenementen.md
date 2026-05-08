@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/gamification-zakelijke-evenementen"
 title: "Wat gamification is en waarom het werkt op evenementen"
 description: "Ontdek hoe gamification je zakelijk evenement interactiever en memorabeler maakt. Van quizzen tot ranglijsten: praktische voorbeelden en hulpmiddelen."
 section: "Blog"
-last_updated: "2026-05-08T16:51:19+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
