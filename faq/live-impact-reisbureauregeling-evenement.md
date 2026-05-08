@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-reisbureauregeling-evenem
 title: "Helpt Live Impact bij evenementen die vallen onder de reisbureauregeling?"
 description: "Ja. Live Impact organiseert incentive trips en reispakketten waarbij de reisbureauregeling van toepassing kan zijn. We werken met adviseurs die de fiscale kant van evenementpakketten kennen. Zij zorgen dat offertes en facturen op de juiste manier worden opgesteld. Je hoeft de BTW-regels niet zelf ui"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:06+00:00"
+last_updated: "2026-05-08T21:24:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
