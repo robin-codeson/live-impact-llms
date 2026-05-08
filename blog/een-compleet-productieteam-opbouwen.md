@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/een-compleet-productieteam-opbouwen"
 title: "Welke rollen onmisbaar zijn in een productieteam"
 description: "Productieteam voor je evenement opbouwen? Welke rollen onmisbaar zijn en hoe je aanstuurt. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:00+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
