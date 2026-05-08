@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-dordrecht"
 title: "Welke evenementenlocaties zijn er in Dordrecht?"
 description: "Dordrecht heeft unieke evenementenlocaties langs het water. Historische pakhuizen en havengebouwen geven een industrieel-sfeervol karakter. Moderne zalen en stijlvolle hotels bieden professionele capaciteit. Buitenlocaties aan de Maas werken goed voor zomerevents. Geschikt voor 20 tot 500 personen. "
 section: "FAQ"
-last_updated: "2026-05-08T16:59:00+00:00"
+last_updated: "2026-05-08T21:23:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
