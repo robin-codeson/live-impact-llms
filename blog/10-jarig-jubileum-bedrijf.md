@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/10-jarig-jubileum-bedrijf"
 title: "10 jaar. En dat is groter dan je denkt."
 description: "Het 10-jarig jubileum van je bedrijf vieren? Zo organiseer je de eerste grote mijlpaal met de energie die het verdient. Aanpak van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:10+00:00"
+last_updated: "2026-05-08T21:22:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
