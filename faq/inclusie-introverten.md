@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/inclusie-introverten"
 title: "Hoe zorg ik ervoor dat teruggetrokken gasten zich ook betrokken voelen?"
 description: "Passiviteit ontstaat door: lange monologen, zitten zonder doel, geen duidelijke participatie-kans, FOMO (people scrolling op telefoon). Voorkomen: 1) Zet nooit langer dan 10 minuten iemand spreken zonder interactie. 2) Maak staan/rondlopen onmogelijk om passief te zijn. 3) Geef iedereen expliciet ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:14+00:00"
+last_updated: "2026-05-08T21:23:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
