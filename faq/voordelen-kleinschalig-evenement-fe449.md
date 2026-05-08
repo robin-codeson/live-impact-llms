@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voordelen-kleinschalig-evenement-fe44
 title: "Wat zijn de voordelen van een kleinschalig evenement ten opzichte van een groot evenement?"
 description: "Kleinschalige evenementen hebben drie grote voordelen. Eerste: betrokkenheid. Iedereen voelt zich gezien en gehoord, wat leidt tot sterkere feedback en meer energieke deelname. Met 300 mensen verlies je dat; met 30 gasten bouw je echte connecties. Tweede: beter contact met je team en merk. Bij klein"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:12+00:00"
+last_updated: "2026-05-08T21:24:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
