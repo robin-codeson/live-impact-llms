@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/communicatiestrategie-evenementen"
 title: "Waarom communicatie je evenement maakt of breekt"
 description: "Evenementen als communicatiestrategie? Zo zet je live momenten in voor boodschappen die écht landen."
 section: "Blog"
-last_updated: "2026-05-08T16:49:42+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
