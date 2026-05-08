@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/relatie-evenement-op-eigen-locatie"
 title: "Kun je een relatie-evenement op eigen locatie organiseren?"
 description: "Ja, en het heeft strategische voordelen. Gasten zien jouw bedrijf van binnenuit. Dat versterkt de binding en het vertrouwen. Een relatie-evenement op eigen locatie is ook fiscaal voordelig via de WKR. Kosten op de werkplek vallen onder de gerichte vrijstelling. Met een goede productie wordt elke rui"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:37+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
