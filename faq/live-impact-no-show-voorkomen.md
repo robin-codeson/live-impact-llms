@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-no-show-voorkomen"
 title: "Kan Live Impact helpen bij het voorkomen van no-show?"
 description: "Ja, Live Impact bouwt het uitnodigingstraject op als een campagne. Van de eerste teaser tot de herinnering op de ochtend zelf. We kiezen de juiste mix van kanalen en schrijven content die anticipatie opbouwt, niet alleen herinnert. Tegelijk monitoren we de aanmeldingen, zodat we kunnen bijsturen als"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:51+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
