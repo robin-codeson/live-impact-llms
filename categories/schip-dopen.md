@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/schip-dopen"
 title: "De scheepsdoop: een ritueel met gewicht"
 description: "Een scheepsdoop organiseren? Alles over het ritueel, de openingshandeling en de feestelijke ontvangst. Aanpak van Live Impact, dat blijft hangen."
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:26+00:00"
+last_updated: "2026-05-08T21:22:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
