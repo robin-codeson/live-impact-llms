@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/veiligheidsplan-evenement-inhoud"
 title: "Wat staat er in een veiligheidsplan voor een evenement?"
 description: "Een veiligheidsplan bevat minimaal zeven elementen. Een beschrijving van het evenement en de locatie. Een capaciteitsoverzicht per ruimte. De bezetting van beveiliging en EHBO. Een ontruimingsplan met vluchtwegen. Een communicatieplan voor het productieteam en externe diensten. En een beschrijving v"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:17+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
