@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-bedrijfsweekend-teamdag"
 title: "Wat is het verschil tussen een bedrijfsweekend en een teamdag?"
 description: "Een teamdag duurt één dag en is gericht op één specifiek doel. Een bedrijfsweekend overstijgt dat. Het biedt meerdere dagen en meer ruimte voor zowel inhoudelijke sessies als informele verbinding. De informele tijd is vaak het waardevolst. Denk aan de avonden, de maaltijden en het wandelen tussen de"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:41+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
