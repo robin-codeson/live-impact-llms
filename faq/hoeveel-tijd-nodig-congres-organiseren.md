@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-nodig-congres-organisere
 title: "Hoeveel tijd heb je nodig om een congres te organiseren?"
 description: "Reken op minimaal drie tot zes maanden voorbereiding voor een congres. In die tijd regel je sprekers, locatie, programma, registratiesysteem, communicatie en technische productie. Voor grote congressen met internationale sprekers en meerdere parallelle programmalijnen is zes tot twaalf maanden aan t"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:58+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
