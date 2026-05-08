@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-sittard-gel
 title: "Sittard-Geleen: Limburgse warmte meets internationale reach"
 description: "Evenement organiseren in Sittard-Geleen? Limburgse sfeer en grensoverschrijdende bereikbaarheid."
 section: "Blog"
-last_updated: "2026-05-08T16:50:41+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
