@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-dna-vs-briefing-verschil"
 title: "Wat maakt evenement DNA anders dan een gewone briefing?"
 description: "Een briefing gaat over wat je wilt bereiken: doel, doelgroep, budget en datum. Evenement-DNA gaat over wie je bent als organisatie. Het bepaalt hoe deelnemers zich bij jou voelen, wat je merkstijl is en welke waarden je uitstraalt. Een briefing stuur je naar het bureau. DNA neem je mee in elk gespre"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:12+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
