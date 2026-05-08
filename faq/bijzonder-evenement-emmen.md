@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bijzonder-evenement-emmen"
 title: "Hoe maak je een evenement in Emmen bijzonder?"
 description: "Dierenpark Emmen is het geheime wapen voor een onvergetelijk evenement. Evenementen op bijzondere locaties in of naast de dierentuin zijn volkomen anders dan wat deelnemers gewend zijn. Denk aan dierenshows, rondleidingen of een exclusieve avondsessie na sluitingstijd. Maar Emmen heeft meer. Wildlan"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:08+00:00"
+last_updated: "2026-05-08T21:22:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
