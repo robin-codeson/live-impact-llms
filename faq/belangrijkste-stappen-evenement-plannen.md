@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/belangrijkste-stappen-evenement-plann
 title: "Wat zijn de belangrijkste stappen bij het plannen van een evenement?"
 description: "Het plannen van een evenement begint met de doelstelling bepalen en het budget vaststellen. Vervolgens ontwikkel je een concept en kies je de locatie. Het programma en entertainment volgen daarna. Tot slot verzorg je de communicatie naar gasten en evalueer je na afloop. Elke stap bouwt voort op de v"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:27+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
