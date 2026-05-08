@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voordelen-leveranciersdag"
 title: "Wat zijn voordelen van een leveranciersdag?"
 description: "Een leveranciersdag is een slimme investering in je keten. Je versterkt de relatie met partners die bepalend zijn voor jouw kwaliteit en leverbetrouwbaarheid. Je geeft ze inzicht in je strategie, waarden en ambities. Zo denken ze meer als partner dan als leverancier. Dat betaalt zich terug in priori"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:12+00:00"
+last_updated: "2026-05-08T21:24:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
