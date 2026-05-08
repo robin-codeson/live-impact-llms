@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-nodig-teamdag"
 title: "Heb je een evenementenbureau nodig voor een teamdag?"
 description: "Dat hangt af van het programma en de groepsgrootte. Een kleine teamdag van tien tot vijftien mensen kun je prima zelf organiseren. Maar vanaf vijftig deelnemers, of bij een ambitieus programma met activiteiten, inhoud en entertainment, levert een evenementenbureau duidelijk meerwaarde. Zij brengen c"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:37+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
