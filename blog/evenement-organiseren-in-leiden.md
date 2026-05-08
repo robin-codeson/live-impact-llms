@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-leiden"
 title: "Leiden: waar kennis en geschiedenis samenkomen voor jouw evenement"
 description: "Evenement organiseren in Leiden? Ideaal voor congressen in pharma, biotech en kennis-economie."
 section: "Blog"
-last_updated: "2026-05-08T16:50:36+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
