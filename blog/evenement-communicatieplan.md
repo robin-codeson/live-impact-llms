@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-communicatieplan"
 title: "Waarom het communicatieplan het meest onderschatte onderdeel van eventorganisatie is"
 description: "Evenement communicatieplan opstellen? Zo communiceer je slim van aankondiging tot nazorg, en zorg je dat de juiste mensen komen opdagen."
 section: "Blog"
-last_updated: "2026-05-08T16:50:07+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
