@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/meten-merkbeleving-evenement"
 title: "Hoe meet je het effect van merkbeleving via een evenement?"
 description: "Merkbeleving meten vraagt om andere instrumenten dan leadtellingen. De meest directe methode is een korte enquête direct na afloop. Stel vragen als 'welk woord past bij dit evenement' of 'welke eigenschap heeft dit evenement bevestigd of verrast?' Kijk ook naar indirecte indicatoren: sociale media-a"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:31+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
