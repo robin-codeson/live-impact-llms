@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-voor-relatie-evenement"
 title: "Welke locatie is geschikt voor een relatie-evenement?"
 description: "De locatiekeuze voor een relatie-evenement communiceert iets over je bedrijf. Kies een locatie die past bij de exclusiviteit die je wilt uitstralen. Je eigen bedrijfslocatie is fiscaal voordelig en creëert een unieke beleving. Een museum, kasteel, rooftop of bijzonder industrieel pand geeft gasten e"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:01+00:00"
+last_updated: "2026-05-08T21:24:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
