@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/opening-bedrijf-organiseren"
 title: "De opening die niemand vergeet, of de opening die niemand onthoudt"
 description: "Opening van je bedrijf organiseren die écht indruk maakt bij klanten, pers en medewerkers."
 section: "Blog"
-last_updated: "2026-05-08T16:52:07+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
