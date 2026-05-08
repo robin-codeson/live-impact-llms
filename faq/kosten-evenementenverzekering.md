@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenementenverzekering"
 title: "Wat kost een evenementenverzekering?"
 description: "De kosten variëren sterk. Voor een standaard zakelijk evenement met 200 tot 500 deelnemers reken je op een premie van €500 tot €2.500. Dat is voor een gecombineerde aansprakelijkheids- en annuleringspolis. Eendaagse evenementen zijn goedkoper dan meerdaagse. Evenementen met alcohol, buitenactiviteit"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:05+00:00"
+last_updated: "2026-05-08T21:23:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
