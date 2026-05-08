@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-bedrijfsfeest"
 title: "Hoe kies ik de perfecte locatie voor een bedrijfsfeest?"
 description: "De perfecte locatie voor een bedrijfsfeest kies je op basis van vijf factoren. Eén: doelgroep en sfeer. Past de locatie bij het karakter van je gasten? Twee: capaciteit, met ruimte voor netwerken, eten en programma. Drie: bereikbaarheid met openbaar vervoer en voldoende parkeergelegenheid. Vier: uit"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:55+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
