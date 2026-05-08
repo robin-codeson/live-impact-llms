@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/populaire-activiteiten-bedrijfsuitje"
 title: "Welke activiteiten zijn populair voor een bedrijfsuitje?"
 description: "De populairste bedrijfsuitjeactiviteiten zijn kookworkshops, escape rooms, stadsspellen, watersport, proeverijen, survival, creatieve workshops en sporttoernooien. De beste uitjes combineren verschillende activiteiten, zodat er voor iedereen iets bij zit, ongeacht leeftijd, conditie of karakter. Kie"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:01+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
