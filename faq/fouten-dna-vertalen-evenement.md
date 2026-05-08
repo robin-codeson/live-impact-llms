@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/fouten-dna-vertalen-evenement"
 title: "Wat zijn de meest gemaakte fouten bij het vertalen van DNA naar een evenement?"
 description: "Drie fouten zien wij vaak terugkomen. Eén: mensen kiezen voor de veilige versie van hun DNA. Een nuchter bedrijf wordt een strak-blauw bedrijf, terwijl de nuchterheid juist ruimte vraagt voor droge humor en zelfspot. Twee: de directie beslist zonder het team te toetsen. Het DNA dat de directie voelt"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:53+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
