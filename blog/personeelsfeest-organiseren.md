@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personeelsfeest-organiseren"
 title: "Personeelsfeest organiseren: zo maak je er een avond van die je team éékt verbindt"
 description: "Personeelsfeest organiseren dat je team écht verbindt? Van briefing tot avond die niemand snel vergeet."
 section: "Blog"
-last_updated: "2026-05-08T16:52:13+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
