@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-eventformats-klantenbinding"
 title: "Welke evenementformats werken het best voor klantenbinding?"
 description: "Vijf formats werken het best. Begin met een exclusieve preview voor je topklanten (product of kantoor) of een kennisevenement (masterclass, paneldiscussie). Een relatiedag is ook effectief: informeel, samen iets doen. Hetzelfde geldt voor een community-evenement waarbij klanten zelf onderling verbin"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:17+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
