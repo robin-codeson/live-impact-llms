@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/ruimte-indelen-evenement"
 title: "De meestgemaakte fout bij ruimtekeuze"
 description: "Hoeveel m² per persoon heb je nodig? Alles over opstellingstypen en ruimteberekening voor evenementen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:32+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
