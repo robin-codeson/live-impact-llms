@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/motiveren-medewerkers-incentive"
 title: "Hoe motiveer je medewerkers effectief met een incentive?"
 description: "Een incentive motiveert écht als je de volgende stappen goed doorloopt. (1) Communiceer vooraf waarom: 'Dit is omdat jij X hebt bereikt.' Specifieke toewijzing werkt beter dan algemene lof. (2) Maak er een echte onderbreking van de routine van. Geen incentive die op kantoor aanvoelt, maar iets memor"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:36+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
