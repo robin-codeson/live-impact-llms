@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activaties-aansluiten-concept"
 title: "Hoe maak je een merkactivatie die blijft hangen?"
 description: "Een activatie blijft bij door emotie, waarneming en relevantie. Gebruik sensorische ervaringen: smaken, voelen, geluid. Mensen herinneren zich wat ze hebben meegemaakt veel langer dan wat ze hebben gezien. Persoonlijke interactie is goud: een vriendelijk teamlid dat echte gesprekken voert, maakt mee"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:37+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
