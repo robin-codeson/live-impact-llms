@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-inhuren"
 title: "Evenementenbureau inhuren: wat je weet voordat je begint"
 description: "Evenementenbureau inhuren? Lees wanneer het zin heeft, wat het kost, hoe de samenwerking werkt en waar je op let bij de keuze. Praktisch en eerlijk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:56+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
