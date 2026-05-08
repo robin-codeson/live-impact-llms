@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onvergetelijk-evenement-leeuwarden"
 title: "Hoe maak je een evenement in Leeuwarden onvergetelijk?"
 description: "Het geheim van een sterk evenement in Leeuwarden zit in de combinatie van locatie en verhaal. Gebruik de Friese identiteit. Kies een locatie met karakter in de historische binnenstad. Bied Friese gerechten bij de catering, lokale artiesten of een Friestalige opening. Leeuwarden heeft een rijke cultu"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:08+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
