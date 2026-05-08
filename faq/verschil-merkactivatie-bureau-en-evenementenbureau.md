@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-merkactivatie-bureau-en-even
 title: "Wat is het verschil tussen een merkactivatie bureau en een evenementenbureau?"
 description: "Een evenementenbureau bedenkt en produceert evenementen: een congres, een personeelsfeest, een klantdag. De hoofdvraag is hoe je een geslaagde bijeenkomst creëert met publiek dat je al kent. Een merkactivatie bureau werkt andersom. Hier is de hoofdvraag: hoe bereik je een doelgroep die je niet in ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:05+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
