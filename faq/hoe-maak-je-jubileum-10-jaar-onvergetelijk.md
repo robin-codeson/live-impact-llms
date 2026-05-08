@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-jubileum-10-jaar-onverget
 title: "Hoe maak je een 10-jarig jubileum onvergetelijk?"
 description: "Een onvergetelijk 10-jarig jubileum heeft drie ingrediënten: een scherp verhaal, een passende beleving en een persoonlijk tintje. Begin met het verhaal: wat maakt dit jubileum bijzonder voor júllie organisatie? Verwerk dat in elk onderdeel van het programma, de uitnodiging, de locatie, het decor, de"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:11+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
