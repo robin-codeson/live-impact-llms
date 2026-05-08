@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-bedrijfsuitje-teamdag"
 title: "Wat is het verschil tussen een bedrijfsuitje en een teamdag?"
 description: "Een bedrijfsuitje is informeel en compact: een middag of avond samen buiten de werkvloer, zonder agenda of leeropbrengst als verplichting. Het mag gewoon leuk zijn. Een teamdag is formeler en intensiever: een volledige dag met een programma, plenaire momenten, workshops en maaltijden. Kies een bedri"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:40+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
