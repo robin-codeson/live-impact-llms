@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-teambuilding-teamdag"
 title: "Wat is het verschil tussen teambuilding en een teamdag?"
 description: "Teambuilding draait om activiteiten en werkvormen die samenwerking versterken: het is het middel. Een teamdag is een breder dagformat dat teambuilding kán bevatten, maar ook ruimte biedt voor strategie, kennisdeling of viering. Je kunt teambuildingactiviteiten inzetten als onderdeel van een teamdag,"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:34+00:00"
+last_updated: "2026-05-08T21:24:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
