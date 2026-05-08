@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/algemene-voorwaarden"
 title: "Algemene Voorwaarden | Live Impact Evenementenbureau"
 description: "Alles over onze afspraken, diensten en juridische informatie — duidelijk opgeschreven. Live Impact werkt transparant. Lees ze hier."
 section: "Hoofdpagina's"
-last_updated: "2026-05-08T16:49:07+00:00"
+last_updated: "2026-05-08T21:22:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
