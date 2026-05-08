@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/online-betrokkenheid-hybride-evenemen
 title: "Hoe zorg je dat online deelnemers betrokken blijven bij een hybride evenement?"
 description: "Om online deelnemers betrokken te houden, moet je het programma bewust ontwerpen. Praktische stappen volgen hieronder. Eén: zet een aparte online gastheer of moderator in die de live chat volgt. Twee: zorg dat sprekers weten dat er ook online deelnemers meekijken, zodat die zich niet eenzaam voelen."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:01+00:00"
+last_updated: "2026-05-08T21:24:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
