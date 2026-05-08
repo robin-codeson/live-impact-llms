@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-eventmarketing-strategie-
 title: "Kan Live Impact een evenementmarketing-strategie voor ons ontwikkelen?"
 description: "Ja. Wij zijn geen logistiek bureau maar een live communicatiebureau. We helpen je bepalen welke live momenten je het komende jaar strategisch wilt inzetten. Ook bepalen we welke boodschappen daarvoor het meest geschikt zijn. En we ontwerpen de programma's die die boodschappen laten landen. Van een e"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:09+00:00"
+last_updated: "2026-05-08T21:24:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
