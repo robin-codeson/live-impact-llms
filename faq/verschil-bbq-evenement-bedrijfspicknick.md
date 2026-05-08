@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-bbq-evenement-bedrijfspickni
 title: "Wat is het verschil tussen een BBQ evenement en een bedrijfspicknick?"
 description: "Een BBQ-evenement heeft een professionele cateraar of chef-grill als middelpunt, een uitgebreide catering-opstelling en veelal entertainment. Een bedrijfspicknick is informeler: meegebrachte etenswaren, kleed op het gras, geen professionele catering. De BBQ is qua sfeer en budget uitgebreider en mee"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:36+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
