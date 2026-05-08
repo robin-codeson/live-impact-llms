@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenlocatie-vinden"
 title: "De juiste evenementenlocatie vinden"
 description: "Evenementenlocatie vinden die écht past? Zo kies je op bereikbaarheid, capaciteit en sfeer."
 section: "Blog"
-last_updated: "2026-05-08T16:51:03+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
