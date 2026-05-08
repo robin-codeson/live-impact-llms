@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/b2b-evenement-marketingtool"
 title: "Hoe zet je een B2B-evenement in als marketinginstrument?"
 description: "Een B2B-evenement wordt een marketinginstrument door drie basistaken goed in te stellen. Een helder doel is de basis, met daaronder een scherpe doelgroep en een vorm die echte verbindingen oplevert. Wil je nieuwe contacten, samenwerkingen of kennisleiderschap? Welke besluitmakers wil je bereiken? Ki"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:10+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
