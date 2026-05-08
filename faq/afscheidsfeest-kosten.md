@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/afscheidsfeest-kosten"
 title: "Wat kost een afscheidsfeest organiseren?"
 description: "Afscheidsfeesten kosten gemiddeld €30 tot €100 per persoon, afhankelijk van locatie, catering en programma. Voor 50 personen: €1.500 tot €5.000. Live Impact kan alles verzorgen, van intiem tot groots."
 section: "FAQ"
-last_updated: "2026-05-08T16:53:48+00:00"
+last_updated: "2026-05-08T21:22:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
