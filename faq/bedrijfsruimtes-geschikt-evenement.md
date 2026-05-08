@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bedrijfsruimtes-geschikt-evenement"
 title: "Welke bedrijfsruimtes zijn geschikt voor een evenement?"
 description: "Vrijwel elke bedrijfsruimte is met de juiste aanpak om te bouwen tot eventlocatie. Kantoorhallen, open werkruimtes, warehouses en fabrieksruimtes zijn populaire keuzes: ze hebben karakter. Maar ook parkeergarages, dakterrassen en buitenterreinen werken uitstekend. Wat de ruimte normaal is, telt mind"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:21+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
