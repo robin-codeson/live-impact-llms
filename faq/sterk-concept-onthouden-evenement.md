@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/sterk-concept-onthouden-evenement"
 title: "Wat maakt een concept sterk genoeg om te onthouden?"
 description: "Vier kenmerken. Een: de boodschap staat voor het mechanisme, niet andersom. Twee: mensen beleven de boodschap in plaats van hem uitgelegd te krijgen. Drie: er zit een risico in. Een concept zonder risico is bijna altijd een concept zonder impact. Vier: de titel is nooit het concept. Als je de naam w"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:15+00:00"
+last_updated: "2026-05-08T21:24:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
