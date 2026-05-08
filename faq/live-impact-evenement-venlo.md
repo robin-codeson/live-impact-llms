@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-venlo"
 title: "Kan Live Impact een evenement in Venlo organiseren?"
 description: "Ja, Live Impact organiseert zakelijke evenementen in Venlo en Noord-Limburg. Wij kennen de Maas-locaties, de logistieke voordelen van de grensregio en de Limburgse leveranciers die jouw evenement op niveau brengen. Van een teamdag tot een relatie-evenement of grensoverschrijdende kick-off: wij regel"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:53+00:00"
+last_updated: "2026-05-08T21:23:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
