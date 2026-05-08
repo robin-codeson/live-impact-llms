@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-zakelijk-evenement-volled
 title: "Kan Live Impact mijn zakelijk evenement volledig ontzorgen?"
 description: "Ja. Live Impact neemt het volledige traject over. Van briefing en conceptontwikkeling tot leveranciersselectie, contracten, logistiek en coördinatie op de dag zelf. Jij richt je op de gasten en het moment. Wij regelen de rest. Volledig ontzorgen is onze standaardaanpak, geen meerwerk."
 section: "FAQ"
-last_updated: "2026-05-08T17:10:48+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
