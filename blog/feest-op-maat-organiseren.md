@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/feest-op-maat-organiseren"
 title: "Een feest op maat begint niet bij de locatie"
 description: "Feest op maat organiseren? Wij bouwen unieke event concepten op maat, vanaf 50 tot 2.000 gasten. Conceptdenken vanuit jullie DNA. Vraag een voorstel aan."
 section: "Blog"
-last_updated: "2026-05-08T16:51:14+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
