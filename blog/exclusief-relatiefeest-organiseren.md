@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/exclusief-relatiefeest-organiseren"
 title: "Waarom een besloten avond meer oplevert dan een groot relatiediner"
 description: "Exclusief relatiefeest organiseren voor topklanten? Waarom een besloten privéfeest voor 20-40 personen meer relatiediepte geeft. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:10+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
