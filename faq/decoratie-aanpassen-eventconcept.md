@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/decoratie-aanpassen-eventconcept"
 title: "Hoe pas je decoratie aan op je evenementconcept?"
 description: "De decoratie kies je op basis van je evenementconcept, doelgroep en gekozen locatie. Bepaal eerst welke sfeer je wilt bereiken: professioneel-minimalistisch of warm-uitnodigend? Kijk naar je huisstijl en zorg dat kleuren en materialen daarop aansluiten. Gebruik decoratie strategisch. Een entree-aank"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:12+00:00"
+last_updated: "2026-05-08T21:22:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
