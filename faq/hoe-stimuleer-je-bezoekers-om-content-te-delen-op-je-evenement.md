@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-stimuleer-je-bezoekers-om-content
 title: "Hoe stimuleer je bezoekers om content te delen op je evenement?"
 description: "Stimuleer UGC door het bezoekers makkelijk, leuk en lonend te maken. Gebruik één unieke hashtag en communiceer die overal zichtbaar. Organiseer een content challenge met prijzen voor de meest creatieve foto. Zet interactieve installaties neer zoals een slow-motion videocabine of 360-graden fotoplatf"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:53+00:00"
+last_updated: "2026-05-08T21:23:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
