@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-medewerkersevenement-organiser
 title: "Wat kost een medewerkersevenement organiseren?"
 description: "De kosten van een medewerkersevenement liggen ruwweg tussen €50 en €200 per persoon, afhankelijk van format, locatie, catering en programma. Een informele teamdag met activiteit en lunch zit al rond €50 tot €75 per persoon. Een avondprogramma met diner, entertainment en locatiehuur loopt richting €1"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:27+00:00"
+last_updated: "2026-05-08T21:23:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
