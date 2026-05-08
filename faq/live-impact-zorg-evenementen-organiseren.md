@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-zorg-evenementen-organise
 title: "Kan Live Impact evenementen organiseren voor zorgorganisaties?"
 description: "Ja. Wij hebben evenementen georganiseerd voor zorgorganisaties van uiteenlopende grootte. Van kleine teamdagen voor thuiszorgteams van 40 mensen tot jubileumgala's voor 600+ medewerkers van grote instellingen. Wij begrijpen de specifieke uitdagingen van de zorgsector: roosters, bezetting, krappe bud"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:49+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
