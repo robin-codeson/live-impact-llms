@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsreis-organiseren"
 title: "Waarom een bedrijfsreis meer bereikt dan een dagprogramma"
 description: "Bedrijfsreis organiseren? Van bestemmingskeuze tot programma en budget. Ontdek hoe je een meerdaagse reis inzet voor strategie, cultuur en binding."
 section: "Blog"
-last_updated: "2026-05-08T16:49:31+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
