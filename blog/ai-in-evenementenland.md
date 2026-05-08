@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/ai-in-evenementenland"
 title: "AI is geen hype. Het is gereedschap."
 description: "Hoe verandert AI de evenementenbranche? Praktische toepassingen voor evenementenorganisatoren. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:49:19+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
