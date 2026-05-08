@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-creatief-concept-evenemen
 title: "Kan Live Impact een creatief concept voor ons evenement bedenken?"
 description: "Ja, conceptontwikkeling is ons startpunt bij vrijwel elke opdracht. Wij bedenken het concept en voeren het daarna ook zelf uit, van de eerste brainstorm tot de laatste opruimbus. Dat is een bewuste keuze. Als een ander het concept uitvoert, verliest het altijd kracht tussen het papier en de vloer. O"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:40+00:00"
+last_updated: "2026-05-08T21:23:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
