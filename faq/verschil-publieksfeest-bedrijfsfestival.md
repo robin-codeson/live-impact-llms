@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-publieksfeest-bedrijfsfestiv
 title: "Wat is het verschil tussen een publieksfeest en een bedrijfsfestival?"
 description: "Een bedrijfsfestival is besloten: je organiseert het voor je eigen medewerkers, relaties of genodigden. Een publieksfeest is open voor iedereen: buurtbewoners, klanten, voorbijgangers. Dat verschil heeft grote gevolgen voor je programma, je veiligheidsplan en je vergunningsstrategie. Bij een bedrijf"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:17+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
