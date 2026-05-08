@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/catering-bij-evenementen"
 title: "Catering als strategisch onderdeel van je evenement"
 description: "Catering bij zakelijke evenementen: budgetten, opzetten en hoe je de beste cateraar kiest."
 section: "Blog"
-last_updated: "2026-05-08T16:49:39+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
