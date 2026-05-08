@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/aantal-namen-longlist-evenement"
 title: "Hoeveel namen moet je bedenken voordat je kiest?"
 description: "Bedenk er veel meer dan je denkt nodig te hebben. Een longlist van dertig tot vijftig kandidaten werkt het best. Klinkt veel, maar de eerste tien zijn altijd de voor-de-hand-liggende. Die kom je ook zonder moeite. De echte vondsten zitten tussen de twintigste en veertigste. Die ga je pas schrijven a"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:36+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
