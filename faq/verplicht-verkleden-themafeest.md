@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verplicht-verkleden-themafeest"
 title: "Moeten gasten verplicht verkleed komen bij een themafeest?"
 description: "Nee, verplicht verkleden werkt zelden. Je creëert direct een groep die afhaakt omdat ze zich ongemakkelijk voelen of geen tijd hadden. Maak het in plaats daarvan aantrekkelijk en optioneel. Geef een duidelijke dresscode-suggestie, bijvoorbeeld 'smoking of cocktail'. Zorg wel dat iemand in een net pa"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:27+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
