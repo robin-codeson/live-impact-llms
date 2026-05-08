@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/jubileumfeest"
 title: "Een jubileumfeest vraagt meer dan alleen een mooie locatie"
 description: "Jubileumfeest organiseren? Lees alles over opzet, locatie, entertainment, programmaopbouw en budget. Van 30 tot 4.000 gasten: zo doe je het goed."
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:20+00:00"
+last_updated: "2026-05-08T21:22:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
