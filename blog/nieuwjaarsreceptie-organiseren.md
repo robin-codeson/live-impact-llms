@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/nieuwjaarsreceptie-organiseren"
 title: "De nieuwjaarsreceptie als eerste bericht van het jaar"
 description: "Nieuwjaarsreceptie organiseren? Van standaardborrel naar een moment dat richting geeft. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:52:02+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
