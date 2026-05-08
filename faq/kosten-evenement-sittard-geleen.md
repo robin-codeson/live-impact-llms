@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-sittard-geleen"
 title: "Wat kost een evenement organiseren in Sittard-Geleen?"
 description: "Een zakelijk evenement in Sittard-Geleen kost gemiddeld tussen €3.500 en €24.000. De dubbelstad heeft diverse evenementenlocaties voor een competitieve prijs vergeleken met Maastricht. Een teamdag of borrel voor 50 personen start rond €3.000. Een personeelsfeest of congres voor 100 tot 250 personen "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:49+00:00"
+last_updated: "2026-05-08T21:23:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
