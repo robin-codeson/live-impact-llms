@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/ongeschreven-regels-zakelijk-netwerke
 title: "Wat zijn de ongeschreven regels bij zakelijk netwerken?"
 description: "Begin een gesprek met naam, organisatie en functie: maximaal twee zinnen. Stel daarna een open vraag. Sta een gesprek van twee tot vijf minuten voor en beweeg dan vriendelijk door. Kaartjes geef je pas na een gesprek, niet als openingszet. Onderbreek geen lopend gesprek van twee personen die duideli"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:58+00:00"
+last_updated: "2026-05-08T21:24:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
