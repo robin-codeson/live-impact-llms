@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/dieetwensen-accommodatie"
 title: "Hoe ga je om met verschillende dieetwensen?"
 description: "Goede dieetwensen-handling begint met een duidelijke vraag bij inschrijving. Vraag specifiek: vegetarisch, veganistisch, glutenvrij, lactosevrij, halal, koosjer, zwangerschap, allergieën. Geef bij allergieën een open tekstveld zodat mensen ernst en details kunnen toelichten. Verzamel definitieve die"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:19+00:00"
+last_updated: "2026-05-08T21:22:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
