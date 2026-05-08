@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/relatie-evenement-organiseren"
 title: "Relatie-evenement organiseren: van strategisch bindmoment tot onvergetelijke ervaring"
 description: "Relatie-evenement organiseren dat klanten en partners écht bindt? Van briefing tot blijvende indruk. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:52:28+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
