@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-exclusief-relatiefeest-or
 title: "Kan Live Impact een exclusief relatiefeest voor ons organiseren?"
 description: "Ja. Wij organiseren regelmatig exclusieve relatiefeesten voor organisaties die hun toprelaties iets bijzonders willen bieden. Wij denken mee over de gastenlijst en kiezen een écht exclusieve locatie. Het programma en de ontvangst regelen we tot in het kleinste detail. Juist bij een intiem feest voor"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:11+00:00"
+last_updated: "2026-05-08T21:24:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
