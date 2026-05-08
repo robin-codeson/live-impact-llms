@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-ontwikkel-je-evenement-concept"
 title: "Hoe ontwikkel je een concept voor een evenement?"
 description: "Conceptontwikkeling begint niet met een idee, maar met de juiste vragen. Wat is het doel van het evenement? Wie zijn de gasten en wat verwachten ze? Welke boodschap moet hangen blijven? Pas als die vragen beantwoord zijn ga je brainstormen over thema's die daarbij passen. Vertaal het gekozen thema n"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:22+00:00"
+last_updated: "2026-05-08T21:23:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
