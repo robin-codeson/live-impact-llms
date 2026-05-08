@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/themas-personeelsfeest"
 title: "Wat zijn leuke thema's voor een personeelsfeest?"
 description: "Het juiste thema maakt een personeelsfeest onderscheidend. Een goed thema past bij de cultuur van het bedrijf en geeft richting aan locatie, entertainment en decoratie. Populaire keuzes zijn festival-thema's, een casinoavond of een jaren-80 avond. Wil je iets eigens? Kies een bedrijfsthema dat verwi"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:52+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
