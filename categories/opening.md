@@ -1,91 +1,118 @@
-[< Back](opening.html#)[< Work](opening.html#)
+---
+canonical_url: "https://live-impact.nl/categories/opening"
+title: "De opening die mensen nog jaren onthouden"
+description: "Een bedrijfsopening organiseren die indruk maakt op klanten, pers en relaties? Ontdek hoe je een opening organiseert die mensen bijblijft. Tips van Live Impact."
+section: "Categorieën"
+last_updated: "2026-05-08T16:53:22+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](opening.html#)
+![Spectaculaire lichtshow bij de opening van een bedrijfspand](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f696bd7565a25306d0b6_69c06158a6f2802c48b169e7_Opening%25201931%2520lichtshow-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
-![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+# De opening die mensen nog jaren onthouden
 
-[
+Je nieuwe pand staat er. Het kantoor is ingericht en de koffiezetapparaten zijn geïnstalleerd. En nu? Nu is het moment om de wereld te laten zien dat jullie er zijn.
 
-](opening.html)
+Een bedrijfsopening organiseren is iets anders dan een personeelsfeest. Het is een extern evenement: klanten, partners, pers, omwonenden, lokale ondernemers. Je presenteert jezelf aan mensen die misschien voor het eerst kennismaken met jullie organisatie. De eerste indruk telt, en dan echt.
 
-![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
-![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+Een slechte opening verraadt zichzelf snel. De champagne is te vroeg op. De directeur houdt een toespraak van zeven minuten terwijl iedereen naar de bitterballen kijkt. Een goede opening heeft ritme en een moment van echte verrassing. Ze laat mensen met een gevoel naar huis gaan.
 
-# Opening van je bedrijf
+## Wat is het verschil: bedrijfsopening vs. openingsfeest?
 
-Jouw merk in de schijnwerpers
+Beide termen klinken hetzelfde, maar ze betekenen iets anders. Een openingsfeest is doorgaans een intern feest: medewerkers vieren dat het bedrijf bestaat of groeit. Een bedrijfsopening is een extern evenement: je opent letterlijk een nieuwe locatie en nodigt de buitenwereld uit.
 
-[Opening bedrijf](opening.html#)
+Die verschillende doelgroepen vragen om een andere aanpak. Bij een openingsfeest staan verbinding en trots centraal. Bij een bedrijfsopening staan presentatie en eerste indruk centraal. Je wilt in maximaal twee uur laten zien wie jullie zijn en wat jullie doen. Zonder een PowerPoint die door niemand werd gevraagd.
 
-## Samen de Drempel Over
+De slimste bedrijfsopeningen combineren beide. Een exclusief intern moment voor het team (trots en emotie) en een publiek openingsmoment voor externe gasten (representatief en helder). De volgorde is dan altijd: intern eerst, dan extern.
 
-Een bedrijfsopening is hét moment om de nieuwe koers en de energie van je organisatie te vieren. Het is een unieke kans om de ambitie van je merk tastbaar te maken voor iedereen die ertoe doet. Voor jou als marketingmanager is dit dé gelegenheid om te laten zien dat jullie klaar zijn voor de toekomst. De kunst is om interne trots om te zetten in een evenement dat de juiste snaar raakt bij je publiek.
+## De vier elementen van een goede bedrijfsopening
 
-Omdat je vaak dicht op het proces zit, biedt een externe blik nieuwe perspectieven. Een succesvolle opening vraagt om strategisch leiderschap: de regie behouden door de juiste creatieve expertise in te huren. Samen met specialisten vertaal je jouw visie naar een onvergetelijke beleving waarin innovatie en traditie samenkomen. Zo open je niet alleen een pand, maar ook de deuren naar nieuwe kansen en waardevolle verbindingen. Maak van je opening een legendarisch startschot voor een succesvolle toekomst!
+Een succesvolle bedrijfsopening heeft vier elementen die allemaal moeten kloppen.
 
-### Maak impact met een zakelijk evenement vol beleving en energie
+De openingshandeling is het symbolische moment: het lint doorknippen, de sleutelceremonie, de onthulling van de naam, de eerste fles champagne. Kies een handeling die past bij het bedrijf. Laat hem uitvoeren door iemand die ertoe doet. Bijvoorbeeld de oprichter, een wethouder, de langst zittende klant of een kind van een medewerker.
 
-Een **bedrijfsopening organiseren** doen we met een professionele aanpak die bruist. Wij geloven in **'Serious Fun'**: een solide basis met een gedurfde, vrolijke twist die mensen écht verbindt. Met onze campagne-aanpak zorgen we dat het enthousiasme al ver voor de openingsdag begint en lang daarna doorwerkt in je zakelijke relaties.
+Daarna volgt de rondleiding of beleving: gasten krijgen de kans om het pand te ontdekken. Via een georganiseerde route of een open opzet waarbij ze zelf rondlopen. Zorg dat elke ruimte iets te zien heeft. De ontvangst (catering en muziek) bepaalt wat mensen ervaren terwijl ze er zijn. Maak duidelijk waar gasten naartoe lopen en of er een welkomstdrankje klaarstaat.
 
-Onze succesformule rust op drie pijlers:
+Een memorabel moment maakt de opening compleet: één moment dat mensen bijblijft. Dat kan een toespraak zijn, een optreden, een onthulling of een verrassing. Zonder dit element is de opening een aardig feestje. Met dit element is de opening een opening die mensen onthouden.
 
-- **Identiteit:** We vieren jullie unieke identiteit en maken het verhaal achter de muren voelbaar.
-- **Concept:** We creëren een 'wauw-effect' met spectaculaire openingshandelingen en culinaire belevingen die alle zintuigen prikkelen.
-- **Productie:** Wij regelen het fundament—van techniek tot sfeer—zodat alles vlekkeloos verloopt.
+## Locatie, logistiek en uitnodigingen
 
-Zo wordt de opening een feestelijk startschot voor maximale zichtbaarheid. We transformeren een officieel moment naar een dag vol positieve energie en waardevolle ontmoetingen.
+De locatie van een bedrijfsopening is per definitie het pand dat je opent. De inrichting van de ruimte maakt het verschil. Net als de route die gasten lopen en hoe je ze ontvangt.
 
-[![Opening pand Apicem — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb75_697283785bff17df628679e4_251211PZ58632.webp)
+Logistiek: zorg voor voldoende parkeergelegenheid of communiceer duidelijk over openbaar vervoer. Plan een duidelijke aankomst- en vertrektijd en houd je eraan. Gasten die niet weten wanneer ze weg mogen, worden onrustig. Een opening duurt normaal 2 tot 3 uur: genoeg om indruk te maken, te kort om te vervelen.
 
-### Opening pand Apicem
+Uitnodigingen voor een bedrijfsopening gaan minimaal 4 tot 6 weken van tevoren. Voor een exclusieve opening met VIP-gasten of pers: 6 tot 8 weken. Stuur een papieren uitnodiging als je wilt dat mensen het gevoel krijgen dat ze écht uitgenodigd zijn. Niet alleen een geautomatiseerde e-mail.
 
-Opening bedrijf
+## Budget en timing voor een bedrijfsopening
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/opening-pand-apicem.html)
+Een bedrijfsopening of openingsfeest kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €175 tot €450+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €150 tot €400+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-[![Centrum Kindermishandeling — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce8_69761540fe4ab7cb47bcf695_03.%2520Beatrix%2520applaus.webp)
+Een bedrijfsopening combineert een ceremonieel moment met een feestelijk programma. De spreiding in het budget hangt af van of er pers, lokale bestuurders of een breed publiek wordt uitgenodigd.
 
-### Centrum Kindermishandeling
+## Live Impact regelt je bedrijfsopening
 
-Opening bedrijf
+Een bedrijfsopening is één kans om een eerste indruk te maken. Wij zorgen dat die indruk klopt. Live Impact heeft de openingsceremonie voor tientallen bedrijven in Nederland begeleid. Van lokale mkb-openingen tot internationale vestigingen van grote concerns.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/opening-centrum-kindermishandeling.html)
+Wij denken mee over het concept en de symbolische openingshandeling. Plus de rondleiding-ervaring, catering, technische productie en alle communicatie rondom de opening. Je weet dat alles op tijd klaar is en dat er één moment is dat mensen nog jaren onthouden.
 
-[![Opening 1931 — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb59_697617c9a430a098d75a7563_Opening%25201931%2520Lichtinstallatie%2520buiten.webp)
+## Zo organiseer je de opening van jullie bedrijf
 
-### Opening 1931
+Een nieuwe locatie openen is een investering in de toekomst. De opening is de eerste pagina van het nieuwe hoofdstuk. Wij helpen je die pagina goed te schrijven.
 
-Opening bedrijf
+Bel ons op [085 401 40 14](tel:+31854014014) of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/opening-congrescentrum-1931.html)
+*Serieus Leuk.*
 
-[![Wereld Muziek Concours — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb56_697640a9cf55a6de7d2bbc9a_Opening%2520Wereld%2520Muziek%2520Concours%2520-%2520Finale%25201.webp)
+## Lees ook
 
-### Wereld Muziek Concours
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-Opening bedrijf
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/opening-wereld-muziek-concours.html)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
-[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](opening.html#)
+## Veelgestelde vragen
 
-## Met een glimlach naar het resultaat
+Wat mag niet ontbreken bij een bedrijfsopening?
 
-Het mooiste aan een vlekkeloos georganiseerde opening? Dat jij als organisator met een glas champagne in je hand kunt genieten van de stralende gezichten om je heen. Als je een **bedrijfsopening organiseert** voor je bedrijf, wil je dat elk detail klopt. Wij nemen de volledige organisatie uit handen. Zo kun jij je richten op wat echt telt: je gasten spreken en de band met relaties en klanten versterken.
+Een succesvolle bedrijfsopening vraagt om acht onderdelen:
 
-Onze aanpak is gericht op volledige ontzorging en een resultaat waar het hele bedrijf trots op is. We geven je de munitie en de cijfers om intern bij het MT te schitteren met een vliegende start voor het nieuwe pand of de nieuwe koers. De positieve energie die tijdens de opening ontstaat, is de beste brandstof voor de toekomst van de organisatie.
+1. Een lint-doorknipmoment, een korte ceremonie met gastheer of directeur.
+2. Speeches met een welkomstwoord, dankbetuiging aan sponsors en een toekomstvisie.
+3. Een goede gastenmix van klanten, partners, media, gemeentepolitici en personeelsfamilies.
+4. Een rondleiding met een geleide tour en interactieve stations.
+5. Catering met borrels, hapjes en een lichte lunch.
+6. Media-aandacht met uitgenodigde pers en een fotograaf.
+7. Een openingscadeau of symbool, zoals sleutels, een gedenksteen of een kunstwerk.
+8. Een duidelijke boodschap over wat het bedrijf doet en waarom dit moment belangrijk is.
 
-Ben je klaar om van jullie opening een legendarisch succes te maken?
+Veel bedrijven vergeten de boodschap en richten zich alleen op het feest. De opening moet jullie identiteit en de betekenis van dit moment overbrengen. Live Impact maakt openingsmomenten met echte betekenis.
 
-**Plan nu vrijblijvend een kennismakingsgesprek en ontdek de mogelijkheden.**
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsopening-organiseren)**
 
-‍
+Hoe organiseer ik een bedrijfsopening die impact maakt?
 
-## Meer lezen
+Een openingsceremonie duurt meestal 45 tot 90 minuten. De structuur: 1) Ontvangst en borrel (15 min): gasten arriveren en netwerken. 2) Formeel gedeelte (15-20 min): welkomstwoord, speeches en lint doorknippen. 3) Rondleiding (15-20 min): geleide tour door het pand. 4) Uitgebreide borrel of lunch (20-30 min): netwerken en rondlopen. Te snel (30 min) voelt oppervlakkig; te lang (langer dan 2 uur) put gasten uit. Het ideale midden: 60 minuten formeel gedeelte, met ruimte voor informeel rondlopen vooraf en erna. Voor grotere openingen (100+ gasten) reserveer je extra tijd. Voor kleine openingen (20-30 gasten) kan 45 minuten voldoende zijn. Live Impact plant de timing van openingen nauwkeurig.
 
-Lees ook: [Zakelijk evenement organiseren](../blog/zakelijk-evenement-organiseren.html) — of bekijk onze aanpak voor een [jubileumfeest](jubileumfeest.html). Bekijk de [veelgestelde vragen](../faq.html).
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsopening-organiseren)**
 
-![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+Welke gastenlijst is ideaal voor een bedrijfsopening?
+
+Voor een bedrijfsopening nodig je gasten zorgvuldig uit. Nodig in ieder geval directie, sleutelmedewerkers, klanten en zakelijke partners, leveranciers, lokale politici of buurtvertegenwoordigers, en relevante pers uit.
+
+Optioneel zijn families van medewerkers, die het evenement een persoonlijk tintje geven. Reken op 40 tot 60 gasten voor een intieme sfeer. Groepen van 100 of meer voelen als een groter feest en minder als een opening. Wij helpen je de juiste afweging te maken.
+
+Hoe zorg ik voor mediaberichtgeving van mijn bedrijfsopening?
+
+Mediaberichtgeving begint met een nieuwswaardig moment. Koppel je opening aan een concrete boodschap: een primeur, een investering, een nieuwe locatie of een maatschappelijke impact. Stel een persmap samen met feiten, foto's en citaten. Nodig relevante redacties minimaal drie weken vooruit uit via een persoonlijke mail of telefoontje. Richt je op lokale media of vakmedia, in plaats van breed te schieten. Zorg voor een goede persplek op locatie met stroompunten, zichtlijnen en een woordvoerder die beschikbaar is. Professionele fotografie en een korte videosamenvatting vergroten de kans op publicatie achteraf. Volg na het evenement op met een kort persbericht en beeldmateriaal. Live Impact schakelt bij grote openingen een PR-partner in om de mediarespons te maximaliseren.
+
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsopening-organiseren)**
+
+Wat is het ideale moment en de ideale duur voor een bedrijfsopening?
+
+Het ideale moment voor een bedrijfsopening is een doordeweekse middag. Plan bij voorkeur dinsdag tot en met donderdag, tussen 15.00 en 18.00 uur. Dat sluit aan op werktijden en maakt persberichtgeving waarschijnlijker. Qua duur werkt een opening van twee tot drie uur het best. In die tijd passen een korte toespraak, een officiële handeling zoals een lintdoorknipping, een rondleiding en een netwerkborrel. Houd rekening met het seizoen: voorjaar en najaar zijn populair, zomer loopt vaak leeg door vakanties. Plan minimaal zes tot acht weken vooruit. Dat geeft pers, partners en medewerkers de kans hun agenda vrij te maken. Live Impact adviseert over timing op basis van jouw doelgroep en doelstelling.
+
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsopening-organiseren)**
 
 ## Geïnspireerd geraakt?
 
