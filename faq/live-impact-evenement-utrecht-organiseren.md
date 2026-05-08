@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-utrecht-organis
 title: "Kan Live Impact een evenement in Utrecht voor ons organiseren?"
 description: "Ja. Live Impact organiseert regelmatig zakelijke evenementen in Utrecht, in de Jaarbeurs, Werkspoorkathedraal, TivoliVredenburg en andere Utrechtse locaties. We kennen de lokale leveranciers en de logistiek van de stad. Van congres tot personeelsfeest, van kick-off tot jubileum: wij nemen het volled"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:51+00:00"
+last_updated: "2026-05-08T21:23:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
