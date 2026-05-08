@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-deventer"
 title: "Kan Live Impact een evenement in Deventer verzorgen?"
 description: "Ja, Live Impact organiseert zakelijke evenementen in Deventer en de Oost-Nederlandse regio. Wij kennen de Hanzestad-locaties, de IJssel-terreinen en de leveranciers die jouw evenement naar een hoger niveau tillen. Van een teamdag tot een personeelsfeest of relatie-evenement: wij regelen het van A to"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:23+00:00"
+last_updated: "2026-05-08T21:23:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
