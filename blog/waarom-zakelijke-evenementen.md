@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/waarom-zakelijke-evenementen"
 title: "De businesscase van het zakelijk evenement"
 description: "Waarom investeren in zakelijke evenementen? De bewezen impact op verbinding, motivatie en resultaat."
 section: "Blog"
-last_updated: "2026-05-08T16:53:07+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
