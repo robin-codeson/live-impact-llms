@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-evalueren"
 title: "Wat kost het evalueren van een evenement?"
 description: "De evaluatie van een evenement hoeft nauwelijks extra te kosten als je het goed inbouwt in je proces. Een eenvoudige digitale enquête via een gratis tool kost niets. Professionele evaluatietrajecten met kwalitatief onderzoek, stakeholder interviews en een uitgebreid rapportage kosten al snel 2.000 t"
 section: "FAQ"
-last_updated: "2026-05-08T17:05:27+00:00"
+last_updated: "2026-05-08T21:23:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
