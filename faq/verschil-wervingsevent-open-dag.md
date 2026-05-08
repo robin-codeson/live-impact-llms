@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-wervingsevent-open-dag"
 title: "Wat is het verschil tussen een wervingsevent en een open dag?"
 description: "Een open dag is breed gericht: voor klanten, buurtbewoners, medewerkers en potentiële kandidaten. Een wervingsevent is volledig gericht op arbeidsmarktcommunicatie en employer branding. Het programma, de promotie en de opvolging zijn specifiek ontworpen om talent aan te trekken en sollicitaties te g"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:43+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
