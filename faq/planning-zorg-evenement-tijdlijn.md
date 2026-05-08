@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-zorg-evenement-tijdlijn"
 title: "Hoe lang van tevoren moet je een zorgevenement plannen?"
 description: "Reken op minimaal 3-4 maanden voorbereiding voor een personeelsfeest of teamdag in de zorgsector. Voor een jubileumviering of groter evenement is 6-12 maanden realistischer. De aanlooptijd is langer dan in andere sectoren. Je moet rekening houden met roosters, bezettingseisen en meerdere locaties of"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:00+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
