@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bijdrage-vragen-no-show-voorkomen"
 title: "Moet je een bijdrage vragen om no-show te voorkomen?"
 description: "Niet altijd, maar het is de meest effectieve maatregel. Zelfs een klein bedrag van 25 tot 50 euro halveert de no-show. Bij interne evenementen werken alternatieve drempels: aanmelding via de leidinggevende, beperkt aantal plekken, of deelname koppelen aan een breder traject. Bij externe evenementen "
 section: "FAQ"
-last_updated: "2026-05-08T16:55:57+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
