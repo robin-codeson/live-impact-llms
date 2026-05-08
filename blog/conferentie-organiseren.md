@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/conferentie-organiseren"
 title: "Wat een conferentie anders maakt dan andere evenementen"
 description: "Hoe organiseer je een professionele conferentie? Van concept en sprekers tot techniek, logistiek en opvolging. Het complete stappenplan van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:46+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
