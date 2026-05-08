@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bijzonder-evenement-venlo"
 title: "Hoe maak je een evenement in Venlo bijzonder?"
 description: "Venlo heeft twee unieke troeven: de Maas en de grensoverschrijdende identiteit. Een diner of borrel op een terras langs de Maas geeft direct sfeer. De grensligging biedt mogelijkheden voor een cross-border evenementconcept, met deelnemers uit zowel Nederland als Duitsland. Voeg een culturele activat"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:16+00:00"
+last_updated: "2026-05-08T21:22:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
