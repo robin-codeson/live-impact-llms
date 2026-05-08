@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/zorg-evenement-organiseren"
 title: "De zorgsector is anders, en dat vraagt om andere evenementen"
 description: "Zorgevenement organiseren? Van personeelsfeest tot jubileum, wij kennen de uitdagingen van de sector."
 section: "Blog"
-last_updated: "2026-05-08T16:53:16+00:00"
+last_updated: "2026-05-08T21:22:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
