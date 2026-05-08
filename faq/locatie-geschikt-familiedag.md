@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-geschikt-familiedag"
 title: "Welke locatie is geschikt voor een familiedag?"
 description: "Buitenlocaties zijn het populairst voor een familiedag: landgoederen, recreatieparken, stadsparken, strandlocaties en boerderijen. Je eigen bedrijfsterrein is ook een goede optie als je over buitenruimte beschikt, en is bovendien fiscaal aantrekkelijk. Zorg altijd voor een regenscenario en voldoende"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:56+00:00"
+last_updated: "2026-05-08T21:24:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
