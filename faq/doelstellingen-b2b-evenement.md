@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/doelstellingen-b2b-evenement"
 title: "Welke doelstellingen kan ik met een B2B-evenement bereiken?"
 description: "B2B-evenementen zijn inzetbaar voor meerdere doelstellingen tegelijk: leadgeneratie, relatieversterking, kennisleiderschap, werkgeversmerk en productlancering. Je brengt potentiële klanten samen in een omgeving die jij bepaalt. Bestaande klanten en partners krijgen aandacht buiten de dagelijkse cont"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:29+00:00"
+last_updated: "2026-05-08T21:22:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
