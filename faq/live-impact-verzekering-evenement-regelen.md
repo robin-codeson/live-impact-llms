@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-verzekering-evenement-reg
 title: "Regelt Live Impact de verzekering voor ons evenement?"
 description: "Live Impact is zelf verzekerd als professioneel eventbureau met een eigen aansprakelijkheidsdekking voor de diensten die wij leveren. Maar die dekking vervangt niet jouw opdrachtgeversdekking. Als opdrachtgever ben jij civielrechtelijk aansprakelijk voor het evenement als geheel. Wij helpen je als a"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:39+00:00"
+last_updated: "2026-05-08T21:24:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
