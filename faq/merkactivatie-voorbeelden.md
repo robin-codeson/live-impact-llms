@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/merkactivatie-voorbeelden"
 title: "Wat zijn voorbeelden van merkactivatie?"
 description: "Merkactivatie draait om directe beleving. Voorbeelden zijn productproeverijen waarbij mensen jouw product live ervaren. Ook live demonstraties vertellen het verhaal beter dan welke folder ook. Denk aan merkervaringen op festivals of evenementen en interactieve pop-ups die bezoekers verrassen en mees"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:27+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
