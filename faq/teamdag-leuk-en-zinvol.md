@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/teamdag-leuk-en-zinvol"
 title: "Hoe maak je een teamdag leuk én zinvol?"
 description: "De beste teamdagen hebben een duidelijke balans. Begin de dag met een inhoudelijk moment: een inspirerende briefing, resultaten delen of een update over de strategie. Voeg daarna een interactieve activiteit toe die samenwerking versterkt. Sluit af met tijd voor verbinding: een gezamenlijke maaltijd "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:38+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
