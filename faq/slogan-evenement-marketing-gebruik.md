@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/slogan-evenement-marketing-gebruik"
 title: "Hoe gebruik je een slogan in je evenementmarketing?"
 description: "Een slogan voor je evenementmarketing is meer dan een titel. Het is de mentale haak waarmee mensen je evenement onthouden en doorvertellen. Een goede slogan is kort (3 tot 6 woorden), past bij doel en doelgroep, en werkt op meerdere kanalen. Gebruik de slogan vanaf de eerste uitnodiging tot na het e"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:58+00:00"
+last_updated: "2026-05-08T21:24:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
