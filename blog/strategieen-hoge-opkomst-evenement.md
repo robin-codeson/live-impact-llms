@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/strategieen-hoge-opkomst-evenement"
 title: "Aangemeld is niet hetzelfde als aanwezig"
 description: "Opkomst van je evenement verhogen? Bewezen strategieën van uitnodigingstiming tot no-show voorkomen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:40+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
