@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-registratie-ontvangst"
 title: "Hoe regelt Live Impact de registratie en ontvangst bij een evenement?"
 description: "Live Impact verzorgt het volledige registratietraject. Van de aanmeldpagina en bevestigingen tot naambadges, gastenlijstbeheer en hostinstructies op de dag. We zorgen dat de ontvangst aansluit op de toon en het concept van het evenement: persoonlijk, efficiënt en in stijl."
 section: "FAQ"
-last_updated: "2026-05-08T17:10:05+00:00"
+last_updated: "2026-05-08T21:24:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
