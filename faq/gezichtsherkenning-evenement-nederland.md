@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gezichtsherkenning-evenement-nederlan
 title: "Mag je gezichtsherkenning gebruiken bij een evenement in Nederland?"
 description: "Gezichtsherkenning bij evenementen is in Nederland juridisch complex. De AVG (Algemene Verordening Gegevensbescherming) classificeert biometrische data als bijzondere persoonsgegevens. Verwerking hiervan is alleen toegestaan met expliciete toestemming van de betrokkene en een uitgebreid privacybelei"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:07+00:00"
+last_updated: "2026-05-08T21:23:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
