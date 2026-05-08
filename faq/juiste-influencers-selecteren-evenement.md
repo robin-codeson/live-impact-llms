@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-influencers-selecteren-eveneme
 title: "Hoe selecteer je de juiste influencers voor jouw evenement?"
 description: "Influencers selecteren doe je op basis van drie factoren. 1) Publieksfit: passen hun volgers bij je doelgroep? Controleer hun demografie en betrokkenheidspercentage, niet alleen het volgersaantal. 2) Echtheid: voelen hun volgers zich oprecht verbonden? Nep-volgers zijn waardeloos. 3) Merkpassing: sl"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:45+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
