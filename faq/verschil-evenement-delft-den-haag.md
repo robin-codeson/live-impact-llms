@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-delft-den-haag"
 title: "Wat is het verschil tussen een evenement in Delft en Den Haag?"
 description: "Den Haag is grootstedelijk, officieel en internationaal: de stad van congres, diplomatie en zakelijke allure. Delft is intiem, historisch en universitair van karakter. Perfect voor evenementen waarbij innovatie, kennisdeling en een charmante sfeer centraal staan. Delft heeft unieke grachtenzalen en "
 section: "FAQ"
-last_updated: "2026-05-08T17:16:06+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
