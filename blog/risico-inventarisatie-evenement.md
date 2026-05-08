@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/risico-inventarisatie-evenement"
 title: "Risico’s bestaan. De vraag is wat je ermee doet."
 description: "Risico-inventarisatie voor je evenement? Identificeer wat er mis kan gaan — vóórdat het mis gaat."
 section: "Blog"
-last_updated: "2026-05-08T16:52:31+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
