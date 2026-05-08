@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-eventlogistiek"
 title: "Regelt Live Impact ook de volledige logistiek?"
 description: "Ja, Live Impact regelt de volledige logistiek als onderdeel van de evenementplanning. Dit is waar onze slagkracht het echte verschil maakt. Ons team heeft 15+ jaar ervaring in het coördineren van honderden evenementen. We zorgen voor een gedetailleerd logistiekplan en een netwerk van betrouwbare lev"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:08+00:00"
+last_updated: "2026-05-08T21:24:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
