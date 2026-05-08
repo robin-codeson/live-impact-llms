@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenverzekering-dekking"
 title: "Wat dekt een evenementenverzekering precies?"
 description: "Een evenementenverzekering (WA) dekt persoonlijk letsel aan deelnemers wanneer dit door jouw nalatigheid als organisator is ontstaan, bijvoorbeeld als iemand over een slappe kabel valt op je evenement. De gewonde persoon kan schadevergoeding eisen en jouw verzekering betaalt. De verzekering dekt ook"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:16+00:00"
+last_updated: "2026-05-08T21:23:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
