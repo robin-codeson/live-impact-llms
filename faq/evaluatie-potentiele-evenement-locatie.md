@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evaluatie-potentiele-evenement-locati
 title: "Hoe evalueer je een potentiele evenementenlocatie?"
 description: "Een goede locatiekeuze maakt of breekt het evenement. Werk met een vaste checklist. Bereikbaarheid: openbaar vervoer binnen 15 min loopafstand, parkeerruimte voor 30 procent van gasten, taxi-bereikbaarheid. Capaciteit: matcht zaalmaat het type evenement (theateropstelling, cabaret, banquet)? Zaalind"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:07+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
