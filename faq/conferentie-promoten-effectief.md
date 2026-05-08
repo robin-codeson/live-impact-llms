@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/conferentie-promoten-effectief"
 title: "Hoe promoot ik mijn conferentie effectief?"
 description: "Combineer e-mailmarketing naar je eigen database, LinkedIn-berichten over de inhoud en partnercommunicatie. Kondig vroeg aan en communiceer regelmatig over het programma."
 section: "FAQ"
-last_updated: "2026-05-08T16:56:59+00:00"
+last_updated: "2026-05-08T21:22:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
