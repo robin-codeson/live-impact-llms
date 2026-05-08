@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-amsterdam"
 title: "Welke evenementenlocaties heeft Amsterdam?"
 description: "Amsterdam heeft grachtenpanden voor intieme evenementen en de NDSM-werf voor creatieve concepten. De Beurs van Berlage is ideaal voor zakelijke evenementen en de RAI voor congressen. De Zuidas past bij zakelijke bedrijfsevenementen. Live Impact kent het Amsterdamse locatieaanbod en selecteert de loc"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:49+00:00"
+last_updated: "2026-05-08T21:23:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
