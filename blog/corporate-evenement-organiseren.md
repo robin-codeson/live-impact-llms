@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/corporate-evenement-organiseren"
 title: "Waarom de meeste corporate evenementen al op woensdag vergeten zijn"
 description: "Corporate evenement organiseren dat blijft hangen? Concept, productie en merk in één hand. Zo maak je events waar mensen woensdag nog over praten."
 section: "Blog"
-last_updated: "2026-05-08T16:49:48+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
