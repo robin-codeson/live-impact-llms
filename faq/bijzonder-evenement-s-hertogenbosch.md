@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bijzonder-evenement-s-hertogenbosch"
 title: "Hoe maak je een evenement in 's-Hertogenbosch bijzonder?"
 description: "Gebruik de Bourgondische identiteit voluit. De Binnendieze, de unieke ondergrondse rivier die door de stad loopt, biedt een spectaculair en nergens anders te vinden element. Voeg een rondvaart langs de grachten, een diner in een historisch pand of een culinair programma met Bosch-inspiratie toe. Den"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:13+00:00"
+last_updated: "2026-05-08T21:22:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
