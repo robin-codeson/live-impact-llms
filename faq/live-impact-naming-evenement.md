@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-naming-evenement"
 title: "Kan Live Impact een naam voor ons evenement bedenken?"
 description: "Ja. Wij ontwikkelen namen als onderdeel van een concepttraject of als aparte opdracht. Onze aanpak: we starten met een korte kick-off om DNA, moment en gewenste toon helder te krijgen. Daarna schrijft ons team een longlist van dertig tot vijftig kandidaten. We reduceren die tot een shortlist van vij"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:47+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
