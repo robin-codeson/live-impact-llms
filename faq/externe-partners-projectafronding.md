@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/externe-partners-projectafronding"
 title: "Hoe betrek je externe partners bij een projectafronding?"
 description: "Nodig externe partners (leveranciers, freelancers, klantcontacten) uit als zij een wezenlijke bijdrage hebben geleverd. Een persoonlijk bedankmoment, ook apart van het team, is altijd krachtiger dan een mail."
 section: "FAQ"
-last_updated: "2026-05-08T16:59:28+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
