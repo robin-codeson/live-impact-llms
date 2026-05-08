@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/familiedag-budget"
 title: "Waarom een eerlijk gesprek over budget pas écht bij een goede familiedag hoort"
 description: "Familiedag organiseren? Hier zijn realistische budgetten per gast, een verdeling van waar je geld naartoe gaat en hoe je een ruim gevoel houdt."
 section: "Blog"
-last_updated: "2026-05-08T16:51:12+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
