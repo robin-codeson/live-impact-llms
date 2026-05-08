@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/concept-voorbeelden-zakelijk-eveneme
 title: "Waarom voorbeelden helpen (en waarom ze ook gevaarlijk zijn)"
 description: "Concrete conceptvoorbeelden voor een zakelijk evenement, met de boodschap, het mechanisme en het resultaat erbij. Geen vage thema's, wel werkende concepten."
 section: "Blog"
-last_updated: "2026-05-08T16:49:43+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
