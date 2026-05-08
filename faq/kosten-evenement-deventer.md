@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-deventer"
 title: "Wat kost een evenement organiseren in Deventer?"
 description: "Een zakelijk evenement in Deventer kost gemiddeld tussen €4.000 en €25.000. Deventer heeft een schat aan historische locaties in de Hanzestad-binnenstad die sfeer leveren voor een aantrekkelijke prijs. Een teamdag of borrel voor 50 personen start rond €3.000. Een personeelsfeest of congres voor 100 "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:23+00:00"
+last_updated: "2026-05-08T21:23:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
