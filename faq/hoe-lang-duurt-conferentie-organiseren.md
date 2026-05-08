@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-conferentie-organisere
 title: "Hoe lang duurt het organiseren van een conferentie?"
 description: "Reken op minimaal zes maanden voor een conferentie van honderd mensen of meer. Plan tijd in voor sprekers werven, locatiekeuze en communicatie."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:44+00:00"
+last_updated: "2026-05-08T21:23:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
