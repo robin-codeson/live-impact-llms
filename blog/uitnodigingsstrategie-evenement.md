@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/uitnodigingsstrategie-evenement"
 title: "Waarom je uitnodigingsstrategie de opkomst maakt"
 description: "Uitnodigingsstrategie voor je evenement? Save-the-dates, timing, opvolging en digitaal versus fysiek."
 section: "Blog"
-last_updated: "2026-05-08T16:53:00+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
