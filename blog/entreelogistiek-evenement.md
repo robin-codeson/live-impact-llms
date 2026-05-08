@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/entreelogistiek-evenement"
 title: "Entreelogistiek: de eerste minuten bepalen de avond"
 description: "Entreelogistiek bij zakelijke evenementen? Incheck en badgeprinting, zonder file bij de deur."
 section: "Blog"
-last_updated: "2026-05-08T16:50:05+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
