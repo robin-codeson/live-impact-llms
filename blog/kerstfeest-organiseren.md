@@ -1,151 +1,154 @@
-[< Back](kerstfeest-organiseren.html#)[< Work](kerstfeest-organiseren.html#)
+---
+canonical_url: "https://live-impact.nl/blog/kerstfeest-organiseren"
+title: "Eventmarketing Blog | Tips & Trends | Live Impact"
+description: "Tips, trends en eerlijke verhalen over bedrijfsevenementen — rechtstreeks van het team van Live Impact. Lees mee en laat je inspireren."
+section: "Blog"
+last_updated: "2026-05-08T16:51:39+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](kerstfeest-organiseren.html#)
+## Backstage
 
-# Backstage
+[### Waarom cultuurverandering een live moment nodig heeft
 
-[### Wat kost een familiedag voor je bedrijf?
+Het event als katalysator: een duidelijk breukmoment, een gedeelde ervaring en een nieuwe richting waar iedereen zelf onderdeel van werd.
 
-Het budget van een familiedag bepaalt mee hoe je dag voelt. Hier is een eerlijk overzicht van wat een familiedag kost, waar het geld naartoe gaat en hoe je keuzes maakt die je mensen wel voelen.
-
-![Luchtfoto van een buitenfestival met tenten en groene omgeving georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
-
-Learn More
-
-Website
-
-See More](familiedag-budget.html)
-
-[### Het juiste concept voor een familiedag
-
-Een familiedag is geen kinderfeest met een bedrijfslogo. Het is je kans om je medewerkers te bedanken via de mensen die hun thuis zijn. Hier is hoe je een concept bedenkt dat dat ook echt waarmaakt.
-
-![Lachende man bij de entree van een buitenfestival georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b83f_69c061595439a06ea4d878f3_Handpicked%2520festival%2520entree%2520man%2520lachen-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
+![Medewerkers zingen samen op podium tijdens een personeelsfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36d91bf1445cd62433e2_697612f465703f2a5f4173fe_Jubileumfeest%2520MUMC%252B%2520Personeel%2520zingen%2520op%2520podium.webp)
 
 Learn More
 
 Website
 
-See More](familiedag-concept.html)
+See More](/blog/cultuurverandering-event-organiseren)
 
-[### Een corporate event organiseren dat écht impact maakt
+[### Personeelsfeest laten organiseren
 
-Een corporate event is geen vinkje op je jaarplanning. Het is een kans om je verhaal, je mensen en je merk samen te brengen. Hier is hoe je dat doet zonder dat het voelt als een verplicht nummer.
+Niet elk personeelsfeest hoort intern geregeld te worden. Wat haal je uit handen bij een bureau, wat houd je in eigen beheer, en waar zit het echte verschil in kosten.
 
-![Entree van een groot zakelijk evenement met gasten die binnenkomen bij sfeervolle verlichting](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda18d9916fe2a99d93ed4_69c069bf36ed4f3d7c8a73fc_KEYVISUAL%2520Overzicht%2520entree%2520met%2520gasten.jpeg)
-
-Learn More
-
-Website
-
-See More](corporate-event-organiseren.html)
-
-[### Een project kick-off organiseren waar je team scherp van vertrekt
-
-Een project kick-off is geen formaliteit. Het is het moment waarop je team beslist hoe er gewerkt gaat worden. Zo zet je dat goed neer.
-
-![Plenaire sessie met sprekers op podium tijdens een zakelijk congres](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1776ed71e373c2fec65_69c069be6843e2faf10f2bcc_Podiumsettin%2520plenair%2520directie.jpeg)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
 Learn More
 
 Website
 
-See More](projectkick-off-organiseren.html)
+See More](/blog/personeelsfeest-laten-organiseren)
 
-[### Een sales kick-off organiseren waarmee je team scoort vanaf dag één
+[### Jubileum vieren bij een bedrijf
 
-Een sales kick-off is geen jaaropening met een speech. Het is het moment waarop je sales-team kiest om te gaan vlammen. Zo zet je dat goed neer.
+Een bedrijfsjubileum vieren gaat niet over een feestje plannen. Het gaat over wat je erkent, wie je eert en welk verhaal je doorgeeft.
 
-![La Fuente speelt finale bij een zakelijke kick-off met confetti en lichteffecten](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5eb83aba737800c4c0b_69c0615b385ce2c1be16b447_Enviem%2520kick-off%2520Hart%2520van%2520Holland%2520La%2520Fuente%2520finale-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
-
-Learn More
-
-Website
-
-See More](sales-kick-off-organiseren.html)
-
-[### Een dealer event organiseren dat partners verkoopt en motiveert
-
-Een dealer event is geen feest voor partners. Het is het moment waarop ze geloven in jouw plannen voor het komend jaar. Zo zet je dat goed neer.
-
-![Gasten lachen en netwerken bij een zakelijke awards-ceremony](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b849_69c06403d27b527bc17b0f26_SAP%2520Partner%2520Awards%25202025%2520x%2520Live%2520Impact%2520Eventmarketing%2520-%2520Gasten%2520lachen%2520mannen.jpeg)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6ca83aba737800ce89d_69c06766b96d18ca105197e7_Jubileumfeest%2520MUMC%252B%2520Presentator%2520Rens%2520Merkelbach.webp)
 
 Learn More
 
 Website
 
-See More](dealer-event-organiseren.html)
+See More](/blog/jubileum-vieren-bedrijf)
 
-[### Wat kost een klantevent? Eerlijke prijzen en waar je budget echt heen gaat
+[### Event planner Rotterdam inhuren
 
-Geen algemene richtprijzen. Wel eerlijke cijfers per groepsgrootte, uitleg per post, en waar je beter niet op bespaart.
+Eén vaste contactpersoon die jouw event begeleidt van eerste idee tot laatste gast, met de kennis van Rotterdam die je zelf niet hebt.
 
-![Formele dinertafel met bloemstukken bij een zakelijk galadiner](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1a47139d50e3c937b17_69c0615c7fa7531f9470c9ec_Huisman%2520diner%2520Joop%2520Erni%2520tafel%2520bloemstukken-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
-
-Learn More
-
-Website
-
-See More](klantevent-budget.html)
-
-[### Een klantevent organiseren dat relaties verdiept (en niet alleen vult)
-
-Een klantevent is geen verkoopevent met hapjes. Het is een investering in relaties die jaren terugverdient. Zo pak je het aan.
-
-![Gasten lachen en netwerken bij een zakelijke awards-ceremony](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b849_69c06403d27b527bc17b0f26_SAP%2520Partner%2520Awards%25202025%2520x%2520Live%2520Impact%2520Eventmarketing%2520-%2520Gasten%2520lachen%2520mannen.jpeg)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f696bd7565a25306d0ad_69c06992091c0073061bfdbe_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520doorgang%2520naar%2520feest.webp)
 
 Learn More
 
 Website
 
-See More](klantevent-organiseren.html)
+See More](/blog/event-planner-rotterdam)
 
-[### Conceptontwikkeling voor een kick-off: zo begint je jaar met richting
+[### Evenement marketing: zo zet je een zakelijk event in als marketing-instrument
 
-Een kick-off zonder concept is een presentatie met hapjes. Zo ontwikkel je een concept dat het team laadt voor een jaar.
+Een evenement is niet het eindpunt van je marketinginspanning. Het is het middelpunt ervan.
 
-![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
-
-Learn More
-
-Website
-
-See More](conceptontwikkeling-kick-off.html)
-
-[### Conceptontwikkeling voor een jubileum: van mijlpaal naar verhaal dat blijft hangen
-
-Een jubileum is geen verjaardagsfeest. Het is een moment om te laten zien wie je geworden bent en waar je heen gaat.
-
-![Mensen lachen samen in sfeervolle plantenkas tijdens een jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1d8916003908add5a2d_69c0615902a1b2d8616e0735_SGS%2520100%2520jaar%2520Oogenlust%2520Eersel%2520plantekas%2520mensen%2520lachen-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
+![](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
 Learn More
 
 Website
 
-See More](conceptontwikkeling-jubileum.html)
+See More](/blog/evenement-marketing)
 
-[### Een thema kiezen voor je personeelsfeest: zo maak je een keuze die klopt
+[### Beurs organiseren: hoe je van een productdag een professionele vakbeurs maakt
 
-Een thema voor je personeelsfeest is geen verkleedaankondiging. Het is de wereld waarin iedereen zich even anders mag gedragen.
+Een beurs organiseren is het meest ambitieuze evenementenformaat. Zo bouw je een platform dat exposanten en bezoekers wil onthouden.
 
-![Publiek in feestzaal met blauwe hartjes tijdens een emotioneel jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36da1bf1445cd6243429_697612f47e997eae2836afdf_Jubileumfeest%2520MUMC%252B%2520Publiek%2520zaal%2520blauwe%2520hartjes.webp)
-
-Learn More
-
-Website
-
-See More](thema-kiezen-personeelsfeest.html)
-
-[### Eventlogo ontwerpen: zo bouw je visuele identiteit voor je zakelijk evenement
-
-Een eventlogo is niet het bedrijfslogo met een jaartal eronder. Het is een visuele identiteit voor een moment.
-
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)
+![Mensen lachen tijdens een beurs in een plantekas bij het SGS 100-jarig jubileum](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1d8916003908add5a2d_69c0615902a1b2d8616e0735_SGS%2520100%2520jaar%2520Oogenlust%2520Eersel%2520plantekas%2520mensen%2520lachen-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
 Learn More
 
 Website
 
-See More](eventlogo-ontwerpen.html)
+See More](/blog/beurs-organiseren)
 
-[Next](../blog%3Ff6252af4_page=2.html)
+[### Leveranciersdagen organiseren: strategie en programma
+
+Een leveranciersdag is meer dan een bedankje aan je toeleveranciers. Zo maak je er een strategisch instrument van.
+
+![Zaaloverzicht met ronding, podium en scherm voor een leveranciersdag](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce8c_KEYVISUAL-Zaal-overzicht-ronding-podium-scherm-1.webp)
+
+Learn More
+
+Website
+
+See More](/blog/leveranciersdagen-organiseren)
+
+[### Award show organiseren: zo maak je van een uitreiking een onvergetelijk event
+
+Spanning, trots en een podium dat past bij je merk
+
+![Gasten lachen tijdens de SAP Partner Awards ceremony georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5deeb60d0ced8f1b849_69c06403d27b527bc17b0f26_SAP%2520Partner%2520Awards%25202025%2520x%2520Live%2520Impact%2520Eventmarketing%2520-%2520Gasten%2520lachen%2520mannen.jpeg)
+
+Learn More
+
+Website
+
+See More](/blog/award-show-organiseren)
+
+[### Relatiedag organiseren: locatie, programma en ideeën
+
+Zo bouw je een dag die zakelijke relaties versterkt
+
+![Gedekte tafel met bloemstukken tijdens een relatiedag diner bij Huisman](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1a47139d50e3c937b17_69c0615c7fa7531f9470c9ec_Huisman%2520diner%2520Joop%2520Erni%2520tafel%2520bloemstukken-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
+
+Learn More
+
+Website
+
+See More](/blog/relatiedag-organiseren)
+
+[### Feest op maat organiseren: uniek event vanaf 50 personen
+
+Geen catalogus, maar een concept dat van jullie is
+
+![Festivalsfeer met circustent, diner en confetti tijdens een incentive bij Thuishaven](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1b0e8dffa7153f60d92_69c06992273121e5d58ec759_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520Circustent%2520DIner%2520Tafel%252013%2520Confetti%25202.webp)
+
+Learn More
+
+Website
+
+See More](/blog/feest-op-maat-organiseren)
+
+[### Social wall inzetten bij je event: zo werkt het en dit levert het op
+
+Een social wall maakt je event interactiever en zorgt dat gasten vanzelf content maken. Zo zet je het slim in.
+
+![Zaaloverzicht met podium en groot scherm tijdens een zakelijk evenement van Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce8c_KEYVISUAL-Zaal-overzicht-ronding-podium-scherm-1.webp)
+
+Learn More
+
+Website
+
+See More](/blog/social-wall-inzetten-event)
+
+[### 50 jaar jubileum organiseren: gouden jubileum dat generaties verbindt
+
+Een gouden jubileum plan je niet in zes weken. Zo pak je een 50-jarig jubileum aan dat echt indruk maakt.
+
+![Mensen lachen tijdens een feestelijk 50-jarig jubileum in een sfeervolle plantekas](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1d8916003908add5a2d_69c0615902a1b2d8616e0735_SGS%2520100%2520jaar%2520Oogenlust%2520Eersel%2520plantekas%2520mensen%2520lachen-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
+
+Learn More
+
+Website
+
+See More](/blog/50-jarig-jubileum-bedrijf-organiseren)
