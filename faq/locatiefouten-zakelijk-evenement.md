@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatiefouten-zakelijk-evenement"
 title: "Welke fout wordt het vaakst gemaakt met evenementenlocaties?"
 description: "De meest gemaakte locatiefout: een ruimte kiezen die op papier groter of kleiner is dan nodig. Dat leidt tot slechte doorstroom of overvolle situaties. Andere veelvoorkomende fouten zijn: geen rekening houden met parkeerplaatsen of OV, ontoereikende wifi of stroom en slechte akoestiek. Ook beperkte "
 section: "FAQ"
-last_updated: "2026-05-08T17:11:02+00:00"
+last_updated: "2026-05-08T21:24:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
