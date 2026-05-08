@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-personeelsreis-organisere
 title: "Kan Live Impact onze personeelsreis organiseren?"
 description: "Ja, Live Impact organiseert personeelsreizen voor groepen van 40 tot 300 personen naar bestemmingen door heel Europa en binnen Nederland. Wij pakken het complete traject op: van bestemmingskeuze en site visit tot programmaontwikkeling, vervoer, accommodatie en begeleiding ter plaatse. We werken same"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:00+00:00"
+last_updated: "2026-05-08T21:24:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
