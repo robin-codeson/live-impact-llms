@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/besparen-kosten-evenement"
 title: "Hoe bespaar je op de kosten van een evenement?"
 description: "Slimme keuzes beginnen al vóór de briefing. Kies je datum buiten het hoogseizoen. Dat scheelt direct op locatiekosten. Organiseer het evenement op je eigen locatie als dat kan: dat is fiscaal voordelig via de WKR én authentiek. Vraag all-in offertes zodat je verrassingen voorkomt. Investeer liever i"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:01+00:00"
+last_updated: "2026-05-08T21:22:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
