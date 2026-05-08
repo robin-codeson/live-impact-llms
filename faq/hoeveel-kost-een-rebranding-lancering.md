@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-kost-een-rebranding-lancering
 title: "Hoeveel kost een rebranding-lancering?"
 description: "Reken op €10.000 tot €75.000 voor een complete rebranding-lancering, afhankelijk van schaal, locaties en productie."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:35+00:00"
+last_updated: "2026-05-08T21:23:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
