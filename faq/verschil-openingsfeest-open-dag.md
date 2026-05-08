@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-openingsfeest-open-dag"
 title: "Wat is het verschil tussen een openingsfeest en een open dag?"
 description: "Een open dag is informatief en gericht op rondleidingen en kennismaking. De drempel is laag, het publiek breed. Een openingsfeest is feestelijk en gericht op het creëren van een gedeeld hoogtepunt en merkmoment. De sfeer is anders, de boodschap sterker. Live Impact ontwerpt beide met een duidelijke "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:13+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
