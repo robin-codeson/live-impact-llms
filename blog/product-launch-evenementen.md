@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/product-launch-evenementen"
 title: "Product launch evenementen: van concept tot onvergetelijke lancering"
 description: "Product launch evenement organiseren? Zo zorg je dat journalisten, klanten én medewerkers het noemen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:19+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
