@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-foodtrucks-nodig-zakelijk-eve
 title: "Hoeveel foodtrucks heb ik nodig voor mijn zakelijk evenement?"
 description: "Als vuistregel: één foodtruck kan 100 tot 150 gasten per uur bedienen. Voor een evenement met 200 gasten en een eetmoment van anderhalf uur heb je twee tot drie trucks nodig. Bij 500 gasten ga je naar vier tot vijf trucks. Houd rekening met het type gerecht: een pizza- of wok-truck levert sneller da"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:26+00:00"
+last_updated: "2026-05-08T21:23:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
