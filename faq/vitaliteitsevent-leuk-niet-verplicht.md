@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vitaliteitsevent-leuk-niet-verplicht"
 title: "Hoe maak je een vitaliteitsevent leuk in plaats van verplicht?"
 description: "De sleutel is keuzevrijheid en beleving. Bied meerdere activiteiten aan waar deelnemers zelf uit kiezen: niet iedereen hoeft te bootcampen. Maak het inclusief: als je oma eraan kan meedoen, zit je goed. Investeer in sfeer en catering (smoothiebar, verse bowls). Communiceer vooraf dat het een investe"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:56+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
