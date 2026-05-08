@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsfeest-eigen-locatie-wkr"
 title: "Eigen locatie + WKR: de combinatie die slim gebruik maakt van wat je hebt"
 description: "Bedrijfsfeest op eigen locatie organiseren en binnen de WKR blijven? Praktische gids met budgetsplitsing, do’s & don’ts en tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:25+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
