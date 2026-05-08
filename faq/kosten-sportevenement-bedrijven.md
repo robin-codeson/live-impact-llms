@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-sportevenement-bedrijven"
 title: "Hoeveel kost een sportevenement voor bedrijven?"
 description: "De kosten variëren sterk. Een eenvoudige sportdag start rond €50 per persoon. Een volledig verzorgd evenement met catering, entertainment en EHBO loopt op tot €150–€250 per persoon."
 section: "FAQ"
-last_updated: "2026-05-08T17:06:40+00:00"
+last_updated: "2026-05-08T21:23:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
