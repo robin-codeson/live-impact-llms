@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/on-site-registratie-gasten-zonder-tic
 title: "Wat moet ik regelen voor on-site registratie als gasten geen ticket hebben?"
 description: "Walk-in gasten horen bij elk evenement. Richt een aparte balie in voor ter plekke registraties, los van de reguliere check-in. Zorg voor tablets waarop gasten zich snel kunnen aanmelden met naam en e-mail. Maak vooraf een walk-in tickettype aan in je systeem zodat deze gasten in dezelfde database te"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:50+00:00"
+last_updated: "2026-05-08T21:24:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
