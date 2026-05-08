@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-communicatieplan-opstellen
 title: "Wat is een evenement communicatieplan en waarom heb je het nodig?"
 description: "Evenement communicatieplan opstellen? Van doelgroepanalyse tot contenttijdlijn: stap voor stap uitgelegd."
 section: "Blog"
-last_updated: "2026-05-08T16:50:07+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
