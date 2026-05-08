@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-format-personeelsfeest-kiezen"
 title: "Hoe kies ik het juiste format voor mijn personeelsfeest?"
 description: "Kies het format op basis van drie vragen: Wat is het doel? Wie zijn de deelnemers? Wat past bij jullie cultuur? Van die antwoorden hangt af of je gaat voor een themafeest, een teamuitje, een diner of een hybride format."
 section: "FAQ"
-last_updated: "2026-05-08T17:03:45+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
