@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-all-in-dry-hire-locatie"
 title: "Wat is het verschil tussen een all-in en een dry hire locatie?"
 description: "Het verschil zit in wat er inbegrepen is. Een all-in locatie levert alles: ruimte, techniek, catering, personeel en vaak ook AV-apparatuur. Je betaalt meer, maar regelt minder. Een dry hire locatie verhuurt alleen de ruimte. Techniek, catering, meubilair en personeel regel je zelf. Dat biedt meer vr"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:33+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
