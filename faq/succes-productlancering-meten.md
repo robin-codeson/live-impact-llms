@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succes-productlancering-meten"
 title: "Hoe meet je het succes van een productlancering?"
 description: "Koppel het succes van de lancering aan vooraf gestelde doelstellingen. Meten kan op meerdere niveaus. Denk aan media-exposure (bereik, publicaties), social media betrokkenheid (views, shares) en tevredenheid van gasten via enquête. Voeg ook leadgeneratie en productverkopen in de maanden na de lancer"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:26+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
