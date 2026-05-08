@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/netwerkevenement-organiseren"
 title: "Waarom zoveel netwerkevenementen verzanden"
 description: "Netwerkevenement organiseren waarbij mensen écht connecten? Zo maak je van een borrel een springplank."
 section: "Blog"
-last_updated: "2026-05-08T16:52:00+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
