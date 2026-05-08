@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/projectafronding-vieren"
 title: "Waarom een projectafronding vieren zo belangrijk is"
 description: "Projectafronding vieren na een geslaagd project? Ontdek hoe je een memorabele afsluiting organiseert die je team motiveert en verbindt. Van klein naar groot."
 section: "Blog"
-last_updated: "2026-05-08T16:52:22+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
