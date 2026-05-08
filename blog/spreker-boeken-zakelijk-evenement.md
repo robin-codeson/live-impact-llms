@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/spreker-boeken-zakelijk-evenement"
 title: "De keuze van een spreker zet de toon voor de hele dag"
 description: "Spreker boeken voor je evenement? Kies op impact, niet op naam, met fee-gids en contracttips."
 section: "Blog"
-last_updated: "2026-05-08T16:52:39+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
