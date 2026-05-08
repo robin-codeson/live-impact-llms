@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-promoot-je-congres"
 title: "Hoe promoot je een congres effectief?"
 description: "Effectieve congrespromotie begint minimaal drie maanden voor het evenement. Gebruik e-mailmarketing voor je eigen netwerk: dat converteert het best. Ondersteun met social media, gericht op de vakspecialisten in je sector. Maak een dedicated landingspagina met heldere informatie over programma, sprek"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:48+00:00"
+last_updated: "2026-05-08T21:23:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
