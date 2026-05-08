@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/catering-regelen-eigen-locatie"
 title: "Hoe regel je catering op eigen locatie?"
 description: "Catering op een locatie zonder professionele keuken vraagt om een cateraar met ervaring in het werken op locatie. Die neemt alle apparatuur, personeel en logistiek mee. Bespreek vooraf de stroom- en wateraansluiting, de opslagmogelijkheden en de afvoer. Kies een cateraar die het menu aanpast aan de "
 section: "FAQ"
-last_updated: "2026-05-08T16:56:45+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
