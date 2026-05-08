@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/communicatie-leveranciersdag"
 title: "Hoe communiceer je de leveranciersdag goed?"
 description: "Goede communicatie maakt of breekt een leveranciersdag. Stuur de eerste uitnodiging 8 tot 10 weken vooraf met datum, locatie en globale agenda. Twee weken voor de dag volgt een herinnering met definitieve agenda, parkeerinstructies en eventuele kledingvoorschriften. Verspreid de uitnodiging via meer"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:50+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
