@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-eindhoven"
 title: "Kan Live Impact een evenement in Eindhoven voor mij organiseren?"
 description: "Ja. Live Impact organiseert regelmatig zakelijke evenementen in Eindhoven en de Brainport-regio. Wij kennen de unieke locaties van Strijp-S, de congrescentra en de creatieve panden in de regio. Eindhoven heeft een sterk industrieel-innovatief karakter. Dat verwerken wij graag in het concept. Van een"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:26+00:00"
+last_updated: "2026-05-08T21:23:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
