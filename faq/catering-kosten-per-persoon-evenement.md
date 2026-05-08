@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/catering-kosten-per-persoon-evenement
 title: "Wat kost catering per persoon bij een zakelijk evenement?"
 description: "De kosten van catering bij een zakelijk evenement lopen sterk uiteen. Walk-in borrel (2 uur, hapjes en drankjes): ongeveer €35 tot €60+ per persoon. Lunchbuffet: ongeveer €25 tot €55+ per persoon. Walking dinner (3 gangen, bediening): ongeveer €75 tot €120+ per persoon. Zittend gala-diner (4 gangen "
 section: "FAQ"
-last_updated: "2026-05-08T16:56:44+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
