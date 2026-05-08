@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/veiligheid-familiedag"
 title: "Waar moet je op letten bij veiligheid op een familiedag?"
 description: "Met kinderen op locatie is veiligheid prioriteit één. Denk aan afgezet terrein, EHBO-post, toezicht bij water, begeleiding bij activiteiten, kindvriendelijke catering (allergieën) en voldoende schaduwplekken en sanitair."
 section: "FAQ"
-last_updated: "2026-05-08T17:15:16+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
