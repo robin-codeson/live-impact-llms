@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/doel-dealer-evenement-organiseren"
 title: "Wat is het doel van een dealerevenement?"
 description: "Een dealerevenement heeft meerdere doelen tegelijk: verkooppartners motiveren, nieuwe producten of promoties introduceren en de samenwerking verdiepen. Een goed opgezet evenement geeft dealers een reden om extra gemotiveerd aan de slag te gaan. Dat kan via training, een indrukwekkende productpresent"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:23+00:00"
+last_updated: "2026-05-08T21:22:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
