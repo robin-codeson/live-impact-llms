@@ -9,6 +9,9 @@
 - [Contact | Live Impact | 's-Hertogenbosch](contact.md) — canonical: https://live-impact.nl/contact
 - [Event Orakel: jouw AI-partner voor het perfecte event](event-orakel.md) — canonical: https://live-impact.nl/event-orakel
 - [Vragen over je Bedrijfsevenement? | Live Impact FAQ](faq.md) — canonical: https://live-impact.nl/faq
+- [Eventportfolio | Bedrijfsevenementen | Live Impact](portfolio.md) — canonical: https://live-impact.nl/portfolio
+- [Privacyverklaring | Live Impact Evenementenbureau](privacystatement.md) — canonical: https://live-impact.nl/privacystatement
+- [Het Team achter Live Impact | Eventprofessionals](team.md) — canonical: https://live-impact.nl/team
 
 ## Categorieën
 
@@ -2216,6 +2219,357 @@
 - [Wanneer plan je een bedrijfsfeest?](faq/wanneer-plan-je-bedrijfsfeest.md) — canonical: https://live-impact.nl/faq/wanneer-plan-je-bedrijfsfeest
 - [Wanneer plan je een energizer in je programma?](faq/wanneer-plan-je-een-energizer-in-je-programma.md) — canonical: https://live-impact.nl/faq/wanneer-plan-je-een-energizer-in-je-programma
 - [Wat is duurzame catering bij een evenement?](faq/wanneer-plannen-eindejaarsfeest.md) — canonical: https://live-impact.nl/faq/wanneer-plannen-eindejaarsfeest
+- [Wanneer vier je een projectafronding — alleen bij succes?](faq/wanneer-projectafronding-vieren.md) — canonical: https://live-impact.nl/faq/wanneer-projectafronding-vieren
+- [Wanneer moet een evenementenbureau de reisbureauregeling toepassen?](faq/wanneer-reisbureauregeling-toepassen-evenement.md) — canonical: https://live-impact.nl/faq/wanneer-reisbureauregeling-toepassen-evenement
+- [Wanneer schakel je een technisch productiebureau in voor een evenement?](faq/wanneer-technisch-productiebureau-inschakelen.md) — canonical: https://live-impact.nl/faq/wanneer-technisch-productiebureau-inschakelen
+- [Hoe ver van tevoren uitnodigen voor een zakelijk evenement?](faq/wanneer-uitnodigen-zakelijk-evenement.md) — canonical: https://live-impact.nl/faq/wanneer-uitnodigen-zakelijk-evenement
+- [Wanneer moet je een klantendag-uitnodiging versturen?](faq/wanneer-uitnodiging-klantendag-versturen.md) — canonical: https://live-impact.nl/faq/wanneer-uitnodiging-klantendag-versturen
+- [Wanneer verstuur je een uitnodiging voor een zakelijk evenement?](faq/wanneer-uitnodiging-zakelijk-evenement.md) — canonical: https://live-impact.nl/faq/wanneer-uitnodiging-zakelijk-evenement
+- [Wat doe je met UGC na het evenement?](faq/wat-doe-je-met-ugc-na-het-evenement.md) — canonical: https://live-impact.nl/faq/wat-doe-je-met-ugc-na-het-evenement
+- [Wat doen jullie?](faq/wat-doen-jullie.md) — canonical: https://live-impact.nl/faq/wat-doen-jullie
+- [Wat doet een evenementenbureau en wat regelt het voor je?](faq/wat-doet-een-evenementenbureau.md) — canonical: https://live-impact.nl/faq/wat-doet-een-evenementenbureau
+- [Wat doet een evenementcoördinator precies?](faq/wat-doet-evenement-coordinator.md) — canonical: https://live-impact.nl/faq/wat-doet-evenement-coordinator
+- [Wat doet een evenementmarketingbureau?](faq/wat-doet-evenement-marketing-bureau.md) — canonical: https://live-impact.nl/faq/wat-doet-evenement-marketing-bureau
+- [Wat doet een evenementenbureau precies?](faq/wat-doet-evenementenbureau.md) — canonical: https://live-impact.nl/faq/wat-doet-evenementenbureau
+- [Wat doet een evenementenbureau in Amsterdam?](faq/wat-doet-evenementenbureau-amsterdam.md) — canonical: https://live-impact.nl/faq/wat-doet-evenementenbureau-amsterdam
+- [Wat doet een evenementenbureau in Breda?](faq/wat-doet-evenementenbureau-breda.md) — canonical: https://live-impact.nl/faq/wat-doet-evenementenbureau-breda
+- [Wat doet een evenementenbureau in Brabant?](faq/wat-doet-evenementenbureau-in-brabant.md) — canonical: https://live-impact.nl/faq/wat-doet-evenementenbureau-in-brabant
+- [Wat doet een evenementenbureau precies?](faq/wat-doet-evenementenbureau-precies.md) — canonical: https://live-impact.nl/faq/wat-doet-evenementenbureau-precies
+- [Wat doet een evenementenbureau in Utrecht?](faq/wat-doet-evenementenbureau-utrecht.md) — canonical: https://live-impact.nl/faq/wat-doet-evenementenbureau-utrecht
+- [Wat doet een evenementenbureau in Nederland?](faq/wat-doet-eventbureau-nederland.md) — canonical: https://live-impact.nl/faq/wat-doet-eventbureau-nederland
+- [Wat doet Live Impact precies?](faq/wat-doet-live-impact.md) — canonical: https://live-impact.nl/faq/wat-doet-live-impact
+- [Wat hoort er op het programma van een nieuwjaarsreceptie?](faq/wat-hoort-er-op-het-programma-van-een-nieuwjaarsreceptie.md) — canonical: https://live-impact.nl/faq/wat-hoort-er-op-het-programma-van-een-nieuwjaarsreceptie
+- [Wat hoort er in een goede project kick-off briefing?](faq/wat-hoort-in-project-kick-off-briefing.md) — canonical: https://live-impact.nl/faq/wat-hoort-in-project-kick-off-briefing
+- [Wat is activatie in de context van zakelijke evenementen?](faq/wat-is-activatie-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-activatie-evenement
+- [Wat is Bedrijfsfeest Organiseren?](faq/wat-is-bedrijfsfeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-is-bedrijfsfeest-organiseren
+- [Wat is Bedrijfsopening Organiseren?](faq/wat-is-bedrijfsopening-organiseren.md) — canonical: https://live-impact.nl/faq/wat-is-bedrijfsopening-organiseren
+- [Wat is een brand activation evenement?](faq/wat-is-brand-activation-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-brand-activation-evenement
+- [Wat is conceptontwikkeling voor een evenement?](faq/wat-is-conceptontwikkeling-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-conceptontwikkeling-evenement
+- [Wat is een congrestival en hoe verschilt het van een congres?](faq/wat-is-congrestival-verschil-congres.md) — canonical: https://live-impact.nl/faq/wat-is-congrestival-verschil-congres
+- [Wat is de IDEA Pitchcode precies?](faq/wat-is-de-idea-Pitchcode.md) — canonical: https://live-impact.nl/faq/wat-is-de-idea-Pitchcode
+- [Wat is een B2B marketing evenement?](faq/wat-is-een-b2b-marketing-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-een-b2b-marketing-evenement
+- [Wat is een employer branding evenement en wat levert het op?](faq/wat-is-een-employer-branding-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-een-employer-branding-evenement
+- [Wat is een evenement briefing?](faq/wat-is-een-evenement-briefing.md) — canonical: https://live-impact.nl/faq/wat-is-een-evenement-briefing
+- [Wat is een eventbureau?](faq/wat-is-een-eventbureau.md) — canonical: https://live-impact.nl/faq/wat-is-een-eventbureau
+- [Wat is een evenementpersona?](faq/wat-is-een-eventpersona.md) — canonical: https://live-impact.nl/faq/wat-is-een-eventpersona
+- [Wat is een executive dinner?](faq/wat-is-een-executive-dinner.md) — canonical: https://live-impact.nl/faq/wat-is-een-executive-dinner
+- [Wat is een hybrid evenement precies?](faq/wat-is-een-hybrid-evenement-precies.md) — canonical: https://live-impact.nl/faq/wat-is-een-hybrid-evenement-precies
+- [Wat is een intern communicatie evenement?](faq/wat-is-een-intern-communicatie-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-een-intern-communicatie-evenement
+- [Wat is een loyaliteitsevenement?](faq/wat-is-een-loyaliteitsevenement.md) — canonical: https://live-impact.nl/faq/wat-is-een-loyaliteitsevenement
+- [Wat is een pannenbier en hoe organiseer je het?](faq/wat-is-een-pannenbier-en-hoe-organiseer-je-het.md) — canonical: https://live-impact.nl/faq/wat-is-een-pannenbier-en-hoe-organiseer-je-het
+- [Wat is een rebranding-evenement?](faq/wat-is-een-rebranding-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-een-rebranding-evenement
+- [Wat is een social wall bij een evenement?](faq/wat-is-een-social-wall-event.md) — canonical: https://live-impact.nl/faq/wat-is-een-social-wall-event
+- [Wat is een verandercommunicatie evenement?](faq/wat-is-een-verandercommunicatie-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-een-verandercommunicatie-evenement
+- [Wat is een employer branding evenement?](faq/wat-is-employer-branding-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-employer-branding-evenement
+- [Wat is een evenement communicatieplan?](faq/wat-is-evenement-communicatieplan.md) — canonical: https://live-impact.nl/faq/wat-is-evenement-communicatieplan
+- [Wat is evenement marketing?](faq/wat-is-evenement-marketing.md) — canonical: https://live-impact.nl/faq/wat-is-evenement-marketing
+- [Wat is een evenement mechanisme precies?](faq/wat-is-evenement-mechanisme.md) — canonical: https://live-impact.nl/faq/wat-is-evenement-mechanisme
+- [Wat is een evenementmechanisme?](faq/wat-is-evenement-mechanisme-5aa8c.md) — canonical: https://live-impact.nl/faq/wat-is-evenement-mechanisme-5aa8c
+- [Wat is eventmanagement uitbesteden?](faq/wat-is-eventmanagement-uitbesteden.md) — canonical: https://live-impact.nl/faq/wat-is-eventmanagement-uitbesteden
+- [Wat is evenementmarketing?](faq/wat-is-eventmarketing.md) — canonical: https://live-impact.nl/faq/wat-is-eventmarketing
+- [Wat is een evenementmarketingstrategie?](faq/wat-is-eventmarketing-strategie.md) — canonical: https://live-impact.nl/faq/wat-is-eventmarketing-strategie
+- [Wat is de FD Gazelle en wat zegt die prijs over een bedrijf?](faq/wat-is-fd-gazelle-bedrijfsprijs.md) — canonical: https://live-impact.nl/faq/wat-is-fd-gazelle-bedrijfsprijs
+- [Wat is gamification op een zakelijk evenement?](faq/wat-is-gamification-zakelijk-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-gamification-zakelijk-evenement
+- [Wat is gamification bij zakelijke evenementen?](faq/wat-is-gamification-zakelijke-evenementen.md) — canonical: https://live-impact.nl/faq/wat-is-gamification-zakelijke-evenementen
+- [Wat is een goed thema voor een kick-off?](faq/wat-is-goed-thema-kick-off.md) — canonical: https://live-impact.nl/faq/wat-is-goed-thema-kick-off
+- [Wat is de grootste fout bij het schrijven van een evenement briefing?](faq/wat-is-grootste-fout-bij-evenement-briefing.md) — canonical: https://live-impact.nl/faq/wat-is-grootste-fout-bij-evenement-briefing
+- [Wat is de grootste valkuil bij een hybride evenement?](faq/wat-is-grootste-valkuil-bij-hybrid-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-grootste-valkuil-bij-hybrid-evenement
+- [Wat is het IDEA keurmerk voor evenementenbureaus?](faq/wat-is-het-idea-keurmerk.md) — canonical: https://live-impact.nl/faq/wat-is-het-idea-keurmerk
+- [Wat is het verschil tussen een bedrijfsborrel en een personeelsfeest?](faq/wat-is-het-verschil-tussen-een-bedrijfsborrel-en-een-personeelsfeest.md) — canonical: https://live-impact.nl/faq/wat-is-het-verschil-tussen-een-bedrijfsborrel-en-een-personeelsfeest
+- [Wat is een hybride congres?](faq/wat-is-hybride-congres.md) — canonical: https://live-impact.nl/faq/wat-is-hybride-congres
+- [Wat is het IDEA-keurmerk voor evenementenbureaus?](faq/wat-is-idea-keurmerk-evenementenbureaus.md) — canonical: https://live-impact.nl/faq/wat-is-idea-keurmerk-evenementenbureaus
+- [Wat is het IDEA-keurmerk precies?](faq/wat-is-idea-keurmerk-precies.md) — canonical: https://live-impact.nl/faq/wat-is-idea-keurmerk-precies
+- [Wat is inbegrepen in de kosten van een evenementenbureau?](faq/wat-is-inbegrepen-kosten-bureau.md) — canonical: https://live-impact.nl/faq/wat-is-inbegrepen-kosten-bureau
+- [Wat is merkactivatie?](faq/wat-is-merkactivatie.md) — canonical: https://live-impact.nl/faq/wat-is-merkactivatie
+- [Wat is merkactivatie?](faq/wat-is-merkactivatie-77ed4.md) — canonical: https://live-impact.nl/faq/wat-is-merkactivatie-77ed4
+- [Wat is merkbeleving via evenementen en waarom is het effectief?](faq/wat-is-merkbeleving-via-evenementen.md) — canonical: https://live-impact.nl/faq/wat-is-merkbeleving-via-evenementen
+- [Wat is een onboarding evenement?](faq/wat-is-onboarding-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-onboarding-evenement
+- [Wat is de reisbureauregeling?](faq/wat-is-reisbureauregeling-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-reisbureauregeling-evenement
+- [Wat is een risico-inventarisatie voor een evenement?](faq/wat-is-risico-inventarisatie-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-risico-inventarisatie-evenement
+- [Wat is een rode draad in een evenement?](faq/wat-is-rode-draad-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-rode-draad-evenement
+- [Wat is een rode draad in een evenement?](faq/wat-is-rode-draad-in-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-rode-draad-in-evenement
+- [Wat is een scheepsdoop precies?](faq/wat-is-scheepsdoop.md) — canonical: https://live-impact.nl/faq/wat-is-scheepsdoop
+- [Wat is een scheepsdoop en wat zijn de vaste elementen?](faq/wat-is-scheepsdoop-elementen.md) — canonical: https://live-impact.nl/faq/wat-is-scheepsdoop-elementen
+- [Wat is een toegankelijk evenement en waarom is het belangrijk?](faq/wat-is-toegankelijk-evenement-belangrijk.md) — canonical: https://live-impact.nl/faq/wat-is-toegankelijk-evenement-belangrijk
+- [Wat is UGC en waarom is het waardevol voor evenementen?](faq/wat-is-ugc-evenementen.md) — canonical: https://live-impact.nl/faq/wat-is-ugc-evenementen
+- [Wat is user generated content (UGC) op evenementen?](faq/wat-is-user-generated-content-ugc-op-evenementen.md) — canonical: https://live-impact.nl/faq/wat-is-user-generated-content-ugc-op-evenementen
+- [Wat is het verschil tussen een bedrijfsfeest en een personeelsfeest?](faq/wat-is-verschil-bedrijfsfeest-en-personeelsfeest.md) — canonical: https://live-impact.nl/faq/wat-is-verschil-bedrijfsfeest-en-personeelsfeest
+- [Wat is het verschil tussen een brand experience en een evenement?](faq/wat-is-verschil-brand-experience-en-evenement.md) — canonical: https://live-impact.nl/faq/wat-is-verschil-brand-experience-en-evenement
+- [Wat is het verschil tussen een incentive reis en een personeelsreis?](faq/wat-is-verschil-incentive-reis-en-personeelsreis.md) — canonical: https://live-impact.nl/faq/wat-is-verschil-incentive-reis-en-personeelsreis
+- [Wat is het verschil tussen een symposium en een congres?](faq/wat-is-verschil-symposium-en-congres.md) — canonical: https://live-impact.nl/faq/wat-is-verschil-symposium-en-congres
+- [Wat is een vitaliteitsevent en wat onderscheidt het van een teamdag?](faq/wat-is-vitaliteitsevent.md) — canonical: https://live-impact.nl/faq/wat-is-vitaliteitsevent
+- [Wat is de werkkostenregeling (WKR)?](faq/wat-is-werkkostenregeling-wkr.md) — canonical: https://live-impact.nl/faq/wat-is-werkkostenregeling-wkr
+- [Wat kost het organiseren van een 10-jarig jubileum bedrijf?](faq/wat-kost-10-jarig-jubileum-bedrijf.md) — canonical: https://live-impact.nl/faq/wat-kost-10-jarig-jubileum-bedrijf
+- [Wat kost een 100-jarig jubileum organiseren?](faq/wat-kost-100-jarig-jubileum-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-100-jarig-jubileum-organiseren
+- [Wat kost het vieren van een 25-jarig jubileum bedrijf?](faq/wat-kost-25-jarig-jubileum-bedrijf.md) — canonical: https://live-impact.nl/faq/wat-kost-25-jarig-jubileum-bedrijf
+- [Wat kost een 50-jarig jubileum organiseren?](faq/wat-kost-50-jarig-jubileum-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-50-jarig-jubileum-organiseren
+- [Wat kost een activatie organiseren?](faq/wat-kost-activatie-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-activatie-organiseren
+- [Wat kost augmented reality op een evenement?](faq/wat-kost-augmented-reality-op-een-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-augmented-reality-op-een-evenement
+- [Wat kost een awards ceremony organiseren?](faq/wat-kost-awards-ceremony.md) — canonical: https://live-impact.nl/faq/wat-kost-awards-ceremony
+- [Wat kost het om een bedrijfsevenement te organiseren?](faq/wat-kost-bedrijfsevenement-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsevenement-organiseren
+- [Wat kost een bedrijfsevenement per persoon?](faq/wat-kost-bedrijfsevenement-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsevenement-per-persoon
+- [Wat kost een bedrijfsfeest organiseren?](faq/wat-kost-bedrijfsfeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsfeest-organiseren
+- [Wat kost een bedrijfsfusie-evenement organiseren?](faq/wat-kost-bedrijfsfusie-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsfusie-evenement
+- [Wat kost het organiseren van een bedrijfsjubileum?](faq/wat-kost-bedrijfsjubileum-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsjubileum-organiseren
+- [Wat kost een bedrijfsopening organiseren?](faq/wat-kost-bedrijfsopening-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsopening-organiseren
+- [Wat kost een bedrijfsreis per persoon?](faq/wat-kost-bedrijfsreis-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsreis-per-persoon
+- [Wat kost een bedrijfsweekend organiseren?](faq/wat-kost-bedrijfsweekend-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsweekend-organiseren
+- [Wat kost een bedrijfsweekend per persoon?](faq/wat-kost-bedrijfsweekend-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-bedrijfsweekend-per-persoon
+- [Wat kost een beursdeelname organiseren?](faq/wat-kost-beursdeelname-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-beursdeelname-organiseren
+- [Wat kost catering bij een zakelijk evenement?](faq/wat-kost-catering-zakelijk-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-catering-zakelijk-evenement
+- [Wat kost de communicatie rondom een evenement?](faq/wat-kost-communicatie-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-communicatie-evenement
+- [Wat kost conceptontwikkeling voor een evenement?](faq/wat-kost-conceptontwikkeling-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-conceptontwikkeling-evenement
+- [Wat kost het om een congres te organiseren?](faq/wat-kost-congres-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-congres-organiseren
+- [Wat kost een cultureel evenement organiseren?](faq/wat-kost-cultureel-evenement-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-cultureel-evenement-organiseren
+- [Wat kost het organiseren van dealerdagen?](faq/wat-kost-dealerdagen-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-dealerdagen-organiseren
+- [Wat kost een bedrijfsborrel organiseren?](faq/wat-kost-een-bedrijfsborrel-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-een-bedrijfsborrel-organiseren
+- [Wat kost een bedrijfsfeest per persoon?](faq/wat-kost-een-bedrijfsfeest-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-een-bedrijfsfeest-per-persoon
+- [Wat kost een bedrijfsfestival organiseren?](faq/wat-kost-een-bedrijfsfestival.md) — canonical: https://live-impact.nl/faq/wat-kost-een-bedrijfsfestival
+- [Wat kost een bedrijfsuitje organiseren?](faq/wat-kost-een-bedrijfsuitje.md) — canonical: https://live-impact.nl/faq/wat-kost-een-bedrijfsuitje
+- [Wat kost een brand experience organiseren?](faq/wat-kost-een-brand-experience-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-een-brand-experience-organiseren
+- [Wat kost een eindejaarsfeest organiseren?](faq/wat-kost-een-eindejaarsfeest.md) — canonical: https://live-impact.nl/faq/wat-kost-een-eindejaarsfeest
+- [Wat kost een evenementenbureau in Amsterdam?](faq/wat-kost-een-evenementenbureau-in-amsterdam.md) — canonical: https://live-impact.nl/faq/wat-kost-een-evenementenbureau-in-amsterdam
+- [Wat kost een evenementenbureau in Den Haag?](faq/wat-kost-een-evenementenbureau-in-den-haag.md) — canonical: https://live-impact.nl/faq/wat-kost-een-evenementenbureau-in-den-haag
+- [Wat kost een evenementenbureau in Eindhoven?](faq/wat-kost-een-evenementenbureau-in-eindhoven.md) — canonical: https://live-impact.nl/faq/wat-kost-een-evenementenbureau-in-eindhoven
+- [Wat kost een evenementenbureau in Rotterdam?](faq/wat-kost-een-evenementenbureau-in-rotterdam.md) — canonical: https://live-impact.nl/faq/wat-kost-een-evenementenbureau-in-rotterdam
+- [Wat kost een evenementenbureau in Utrecht?](faq/wat-kost-een-evenementenbureau-in-utrecht.md) — canonical: https://live-impact.nl/faq/wat-kost-een-evenementenbureau-in-utrecht
+- [Wat kost een eventbureau?](faq/wat-kost-een-eventbureau.md) — canonical: https://live-impact.nl/faq/wat-kost-een-eventbureau
+- [Wat kost een familiedag organiseren?](faq/wat-kost-een-familiedag.md) — canonical: https://live-impact.nl/faq/wat-kost-een-familiedag
+- [Wat kost een gala organiseren?](faq/wat-kost-een-gala-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-een-gala-organiseren
+- [Wat kost een incentive reis per persoon?](faq/wat-kost-een-incentive-reis-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-een-incentive-reis-per-persoon
+- [Wat kost een kleinschalig zakelijk evenement?](faq/wat-kost-een-kleinschalig-zakelijk-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-een-kleinschalig-zakelijk-evenement
+- [Wat kost een merkactivatie bureau?](faq/wat-kost-een-merkactivatie-bureau.md) — canonical: https://live-impact.nl/faq/wat-kost-een-merkactivatie-bureau
+- [Wat kost een personeelsreis organiseren?](faq/wat-kost-een-personeelsreis-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-een-personeelsreis-organiseren
+- [Wat kost een personeelsuitje organiseren?](faq/wat-kost-een-personeelsuitje-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-een-personeelsuitje-organiseren
+- [Wat kost een publieksfeest organiseren?](faq/wat-kost-een-publieksfeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-een-publieksfeest-organiseren
+- [Wat kost een social wall bij een evenement?](faq/wat-kost-een-social-wall-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-een-social-wall-evenement
+- [Wat kost een employer branding evenement?](faq/wat-kost-employer-branding-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-employer-branding-evenement
+- [Wat kost entertainment voor een evenement?](faq/wat-kost-entertainment-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-entertainment-evenement
+- [Wat kost het inhuren van een evenementcoördinator?](faq/wat-kost-evenement-coordinator-inhuren.md) — canonical: https://live-impact.nl/faq/wat-kost-evenement-coordinator-inhuren
+- [Wat kost een evenement op eigen locatie?](faq/wat-kost-evenement-eigen-locatie.md) — canonical: https://live-impact.nl/faq/wat-kost-evenement-eigen-locatie
+- [Wat kost evenement marketing?](faq/wat-kost-evenement-marketing.md) — canonical: https://live-impact.nl/faq/wat-kost-evenement-marketing
+- [Wat kost het vastleggen van een evenement?](faq/wat-kost-evenement-vastleggen.md) — canonical: https://live-impact.nl/faq/wat-kost-evenement-vastleggen
+- [Wat kost een evenementcoördinator voor één dag?](faq/wat-kost-evenementcoordinator-per-dag.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementcoordinator-per-dag
+- [Wat kost een evenementenbureau in Amsterdam?](faq/wat-kost-evenementenbureau-amsterdam.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-amsterdam
+- [Wat kost een evenementenbureau in Brabant?](faq/wat-kost-evenementenbureau-brabant.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-brabant
+- [Wat kost een evenementenbureau in Breda?](faq/wat-kost-evenementenbureau-breda.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-breda
+- [Wat kost een evenementenbureau in ’s-Hertogenbosch?](faq/wat-kost-evenementenbureau-den-bosch.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-den-bosch
+- [Wat kost een evenementenbureau in Eindhoven?](faq/wat-kost-evenementenbureau-eindhoven.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-eindhoven
+- [Wat kost een evenementenbureau in Brabant?](faq/wat-kost-evenementenbureau-in-brabant.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-in-brabant
+- [Wat kost het inhuren van een evenementenbureau?](faq/wat-kost-evenementenbureau-inhuren.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-inhuren
+- [Wat kost het om een evenementenbureau in te huren?](faq/wat-kost-evenementenbureau-inhuren-df11a.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-inhuren-df11a
+- [Wat kost een evenementenbureau in Maastricht?](faq/wat-kost-evenementenbureau-maastricht.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-maastricht
+- [Wat kost een evenementenbureau in 's-Hertogenbosch?](faq/wat-kost-evenementenbureau-s-hertogenbosch.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-s-hertogenbosch
+- [Wat kost een evenementenbureau in Tilburg?](faq/wat-kost-evenementenbureau-tilburg.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-tilburg
+- [Wat kost een evenementenbureau in Utrecht?](faq/wat-kost-evenementenbureau-utrecht.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenbureau-utrecht
+- [Wat kost een evenementenlocatie huren?](faq/wat-kost-evenementenlocatie-huren.md) — canonical: https://live-impact.nl/faq/wat-kost-evenementenlocatie-huren
+- [Wat kost eventmanagement uitbesteden?](faq/wat-kost-eventmanagement-uitbesteden.md) — canonical: https://live-impact.nl/faq/wat-kost-eventmanagement-uitbesteden
+- [Wat kost een familiedag organiseren?](faq/wat-kost-familiedag-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-familiedag-organiseren
+- [Wat kost het om een gala te organiseren?](faq/wat-kost-gala-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-gala-organiseren
+- [Wat kost de hybride component van een evenement?](faq/wat-kost-hybride-component-van-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-hybride-component-van-evenement
+- [Wat kost een hybride evenement organiseren?](faq/wat-kost-hybride-evenement-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-hybride-evenement-organiseren
+- [Wat kost een incentive organiseren?](faq/wat-kost-incentive-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-incentive-organiseren
+- [Wat kost een incentive reis per persoon?](faq/wat-kost-incentive-reis-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-incentive-reis-per-persoon
+- [Wat kost een indoor bedrijfsfestival?](faq/wat-kost-indoor-bedrijfsfestival.md) — canonical: https://live-impact.nl/faq/wat-kost-indoor-bedrijfsfestival
+- [Wat kost een influencer evenement organiseren?](faq/wat-kost-influencer-evenement-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-influencer-evenement-organiseren
+- [Wat kost een 100-jarig jubileum organiseren?](faq/wat-kost-jubileum-100-jaar.md) — canonical: https://live-impact.nl/faq/wat-kost-jubileum-100-jaar
+- [Wat kost een 25-jarig jubileum organiseren?](faq/wat-kost-jubileum-25-jaar.md) — canonical: https://live-impact.nl/faq/wat-kost-jubileum-25-jaar
+- [Wat kost een 50-jarig jubileum?](faq/wat-kost-jubileum-50-jaar.md) — canonical: https://live-impact.nl/faq/wat-kost-jubileum-50-jaar
+- [Wat kost een jubileumfeest voor 10 jaar?](faq/wat-kost-jubileumfeest-10-jaar.md) — canonical: https://live-impact.nl/faq/wat-kost-jubileumfeest-10-jaar
+- [Wat kost het organiseren van een jubileumfeest?](faq/wat-kost-jubileumfeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-jubileumfeest-organiseren
+- [Wat kost een jubileumjaar organiseren?](faq/wat-kost-jubileumjaar-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-jubileumjaar-organiseren
+- [Wat kost een jubileumreis per persoon?](faq/wat-kost-jubileumreis-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-jubileumreis-per-persoon
+- [Wat kost een kennisevent organiseren?](faq/wat-kost-kennisevent-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-kennisevent-organiseren
+- [Wat kost een kerstfeest organiseren voor je bedrijf?](faq/wat-kost-kerstfeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-kerstfeest-organiseren
+- [Wat kost het organiseren van een kick-off?](faq/wat-kost-kick-off-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-kick-off-organiseren
+- [Wat kost een klantendag organiseren?](faq/wat-kost-klantendag-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-klantendag-organiseren
+- [Wat kost een klantendag organiseren?](faq/wat-kost-klantendag-organiseren-06472.md) — canonical: https://live-impact.nl/faq/wat-kost-klantendag-organiseren-06472
+- [Wat kost een merkactivatie organiseren?](faq/wat-kost-merkactivatie-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-merkactivatie-organiseren
+- [Wat kost een nieuwjaarsborrel organiseren?](faq/wat-kost-nieuwjaarsborrel-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-nieuwjaarsborrel-organiseren
+- [Wat kost een onboarding evenement organiseren?](faq/wat-kost-onboarding-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-onboarding-evenement
+- [Wat kost een online evenement organiseren?](faq/wat-kost-online-evenement-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-online-evenement-organiseren
+- [Wat kost het om een open dag te organiseren?](faq/wat-kost-open-dag-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-open-dag-organiseren
+- [Wat kost een openingsfeest voor een bedrijf?](faq/wat-kost-openingsfeest-bedrijf.md) — canonical: https://live-impact.nl/faq/wat-kost-openingsfeest-bedrijf
+- [Wat kost een openingsfeest organiseren?](faq/wat-kost-openingsfeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-openingsfeest-organiseren
+- [Wat kost een outdoor bedrijfsfestival?](faq/wat-kost-outdoor-bedrijfsfestival.md) — canonical: https://live-impact.nl/faq/wat-kost-outdoor-bedrijfsfestival
+- [Wat kost een personeelsfeest per persoon?](faq/wat-kost-personeelsfeest-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-personeelsfeest-per-persoon
+- [Wat kost een personeelsreis organiseren?](faq/wat-kost-personeelsreis-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-personeelsreis-organiseren
+- [Wat kost een productlancering organiseren?](faq/wat-kost-productlancering.md) — canonical: https://live-impact.nl/faq/wat-kost-productlancering
+- [Wat kost het organiseren van een relatie-evenement?](faq/wat-kost-relatie-evenement-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-relatie-evenement-organiseren
+- [Wat kost een seminar organiseren?](faq/wat-kost-seminar-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-seminar-organiseren
+- [Wat kost een spreker boeken voor een evenement?](faq/wat-kost-spreker-boeken-evenement.md) — canonical: https://live-impact.nl/faq/wat-kost-spreker-boeken-evenement
+- [Wat kost een studiereis per persoon?](faq/wat-kost-studiereis-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-studiereis-per-persoon
+- [Wat kost een symposium organiseren?](faq/wat-kost-symposium-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-symposium-organiseren
+- [Wat kost teambuilding organiseren?](faq/wat-kost-teambuilding-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-teambuilding-organiseren
+- [Wat kost een teamdag organiseren?](faq/wat-kost-teamdag-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-teamdag-organiseren
+- [Wat kost een themafeest voor een bedrijf?](faq/wat-kost-themafeest-bedrijf.md) — canonical: https://live-impact.nl/faq/wat-kost-themafeest-bedrijf
+- [Wat kost een themafeest organiseren?](faq/wat-kost-themafeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-themafeest-organiseren
+- [Wat kost een vitaliteitsevent organiseren?](faq/wat-kost-vitaliteitsevent-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-vitaliteitsevent-organiseren
+- [Wat kost een wervingsevent organiseren?](faq/wat-kost-wervingsevent-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-wervingsevent-organiseren
+- [Wat kost een winterfestival?](faq/wat-kost-winterfestival.md) — canonical: https://live-impact.nl/faq/wat-kost-winterfestival
+- [Wat kost een workshop organiseren voor collega's?](faq/wat-kost-workshop-organiseren-collegas.md) — canonical: https://live-impact.nl/faq/wat-kost-workshop-organiseren-collegas
+- [Wat kost een zakelijk zomerfeest in Nederland?](faq/wat-kost-zakelijk-zomerfeest.md) — canonical: https://live-impact.nl/faq/wat-kost-zakelijk-zomerfeest
+- [Wat kost een zakelijke borrel per persoon?](faq/wat-kost-zakelijke-borrel-per-persoon.md) — canonical: https://live-impact.nl/faq/wat-kost-zakelijke-borrel-per-persoon
+- [Wat kost een zakelijke nieuwjaarsborrel?](faq/wat-kost-zakelijke-nieuwjaarsborrel.md) — canonical: https://live-impact.nl/faq/wat-kost-zakelijke-nieuwjaarsborrel
+- [Wat kost een zomerfeest organiseren?](faq/wat-kost-zomerfeest-organiseren.md) — canonical: https://live-impact.nl/faq/wat-kost-zomerfeest-organiseren
+- [Wat kosten teambuildingactiviteiten?](faq/wat-kosten-teambuilding-activiteiten.md) — canonical: https://live-impact.nl/faq/wat-kosten-teambuilding-activiteiten
+- [Wat maakt een bedrijfsevenement succesvol?](faq/wat-maakt-bedrijfsevenement-succesvol.md) — canonical: https://live-impact.nl/faq/wat-maakt-bedrijfsevenement-succesvol
+- [Wat maakt duurzame evenementenorganisatie anders dan gewone evenementen?](faq/wat-maakt-duurzame-evenementenorganisatie-anders.md) — canonical: https://live-impact.nl/faq/wat-maakt-duurzame-evenementenorganisatie-anders
+- [Wat maakt een gala onvergetelijk?](faq/wat-maakt-gala-onvergetelijk.md) — canonical: https://live-impact.nl/faq/wat-maakt-gala-onvergetelijk
+- [Wat maakt een goed evenement-logo?](faq/wat-maakt-goed-evenement-logo.md) — canonical: https://live-impact.nl/faq/wat-maakt-goed-evenement-logo
+- [Wat maakt een goed eventbureau anders?](faq/wat-maakt-goed-eventbureau-anders.md) — canonical: https://live-impact.nl/faq/wat-maakt-goed-eventbureau-anders
+- [Wat maakt een interne kick-off succesvol?](faq/wat-maakt-interne-kick-off-succesvol.md) — canonical: https://live-impact.nl/faq/wat-maakt-interne-kick-off-succesvol
+- [Wat maakt Maastricht anders dan andere evenementensteden?](faq/wat-maakt-maastricht-anders-evenementen.md) — canonical: https://live-impact.nl/faq/wat-maakt-maastricht-anders-evenementen
+- [Wat moet er in een briefing voor een evenement staan?](faq/wat-moet-er-in-briefing-voor-evenement-staan.md) — canonical: https://live-impact.nl/faq/wat-moet-er-in-briefing-voor-evenement-staan
+- [Wat moet er in een evenementcommunicatieplan staan?](faq/wat-moet-er-in-een-evenement-communicatieplan-staan.md) — canonical: https://live-impact.nl/faq/wat-moet-er-in-een-evenement-communicatieplan-staan
+- [Wat moet er in een evenementbriefing staan?](faq/wat-moet-in-evenementbriefing-staan.md) — canonical: https://live-impact.nl/faq/wat-moet-in-evenementbriefing-staan
+- [Wat omvat professionele evenementenorganisatie?](faq/wat-omvat-professionele-evenementenorganisatie.md) — canonical: https://live-impact.nl/faq/wat-omvat-professionele-evenementenorganisatie
+- [Wat regelt een evenementenbureau voor je bij een zakelijk evenement?](faq/wat-regelt-evenementenbureau-zakelijk-evenement.md) — canonical: https://live-impact.nl/faq/wat-regelt-evenementenbureau-zakelijk-evenement
+- [Wat typeert jullie?](faq/wat-typeert-jullie.md) — canonical: https://live-impact.nl/faq/wat-typeert-jullie
+- [Wat voor evenementen kun je organiseren in Breda?](faq/wat-voor-evenementen-organiseren-breda.md) — canonical: https://live-impact.nl/faq/wat-voor-evenementen-organiseren-breda
+- [Wat voor evenementen kun je organiseren in 's-Hertogenbosch?](faq/wat-voor-evenementen-organiseren-s-hertogenbosch.md) — canonical: https://live-impact.nl/faq/wat-voor-evenementen-organiseren-s-hertogenbosch
+- [Wat voor evenementen kun je organiseren in Tilburg?](faq/wat-voor-evenementen-organiseren-tilburg.md) — canonical: https://live-impact.nl/faq/wat-voor-evenementen-organiseren-tilburg
+- [Wat zeggen klanten over Live Impact als personeelsfeest organisator?](faq/wat-zeggen-klanten-live-impact-personeelsfeest.md) — canonical: https://live-impact.nl/faq/wat-zeggen-klanten-live-impact-personeelsfeest
+- [Wat blijft er bij ons als we het personeelsfeest uitbesteden?](faq/wat-zelf-doen-bij-uitbesteed-personeelsfeest.md) — canonical: https://live-impact.nl/faq/wat-zelf-doen-bij-uitbesteed-personeelsfeest
+- [Wat zijn de beste evenementenlocaties in de regio Amsterdam?](faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-amsterdam.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-amsterdam
+- [Wat zijn de beste evenementenlocaties in de regio Den Haag?](faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-den-haag.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-den-haag
+- [Wat zijn de beste evenementenlocaties in de regio Eindhoven?](faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-eindhoven.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-eindhoven
+- [Wat zijn de beste evenementenlocaties in de regio Rotterdam?](faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-rotterdam.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-rotterdam
+- [Wat zijn de beste evenementenlocaties in de regio Utrecht?](faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-utrecht.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-beste-evenementenlocaties-in-de-regio-utrecht
+- [Wat zijn de gemiddelde kosten van een nieuwjaarsreceptie?](faq/wat-zijn-de-kosten-van-een-nieuwjaarsreceptie.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-kosten-van-een-nieuwjaarsreceptie
+- [Wat zijn de nieuwste technologieën voor evenementen in 2025?](faq/wat-zijn-de-nieuwste-technologieen-voor-evenementen.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-nieuwste-technologieen-voor-evenementen
+- [Wat zijn de veiligheidsregels voor een evenement op een bouwplaats?](faq/wat-zijn-de-veiligheidsregels-voor-een-evenement-op-een-bouwplaats.md) — canonical: https://live-impact.nl/faq/wat-zijn-de-veiligheidsregels-voor-een-evenement-op-een-bouwplaats
+- [Wat zijn goede energizers voor een congres?](faq/wat-zijn-goede-energizers-voor-een-congres.md) — canonical: https://live-impact.nl/faq/wat-zijn-goede-energizers-voor-een-congres
+- [Wat zijn veelgemaakte fouten bij klantevenementen?](faq/wat-zijn-veelgemaakte-fouten-bij-klantevenementen.md) — canonical: https://live-impact.nl/faq/wat-zijn-veelgemaakte-fouten-bij-klantevenementen
+- [Aan welke WCAG-eisen moet mijn evenement-website en app voldoen?](faq/wcag-eisen-evenement-website-app.md) — canonical: https://live-impact.nl/faq/wcag-eisen-evenement-website-app
+- [Welk entertainment past bij een gala?](faq/welk-entertainment-past-bij-gala.md) — canonical: https://live-impact.nl/faq/welk-entertainment-past-bij-gala
+- [Welk type evenement past bij mijn marketingdoel?](faq/welk-evenement-past-bij-marketingdoel.md) — canonical: https://live-impact.nl/faq/welk-evenement-past-bij-marketingdoel
+- [Welk evenementenbureau kan helpen bij merkactivatie?](faq/welk-evenementenbureau-merkactivatie.md) — canonical: https://live-impact.nl/faq/welk-evenementenbureau-merkactivatie
+- [Welk social media platform werkt het beste voor evenement-UGC?](faq/welk-social-media-platform-werkt-het-beste-voor-evenement-ugc.md) — canonical: https://live-impact.nl/faq/welk-social-media-platform-werkt-het-beste-voor-evenement-ugc
+- [Welk thema past bij welk type bedrijf?](faq/welk-thema-past-bij-welk-bedrijf.md) — canonical: https://live-impact.nl/faq/welk-thema-past-bij-welk-bedrijf
+- [Welk type bedrijfsfeest past bij ons?](faq/welk-type-bedrijfsfeest-past-bij-ons.md) — canonical: https://live-impact.nl/faq/welk-type-bedrijfsfeest-past-bij-ons
+- [Welk type evenement leent zich voor hybrid?](faq/welk-type-evenement-leent-zich-voor-hybrid.md) — canonical: https://live-impact.nl/faq/welk-type-evenement-leent-zich-voor-hybrid
+- [Welke B2B evenementen genereren de meeste leads?](faq/welke-b2b-evenementen-genereren-meeste-leads.md) — canonical: https://live-impact.nl/faq/welke-b2b-evenementen-genereren-meeste-leads
+- [Welke bestemming past bij een bedrijfsreis?](faq/welke-bestemming-bedrijfsreis.md) — canonical: https://live-impact.nl/faq/welke-bestemming-bedrijfsreis
+- [Welke bestemmingen zijn geschikt voor een incentive reis?](faq/welke-bestemmingen-zijn-geschikt-voor-een-incentive-reis.md) — canonical: https://live-impact.nl/faq/welke-bestemmingen-zijn-geschikt-voor-een-incentive-reis
+- [Welke bestemmingen zijn populair voor een personeelsreis?](faq/welke-bestemmingen-zijn-populair-voor-een-personeelsreis.md) — canonical: https://live-impact.nl/faq/welke-bestemmingen-zijn-populair-voor-een-personeelsreis
+- [Welke bureaus in Nederland hebben het IDEA-keurmerk?](faq/welke-bureaus-hebben-idea-keurmerk.md) — canonical: https://live-impact.nl/faq/welke-bureaus-hebben-idea-keurmerk
+- [Welke diensten biedt Live Impact in Utrecht?](faq/welke-diensten-live-impact-utrecht.md) — canonical: https://live-impact.nl/faq/welke-diensten-live-impact-utrecht
+- [Welke dresscode hoort bij een gala?](faq/welke-dresscode-gala.md) — canonical: https://live-impact.nl/faq/welke-dresscode-gala
+- [Welke dresscode hoort bij een gala?](faq/welke-dresscode-hoort-bij-een-gala.md) — canonical: https://live-impact.nl/faq/welke-dresscode-hoort-bij-een-gala
+- [Welke energizers werken voor kleine groepen?](faq/welke-energizers-werken-voor-kleine-groepen.md) — canonical: https://live-impact.nl/faq/welke-energizers-werken-voor-kleine-groepen
+- [Welke evenementen organiseert een bureau in 's-Hertogenbosch?](faq/welke-evenementen-evenementenbureau-s-hertogenbosch.md) — canonical: https://live-impact.nl/faq/welke-evenementen-evenementenbureau-s-hertogenbosch
+- [Welke evenementen organiseert een bureau in Twente?](faq/welke-evenementen-evenementenbureau-twente.md) — canonical: https://live-impact.nl/faq/welke-evenementen-evenementenbureau-twente
+- [Welke soorten evenementen organiseert Live Impact in Brabant?](faq/welke-evenementen-live-impact-brabant.md) — canonical: https://live-impact.nl/faq/welke-evenementen-live-impact-brabant
+- [Welke evenementen organiseer je voor je beste klanten?](faq/welke-evenementen-organiseer-je-voor-je-beste-klanten.md) — canonical: https://live-impact.nl/faq/welke-evenementen-organiseer-je-voor-je-beste-klanten
+- [Welke evenementen kun je organiseren in Amsterdam?](faq/welke-evenementen-organiseren-amsterdam.md) — canonical: https://live-impact.nl/faq/welke-evenementen-organiseren-amsterdam
+- [Welke evenementen kun je organiseren in Breda?](faq/welke-evenementen-organiseren-breda.md) — canonical: https://live-impact.nl/faq/welke-evenementen-organiseren-breda
+- [Welke evenementen kun je organiseren in Utrecht?](faq/welke-evenementen-organiseren-utrecht.md) — canonical: https://live-impact.nl/faq/welke-evenementen-organiseren-utrecht
+- [Welke evenementen kun je uitbesteden aan een eventbureau?](faq/welke-evenementen-uitbesteden-eventbureau.md) — canonical: https://live-impact.nl/faq/welke-evenementen-uitbesteden-eventbureau
+- [Welke evenementenlocaties zijn er in Breda?](faq/welke-evenementenlocaties-breda.md) — canonical: https://live-impact.nl/faq/welke-evenementenlocaties-breda
+- [Welke evenementenlocaties zijn er in 's-Hertogenbosch?](faq/welke-evenementenlocaties-s-hertogenbosch.md) — canonical: https://live-impact.nl/faq/welke-evenementenlocaties-s-hertogenbosch
+- [Welke evenementenlocaties zijn er in Tilburg?](faq/welke-evenementenlocaties-tilburg.md) — canonical: https://live-impact.nl/faq/welke-evenementenlocaties-tilburg
+- [Welke formats passen bij een rebranding-evenement?](faq/welke-formats-passen-bij-rebranding-evenement.md) — canonical: https://live-impact.nl/faq/welke-formats-passen-bij-rebranding-evenement
+- [Welke formats passen bij een rebranding event?](faq/welke-formats-passen-bij-rebranding-event.md) — canonical: https://live-impact.nl/faq/welke-formats-passen-bij-rebranding-event
+- [Welke formats werken bij verandercommunicatie?](faq/welke-formats-werken-bij-verandercommunicatie.md) — canonical: https://live-impact.nl/faq/welke-formats-werken-bij-verandercommunicatie
+- [Welke kanalen werken het beste voor evenementcommunicatie?](faq/welke-kanalen-werken-het-beste-voor-evenement-communicatie.md) — canonical: https://live-impact.nl/faq/welke-kanalen-werken-het-beste-voor-evenement-communicatie
+- [Welke locatie past bij een corporate evenement?](faq/welke-locatie-corporate-evenement.md) — canonical: https://live-impact.nl/faq/welke-locatie-corporate-evenement
+- [Welke locatie past bij een familiedag?](faq/welke-locatie-familiedag.md) — canonical: https://live-impact.nl/faq/welke-locatie-familiedag
+- [Welke locatie is geschikt voor een congres?](faq/welke-locatie-geschikt-congres.md) — canonical: https://live-impact.nl/faq/welke-locatie-geschikt-congres
+- [Welke locatie is geschikt voor een gala?](faq/welke-locatie-geschikt-gala.md) — canonical: https://live-impact.nl/faq/welke-locatie-geschikt-gala
+- [Welke locatie past bij een klein evenement?](faq/welke-locatie-past-bij-een-klein-evenement.md) — canonical: https://live-impact.nl/faq/welke-locatie-past-bij-een-klein-evenement
+- [Welke locatie past bij een loyaliteitsevenement?](faq/welke-locatie-past-bij-loyaliteitsevenement.md) — canonical: https://live-impact.nl/faq/welke-locatie-past-bij-loyaliteitsevenement
+- [Welke locaties zijn geschikt voor een bedrijfsevenement in Amsterdam?](faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-amsterdam.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-amsterdam
+- [Welke locaties zijn geschikt voor een bedrijfsevenement in Den Haag?](faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-den-haag.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-den-haag
+- [Welke locaties zijn geschikt voor een bedrijfsevenement in Eindhoven?](faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-eindhoven.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-eindhoven
+- [Welke locaties zijn geschikt voor een bedrijfsevenement in Rotterdam?](faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-rotterdam.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-rotterdam
+- [Welke locaties zijn geschikt voor een bedrijfsevenement in Utrecht?](faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-utrecht.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-een-bedrijfsevenement-in-utrecht
+- [Welke locaties zijn geschikt voor een gala?](faq/welke-locaties-zijn-geschikt-voor-een-gala.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-een-gala
+- [Welke locaties zijn geschikt voor evenementen in Den Haag?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-den-haag.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-den-haag
+- [Welke locaties zijn geschikt voor evenementen in Deventer?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-deventer.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-deventer
+- [Welke locaties zijn geschikt voor evenementen in Dordrecht?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-dordrecht.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-dordrecht
+- [Welke locaties zijn geschikt voor evenementen in Ede?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-ede.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-ede
+- [Welke locaties zijn geschikt voor evenementen in Eindhoven?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-eindhoven.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-eindhoven
+- [Welke locaties zijn geschikt voor evenementen in Emmen?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-emmen.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-emmen
+- [Welke locaties zijn geschikt voor evenementen in Enschede?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-enschede.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-enschede
+- [Welke locaties zijn geschikt voor evenementen in Haarlem?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-haarlem.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-haarlem
+- [Welke locaties zijn geschikt voor evenementen in Haarlemmermeer?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-haarlemmermeer.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-haarlemmermeer
+- [Welke locaties zijn geschikt voor evenementen in Helmond?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-helmond.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-helmond
+- [Welke locaties zijn geschikt voor evenementen in Hilversum?](faq/welke-locaties-zijn-geschikt-voor-evenementen-in-hilversum.md) — canonical: https://live-impact.nl/faq/welke-locaties-zijn-geschikt-voor-evenementen-in-hilversum
+- [Welke mijlpalen zijn het waard om te vieren?](faq/welke-mijlpalen-vieren.md) — canonical: https://live-impact.nl/faq/welke-mijlpalen-vieren
+- [Welke programmaformats werken voor kleine groepen?](faq/welke-programmaformats-werken-voor-kleine-groepen.md) — canonical: https://live-impact.nl/faq/welke-programmaformats-werken-voor-kleine-groepen
+- [Welke soorten interne evenementen bestaan er?](faq/welke-soorten-interne-evenementen-bestaan-er.md) — canonical: https://live-impact.nl/faq/welke-soorten-interne-evenementen-bestaan-er
+- [Welke soorten zakelijke evenementen zijn er?](faq/welke-soorten-zakelijke-evenementen.md) — canonical: https://live-impact.nl/faq/welke-soorten-zakelijke-evenementen
+- [Welke techniek heb je nodig voor een hybrid evenement?](faq/welke-techniek-nodig-voor-hybrid-evenement.md) — canonical: https://live-impact.nl/faq/welke-techniek-nodig-voor-hybrid-evenement
+- [Welke vergunningen heb ik nodig voor een evenement in Den Haag?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-den-haag.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-den-haag
+- [Welke vergunningen heb ik nodig voor een evenement in Deventer?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-deventer.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-deventer
+- [Welke vergunningen heb ik nodig voor een evenement in Dordrecht?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-dordrecht.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-dordrecht
+- [Welke vergunningen heb ik nodig voor een evenement in Ede?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-ede.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-ede
+- [Welke vergunningen heb ik nodig voor een evenement in Eindhoven?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-eindhoven.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-eindhoven
+- [Welke vergunningen heb ik nodig voor een evenement in Emmen?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-emmen.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-emmen
+- [Welke vergunningen heb ik nodig voor een evenement in Enschede?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-enschede.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-enschede
+- [Welke vergunningen heb ik nodig voor een evenement in Haarlem?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-haarlem.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-haarlem
+- [Welke vergunningen heb ik nodig voor een evenement in Haarlemmermeer?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-haarlemmermeer.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-haarlemmermeer
+- [Welke vergunningen heb ik nodig voor een evenement in Helmond?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-helmond.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-helmond
+- [Welke vergunningen heb ik nodig voor een evenement in Hilversum?](faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-hilversum.md) — canonical: https://live-impact.nl/faq/welke-vergunningen-heb-ik-nodig-voor-een-evenement-in-hilversum
+- [Welke vormen van merkactivatie zijn er?](faq/welke-vormen-merkactivatie-zijn-er.md) — canonical: https://live-impact.nl/faq/welke-vormen-merkactivatie-zijn-er
+- [Hoe beschrijf je jouw wensen voor een feest op maat?](faq/wensen-beschrijven-feest-op-maat.md) — canonical: https://live-impact.nl/faq/wensen-beschrijven-feest-op-maat
+- [Wat is de werkkostenregeling voor een personeelsfeest?](faq/werkkostenregeling-personeelsfeest.md) — canonical: https://live-impact.nl/faq/werkkostenregeling-personeelsfeest
+- [Wat is de werkkostenregeling (WKR) bij een bedrijfsjubileum?](faq/werkkostenregeling-wkr-bedrijfsjubileum.md) — canonical: https://live-impact.nl/faq/werkkostenregeling-wkr-bedrijfsjubileum
+- [Hoe maak je een wervingsevent aantrekkelijk voor het juiste talent?](faq/wervingsevent-aantrekkelijk-juist-talent.md) — canonical: https://live-impact.nl/faq/wervingsevent-aantrekkelijk-juist-talent
+- [Waarom werkt een wervingsevent beter dan een vacature?](faq/wervingsevent-vs-vacature.md) — canonical: https://live-impact.nl/faq/wervingsevent-vs-vacature
+- [Welke toegankelijkheidseisen gelden wettelijk bij evenementen?](faq/wettelijke-toegankelijkheidseisen-evenement.md) — canonical: https://live-impact.nl/faq/wettelijke-toegankelijkheidseisen-evenement
+- [Wie is Joep?](faq/wie-is-joep.md) — canonical: https://live-impact.nl/faq/wie-is-joep
+- [Wie moet er bij een project kick-off aanwezig zijn?](faq/wie-moet-bij-project-kick-off-aanwezig-zijn.md) — canonical: https://live-impact.nl/faq/wie-moet-bij-project-kick-off-aanwezig-zijn
+- [Wie nodig je uit voor een productlancering?](faq/wie-uitnodigen-productlancering.md) — canonical: https://live-impact.nl/faq/wie-uitnodigen-productlancering
+- [Hoe regel je wifi en internet op een evenement?](faq/wifi-internet-op-evenement.md) — canonical: https://live-impact.nl/faq/wifi-internet-op-evenement
+- [Welke winterthema's zijn populair voor een eindejaarsfeest?](faq/winterthemas-eindejaarsfeest.md) — canonical: https://live-impact.nl/faq/winterthemas-eindejaarsfeest
+- [Moet ik de WKR bespreken met mijn evenementenbureau?](faq/wkr-bespreken-evenementenbureau.md) — canonical: https://live-impact.nl/faq/wkr-bespreken-evenementenbureau
+- [Verandert de WKR in 2026 of 2027?](faq/wkr-veranderingen-2026-2027.md) — canonical: https://live-impact.nl/faq/wkr-veranderingen-2026-2027
+- [Wat mag je WKR-vrij vergoeden bij een personeelsfeest?](faq/wkr-vrij-vergoeden-personeelsfeest.md) — canonical: https://live-impact.nl/faq/wkr-vrij-vergoeden-personeelsfeest
+- [Geldt de WKR-vrijstelling ook voor relatie-evenementen?](faq/wkr-vrijstelling-relatie-evenementen.md) — canonical: https://live-impact.nl/faq/wkr-vrijstelling-relatie-evenementen
+- [Hoe maak je een zakelijk evenement duurzamer?](faq/zakelijk-evenement-duurzamer-maken.md) — canonical: https://live-impact.nl/faq/zakelijk-evenement-duurzamer-maken
+- [Hoe maak je een zakelijk evenement duurzamer?](faq/zakelijk-evenement-duurzamer-maken-aae05.md) — canonical: https://live-impact.nl/faq/zakelijk-evenement-duurzamer-maken-aae05
+- [Hoe evalueer ik een zakelijk evenement goed?](faq/zakelijk-evenement-evalueren.md) — canonical: https://live-impact.nl/faq/zakelijk-evenement-evalueren
+- [Hoe evalueer je een zakelijk evenement goed?](faq/zakelijk-evenement-evalueren-e018e.md) — canonical: https://live-impact.nl/faq/zakelijk-evenement-evalueren-e018e
+- [Kan ik de kosten van een zakelijk evenement fiscaal aftrekken?](faq/zakelijk-evenement-fiscaal-aftrekken.md) — canonical: https://live-impact.nl/faq/zakelijk-evenement-fiscaal-aftrekken
+- [Hoe maak je een zakelijk evenement inclusiever?](faq/zakelijk-evenement-inclusiever-maken.md) — canonical: https://live-impact.nl/faq/zakelijk-evenement-inclusiever-maken
+- [Kan ik mijn zakelijk evenement livestreamen en wat heb ik daarvoor nodig?](faq/zakelijk-evenement-livestreamen-wat-nodig.md) — canonical: https://live-impact.nl/faq/zakelijk-evenement-livestreamen-wat-nodig
+- [Wat zijn de zakelijke doelstellingen die je via een evenement kunt bereiken?](faq/zakelijke-doelstellingen-evenement.md) — canonical: https://live-impact.nl/faq/zakelijke-doelstellingen-evenement
+- [Welke zakelijke evenementen worden er in Alkmaar georganiseerd?](faq/zakelijke-evenementen-alkmaar.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-alkmaar
+- [Welke zakelijke evenementen worden er in Almere georganiseerd?](faq/zakelijke-evenementen-almere.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-almere
+- [Welke zakelijke evenementen worden er in Alphen aan den Rijn georganiseerd?](faq/zakelijke-evenementen-alphen-aan-den-rijn.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-alphen-aan-den-rijn
+- [Welke zakelijke evenementen vinden er in Amersfoort plaats?](faq/zakelijke-evenementen-amersfoort.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-amersfoort
+- [Welke zakelijke evenementen worden er in Amersfoort georganiseerd?](faq/zakelijke-evenementen-amersfoort-4c874.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-amersfoort-4c874
+- [Welke zakelijke evenementen worden er in Amsterdam georganiseerd?](faq/zakelijke-evenementen-amsterdam.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-amsterdam
+- [Welke zakelijke evenementen worden er in Apeldoorn georganiseerd?](faq/zakelijke-evenementen-apeldoorn.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-apeldoorn
+- [Welke zakelijke evenementen worden er in Apeldoorn georganiseerd?](faq/zakelijke-evenementen-apeldoorn-faac9.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-apeldoorn-faac9
+- [Welke zakelijke evenementen worden er in Arnhem georganiseerd?](faq/zakelijke-evenementen-arnhem.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-arnhem
+- [Welke zakelijke evenementen worden er in Breda georganiseerd?](faq/zakelijke-evenementen-breda.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-breda
+- [Welke zakelijke evenementen worden er in Delft georganiseerd?](faq/zakelijke-evenementen-delft.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-delft
+- [Welke zakelijke evenementen worden er in Den Bosch georganiseerd?](faq/zakelijke-evenementen-den-bosch.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-den-bosch
+- [Welke zakelijke evenementen worden er in Deventer georganiseerd?](faq/zakelijke-evenementen-deventer.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-deventer
+- [Welke zakelijke evenementen worden er in Dordrecht georganiseerd?](faq/zakelijke-evenementen-dordrecht.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-dordrecht
+- [Welke zakelijke evenementen worden er in Eindhoven georganiseerd?](faq/zakelijke-evenementen-eindhoven.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-eindhoven
+- [Welke zakelijke evenementen vinden er in Leiden plaats?](faq/zakelijke-evenementen-leiden.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-leiden
+- [Welke zakelijke evenementen vinden er plaats in Maastricht?](faq/zakelijke-evenementen-maastricht.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-maastricht
+- [Welke zakelijke evenementen worden er in Nijmegen georganiseerd?](faq/zakelijke-evenementen-nijmegen.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-nijmegen
+- [Welke zakelijke evenementen worden er in Oss georganiseerd?](faq/zakelijke-evenementen-oss.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-oss
+- [Welke zakelijke evenementen worden er in Rotterdam georganiseerd?](faq/zakelijke-evenementen-rotterdam.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-rotterdam
+- [Welke zakelijke evenementen worden er in Sittard-Geleen georganiseerd?](faq/zakelijke-evenementen-sittard-geleen.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-sittard-geleen
+- [Welke zakelijke evenementen worden er in Tilburg georganiseerd?](faq/zakelijke-evenementen-tilburg.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-tilburg
+- [Welke zakelijke evenementen worden er in Utrecht georganiseerd?](faq/zakelijke-evenementen-utrecht.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-utrecht
+- [Welke zakelijke evenementen worden er in Venlo georganiseerd?](faq/zakelijke-evenementen-venlo.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-venlo
+- [Welke zakelijke evenementen worden er in Westland georganiseerd?](faq/zakelijke-evenementen-westland.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-westland
+- [Welke zakelijke evenementen worden er in Zaanstad georganiseerd?](faq/zakelijke-evenementen-zaanstad.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-zaanstad
+- [Welke zakelijke evenementen worden er in Zoetermeer georganiseerd?](faq/zakelijke-evenementen-zoetermeer.md) — canonical: https://live-impact.nl/faq/zakelijke-evenementen-zoetermeer
+- [Kan ik zelf een zakelijk evenement plannen zonder bureau?](faq/zelf-zakelijk-evenement-plannen-zonder-bureau.md) — canonical: https://live-impact.nl/faq/zelf-zakelijk-evenement-plannen-zonder-bureau
+- [Zijn energizers ook geschikt voor formele evenementen?](faq/zijn-energizers-ook-geschikt-voor-formele-evenementen.md) — canonical: https://live-impact.nl/faq/zijn-energizers-ook-geschikt-voor-formele-evenementen
+- [Zijn jullie de grootste?](faq/zijn-jullie-de-grootste.md) — canonical: https://live-impact.nl/faq/zijn-jullie-de-grootste
+- [Zoeken jullie nog mensen?](faq/zoeken-jullie-nog-mensen.md) — canonical: https://live-impact.nl/faq/zoeken-jullie-nog-mensen
+- [Hoe maak je een bedrijfsborrel in de zomer onvergetelijk?](faq/zomerborrel-bedrijf-onvergetelijk.md) — canonical: https://live-impact.nl/faq/zomerborrel-bedrijf-onvergetelijk
+- [Hoe maak je een zomerfeest meer dan een BBQ?](faq/zomerfeest-meer-dan-bbq.md) — canonical: https://live-impact.nl/faq/zomerfeest-meer-dan-bbq
+- [Waarom is Zwolle het logistieke knooppunt voor evenementen in Oost-Nederland?](faq/zwolle-knooppunt-oost-nederland.md) — canonical: https://live-impact.nl/faq/zwolle-knooppunt-oost-nederland
 
 ## Blog
 
@@ -2510,4 +2864,56 @@
 - [De zomerborrel: klein evenement, groot effect](blog/zomerborrel-organiseren.md) — canonical: https://live-impact.nl/blog/zomerborrel-organiseren
 - [Wat is een zomerfeest en waarom werkt het halfweg het jaar?](blog/zomerfeest-organiseren.md) — canonical: https://live-impact.nl/blog/zomerfeest-organiseren
 - [De zorgsector is anders, en dat vraagt om andere evenementen](blog/zorg-evenement-organiseren.md) — canonical: https://live-impact.nl/blog/zorg-evenement-organiseren
+
+## Portfolio
+
+- [Piepers uit, dansschoenen aan!](portfolio/25-jaar-amphia.md) — canonical: https://live-impact.nl/portfolio/25-jaar-amphia
+- [Jarig op eenzame hoogte](portfolio/25-jaar-hvbm.md) — canonical: https://live-impact.nl/portfolio/25-jaar-hvbm
+- [Brug omhoog, monden open](portfolio/activatie-mega-brugprojectie.md) — canonical: https://live-impact.nl/portfolio/activatie-mega-brugprojectie
+- [Bankhangen op niveau: De Montèl City Tour](portfolio/activatie-mont-l-city-tour.md) — canonical: https://live-impact.nl/portfolio/activatie-mont-l-city-tour
+- [Waar leeftijd geen grens kent](portfolio/bejaardenrestaurant-villa-vitalis.md) — canonical: https://live-impact.nl/portfolio/bejaardenrestaurant-villa-vitalis
+- [Scherpe noten in het Communicatiemuseum](portfolio/congres-abp-rendez-vous.md) — canonical: https://live-impact.nl/portfolio/congres-abp-rendez-vous
+- [Afval wordt goud](portfolio/familiedag-boskalis-beach-cleanup.md) — canonical: https://live-impact.nl/portfolio/familiedag-boskalis-beach-cleanup
+- [Vierduizend monden vol verbazing](portfolio/familiedag-offshore-experience.md) — canonical: https://live-impact.nl/portfolio/familiedag-offshore-experience
+- [Ongemak in de spotlights](portfolio/gala-van-de-vrouwenkwaaltjes.md) — canonical: https://live-impact.nl/portfolio/gala-van-de-vrouwenkwaaltjes
+- [Groots met een geel hart](portfolio/heijmans-familie-festival.md) — canonical: https://live-impact.nl/portfolio/heijmans-familie-festival
+- [Morgen Mooier Maken](portfolio/jubileum-100-jaar-heijmans.md) — canonical: https://live-impact.nl/portfolio/jubileum-100-jaar-heijmans
+- [Een eeuw bouwen op karakter](portfolio/jubileum-100-jaar-hendriks-bouw.md) — canonical: https://live-impact.nl/portfolio/jubileum-100-jaar-hendriks-bouw
+- [Accountants met festivalbloed](portfolio/jubileum-70-jaar-joanknecht.md) — canonical: https://live-impact.nl/portfolio/jubileum-70-jaar-joanknecht
+- [Volle vaart vooruit](portfolio/jubileumcongres-25-jaar-tln.md) — canonical: https://live-impact.nl/portfolio/jubileumcongres-25-jaar-tln
+- [4.500 kloppende harten](portfolio/jubileumfeest-15-jaar.md) — canonical: https://live-impact.nl/portfolio/jubileumfeest-15-jaar
+- [Goud, glans en een tikje rebels](portfolio/jubileumfeest-90-jaar.md) — canonical: https://live-impact.nl/portfolio/jubileumfeest-90-jaar
+- [Betovering in het bos: SGS viert 100 jaar met The Green Party](portfolio/jubileumfeest-the-green-party.md) — canonical: https://live-impact.nl/portfolio/jubileumfeest-the-green-party
+- [Allemaal Alrijne](portfolio/jubileumfestival-alrijne-ziekenhuis.md) — canonical: https://live-impact.nl/portfolio/jubileumfestival-alrijne-ziekenhuis
+- [Dromen vangen met tranen en lachsalvo's](portfolio/kanker-de-musical.md) — canonical: https://live-impact.nl/portfolio/kanker-de-musical
+- [Kemkens Knalfeest](portfolio/kemkens-175-jaar.md) — canonical: https://live-impact.nl/portfolio/kemkens-175-jaar
+- [Team Menzis gaat voor goud!](portfolio/online-kick-off-menzis.md) — canonical: https://live-impact.nl/portfolio/online-kick-off-menzis
+- [Samen muren doorbreken](portfolio/opening-centrum-kindermishandeling.md) — canonical: https://live-impact.nl/portfolio/opening-centrum-kindermishandeling
+- [Licht uit, spot aan](portfolio/opening-congrescentrum-1931.md) — canonical: https://live-impact.nl/portfolio/opening-congrescentrum-1931
+- [Power in het Park](portfolio/opening-pand-apicem.md) — canonical: https://live-impact.nl/portfolio/opening-pand-apicem
+- [Olympisch muziekspektakel](portfolio/opening-wereld-muziek-concours.md) — canonical: https://live-impact.nl/portfolio/opening-wereld-muziek-concours
+- [Alle trossen en remmen los](portfolio/personeelsfeest-afas-loveboat.md) — canonical: https://live-impact.nl/portfolio/personeelsfeest-afas-loveboat
+- [Hartslag omhoog: 3.000 zorghelden op het Fusie Festival](portfolio/personeelsfeest-spaarne-gasthuis.md) — canonical: https://live-impact.nl/portfolio/personeelsfeest-spaarne-gasthuis
+- [Toscane op de binnenplaats](portfolio/relatie-diner-ceo.md) — canonical: https://live-impact.nl/portfolio/relatie-diner-ceo
+- [Kennis x Netwerken x Feesten](portfolio/relatie-evenement-handpicked-digital-playground-festival.md) — canonical: https://live-impact.nl/portfolio/relatie-evenement-handpicked-digital-playground-festival
+- [And the winner is ...](portfolio/sap.md) — canonical: https://live-impact.nl/portfolio/sap
+- [Alle hens aan dek: Alphabet redt levens op zee](portfolio/teambuilding-redders-in-nood.md) — canonical: https://live-impact.nl/portfolio/teambuilding-redders-in-nood
+- [What happens in Wicked Wonderland, ...](portfolio/wicked-wonderland.md) — canonical: https://live-impact.nl/portfolio/wicked-wonderland
+
+## Team
+
+- [Transformeert tijdens niet-zo-leuke calls moeiteloos van accountmanager naar haar eigen nagelstylist.](team/anouk.md) — canonical: https://live-impact.nl/team/anouk
+- [De meesten noemen hem Bart. Zijn vrienden noemen hem Benjamin.](team/bart.md) — canonical: https://live-impact.nl/team/bart
+- [Esther to the stress-cue! Geloof het of niet, maar deze druktemaker weet iedere stressvogel te kalmeren.](team/esther.md) — canonical: https://live-impact.nl/team/esther
+- [Zelden te vinden op de voorgestelde route in de Appie-app. Wel in een goede koffietent.](team/frans.md) — canonical: https://live-impact.nl/team/frans
+- [Voorstander van ‘The devil in the detail’. En van kaassaus in Bugels.](team/ginny.md) — canonical: https://live-impact.nl/team/ginny
+- [Zijn opgeruimde bureaublad en downloadmap zijn hét bewijs dat creatie en structuur wél samen kunnen gaan.](team/jim-van-de-sande.md) — canonical: https://live-impact.nl/team/jim-van-de-sande
+- [Volgens Joyce zou een draaiboek klinken als een ronkende, vertrouwdeLandrover-diesel.](team/joyce.md) — canonical: https://live-impact.nl/team/joyce
+- [Altijd een koelkast vol citroenranja en een vriezer vol ijs.](team/karin.md) — canonical: https://live-impact.nl/team/karin
+- [Zegt ze “ik zit in een meeting”, dan is dat waarschijnlijk een smoes.](team/linda.md) — canonical: https://live-impact.nl/team/linda
+- [Heeft ooit voor een klant anti-katerpillen uit Engeland moeten bestellen.](team/lizzy.md) — canonical: https://live-impact.nl/team/lizzy
+- [Schrijft ’s ochtends een ‘N’ in zijn yoghurt met honing, ’s nachts wakker te maken voor een kapsalon.](team/philip.md) — canonical: https://live-impact.nl/team/philip
+- [Vindt de verlichte dansvloer de slechtste uitvinding die een mens ooit heeft gedaan.](team/robin.md) — canonical: https://live-impact.nl/team/robin
+- [Had Stef geheten als ze een jongen was. Wordt nu meestal Kwebbel genoemd.](team/sanne.md) — canonical: https://live-impact.nl/team/sanne
+- [Verkiest de geur van duct-tape boven verse koffie.](team/susan.md) — canonical: https://live-impact.nl/team/susan
 
