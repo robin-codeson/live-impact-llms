@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-kleinere-evenementen-orga
 title: "Kan Live Impact ook kleinere evenementen organiseren?"
 description: "Ja. Live Impact organiseert evenementen vanaf circa 30 gasten. De meeste opdrachten liggen tussen 100 en 600 gasten. Ook kleinere evenementen doen we, mits het concept en de ambitie passen bij onze werkwijze. We zijn geen bureau voor standaard vergaderingen of zaalhuur zonder idee. Maar als je 40 di"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:42+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
