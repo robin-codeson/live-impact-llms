@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/spreker-boeken-evenement"
 title: "Waarom de spreker je evenement maakt of breekt"
 description: "Een spreker boeken voor je evenement die echt impact maakt? Lees hoe je de juiste keynote selecteert, brieft en inzet als onderdeel van je concept."
 section: "Blog"
-last_updated: "2026-05-08T16:52:38+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
