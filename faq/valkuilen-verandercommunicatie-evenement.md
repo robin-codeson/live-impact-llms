@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/valkuilen-verandercommunicatie-evenem
 title: "Wat zijn de grootste valkuilen bij verandercommunicatie via evenementen?"
 description: "Er zijn drie veelvoorkomende fouten. Eerste: te veel zenden en te weinig ruimte voor reactie. Tweede: de verandering als voldongen feit presenteren terwijl mensen nog in de ontkenningsfase zitten. Derde: de opvolging vergeten. Een veranderevenement zonder concrete vervolgacties laat mensen met meer "
 section: "FAQ"
-last_updated: "2026-05-08T17:15:13+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
