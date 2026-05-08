@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/deel-eventmanagement-uitbesteden"
 title: "Kan ik ook een deel van het eventmanagement uitbesteden?"
 description: "Ja, dat is goed mogelijk en werkt voor veel opdrachtgevers uitstekend. Je kunt kiezen voor gedeeltelijke uitbesteding. Denk aan alleen het creatieve concept, alleen de technische productie, de dagcoördinatie of de locatieselectie. Live Impact past de samenwerking aan op wat jij intern al hebt en waa"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:14+00:00"
+last_updated: "2026-05-08T21:22:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
