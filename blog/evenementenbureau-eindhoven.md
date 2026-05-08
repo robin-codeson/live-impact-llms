@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-eindhoven"
 title: "Eventmarketing Blog | Tips & Trends | Live Impact"
 description: "Tips, trends en eerlijke verhalen over bedrijfsevenementen — rechtstreeks van het team van Live Impact. Lees mee en laat je inspireren."
 section: "Blog"
-last_updated: "2026-05-08T16:50:55+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
