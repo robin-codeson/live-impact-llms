@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/teamdag-groot-team-organiseren"
 title: "Hoe organiseer je een teamdag voor een groot team?"
 description: "Een groot team verdeel je het beste in subgroepen van tien tot vijftien mensen die rouleren langs verschillende activiteiten. Zo blijft het persoonlijk en kan iedereen actief meedoen. Een strak draaiboek is onmisbaar: tijdige wissels, duidelijke instructies en een coördinator per subgroep. Voor het "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:38+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
