@@ -1,88 +1,89 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/kosten-evenementenbureau"
+title: "Wat kost een evenementenbureau?"
+description: "Wat kost een evenementenbureau? Eerlijk overzicht van tarieven, kostenmodellen en wat je ervoor krijgt."
+section: "Blog"
+last_updated: "2026-05-08T16:51:48+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Sierlijke acrobate aan een swaypole met blaadjes bij een zakelijk evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7fc539d88aa8f90e08044_697bb625e3808ecd325897ba_Hero%2520pole%2520blaadjes.webp)
 
-# De grote vraag: wat kost een evenementenbureau?
+# Wat kost een evenementenbureau?
 
-Het is de vraag die elke opdrachtgever stelt, maar waar zelden een eenduidig antwoord op komt: wat kost een evenementenbureau? En dat is logisch, want de kosten hangen af van tientallen factoren. Het type evenement, het aantal gasten, de complexiteit van het programma, de locatie — alles speelt mee.
+Het is de vraag die elke opdrachtgever stelt. Maar er komt zelden een eenduidig antwoord op: wat kost een evenementenbureau? En dat is logisch, want de kosten hangen af van tientallen factoren. Het type evenement, het aantal gasten, de complexiteit van het programma, de locatie: alles speelt mee.
 
-Toch willen we in dit artikel zo transparant mogelijk zijn. Want we snappen dat je een indicatie nodig hebt voordat je een bureau benadert. Of je nu een [personeelsfeest](/blog/personeelsfeest-organiseren) voor 100 mensen of een [congres](/blog/congres-organiseren) voor 1.000 deelnemers organiseert — je wilt weten waar je aan toe bent.
+Toch willen we zo transparant mogelijk zijn. Want we snappen dat je een indicatie nodig hebt voordat je een bureau benadert. Voor een personeelsfeest voor 100 mensen of een congres voor 1.000 deelnemers wil je weten waar je aan toe bent.
 
-In dit artikel geven we je een eerlijk overzicht van de kosten, de verschillende kostenmodellen en tips om het maximale uit je budget te halen.
+Hieronder vind je een eerlijk overzicht van de kosten en de verschillende kostenmodellen. Plus tips om het maximale uit je budget te halen.
 
 ## De gemiddelde kosten: wat kun je verwachten?
 
-De kosten van een evenementenbureau bestaan uit twee componenten: de bureaukosten (het honorarium voor de organisatie) en de productiekosten (alle kosten voor de daadwerkelijke uitvoering).
+De kosten van een evenementenbureau bestaan uit twee componenten. De bureaukosten zijn het honorarium voor de organisatie. De productiekosten dekken alles wat de uitvoering kost.
 
-Bureaukosten — Het honorarium van een evenementenbureau bedraagt gemiddeld 15% tot 25% van het totale eventbudget. Bij grotere evenementen kan dit percentage lager uitvallen, bij kleinere evenementen hoger. In absolute bedragen: reken op €3.000 tot €15.000 voor een gemiddeld zakelijk evenement.
+**Bureaukosten.** Het honorarium van een evenementenbureau bedraagt gemiddeld 15% tot 25% van het totale evenementenbudget. Bij grotere evenementen kan dit percentage lager uitvallen, bij kleinere evenementen hoger. In absolute bedragen: reken op €3.000 tot €15.000 voor een gemiddeld zakelijk evenement.
 
-Productiekosten — Dit zijn de kosten voor locatie, catering, techniek, entertainment, decoratie, transport en alles wat je evenement tot leven brengt. Per persoon liggen de totale kosten gemiddeld tussen €75 en €250, afhankelijk van het ambitieniveau.
+**Productiekosten.** Dit zijn de kosten voor locatie, catering, techniek, entertainment, decoratie, transport en alles wat je evenement tot leven brengt. Per persoon liggen de totale kosten gemiddeld tussen €75 en €250, afhankelijk van het ambitieniveau.
 
-Totaalplaatje — Een volledig verzorgd bedrijfsevenement voor 150 personen kost gemiddeld tussen €15.000 en €40.000 all-in. Een groot [gala](/blog/gala-organiseren) of [awards ceremony](/blog/awards-ceremony-organiseren) voor 500+ gasten kan oplopen tot €100.000 of meer.
+**Totaalplaatje.** Een volledig verzorgd bedrijfsevenement voor 150 personen kost gemiddeld tussen €15.000 en €40.000 totaal. Een groot gala of prijsuitreiking voor 500+ gasten kan oplopen tot €100.000 of meer.
 
 ## De drie meest gebruikte kostenmodellen
 
-1. Percentage van het budget — Het bureau rekent een vast percentage (meestal 15-25%) over de totale productiekosten. Voordeel: transparant en schaalbaar. Nadeel: bij budgetoverschrijdingen stijgt ook het honorarium.
+**1. Percentage van het budget.** Het bureau rekent een vast percentage (meestal 15 tot 25%) over de totale productiekosten. Voordeel: transparant en schaalbaar. Nadeel: bij budgetoverschrijdingen stijgt ook het honorarium.
 
-2. Vaste projectfee — Een vast bedrag voor het complete project, ongeacht de uiteindelijke productiekosten. Voordeel: je weet vooraf exact wat het bureau kost. Nadeel: bij scope-uitbreiding komen er meerkosten.
+**2. Vaste projectprijs.** Een vast bedrag voor het complete project, ongeacht de uiteindelijke productiekosten. Voordeel: je weet vooraf exact wat het bureau kost. Nadeel: bij uitbreiding van de omvang komen er meerkosten.
 
-3. Uurtarief — Het bureau rekent een uurtarief, meestal tussen €75 en €150 per uur. Voordeel: je betaalt alleen voor daadwerkelijk gemaakte uren. Nadeel: lastig om het totaal vooraf in te schatten. Een congres vergt al snel 200-300 uur, een personeelsfeest 120-150 uur.
+**3. Uurtarief.** Het bureau rekent een uurtarief, meestal tussen €75 en €150 per uur. Voordeel: je betaalt alleen voor gemaakte uren. Nadeel: lastig om het totaal vooraf in te schatten. Een congres vergt al snel 200 tot 300 uur, een personeelsfeest 120 tot 150 uur.
 
-Bij Live Impact werken we het liefst met een vaste projectfee. Zo weet je precies waar je aan toe bent, zonder verrassingen achteraf. We maken vooraf een gedetailleerde begroting zodat je het volledige plaatje ziet.
+Bij Live Impact werken we het liefst met een vaste projectprijs. Zo weet je precies waar je aan toe bent, zonder verrassingen achteraf.
 
 ## Waar betaal je eigenlijk voor?
 
-Een evenementenbureau doet veel meer dan je misschien denkt. Het is niet alleen de dag zelf — het is het hele traject ervoor en erna.
+Een evenementenbureau neemt werk uit handen dat je intern niet efficiënt kunt uitvoeren. Dit is wat je inkoopt:
 
-Conceptontwikkeling — Het bedenken van een creatief [concept](/blog/evenement-concept-ontwikkelen) dat past bij je merk, doelgroep en doelstelling. Dit is de basis van je evenement en bepaalt het succes.
+**Conceptontwikkeling.** Wij bedenken een creatief concept dat past bij jouw organisatie en doelgroep, zodat jouw evenement niet klinkt als dat van iemand anders.
 
-Projectmanagement — Het coördineren van alle leveranciers, het bewaken van de planning en het budget, het aansturen van de productie. Dit is het meest tijdsintensieve onderdeel.
+**Projectmanagement en productie.** Wij coördineren leveranciers en bewaken de planning, het budget en de aansturing van de productie.
 
-Locatiesourcing — Het vinden en onderhandelen van de ideale [evenementenlocatie](/blog/evenementenlocatie-vinden). Bureaus hebben vaak betere deals dan wanneer je zelf belt.
+**Locatieselectie.** Wij vinden en selecteren de ideale evenementenlocatie en onderhandelen over de beste tarieven.
 
-Creatieve productie — Van uitnodigingen tot decoratie, van videocontent tot presentaties. Alles wat je evenement visueel en inhoudelijk sterk maakt.
+**Creatieve uitwerking.** Wij verzorgen alles van uitnodigingen tot decoratie, van video-inhoud tot presentaties.
 
-Uitvoering en regie — Op de dag zelf is het bureau de regisseur. Zij zorgen ervoor dat alles op tijd klaarstaat, dat het programma soepel verloopt en dat eventuele problemen direct worden opgelost.
-
-Evaluatie — Na het evenement volgt een evaluatie met resultaten, feedback en aanbevelingen voor de toekomst.
+Wat je **niet** inkoopt bij een bureau: de daadwerkelijke locatiekosten, catering, sprekers en entertainment. Die worden doorbelast, maar een goed bureau handelt scherp in.
 
 ## Hoe haal je het maximale uit je eventbudget?
 
-Wees helder over je budget — Deel je budget open met het bureau. Een goed bureau adviseert je eerlijk over wat er mogelijk is binnen je budget en waar je beter kunt besparen én investeren.
+**Wees helder over je budget.** Deel je budget open met het bureau. Een goed bureau adviseert je eerlijk over wat er mogelijk is en waar je beter kunt besparen én investeren.
 
-Kies slim je datum — Evenementen in het laagseizoen (januari-maart, juli-augustus) zijn vaak goedkoper. Locaties en leveranciers bieden dan kortingen.
+**Kies slim je datum.** Evenementen in het laagseizoen (januari tot maart, juli tot augustus) zijn vaak goedkoper.
 
-Overweeg je eigen locatie — Een [evenement op eigen locatie](/blog/evenement-op-eigen-locatie-organiseren) bespaart locatiehuur én biedt fiscale voordelen via de [WKR](/blog/werkkostenregeling-evenement-wkr).
+**Overweeg je eigen locatie.** Een evenement op eigen locatie bespaart locatiehuur én biedt fiscale voordelen via de WKR.
 
-Vraag een all-in offerte — Voorkom verborgen kosten door altijd een all-in offerte te vragen, inclusief BTW, servicekosten, transport en opbouw/afbouwuren.
+**Vraag een totaalofferte.** Voorkom verborgen kosten door altijd een totaalofferte te vragen, inclusief BTW, servicekosten, transport en opbouw/afbouwuren.
 
-Investeer in beleving, bespaar op overbodigheden — Een duur bloemstuk onthouden gasten niet. Een bijzonder [entertainment](/blog/evenement-entertainment-boeken)-moment wél. Besteed je budget daar waar het de meeste impact maakt.
+**Investeer in beleving, bespaar op overbodigheden.** Een duur bloemstuk onthouden gasten niet. Een bijzonder entertainment-moment wél.
 
 ## Waarom een evenementenbureau z'n investering waard is
 
-We horen het soms: "Kunnen we het niet zelf organiseren? Dat bespaart het bureauhonarorium." Het korte antwoord: ja, dat kan. Maar de vraag is of het verstandig is.
-
 Een evenement organiseren kost honderden uren. Uren die je medewerkers niet aan hun eigenlijke werk besteden. Daarnaast mist een interne organisator vaak de ervaring, het netwerk en de onderhandelingspositie die een bureau wél heeft. Het resultaat: je betaalt vaak meer voor een minder goed evenement.
 
-Een [professioneel evenementenbureau](/blog/evenementenbureau-inhuren) bespaart je tijd, voorkomt fouten en levert een evenement dat écht indruk maakt. Bij Live Impact garanderen we dat je investering zich terugbetaalt in een evenement dat je doelen bereikt en je gasten verrast.
+Een professioneel evenementenbureau bespaart je tijd, voorkomt fouten en levert een evenement dat écht indruk maakt. Bij Live Impact garanderen we dat je investering zich terugbetaalt. Het evenement bereikt je doelen en verrast je gasten.
 
-## Wat jouw evenement kost en wat je ervoor terugkrijgt
+## Benieuwd wat jouw evenement zou kosten?
 
-Elk evenement is uniek, en dat geldt ook voor de kosten. Bij Live Impact maken we graag een vrijblijvende indicatie op basis van jouw wensen en doelstellingen. Geen verrassingen, gewoon een eerlijk gesprek over wat er mogelijk is.
+Elk evenement is uniek, en dat geldt ook voor de kosten. Bij Live Impact maken we graag een vrijblijvende indicatie op basis van jouw wensen en doelstellingen. Geen verrassingen, alleen een eerlijk gesprek over wat er mogelijk is.
 
-Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
+Bel [085 401 40 14](tel:+31854014014), mail [hello@live-impact.nl](mailto:hello@live-impact.nl) of stuur een briefing via [de briefingtool](/briefing-evenement).
 
 *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
@@ -90,7 +91,7 @@ Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
 
 Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
 
-Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij denken mee. We stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
 
 Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
 
@@ -100,15 +101,15 @@ Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
 
 Begin minimaal **drie maanden** van tevoren. Voor grote evenementen (300+ gasten, complexe productie) is **zes maanden** realistischer.
 
-De organisatie verloopt in vier fases: fundament leggen (12–10 weken), concept en partners (10–6 weken), uitwerking (6–3 weken) en uitvoering plus nazorg. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
+De organisatie verloopt in vier fases. Eerst het fundament leggen (12 tot 10 weken voor de datum), dan concept en partners (10 tot 6 weken). Vervolgens de uitwerking (6 tot 3 weken) en tot slot uitvoering plus nazorg in de laatste 3 weken. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
 
 **[Bekijk de volledige fasering in ons artikel →](/blog/bedrijfsevenement-organiseren)**
 
 Hoe schrijf je een goede briefing voor een bedrijfsevenement?
 
-Een goede briefing bevat minimaal zes elementen: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
+Een goede briefing bevat minimaal zes elementen. Dat zijn: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
 
-Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames — en dat levert een rommelig resultaat.
+Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames. Dat levert een rommelig resultaat.
 
 **[Lees het complete artikel met alle briefing-elementen →](/blog/bedrijfsevenement-organiseren)**
 
@@ -122,17 +123,11 @@ Het verschil zit in de aanpak: een personeelsfeest draait om vieren en verbinden
 
 Wat kost het om een bedrijfsevenement te organiseren?
 
-De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100 tot €300+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
-
-De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaande brackets geven de breedte aan voor een gemiddeld zakelijk evenement.
 
 **[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
-
-Staat je vraag er niet bij?
-
-[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
