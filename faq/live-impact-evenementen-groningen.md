@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenementen-groningen"
 title: "Kan Live Impact evenementen organiseren in Groningen?"
 description: "Ja. Live Impact organiseert zakelijke evenementen door heel Nederland, ook in Groningen en Noord-Nederland. Wij kennen de regio, de locaties en de leveranciers. Denk aan Martiniplaza voor grote congressen, DOT Groningen voor urbane settings en landgoederen in de Ommelanden voor outdoorevents. Neem c"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:02+00:00"
+last_updated: "2026-05-08T21:24:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
