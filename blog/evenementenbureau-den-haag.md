@@ -1,88 +1,69 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/evenementenbureau-den-haag"
+title: "Evenementenbureau in Den Haag: de Hofstad vraagt een ander type bureau"
+description: "Evenementenbureau in Den Haag kiezen? Discretie, protocol en internationale gasten vragen om een ander type bureau. Wat dat betekent voor jouw evenement."
+section: "Blog"
+last_updated: "2026-05-08T16:50:54+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Totaal luchtfoto van een groot festivalterrein met tenten en bezoekers](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6f31730788b8750927d_69c06969a0f923be9273bfd8_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520terrein%2520totaal%2520luchtfoto.webp)
 
-# Waarom Den Haag een ander type bureau vraagt
+# Evenementenbureau in Den Haag: de Hofstad vraagt een ander type bureau
 
-Den Haag is geen Amsterdam. Geen Rotterdam. Het is de stad van ministeries, ambassades, internationale organisaties en juridische instituten. Een evenement in Den Haag heeft vaak een protocollaire dimensie — er zit een staatssecretaris in de zaal, een ambassadeur op de eerste rij, een Aziatische CEO die niet wil dat zijn plaats links van de bestuursvoorzitter zit.
+Den Haag is het politieke en administratieve hart van Nederland: de stad van ministeries, ambassades en internationale organisaties. Die omgeving vraagt om een ander type evenement en een ander type bureau.
 
-Dat verandert alles. Een bureau dat in Amsterdam de grenzen opzoekt met creativiteit, moet in Den Haag de grenzen kennen van wat protocollair kan. Een bureau dat in Rotterdam direct en stevig is, moet in Den Haag soepel en discreet zijn. Een bureau dat in Eindhoven informeel werkt met techbedrijven, moet in Den Haag de formele toon kunnen vasthouden zonder stijfheid.
+Live Impact organiseert zakelijke evenementen in Den Haag voor bedrijven die discretie en professionaliteit combineren. We begrijpen de Haagse context: internationale gasten en protocolbewuste omgevingen, met doelgroepen die gewend zijn aan hoge standaarden.
 
-Dat klinkt als een nuance. Het is een wereld van verschil. Een bureau dat de Haagse vibe niet aanvoelt, levert evenementen af die voor een Amsterdams publiek prima zijn maar in een diplomatieke setting onhandig overkomen. Een verkeerd gekozen openingsmuziek. Een te informele presentator. Een tafelschikking die geen rekening houdt met rangorde. Allemaal kleine dingen die in Den Haag groot zijn.
+## Toplocaties voor zakelijke evenementen in Den Haag
 
-Bij Live Impact werken we regelmatig voor opdrachtgevers in Den Haag — ministeries, internationale organisaties, juridische dienstverleners, financiële instellingen. We hebben geleerd hoe je een evenement maakt dat protocollair klopt en tegelijk niet voelt als een receptie uit 1985.
+Den Haag beschikt over een indrukwekkend aanbod aan evenementenlocaties. Van monumentale gebouwen tot moderne congrescentra: er is voor elk type evenement een passende omgeving.
 
-## Wat een Haags evenementenbureau anders moet kunnen
+Het iconische Kurhaus in Scheveningen is een van de meest prestigieuze gala-locaties van Nederland. Het World Forum biedt topfaciliteiten voor grootschalige congressen en internationale conferenties. Voor kleinschaligere relatie-evenementen zijn de historische stadspaleizen en herenhuizen in het centrum ongeëvenaard. De Fokker Terminal en het Humanity House bieden creatievere omgevingen voor bedrijven die willen verrassen.
 
-Een bureau dat in Den Haag werkt, moet vier vaardigheden beheersen die elders minder hard nodig zijn.
+Bij Live Impact adviseren we je welke locatie het beste past bij jouw doelgroep, concept en budget. We werken regelmatig in Den Haag en kennen de locaties van binnenuit.
 
-De eerste is protocol-bewustzijn. Wie zit waar? Wie spreekt eerst? Welke titel gebruik je in de aanhef? Wat is de juiste dresscode? Voor een evenement met een minister gelden andere regels dan voor een evenement met een ambassadeur. Een bureau dat dat door elkaar haalt, brengt zijn opdrachtgever in verlegenheid. Wij werken altijd met een protocol-paragraaf in het draaiboek, die we laten toetsen door de protocol-afdeling van de opdrachtgever — bij ministeries en grote organisaties is die afdeling bijna altijd aanwezig.
+## Welke zakelijke evenementen organiseren wij in Den Haag?
 
-De tweede is internationale gevoeligheid. Den Haag heeft zo'n 150 ambassades en honderden internationale organisaties. Veel evenementen hebben een internationaal publiek. Dat vraagt om Engels als voertaal, vegetarische en halal-opties in de catering, een terughoudend alcoholbeleid in bepaalde settings en een tafelschikking die niemand voor het hoofd stoot.
+Live Impact organiseert het complete spectrum aan zakelijke evenementen in Den Haag en omgeving. Denk aan strategische [kick-offs](/blog/kick-off-organiseren) in het nieuwe jaar en feestelijke [personeelsfeesten](/blog/personeelsfeest-organiseren) aan het Scheveningse strand. Plus inhoudelijke [congressen](/blog/congres-organiseren) bij het World Forum en exclusieve [productlanceringen](/blog/productlancering-organiseren) in een Haags stadspaleis.
 
-De derde is discretie. Veel Haagse opdrachtgevers werken met gevoelige informatie. Wij ondertekenen standaard een geheimhoudingsverklaring en behandelen klantinformatie als vertrouwelijk. Geen berichten over een evenement op sociale media, tenzij de opdrachtgever dat expliciet wenst. Discretie is hier geen marketing-prikje, het is een voorwaarde.
+We werken voor bedrijven in de publieke sector, advocatuur, consultancy en energie. En voor de internationale organisaties die de stad zo bijzonder maken. Elk evenement begint bij ons met een sterk [concept](/blog/evenement-concept-ontwikkelen) dat past bij jouw organisatie en de Haagse context.
 
-De vierde is soepelheid in formaliteit. Een Haags evenement mag formeel zijn, maar mag niet stijf zijn. Een goede presentator weet wanneer hij een grap kan maken en wanneer niet. Een goede catering serveert klassiek maar niet ouderwets. Wij kennen de leveranciers die deze balans beheersen — en die kennis is niet in een week opgedaan.
+## Bereikbaarheid en logistiek in Den Haag
 
-## Wat een Haags bureau weet over locaties en logistiek
+Den Haag is uitstekend bereikbaar per openbaar vervoer. Station Den Haag Centraal en Station HS bieden directe verbindingen naar Amsterdam, Rotterdam, Utrecht en Leiden. De Randstadrail verbindt Den Haag met Rotterdam en Zoetermeer. Tram en bus maken het stadscentrum goed toegankelijk.
 
-Den Haag heeft een uniek aanbod aan evenementlocaties. Naast de bekende namen — Kurhaus, World Forum, Diligentia, Madurodam — zijn er stadspaleizen, historische gebouwen en representatieve panden die specifiek voor diplomatieke en zakelijke evenementen zijn ingericht.
+Per auto is Den Haag bereikbaar via de A4, A12 en A13. Parkeren vraagt in de binnenstad enige voorbereiding, maar bij de meeste evenementenlocaties zijn parkeeroplossingen beschikbaar. Voor internationale gasten is Den Haag goed bereikbaar vanuit Rotterdam The Hague Airport.
 
-Een bureau dat Den Haag kent, weet dat het Kurhaus ideaal is voor een groot gala, maar te groot voelt voor een diner van tachtig gasten. Dat een evenement vlakbij het Binnenhof een heel andere toon zet dan op het Lange Voorhout. Dat bepaalde ambassaderesidenties beschikbaar zijn voor externe evenementen, als je de juiste contacten hebt.
+## Wat kost een evenementenbureau in Den Haag?
 
-Logistiek heeft Den Haag ook eigen uitdagingen. Veel locaties hebben specifieke beveiligingseisen, zeker als er hooggeplaatste gasten komen. Soms is een veiligheidscontrole vooraf vereist, soms uitgevoerd door politie of particuliere beveiligingsdiensten. Parkeren is in de binnenstad lastig, en chauffeurs van diplomatieke gasten verwachten een eigen wachtruimte.
+De kosten voor een professioneel evenement in Den Haag variëren. Bepalend zijn het type evenement, het aantal gasten, de gekozen locatie en de gewenste beleving. Gemiddeld investeren organisaties in de regio Den Haag tussen de €75 en €250 per persoon.
 
-Wij plannen Haagse evenementen standaard met zestien weken voorbereiding minimaal — meer dan in andere steden — om alle protocollaire en veiligheidseisen rustig te kunnen verwerken. Wie later begint, maakt concessies die niet nodig waren geweest.
+Bij Live Impact werken we altijd met transparante offertes. Je weet vooraf precies waar je aan toe bent. Meer weten over wat een evenementenbureau kost? Lees ons uitgebreide artikel over de [kosten van een evenementenbureau](/blog/kosten-evenementenbureau). Overweeg je het evenement via de [werkkostenregeling (WKR)](/blog/werkkostenregeling-evenement-wkr) te laten lopen? Wij adviseren je graag.
 
-## Vier vragen om een Haags bureau te beoordelen
+## Waarom Live Impact als evenementenbureau in Den Haag?
 
-Een bureaukeuze in Den Haag vraagt om andere vragen dan elders. Vier vragen die je in een eerste gesprek altijd moet stellen.
+Live Impact kent Den Haag door en door. We brengen Brabantse warmte en nuchtere aanpak mee naar de Hofstad. Die combineren we met de professionaliteit die de Haagse context vraagt. We weten wanneer protocol belangrijk is en wanneer je juist kunt verrassen.
 
-De eerste: wat is uw ervaring met protocollaire evenementen? Een bureau dat hier alleen 'we hebben het wel eens gedaan' antwoordt, is geen Haags bureau. Een bureau dat concreet drie tot vijf evenementen kan noemen — met opdrachtgever-categorie, niet noodzakelijk de naam — heeft de ervaring en durft er transparant over te zijn.
+We zijn gevestigd in 's-Hertogenbosch en werken regelmatig in Den Haag en de regio. We zijn IDEA-gecertificeerd en hebben een aantoonbare staat van dienst voor veeleisende doelgroepen. Bovendien werk je met één aanspreekpunt voor het hele traject, van concept tot confetti.
 
-De tweede: hoe gaan jullie om met internationale gasten? Vraag specifiek naar talen, dieetbeperkingen en culturele aanpassingen. Een goed bureau kan vertellen hoe ze een evenement hebben aangepast voor een specifieke nationaliteit, zonder klantnamen te noemen. Als ze dat niet kunnen, kennen ze het werk niet.
+## Neem contact op voor jouw evenement in Den Haag
 
-De derde: welke leveranciers gebruiken jullie standaard? Een bureau dat steeds met dezelfde catering, techniek en presentatoren werkt, heeft een netwerk gebouwd waarin iedereen het Haagse niveau begrijpt. Vraag naar de namen. Als een bureau vaag blijft over zijn leveranciersnetwerk, is dat een signaal.
+Wil je een zakelijk evenement organiseren in Den Haag? Live Impact is jouw evenementenbureau in de Hofstad. Van congres tot relatie-evenement, van kick-off tot personeelsfeest.
 
-De vierde: hoe waarborgen jullie discretie? Een goed bureau heeft hier een concrete procedure voor. Geheimhoudingsverklaringen als standaard, geen berichten op sociale media zonder toestemming, geen klantnamen in presentaties zonder akkoord. Als een bureau hier vaag op antwoordt, is dat een rood lichtje dat je serieus moet nemen.
+Stuur een briefing via [live-impact.nl/briefing](/briefing). Wij zijn actief in heel Nederland.
 
-## Wat een evenementenbureau in Den Haag kost
-
-Haagse bureautarieven liggen op het niveau van Amsterdam, vaak iets erboven. Dat heeft te maken met de complexiteit — protocol, beveiliging, internationale gasten — die hier bijna standaard speelt, niet met onnodige overhead.
-
-Als percentage van het eventbudget rekenen bureaus hier doorgaans 13 tot 18 procent voor middelgrote evenementen met een protocollaire of internationale dimensie. Voor een evenement van €100.000 betaal je dan €13.000 tot €18.000 aan bureaukosten. Voor een eenvoudiger zakelijk evenement zonder bijzondere complexiteit zit je aan de onderkant van die bandbreedte.
-
-Wat veelvoorkomende Haagse evenementen kosten: een diplomatieke receptie voor 100 gasten zit al snel op €40.000 tot €70.000. Een internationale conferentie voor 250 deelnemers met gelijktijdige tolking, beveiliging en meerdaagse logistiek loopt op naar €150.000 tot €300.000 of meer. Een ministerieel werkbezoek met catering en programma zit doorgaans tussen €15.000 en €40.000.
-
-Catering kost in Den Haag structureel meer dan elders. Het verwachte niveau is hoger. Als je €50 per persoon rekent voor een Brabants personeelsfeest, reken dan €80 tot €120 voor een Haagse receptie van vergelijkbare lengte. Dat is geen overhead — dat is wat het publiek verwacht en wat bij de setting past.
-
-## Waarom Live Impact in Den Haag werkt
-
-We werken voor Haagse opdrachtgevers vanuit drie principes. Één: we kennen het protocol. Twee: we beheersen de balans tussen formeel en levendig. Drie: we praten niet over wat we doen.
-
-Het eerste is voorbereiding. Bij elk Haags evenement maken we een protocol-paragraaf in het draaiboek. Wie spreekt wanneer, in welke volgorde, in welke taal. Hoe is de tafelschikking. Wat is de aanspreektitel van elke gast. Dat document wordt door de opdrachtgever (of hun protocol-team) goedgekeurd voordat we verder gaan.
-
-Het tweede is selectie. We boeken voor Haagse evenementen presentatoren, muzikanten en cateraars die deze setting beheersen. Geen popmuziek bij een diplomatieke receptie, geen comedy-act bij een herdenking. Maar ook geen klassieke vleugel als de setting wat losser kan. Wij weten waar de balans zit.
-
-Het derde is vertrouwelijkheid. We posten geen Haagse evenementen op social media tenzij de opdrachtgever dat expliciet wenst. We delen geen foto's met derden zonder toestemming. We benoemen klanten niet in presentatie-presentaties zonder akkoord. Voor sommige opdrachtgevers maakt dat het verschil tussen wel en niet zaken doen.
-
-## Werk met een bureau dat Den Haag begrijpt
-
-Bij Live Impact maken we evenementen in Den Haag voor opdrachtgevers waarvoor protocol, internationale gasten en discretie geen luxe maar voorwaarde zijn. We werken stilletjes door, maar leveren werk waar je trots op kunt zijn.
-
-Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl). Een eerste gesprek voeren we vaak op locatie van de opdrachtgever — minder zichtbaar, meer ruimte voor een open gesprek. Geen verkooppraatje, wel een eerlijke verkenning van wat er past.
+Bel ons op [085 401 40 14](tel:+31854014014) of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
 *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
@@ -90,7 +71,7 @@ Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
 
 Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
 
-Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij denken mee. We stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
 
 Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
 
@@ -100,15 +81,15 @@ Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
 
 Begin minimaal **drie maanden** van tevoren. Voor grote evenementen (300+ gasten, complexe productie) is **zes maanden** realistischer.
 
-De organisatie verloopt in vier fases: fundament leggen (12–10 weken), concept en partners (10–6 weken), uitwerking (6–3 weken) en uitvoering plus nazorg. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
+De organisatie verloopt in vier fases. Eerst het fundament leggen (12 tot 10 weken voor de datum), dan concept en partners (10 tot 6 weken). Vervolgens de uitwerking (6 tot 3 weken) en tot slot uitvoering plus nazorg in de laatste 3 weken. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
 
 **[Bekijk de volledige fasering in ons artikel →](/blog/bedrijfsevenement-organiseren)**
 
 Hoe schrijf je een goede briefing voor een bedrijfsevenement?
 
-Een goede briefing bevat minimaal zes elementen: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
+Een goede briefing bevat minimaal zes elementen. Dat zijn: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
 
-Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames — en dat levert een rommelig resultaat.
+Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames. Dat levert een rommelig resultaat.
 
 **[Lees het complete artikel met alle briefing-elementen →](/blog/bedrijfsevenement-organiseren)**
 
@@ -122,17 +103,11 @@ Het verschil zit in de aanpak: een personeelsfeest draait om vieren en verbinden
 
 Wat kost het om een bedrijfsevenement te organiseren?
 
-De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100 tot €300+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
-
-De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaande brackets geven de breedte aan voor een gemiddeld zakelijk evenement.
 
 **[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
-
-Staat je vraag er niet bij?
-
-[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
