@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gastenlijst-bedrijfsopening"
 title: "Welke gastenlijst is ideaal voor een bedrijfsopening?"
 description: "Voor een bedrijfsopening nodig je gasten zorgvuldig uit. Nodig in ieder geval directie, sleutelmedewerkers, klanten en zakelijke partners, leveranciers, lokale politici of buurtvertegenwoordigers, en relevante pers uit. Optioneel zijn families van medewerkers, die het evenement een persoonlijk tintj"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:02+00:00"
+last_updated: "2026-05-08T21:23:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
