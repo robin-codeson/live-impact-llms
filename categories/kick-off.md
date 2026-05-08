@@ -1,19 +1,19 @@
-[< Back](kick-off.html#)[< Work](kick-off.html#)
+---
+canonical_url: "https://live-impact.nl/categories/kick-off"
+title: "Kick-off organiseren?"
+description: "Kick-off organiseren met impact? Gebruik 'Serious Fun' om je team echt te inspireren. Wij regelen de volledige productie voor je. Plan vandaag een kennismaking!"
+section: "Categorieën"
+last_updated: "2026-05-08T16:53:22+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](kick-off.html#)
-
-[
-
-](https://cdn.prod.website-files.com/68c1259c3fea0a5a3839b715%2F69491fa5b48fd82734eebb7b_Handpicked_DigitalPlayground_compressed_mp4.mp4)
-
-![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
-![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+![Hero image](https://cdn.prod.website-files.com/695b829c457806268234ce0e/696eadb7d8b1632028e1b465_KEYVISUAL%20Overzicht%20entree%20met%20gasten.webp)
 
 # Kick-off organiseren?
 
 Een kick-off organiseren die bruist van de energie en ambitie
 
-[Kick-off](kick-off.html#)
+[Kick-off](#)
 
 ## Samen op Snelheid
 
@@ -27,9 +27,9 @@ Enthousiasme is de brandstof voor elke zakelijke verandering. Met ons **'Serious
 
 Onze aanpak rust op drie krachtige pijlers:
 
-- **Identiteit:** We vangen de unieke 'sparkle' van jullie merk en vertalen dit naar een concept dat de trots en onderlinge verbondenheid direct vergroot.
-- **Concept:** Geen saaie sessies, maar een programma vol interactie, verrassende energizers en een beleving die medewerkers echt in beweging zet.
-- **Productie:** Wij regelen alles tot in de puntjes—van sfeer tot technisch draaiboek—zodat jij je handen vrij hebt om strategisch te schitteren bij het MT.
+* **Identiteit:** We vangen de unieke 'sparkle' van jullie merk en vertalen dit naar een concept dat de trots en onderlinge verbondenheid direct vergroot.
+* **Concept:** Geen saaie sessies, maar een programma vol interactie, verrassende energizers en een beleving die medewerkers echt in beweging zet.
+* **Productie:** Wij regelen alles tot in de puntjes—van sfeer tot technisch draaiboek—zodat jij je handen vrij hebt om strategisch te schitteren bij het MT.
 
 Zo maken we van elke georganiseerde kick-off een feestelijk startschot waar iedereen met glimmende ogen en vol energie aan begint.
 
@@ -41,7 +41,7 @@ Zo maken we van elke georganiseerde kick-off een feestelijk startschot waar iede
 
 Kick-off
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/online-kick-off-menzis.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/online-kick-off-menzis)
 
 [![ABP Rendez-vous — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cea1_ABP-Rendez-Vous-2014-07-1-scaled.webp)
 
@@ -49,7 +49,7 @@ Kick-off
 
 Congres
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/congres-abp-rendez-vous.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/congres-abp-rendez-vous)
 
 [![Montèl City Tour — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cea0_Live-Impact-bedenkt-en-produceert-Montel-Experience-Tour-2015.webp)
 
@@ -57,7 +57,7 @@ Congres
 
 Activatie
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/activatie-mont-l-city-tour.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/activatie-mont-l-city-tour)
 
 [![100 jaar Heijmans — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce9c_Heijmans-Maak-Morgen-Mooier-Dominic-Seldens-podium-close--scaled.webp)
 
@@ -65,7 +65,7 @@ Activatie
 
 Relatie-evenement
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileum-100-jaar-heijmans.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/jubileum-100-jaar-heijmans)
 
 [![100 jaar Hendriks Bouw — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce98_Foto-Wim-Roefs-5749_1200_.webp)
 
@@ -73,7 +73,7 @@ Relatie-evenement
 
 Jubileumfeest
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileum-100-jaar-hendriks-bouw.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/jubileum-100-jaar-hendriks-bouw)
 
 [![Centrum Kindermishandeling — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce8_69761540fe4ab7cb47bcf695_03.%2520Beatrix%2520applaus.webp)
 
@@ -81,7 +81,7 @@ Jubileumfeest
 
 Opening bedrijf
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/opening-centrum-kindermishandeling.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/opening-centrum-kindermishandeling)
 
 [![Opening 1931 — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb59_697617c9a430a098d75a7563_Opening%25201931%2520Lichtinstallatie%2520buiten.webp)
 
@@ -89,7 +89,7 @@ Opening bedrijf
 
 Opening bedrijf
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/opening-congrescentrum-1931.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/opening-congrescentrum-1931)
 
 [![25 jaar TLN — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce2_69761e5d828fa3fe8aa27fc5_TLN%2520Live%2520Awardshow%2520uuitreiking%2520winnaar%2520en%2520kussentjes%2520door%2520de%2520lucht.webp)
 
@@ -97,7 +97,7 @@ Opening bedrijf
 
 Jubileumfeest
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumcongres-25-jaar-tln.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/jubileumcongres-25-jaar-tln)
 
 [![Digital Playground — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31797208d6cb7f1727cff_697649e2d50cc16bbb1108b9_Handpicked%2520Festival%2520-%2520Entree%2520dame%2520gele%2520jas%252033770851_2041867009387694_851354778259685376_o%2520(1).webp)
 
@@ -105,9 +105,9 @@ Jubileumfeest
 
 Relatie-evenement
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/relatie-event-handpicked-digital-playground-festival.html)
+![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](/portfolio/relatie-evenement-handpicked-digital-playground-festival)
 
-[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](kick-off.html#)
+[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](#)
 
 ## Met een gerust hart toewerken naar een spectaculair resultaat
 
@@ -121,9 +121,15 @@ Na het evenement heb je alle resultaten en positieve feedback direct in handen o
 
 ## Meer lezen
 
-Lees ook: [Zakelijk evenement organiseren](../blog/zakelijk-evenement-organiseren.html) — of bekijk onze aanpak voor een [teambuilding](teambuilding.html). Antwoord op veelgestelde vragen vind je op onze [FAQ-pagina](../faq.html).
+Lees ook: [Zakelijk evenement organiseren](/blog/zakelijk-evenement-organiseren) — of bekijk onze aanpak voor een [teambuilding](/categories/teambuilding). Antwoord op veelgestelde vragen vind je op onze [FAQ-pagina](/faq).
+
+##
+
+##
 
 ![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+
+##
 
 ## Geïnspireerd geraakt?
 
