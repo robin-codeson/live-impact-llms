@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-bedrijfsreis"
 title: "Wat kost een zakelijke bedrijfsreis per persoon?"
 description: "Een bedrijfsreis kost ongeveer €500 tot €1.800+ per persoon voor een Europese reis van twee tot vier dagen, inclusief vervoer, accommodatie, programma en catering. Een tweedaagse in de Belgische Ardennen kost ongeveer €400 tot €600+ per persoon. Een vierdaagse in Lissabon met volledig programma onge"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:47+00:00"
+last_updated: "2026-05-08T21:23:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
