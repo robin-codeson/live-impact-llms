@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programma-aanpassingen-hoogwaardighei
 title: "Hoe pas je een evenementprogramma aan voor hoogwaardigheidsbekleders?"
 description: "Programma-aanpassingen voor hoogwaardigheidsbekleders gaan meestal over planning en inhoud. De voorkeuren van VIP-gasten volgen hieronder. Eén: zorg dat hun spreek- of optredensmoment op een optimaal moment valt, dus niet te vroeg en niet te laat. Twee: pas inleiding en afsluiting aan op hun status."
 section: "FAQ"
-last_updated: "2026-05-08T17:13:18+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
