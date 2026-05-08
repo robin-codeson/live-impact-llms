@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-productieteam-evenement"
 title: "Heeft Live Impact een eigen productieteam?"
 description: "Ja, Live Impact heeft een eigen gespecialiseerd productieteam. Wij dekken alle rollen intern: projectmanagement, technische regie, logistiek, entertainmentboeking en facilitaire coördinatie. Onze teams zijn opgeleid voor live-evenementen en hebben ervaring met alles van kleine workshops tot grote co"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:02+00:00"
+last_updated: "2026-05-08T21:24:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
