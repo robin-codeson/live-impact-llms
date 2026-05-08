@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-publiek-trekken-publieksfeest"
 title: "Hoe trek je publiek naar een publieksfeest?"
 description: "Start minstens 4 weken van tevoren met communicatie. Gebruik lokale social media (Facebook-evenementen, Instagram met geo-targeting), wijkkranten, huis-aan-huisflyers en persberichten voor lokale media. Zorg voor een duidelijke eventpagina met alle praktische informatie: tijdstip, programma, parkere"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:49+00:00"
+last_updated: "2026-05-08T21:23:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
