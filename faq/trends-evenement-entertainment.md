@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/trends-evenement-entertainment"
 title: "Wat zijn de trends in evenement entertainment?"
 description: "Entertainment bij zakelijke evenementen beweegt mee met wat gasten willen beleven. Interactief entertainment waarbij gasten zelf meedoen wint terrein, van game-shows tot live tekenaars. Tech-gebaseerde acts zoals AI-gegenereerde visuals of XR-ervaringen pakken uit. Immersive experiences die gasten o"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:00+00:00"
+last_updated: "2026-05-08T21:24:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
