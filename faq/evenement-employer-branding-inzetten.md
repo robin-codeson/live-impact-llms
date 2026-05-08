@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-employer-branding-inzetten"
 title: "Hoe zet je een evenement in voor employer branding?"
 description: "Een employer branding evenement toont je bedrijfscultuur, waarden en werkplek aan potentiële medewerkers. Dit draagt bij aan talentwerving, behoud van medewerkers en merkpositionering. Zet het evenement in door drie doelen duidelijk te maken. Eén: talent aantrekken uit specifieke groepen zoals IT, c"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:12+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
