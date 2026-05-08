@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/afscheidsfeest-introvert-collega"
 title: "Wat als de vertrekkende collega niet van aandacht houdt?"
 description: "Kies dan voor een intiemer format met een kleine groep en nadruk op oprechte gesprekken in plaats van formele speeches. Bespreek van tevoren wat de collega prettig vindt."
 section: "FAQ"
-last_updated: "2026-05-08T16:53:48+00:00"
+last_updated: "2026-05-08T21:22:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
