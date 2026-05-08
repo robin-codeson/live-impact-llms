@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/fouten-locatie-scouting"
 title: "Wat zijn veelgemaakte fouten bij locatie-scouting?"
 description: "Veel bedrijven begaan dezelfde fouten bij het scouten. Eerste fout: alleen de hoofdruimte bekijken. Het niveau van de toiletten bepaalt gasttevredenheid vaak meer dan de zaal zelf. Zorg dat je ook bijruimtes ziet. Tweede: een locatie beoordelen op een rustig moment. Kom ook terug om te zien hoe het "
 section: "FAQ"
-last_updated: "2026-05-08T16:59:54+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
