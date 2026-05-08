@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bbq-evenement-bedrijf-organiseren"
 title: "Een bedrijfs-BBQ is meer dan vlees op de grill"
 description: "Bedrijfs-BBQ organiseren? Praktische gids voor zakelijke BBQ: locatie, catering en budget per persoon. Voor 40 tot 400 medewerkers, door heel Nederland."
 section: "Blog"
-last_updated: "2026-05-08T16:49:22+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
