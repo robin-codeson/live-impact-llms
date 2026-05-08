@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-alphen-aan-
 title: "Alphen aan den Rijn: de slimme evenementenlocatie in het Groene Hart"
 description: "Evenement organiseren in Alphen aan den Rijn? Centraal in het Groene Hart, tussen Amsterdam en Den Haag."
 section: "Blog"
-last_updated: "2026-05-08T16:50:21+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
