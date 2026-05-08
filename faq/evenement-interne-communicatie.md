@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-interne-communicatie"
 title: "Hoe gebruik je een evenement voor interne communicatie?"
 description: "Een evenement als intern communicatiekanaal werkt sterker dan e-mail. Het creëert directe, emotionele contacten waardoor boodschappen beter landen. Denk aan bedrijfsbijeenkomsten waar strategie wordt toegelicht en vragen direct worden beantwoord. Teambuilding-evenementen versterken de cultuur. Bij p"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:14+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
