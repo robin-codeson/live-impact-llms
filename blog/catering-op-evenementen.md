@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/catering-op-evenementen"
 title: "Hybride evenementen: wat werkt en wat niet"
 description: "Van borrelplank tot galadiner: zo kies je wat je evenement compleet maakt."
 section: "Blog"
-last_updated: "2026-05-08T16:49:41+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
