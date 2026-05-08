@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/exclusief-relatiefeest-kenmerken"
 title: "Wat maakt een relatiefeest exclusief?"
 description: "Exclusiviteit begint bij selectie: niet iedereen is uitgenodigd. Dat gevoel maak je waar met een unieke locatie, zoals een privé-club of stijlvol landgoed. Voeg er culinaire verrassingen en ruimte voor echte gesprekken in kleine groepen aan toe. Aandacht voor detail maakt het af. Exclusiviteit is ni"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:27+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
