@@ -1,6 +1,11 @@
-[< Back](wat-kost-evenementenbureau-inhuren.html#)[< Work](wat-kost-evenementenbureau-inhuren.html#)
-
-[Next >](wat-kost-evenementenbureau-inhuren.html#)
+---
+canonical_url: "https://live-impact.nl/faq/wat-kost-evenementenbureau-inhuren"
+title: "Wat kost het inhuren van een evenementenbureau?"
+description: "De kosten van een evenementenbureau bedragen gemiddeld 15 tot 25 procent van het totale eventbudget. In absolute bedragen: voor een evenement van €20.000 betaal je €3.000 tot €5.000 aan bureaukosten. Sommige bureaus werken met een vaste projectfee. Die investering verdient zich terug via tijdsbespar"
+section: "FAQ"
+last_updated: "2026-05-08T22:29:50+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Wat kost het inhuren van een evenementenbureau?
 
@@ -10,6 +15,6 @@ Daarnaast rekent een bureau een concept- en managementfee. Dat is doorgaans 10 t
 
 Het voordeel? Een bureau bespaart je tijd, voorkomt dure fouten en onderhandelt betere tarieven bij leveranciers. De investering verdient zich terug.
 
-**[Meer weten over zakelijke evenementen organiseren? Lees ons complete artikel →](../blog/zakelijk-evenement-organiseren.html)**
+**[Meer weten over zakelijke evenementen organiseren? Lees ons complete artikel →](/blog/zakelijk-evenement-organiseren)**
 
-[Meer over zakelijke evenementen](../blog/zakelijk-evenement-organiseren.html)
+[Meer over zakelijke evenementen](/blog/zakelijk-evenement-organiseren)
