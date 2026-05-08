@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-incentive-reis"
 title: "Kan Live Impact een incentive reis voor ons organiseren?"
 description: "Ja, Live Impact organiseert complete, kant-en-klare incentivereizen. We beheren concept, bestemming, logistiek, activiteiten en coördinatie ter plaatse. We onderhandelen scherp met hotels en partners, bouwen maatwerkprogramma's en zorgen dat alles vlekkeloos verloopt. Ons wereldwijde netwerk van gev"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:25+00:00"
+last_updated: "2026-05-08T21:24:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
