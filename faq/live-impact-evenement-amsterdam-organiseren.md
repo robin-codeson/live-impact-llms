@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-amsterdam-organ
 title: "Kan Live Impact een evenement in Amsterdam voor ons organiseren?"
 description: "Ja. Live Impact heeft tientallen zakelijke evenementen georganiseerd in Amsterdam, in de Westergasfabriek, Beurs van Berlage, Pakhuis de Zwijger, RAI en tientallen andere Amsterdamse locaties. Wij kennen de stad, de locaties en de lokale leveranciers. Van concept tot uitvoering, van kick-off tot jub"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:12+00:00"
+last_updated: "2026-05-08T21:23:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
