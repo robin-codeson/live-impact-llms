@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-vitaliteitsevent-teamdag"
 title: "Wat is het verschil tussen een vitaliteitsevent en een teamdag?"
 description: "Bij een teamdag staat onderlinge verbinding centraal. Je werkt samen en bouwt aan de groepsdynamiek. Bij een vitaliteitsevent staat het welzijn van individuele medewerkers centraal: fysiek en mentaal. Een teamdag bouwt relaties. Een vitaliteitsevent verandert gewoonten. De experts die je inzet, het "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:42+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
