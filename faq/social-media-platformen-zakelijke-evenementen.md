@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/social-media-platformen-zakelijke-eve
 title: "Welke social media platformen zijn het beste voor zakelijke evenementen?"
 description: "LinkedIn is het sterkste platform voor B2B-evenementen. Je bereikt er precies de juiste doelgroep: beslissers, managers en professionals. Instagram is ideaal als je evenement visueel sterk is, zoals een galadiner, festival of lancering. Voor live-verslaggeving bij congressen werkt X (Twitter) goed d"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:02+00:00"
+last_updated: "2026-05-08T21:24:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
