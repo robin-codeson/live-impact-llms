@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/communicatie-toegankelijkheid-eveneme
 title: "Hoe communiceer je over de toegankelijkheid van je evenement?"
 description: "Communicatie over toegankelijkheid begint vroeg en is concreet. Vermeld bij elke uitnodiging welke voorzieningen er zijn: rolstoeltoegang, gebarentolk, ringleiding, audiodescriptie, geluiddempende ruimtes. Geef ook aan wat er niet is, zodat mensen weten waar ze aan toe zijn. Vraag in het inschrijffo"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:52+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
