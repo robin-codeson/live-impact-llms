@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kanaal-eventuitnodiging"
 title: "Welk kanaal gebruik je voor een evenementuitnodiging?"
 description: "Het kanaal hangt af van je doelgroep en de aard van het evenement. E-mail werkt goed voor professionele relaties en medewerkers: het is formeel genoeg en traceerbaar. LinkedIn is effectief voor externe professionals die je wil bereiken buiten je eigen database. WhatsApp past bij informele of persoon"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:19+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
