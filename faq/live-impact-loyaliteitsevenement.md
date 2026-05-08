@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-loyaliteitsevenement"
 title: "Kan Live Impact een loyaliteitsevenement voor ons organiseren?"
 description: "Ja, Live Impact is expert in het ontwerpen van loyaliteitsevenementen. Dit is ons specialisme: intieme evenementen met strategische impact. Ons proces begint met een diagnose: wie zijn jouw loyaalste klanten, en wat waarderen zij het meest? We ontwerpen daarna op maat. Voor klanten uit de financiële"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:45+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
