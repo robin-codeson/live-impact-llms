@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenverzekeringen"
 title: "Evenementen en risico: je bent er verantwoordelijk voor"
 description: "Evenementenverzekeringen: wat je echt nodig hebt en wat je kunt overslaan. Eerlijk overzicht."
 section: "Blog"
-last_updated: "2026-05-08T16:51:05+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
