@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/inclusiviteit-diversiteit-evenemente
 title: "Inclusiviteit is niet het optioneel maken van een rolstoelramp"
 description: "Inclusief evenement organiseren? Zo voelt elk deelnemer zich écht welkom, verder dan de rolstoelplaats."
 section: "Blog"
-last_updated: "2026-05-08T16:51:24+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
