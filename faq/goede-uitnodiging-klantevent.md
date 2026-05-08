@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/goede-uitnodiging-klantevent"
 title: "Hoe zorg je voor een goede uitnodiging voor klantenevenementen?"
 description: "Succesvolle klantevenementen combineren informatieve en sociale elementen. Start met een welkomstwoord dat jouw bedrijf in context plaatst, niet langer dan vijf minuten. Zorg voor voldoende netwerktijd (25-30% van het evenement): deze spontane contacten zijn waardevol. Voeg één inhoudelijk onderdeel"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:16+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
