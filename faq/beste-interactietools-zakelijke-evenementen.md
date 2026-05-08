@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-interactietools-zakelijke-evene
 title: "Welke interactietools werken het beste bij zakelijke evenementen?"
 description: "De beste tool is de tool die je publiek begrijpt zonder uitleg. Voor zakelijke evenementen werken Mentimeter, Slido en Poll Everywhere goed als stemtool. Iedereen pakt zijn telefoon en stemt via een QR-code. Voor vragen en discussie zijn digitale vraagmuren effectief. Deelnemers sturen vragen in die"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:21+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
