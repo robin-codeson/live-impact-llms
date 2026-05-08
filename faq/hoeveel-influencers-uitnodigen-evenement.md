@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-influencers-uitnodigen-evenem
 title: "Hoeveel influencers nodig je uit voor een evenement?"
 description: "Voor de meeste influencer-evenementen is een groep van 15 tot 30 influencers het optimum. Groot genoeg voor serieuze impact op social media, klein genoeg voor persoonlijke aandacht en een exclusief gevoel. Mix macro-influencers (50.000+ volgers) met micro-influencers (5.000 tot 50.000 volgers). Macr"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:30+00:00"
+last_updated: "2026-05-08T21:23:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
