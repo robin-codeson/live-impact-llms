@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-sittard-geleen-0a82f
 title: "Wat kost een zakelijk evenement in Sittard-Geleen?"
 description: "De kosten voor een zakelijk evenement in Sittard-Geleen variëren sterk per schaal. Een kleinschalige bijeenkomst voor 30 personen begint rond €3.000; een volledig geproduceerd evenement voor 200+ personen loopt al snel op naar €25.000 tot €60.000. Locatie, catering, technische productie en entertain"
 section: "FAQ"
-last_updated: "2026-05-08T17:05:51+00:00"
+last_updated: "2026-05-08T21:23:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
