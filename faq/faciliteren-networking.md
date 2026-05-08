@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/faciliteren-networking"
 title: "Hoe faciliteer ik networking zonder dat het geforceerd voelt?"
 description: "Goede networking voelt nooit verplicht. Begin met de juiste opzet: kleine groepjes van 4 tot 6 personen werken beter dan grote zalen vol. Werk met een aanleiding, een gespreksstarter of een gezamenlijke activiteit. Een speed-dating-format met rotatie elke 6 minuten breekt het ijs zonder dat mensen v"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:29+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
