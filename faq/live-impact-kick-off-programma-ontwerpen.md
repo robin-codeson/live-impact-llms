@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-kick-off-programma-ontwer
 title: "Kan Live Impact het kick-off programma volledig ontwerpen?"
 description: "Ja. Wij ontwerpen kick-off programma's van A tot Z: de dramaturgische opbouw, de opening, de workshopinhoud, de verrassingselementen en de afsluiting. We nemen de totale regie over, of denken mee op de onderdelen waar jij vastloopt. Het resultaat is een kick-off die aanvoelt als een geheel, niet als"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:39+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
