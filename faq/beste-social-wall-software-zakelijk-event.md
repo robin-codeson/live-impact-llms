@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-social-wall-software-zakelijk-e
 title: "Welke social wall software is het beste voor zakelijke evenementen?"
 description: "Voor zakelijke evenementen in Nederland zijn drie platforms het meest gebruikt. Walls.io is de meest populaire keuze: intuïtieve interface, snelle moderatie, ondersteunt alle grote sociale kanalen plus directe uploads. Een daglicentie kost €15. Tint is krachtiger en biedt meer maatwerk. Geschikt voo"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:39+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
