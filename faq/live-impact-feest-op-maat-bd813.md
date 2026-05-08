@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-feest-op-maat-bd813"
 title: "Kan Live Impact een feest op maat organiseren?"
 description: "Ja. Feest op maat is precies waarvoor Live Impact is opgericht. Wij bouwen concepten van nul op basis van het bedrijfsDNA, de gelegenheid en de groep. Elke locatie-, catering- en entertainmentkeuze wordt afgestemd op wat de avond bijzonder maakt voor juist deze mensen. We werken voor groepen van 30 "
 section: "FAQ"
-last_updated: "2026-05-08T17:09:14+00:00"
+last_updated: "2026-05-08T21:24:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
