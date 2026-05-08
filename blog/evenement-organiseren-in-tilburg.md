@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-tilburg"
 title: "Waarom Tilburg verrassend goed is voor zakelijke evenementen"
 description: "Evenement organiseren in Tilburg? Muziekstad met Brabantse warmte en verrassende eventlocaties."
 section: "Blog"
-last_updated: "2026-05-08T16:50:42+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
