@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/teambuilding-locaties"
 title: "Waarom de locatiekeuze bij teambuilding zo veel uitmaakt"
 description: "Teambuilding locaties in Nederland? Van Veluwe-buiten tot industrieel binnen, zo kies je."
 section: "Blog"
-last_updated: "2026-05-08T16:52:43+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
