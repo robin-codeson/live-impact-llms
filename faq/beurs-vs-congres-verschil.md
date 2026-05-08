@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beurs-vs-congres-verschil"
 title: "Wat is het verschil tussen een beurs en een congres?"
 description: "Een congres heeft een kennisagenda als kern: sprekers, sessies en inhoudelijke verdieping. Bezoekers komen primair voor de kennis. Een beurs heeft een marktplaats als kern: exposanten tonen producten en diensten, bezoekers verkennen het aanbod en leggen contacten. Exposanten zijn de drijvende kracht"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:48+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
