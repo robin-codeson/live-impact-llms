@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personeelsfeest-laten-organiseren"
 title: "Personeelsfeest laten organiseren of zelf regelen: de eerlijke afweging"
 description: "Personeelsfeest laten organiseren of zelf doen? Wat haal je uit handen, wat houd je in huis en wat kost het? De eerlijke vergelijking."
 section: "Blog"
-last_updated: "2026-05-08T16:52:11+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
