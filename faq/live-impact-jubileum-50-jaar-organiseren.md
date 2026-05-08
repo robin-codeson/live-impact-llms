@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-jubileum-50-jaar-organise
 title: "Kan Live Impact een 50-jarig jubileum voor ons organiseren?"
 description: "Ja. Live Impact organiseert generatiefeesten en jubileumvieringen voor organisaties die een halve eeuw (en meer) achter de rug hebben. Wij bouwen het concept dat drie generaties tegelijk raakt. Daarbij regelen we de locatie die past bij de schaal. Ook verzorgen we een programma dat recht doet aan 50"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:32+00:00"
+last_updated: "2026-05-08T21:24:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
