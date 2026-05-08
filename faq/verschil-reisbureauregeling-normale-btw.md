@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-reisbureauregeling-normale-b
 title: "Hoe verschilt de reisbureauregeling van de gewone BTW?"
 description: "Bij normale BTW bereken je 21% over de volledige verkoopprijs en vermeld je het BTW-bedrag apart op de factuur. De klant kan deze BTW terugvragen als voorbelasting. Bij de reisbureauregeling bereken je BTW (21%) alleen over de winstmarge op de reiscomponent. Dat is verkoopprijs minus inkoopprijs van"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:18+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
