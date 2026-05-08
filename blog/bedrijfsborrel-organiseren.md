@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsborrel-organiseren"
 title: "Wat is een bedrijfsborrel, en waarom is het meer dan een rondje"
 description: "Bedrijfsborrel organiseren voor je team, relaties of klanten? Van opzet tot locatie: zo maak je van elke borrel een moment dat mensen bijblijft."
 section: "Blog"
-last_updated: "2026-05-08T16:49:23+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
