@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-helmond"
 title: "Helmond: Smart City met unieke evenementenenergie"
 description: "Evenement organiseren in Helmond? Smart City van Brainport met hightech eventlocaties. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:34+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
