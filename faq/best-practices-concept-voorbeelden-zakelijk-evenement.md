@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-concept-voorbeelden-za
 title: "Wat zijn best practices voor Concept Voorbeelden Zakelijk Evenement?"
 description: "Sterke evenementconcepten combineren altijd een kernboodschap met een onverwachte insteek. Voorbeelden die werken: een aftrap als spelprogramma waarbij teams echt concurreren. Een jaarfeest als geheim dossier dat deelnemers moeten ontrafelen. Of een productlancering als restaurantervaring waarbij el"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:09+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
