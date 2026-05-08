@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-s-hertogenbosch-zakeli
 title: "Hoe bereikbaar is ’s-Hertogenbosch voor zakelijke evenementen?"
 description: "’s-Hertogenbosch is goed bereikbaar vanuit heel Nederland. Per trein: Utrecht 28 minuten, Eindhoven 28 minuten, Amsterdam Centraal 62 minuten, Rotterdam Centraal 60 minuten. Het station ligt op loopafstand van het centrum. Per auto: op het kruispunt van de A2 en A59, met royale parkeermogelijkheden "
 section: "FAQ"
-last_updated: "2026-05-08T16:54:54+00:00"
+last_updated: "2026-05-08T21:22:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
