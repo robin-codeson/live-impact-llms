@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-evenement-dordrecht"
 title: "Hoe vroeg moet je een evenement in Dordrecht plannen?"
 description: "Voor een evenement in Dordrecht reken je op 8 tot 16 weken voorbereidingstijd, afhankelijk van de complexiteit. Een eenvoudige teamdag of borrel voor 30 tot 50 personen kun je in 6 tot 8 weken organiseren. Een groter personeelsfeest of jubileum voor 100 tot 300 mensen vraagt minimaal 12 weken. Popul"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:55+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
