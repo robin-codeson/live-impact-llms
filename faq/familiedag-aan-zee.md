@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/familiedag-aan-zee"
 title: "Kan een bedrijfsfamiliedag aan het strand of de Noordzee?"
 description: "Ja, een familiedag aan zee of het strand is heel goed mogelijk en erg populair bij gezinnen. Het strand biedt ruimte voor kinderactiviteiten (strandbouw, vliegeren, kabouterparcours), sportactiviteiten voor volwassenen en voldoende ruimte voor grote groepen. Locaties als Scheveningen, Zandvoort, Kat"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:30+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
