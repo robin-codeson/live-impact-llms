@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/no-show-voorkomen-gratis-evenement"
 title: "Hoe voorkom je no-show bij een gratis evenement?"
 description: "Beperk het aantal plekken en communiceer dat ('80 plekken, vol is vol'). Vraag om actieve bevestiging in plaats van een eenvoudige aanmelding. Stuur herinneringen die waarde toevoegen. Verstuur een teaser twee weken van tevoren en praktische info een week vooraf. Stuur twee dagen ervoor een kalender"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:44+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
