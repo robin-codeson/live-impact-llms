@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-deelname-zakenprijs"
 title: "Wat kost deelname aan een zakenprijs?"
 description: "De kosten van deelname aan een zakenprijs lopen sterk uiteen. Sommige prijzen, zoals de FD Gazelle, zijn gratis: je wordt geselecteerd op basis van geverifieerde cijfers. Andere awards rekenen inschrijfgeld van €500 tot €5.000, plus de kosten van de jury-avond, presentatiemateriaal en reistijd. De e"
 section: "FAQ"
-last_updated: "2026-05-08T17:05:05+00:00"
+last_updated: "2026-05-08T21:23:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
