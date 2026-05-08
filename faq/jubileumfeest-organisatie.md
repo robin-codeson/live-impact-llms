@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/jubileumfeest-organisatie"
 title: "Hoe organiseer je een succesvol jubileumfeest?"
 description: "Een succesvol jubileumfeest vereist planning en aandacht. De belangrijkste stappen: bepaal de timing en locatie. Schets de doelstelling: bedrijfshistorie vieren, netwerken of merkactivatie. Ontwerp een unieke ervaring met speech, entertainment en interactie. Werk samen met professionals zoals een ev"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:36+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
