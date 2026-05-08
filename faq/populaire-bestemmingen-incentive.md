@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/populaire-bestemmingen-incentive"
 title: "Welke bestemmingen zijn populair voor incentives vanuit Nederland?"
 description: "De populairste incentivebestemmingen vanuit Nederland combineren toegankelijkheid met een bijzondere beleving. Lissabon scoort al jaren hoog: warm, sfeervolle stad, culinair sterk. Barcelona biedt cultuur, strand en nachtleven. Marrakech is exotisch en verrassend betaalbaar. Tirol en andere Alpenreg"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:03+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
