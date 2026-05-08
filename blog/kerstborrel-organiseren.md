@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/kerstborrel-organiseren"
 title: "Waarom de kerstborrel zo vaak tegenvalt"
 description: "Kerstborrel organiseren voor je bedrijf? Zo maak je van de kerstborrel een avond die je team echt wil bijwonen. Tips over locatie, programma en budget."
 section: "Blog"
-last_updated: "2026-05-08T16:51:39+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
