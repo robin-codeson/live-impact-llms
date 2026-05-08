@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/thema-dresscode-zakelijk-evenement"
 title: "Wat is een thema-dresscode en wanneer is het een goed idee?"
 description: "Een thema-dresscode vraagt gasten om te kleden volgens een specifiek thema, zoals Black & White, Roaring Twenties of Tropical. Het werkt het beste bij interne evenementen (personeelsfeest, kick-off) waar mensen zich vertrouwd voelen met elkaar. Kies een thema dat makkelijk uitvoerbaar is zonder nieu"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:50+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
