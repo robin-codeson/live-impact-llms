@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/opvolging-na-productpresentatie"
 title: "Hoe volg ik effectief op na een productpresentatie?"
 description: "Stuur de dag erna een persoonlijk bericht aan elke aanwezige. Plan concrete vervolgstappen in binnen vijf werkdagen en deel de samenvatting en opname."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:25+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
