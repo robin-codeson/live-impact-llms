@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/belangrijke-bedrijfsprijzen"
 title: "Welke bedrijfsprijzen zijn belangrijk voor de evenementenbranche?"
 description: "In de evenementenbranche zijn erkende prijzen waardevol voor zichtbaarheid, vertrouwen en het aantrekken van talent. Bekende prijzen zijn de IDFA Award, de Event Industry Awards en nationale MKB-prijzen als de FD Gazelle. Branchespecifieke erkenning via vakbladen en platforms zoals Eventplanner.nl d"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:27+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
