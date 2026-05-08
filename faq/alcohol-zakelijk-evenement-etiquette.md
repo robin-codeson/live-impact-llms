@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/alcohol-zakelijk-evenement-etiquette"
 title: "Hoe ga je om met alcoholconsumptie op een zakelijk evenement?"
 description: "Alcohol op zakelijke evenementen vraagt voorzichtigheid. Eet eerst, drink later: voeding absorbeert alcohol beter. Hydrateer altijd, met minstens een glas water per alcoholisch drankje. Hanteer de regel van één drankje per uur, dan blijf je helder. Vermijd sterke dranken vroeg op de avond en begin m"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:01+00:00"
+last_updated: "2026-05-08T21:22:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
