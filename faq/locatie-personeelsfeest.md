@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-personeelsfeest"
 title: "Welke locatie is geschikt voor een personeelsfeest?"
 description: "De perfecte locatie voor een personeelsfeest past bij het concept en het team. Een industrieel pand past goed bij een modern, energiek bedrijf. Een kasteel of landgoed is geschikt voor een formeler feest of lustrumviering. Voor een informeel zomerevenement werkt een strandlocatie uitstekend. En voor"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:58+00:00"
+last_updated: "2026-05-08T21:24:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
