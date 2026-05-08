@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-coordinator-eventmanager"
 title: "Wat is het verschil tussen een coördinator en een eventmanager?"
 description: "Een eventmanager bouwt het strategische en creatieve kader. Hij bepaalt doel, concept en budget. Hij is het aanspreekpunt voor de opdrachtgever tijdens de voorbereiding. Een coördinator werkt in dat kader en zorgt dat de uitvoering op de dag zelf klopt. De eventmanager kijkt vooruit en bepaalt de ri"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:47+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
