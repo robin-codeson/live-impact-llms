@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-s-hertogenbosch"
 title: "Waarom 's-Hertogenbosch de ideale basis is voor Brabantse zakelijke evenementen"
 description: "Evenementenbureau in 's-Hertogenbosch? Live Impact organiseert zakelijke evenementen in Den Bosch en de Brabantse regio. Offerte aanvragen."
 section: "Blog"
-last_updated: "2026-05-08T16:51:00+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
