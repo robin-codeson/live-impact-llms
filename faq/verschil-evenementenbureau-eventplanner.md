@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenementenbureau-eventplann
 title: "Wat is het verschil tussen een evenementenbureau en een eventplanner?"
 description: "Een evenementenbureau is een organisatie met een volledig team van specialisten: projectmanagers, creatief directeuren, productiemedewerkers en dagcoördinatoren. Ze hebben de capaciteit voor meerdere grote projecten tegelijk. Een eventplanner is vaak een zelfstandige die zich richt op coördinatie. Z"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:27+00:00"
+last_updated: "2026-05-08T21:24:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
