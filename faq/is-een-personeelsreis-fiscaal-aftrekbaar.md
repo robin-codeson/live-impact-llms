@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/is-een-personeelsreis-fiscaal-aftrekb
 title: "Is een personeelsreis fiscaal aftrekbaar?"
 description: "Ja, een personeelsreis kan fiscaal voordelig zijn via de werkkostenregeling (WKR). Je mag de reis onderbrengen in de vrije ruimte van 1,92% over de eerste 400.000 euro loonsom. Voorwaarde: de reis moet een zakelijk karakter hebben. Denk aan teambuilding, strategiesessies of een beloning voor behaald"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:27+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
