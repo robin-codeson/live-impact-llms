@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/kennisfestival-organiseren"
 title: "Wat een kennisfestival is en waarom het werkt"
 description: "Een kennisfestival organiseren dat wél blijft hangen? Live Impact bouwt de opzet waar deelnemers zelf hun programma kiezen. Van concept tot locatie."
 section: "Blog"
-last_updated: "2026-05-08T16:51:38+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
