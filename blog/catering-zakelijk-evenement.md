@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/catering-zakelijk-evenement"
 title: "Waarom de cateringkeuze je evenement maakt of breekt"
 description: "Catering voor een zakelijk evenement kiezen? Van walking dinner tot galadiner: dit zijn je keuzes."
 section: "Blog"
-last_updated: "2026-05-08T16:49:42+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
