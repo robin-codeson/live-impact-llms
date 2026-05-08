@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/jubileumfeest-kosten"
 title: "Wat kost een jubileumfeest?"
 description: "De kosten van een jubileumfeest variëren sterk, afhankelijk van groepsgrootte, locatie, catering en entertainment. Een bedrijfsfeest voor 50 mensen begint rond de 8.000 euro. Een groot gala of meerdaags festival voor 500 gasten loopt op naar 100.000 euro of meer. Live Impact maakt een heldere kosten"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:35+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
