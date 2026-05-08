@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/is-live-impact-idea-gecertificeerd-7c
 title: "Is Live Impact IDEA-gecertificeerd?"
 description: "Ja, Live Impact is IDEA-gecertificeerd. Het IDEA-keurmerk (Institute for Dutch Evenement Architects) is dé professionele erkenning voor evenementenbureaus in Nederland. Het keurmerk stelt eisen aan deskundigheid, werkwijze en kwaliteitsbewaking. Bureaus zonder certificering werken zonder externe toe"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:32+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
