@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/aanvraagtermijn-evenementenvergunning
 title: "Hoe lang van tevoren moet ik een evenementenvergunning aanvragen?"
 description: "Voor kleine evenementen geldt doorgaans een aanvraagtermijn van 8 tot 12 weken. Voor grote evenementen (1.000+ bezoekers) rekent de gemeente soms 3 tot 6 maanden. Begin altijd vroeg."
 section: "FAQ"
-last_updated: "2026-05-08T16:53:36+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
