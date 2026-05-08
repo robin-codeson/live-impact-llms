@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/inclusie-brainstorm"
 title: "Hoe faciliteer je inclusie in brainstorming?"
 description: "Inclusieve brainstorms vereisen actieve faciliteit. Stille mensen worden weggepraat, dominante stemmen overstemmen, en hierarchie smoort goede ideeen. Begin met expliciete gespreksregels: niemand wordt onderbroken, geen idee wordt direct beoordeeld. Werk met een time-keeper die spreektijd in de gate"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:14+00:00"
+last_updated: "2026-05-08T21:23:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
