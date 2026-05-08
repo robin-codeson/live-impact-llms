@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/veiligheid-zakelijk-evenement"
 title: "Waarom veiligheid begint bij de voorbereiding"
 description: "Alles over veiligheid bij zakelijke evenementen. Van risico-inventarisatie tot BHV, crowd management en noodplannen."
 section: "Blog"
-last_updated: "2026-05-08T16:53:02+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
