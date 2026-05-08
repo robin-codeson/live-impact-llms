@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bedrijfs-dna-naar-eventconcept"
 title: "Hoe vertaal je bedrijfs-DNA naar een evenementconcept?"
 description: "Je vertaalt bedrijfs-DNA naar een evenementconcept in vier stappen. Stap 1: zet je merkwaarden en gewenste emotie in één zin. Bijvoorbeeld: 'Wij willen innovatieve geesten samenbrengen in een vertrouwde, experimentele ruimte.' Stap 2: brainstorm op basis van deze uitspraak. Geen filterkritiek, alle "
 section: "FAQ"
-last_updated: "2026-05-08T16:54:16+00:00"
+last_updated: "2026-05-08T21:22:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
