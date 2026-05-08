@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/formats-productpresentatie-evenement"
 title: "Welke formats werken goed voor een productpresentatie?"
 description: "Werkzame formats voor een productpresentatie zijn divers. Klassiek werkt een live demonstratie met moderator: interactief en informatief. Een pop-up experience laat bezoekers het product zelf ontdekken. In een workshopformat leer je het product integraal gebruiken. Bij een presentatiecompetitie pitc"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:46+00:00"
+last_updated: "2026-05-08T21:23:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
