@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/effect-dealer-evenement-meten"
 title: "Hoe meet je het effect van een dealer evenement?"
 description: "Meet op drie tijdsschalen. Direct: stuur 48 uur na het evenement een feedbackvraag van 3 regels naar elke deelnemer. Korte termijn: meet de verkoop van de producten of diensten uit het evenement. Vergelijk de drie maanden erna met de drie maanden ervoor. Lange termijn: kijk een jaar later naar deale"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:48+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
