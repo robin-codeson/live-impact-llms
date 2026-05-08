@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-kost-een-b2b-marketing-evenem
 title: "Hoeveel kost een B2B marketing evenement?"
 description: "Reken op €75 tot €250 per genodigde voor een B2B marketing evenement, afhankelijk van format, locatie en programma."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:31+00:00"
+last_updated: "2026-05-08T21:23:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
