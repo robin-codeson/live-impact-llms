@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-studiereis-organisere
 title: "Kan Live Impact een studiereis organiseren?"
 description: "Ja. Wij organiseren studiereizen door heel Europa. Van het eerste leerdoel tot het afsluitende reflectiemoment. Wij zoeken de juiste bedrijven en sprekers, plannen het programma, regelen vervoer en accommodatie, en zorgen voor begeleiding ter plaatse. Voor teams van 12 tot 80 personen."
 section: "FAQ"
-last_updated: "2026-05-08T17:04:15+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
