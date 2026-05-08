@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/inhoud-evenement-draaiboek"
 title: "Wat hoort er in een evenementdraaiboek?"
 description: "Een volledig evenementdraaiboek bevat zes onderdelen. Eerst een contactlijst met naam en telefoonnummer van alle betrokkenen. Daarna een tijdlijn per minuut, met per onderdeel een starttijd, eindtijd en verantwoordelijke. Dan de technische cues voor licht, geluid en beeld, plus de cateringmomenten. "
 section: "FAQ"
-last_updated: "2026-05-08T17:03:18+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
