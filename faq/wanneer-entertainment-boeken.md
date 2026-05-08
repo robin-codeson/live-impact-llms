@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-entertainment-boeken"
 title: "Wanneer moet je entertainment boeken voor een evenement?"
 description: "Boek entertainment zo vroeg als je kunt, maar zeker 2 tot 3 maanden voor het evenement. Populaire bands en artiesten, zeker in het voor- en najaar, zijn regelmatig 6 tot 12 maanden van tevoren al volgeboekt. Hoe eerder je boekt, hoe meer keuze je hebt in genre, formaat en beschikbaarheid. Via Live I"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:49+00:00"
+last_updated: "2026-05-08T21:24:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
