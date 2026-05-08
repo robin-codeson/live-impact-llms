@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-dresscode-advies"
 title: "Adviseert Live Impact over dresscode bij evenementen?"
 description: "Ja, Live Impact adviseert over dresscode per evenementtype en doelgroep. We bepalen welke mate van formaliteit past: Black Tie, Cocktail, Business Formal of Business Casual. Daarna stellen we communicatieteksten op en zorgen we voor een duidelijke uitnodiging. We houden rekening met je bedrijfscultu"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:55+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
