@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-jubileum-100-jaar-50-jaar"
 title: "Wat is het verschil tussen een 100-jarig en een 50-jarig jubileum?"
 description: "Het belangrijkste verschil: een eeuwfeest is niet meer alleen een intern bedrijfsevenement. Een 100-jarig jubileum heeft maatschappelijke relevantie en trekt een breder publiek aan: media, overheid, de lokale gemeenschap en de branche. Het concept gaat verder dan generaties verbinden. Het draait om "
 section: "FAQ"
-last_updated: "2026-05-08T17:16:46+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
