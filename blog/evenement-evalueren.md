@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-evalueren"
 title: "Waarom evaluatie begint vóór het evenement"
 description: "Je evenement evalueren en de impact meten? Lees hoe je van feedback, data en observatie concrete verbeterpunten haalt voor je volgende evenement."
 section: "Blog"
-last_updated: "2026-05-08T16:50:11+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
