@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-een-klein-evenement-perso
 title: "Hoe maak je een klein evenement persoonlijk?"
 description: "Personalisatie begint bij de uitnodiging: stuur een persoonlijk bericht waarin je uitlegt waarom juist deze persoon is uitgenodigd. Tijdens het evenement koppel je gesprekspartners bewust aan elkaar en stem je het programma af op de groep. Bij het eten houd je rekening met persoonlijke voorkeuren. N"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:07+00:00"
+last_updated: "2026-05-08T21:23:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
