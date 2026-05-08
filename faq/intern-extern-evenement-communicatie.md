@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/intern-extern-evenement-communicatie"
 title: "Wat is het verschil tussen interne en externe evenement-communicatie?"
 description: "Interne communicatie richt zich op je eigen team, bestuur en interne betrokkenen. Het draait om afstemming: wat is het doel, wie doet wat, wanneer moet wat klaar zijn. Externe communicatie richt zich op deelnemers, partners of de pers. Het draait om aantrekking: wat mogen zij verwachten en waarom is"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:22+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
