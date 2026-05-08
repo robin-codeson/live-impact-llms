@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/opkomst-verhogen-zakelijke-borrel"
 title: "Hoe verhoog je de opkomst bij een zakelijke borrel?"
 description: "Opkomst begint bij de uitnodiging. Stuur een persoonlijke uitnodiging die de aanleiding benoemt en een beeld schetst van wat mensen kunnen verwachten. Een agendaverzoek alleen is te kaal. Kies het juiste moment: vrijdagmiddag om 16:00 werkt voor kantoorteams, donderdagavond voor organisaties met dee"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:22+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
