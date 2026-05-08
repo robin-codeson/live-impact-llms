@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verblijfstijd-hoogwaardigheidsbeklede
 title: "Hoe lang blijft een hoogwaardigheidsbekleder op een evenement?"
 description: "De meeste hoogwaardigheidsbekleders verblijven 60 tot 90 minuten op een evenement. Dit is geen teken van desinteresse, maar een gevolg van de volle agenda die zij beheren. Bouw je programma zo dat jouw kernboodschap in dit tijdsbestek wordt overgebracht. Plan geen hoogtepunt na het verwachte vertrek"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:18+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
