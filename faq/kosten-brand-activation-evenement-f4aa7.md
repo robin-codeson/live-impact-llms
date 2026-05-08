@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-brand-activation-evenement-f4a
 title: "Wat kost een merkactivatie-evenement?"
 description: "De kosten van een merkactivatie-evenement variëren sterk afhankelijk van de schaal, het concept en de technische complexiteit. Een compact activatie-evenement voor 100 tot 200 personen kost al snel 15.000 tot 35.000 euro. Een groter productie-evenement met op maat gemaakte installaties, podiumbouw e"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:54+00:00"
+last_updated: "2026-05-08T21:23:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
