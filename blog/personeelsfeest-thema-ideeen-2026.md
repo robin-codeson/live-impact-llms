@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personeelsfeest-thema-ideeen-2026"
 title: "Het thema is het verschil tussen een feest en een ervaring"
 description: "Thema personeelsfeest 2026? 12 concrete ideeën voor personeelsfeest, met uitwerking, sfeer en budget per concept. Kies wat past bij jullie team."
 section: "Blog"
-last_updated: "2026-05-08T16:52:13+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
