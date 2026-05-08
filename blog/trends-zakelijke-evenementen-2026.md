@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/trends-zakelijke-evenementen-2026"
 title: "Waarom trends ertoe doen in zakelijke evenementen"
 description: "Trends in zakelijke evenementen 2026? Van AI tot belevingseconomie: dit verandert jouw aanpak."
 section: "Blog"
-last_updated: "2026-05-08T16:52:57+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
