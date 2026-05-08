@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/fiscaal-voordeel-evenement-eigen-loca
 title: "Is een evenement op eigen locatie fiscaal voordeliger?"
 description: "Ja, er is een fiscaal voordeel, en het verschil is aanzienlijk. Een personeelsevenement op je eigen werkplek valt onder de gerichte vrijstelling van de WKR. Dat betekent dat de kosten onbelast zijn, zonder dat ze druk leggen op de vrije ruimte. Organiseer je op een externe locatie? Dan vallen de kos"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:36+00:00"
+last_updated: "2026-05-08T21:23:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
