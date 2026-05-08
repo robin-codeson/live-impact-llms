@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-evenementenbureau-tilburg-insc
 title: "Waarom een evenementenbureau in Tilburg inschakelen?"
 description: "Een evenementenbureau met kennis van Tilburg weet welke locaties, leveranciers en mogelijkheden de stad biedt. Live Impact combineert creativiteit met jarenlange ervaring in Brabant. Wij zorgen voor een evenement dat past bij jouw organisatie, van eerste idee tot succesvolle uitvoering."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:33+00:00"
+last_updated: "2026-05-08T21:24:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
