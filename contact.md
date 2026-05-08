@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/contact"
 title: "Contact | Live Impact | 's-Hertogenbosch"
 description: "Heb je een idee voor een event? Praat met Live Impact. Bel +31 85 401 40 14 of mail hello@live-impact.nl — we denken graag met je mee."
 section: "Hoofdpagina's"
-last_updated: "2026-05-08T16:53:27+00:00"
+last_updated: "2026-05-08T21:22:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
