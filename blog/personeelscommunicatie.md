@@ -1,92 +1,87 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/personeelscommunicatie"
+title: "Personeelscommunicatie via evenementen: zo breek je door de ruis heen"
+description: "Personeelscommunicatie via evenementen? Waarom nieuwsbrieven in de prullenbak belanden en hoe een beleving je boodschap wel vastzet bij je team."
+section: "Blog"
+last_updated: "2026-05-08T16:52:10+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Medewerkers zingen samen op podium tijdens een personeelsfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36d91bf1445cd62433e2_697612f465703f2a5f4173fe_Jubileumfeest%2520MUMC%252B%2520Personeel%2520zingen%2520op%2520podium.webp)
 
-# Waarom niemand meer leest wat je stuurt
+# Personeelscommunicatie via evenementen: zo breek je door de ruis heen
 
-Je stuurt een mail over de nieuwe strategie. Je stuurt er nog een over de reorganisatie. Je plaatst iets op intranet. Je organiseert een plenaire bijeenkomst. Drie weken later weet niemand meer waar het over ging.
+Personeelscommunicatie is de basis van een goed functionerende organisatie. Mensen moeten weten wat er speelt, wat er van hen wordt verwacht en waar het bedrijf naartoe gaat. Weten ze dat niet, dan ontstaat ruis. Ruis die leidt tot onzekerheid, verminderde betrokkenheid en uiteindelijk onnodig verloop.
 
-Dat is geen luiheid van je mensen. Dat is een systeem dat niet meer werkt. Interne communicatie is decennialang gebouwd op het model van zender en ontvanger: jij schrijft, zij lezen. Maar de hoeveelheid berichten die mensen dagelijks binnenkrijgen, heeft dat model achterhaald. Per dag tweehonderd, driehonderd, soms meer berichten. Vergaderuitnodigingen, klantmails, meldingen van berichtenapps, nieuwsbrieven van tools die je ooit hebt aangemeld. Jouw strategiemail verdwijnt daartussen.
+Evenementen zijn een van de krachtigste instrumenten voor interne communicatie. Ze brengen mensen samen en geven leiding de kans om de strategie persoonlijk toe te lichten. Daarnaast creëren ze een gemeenschappelijke beleving die tekst en e-mail nooit kunnen evenaren.
 
-En dan krijg je een merkwaardig effect: hoe belangrijker de boodschap, hoe groter de kans dat hij verdwijnt. Belangrijke boodschappen zijn vaak lang, gelaagd en vragen bedachtzaamheid. Precies het type mail dat de ontvanger opzijlegt voor straks. En straks komt er altijd een vergadering tussendoor.
+Bij Live Impact organiseren we evenementen die personeelscommunicatie omzetten in beleving. Van de jaarlijkse kick-off die de strategie voor het nieuwe jaar presenteert tot de teamdag die afdelingen verbindt. Het principe is steeds hetzelfde: maak de boodschap voelbaar, niet alleen begrijpelijk.
 
-De oplossing zit niet in beter schrijven. Die zit in een ander kanaal. Eentje waar je mensen wél stoppen met scrollen, niet omdat ze moeten maar omdat ze willen. Een kanaal dat actief aandacht vraagt in plaats van passief doorheen scrollen. Dat kanaal bestaat: het heet een evenement.
+## Waarom live communicatie werkt waar tekst faalt
 
-## Wat een beleving doet wat een mail niet kan
+Een CEO die voor zijn team staat en de koers van het bedrijf uitlegt, heeft een andere impact dan een e-mail. De directheid, de lichaamstaal, de vragen die gesteld kunnen worden: dat creëert begrip en betrokkenheid die tekst alleen niet haalt.
 
-Een evenement is geen versierde nieuwsbrief. Het is een fundamenteel ander type communicatie. Je bent niet aan het zenden. Je bouwt een gedeelde ervaring waarin de boodschap is verwerkt.
+Onderzoek toont keer op keer aan dat medewerkers informatie beter verwerken en onthouden als ze die persoonlijk hebben gehoord. Geen opsomming in een nieuwsbrief, maar een verhaal dat iemand vertelt die ze kennen en vertrouwen.
 
-Een voorbeeld. Een organisatie fuseert twee afdelingen die al jaren los van elkaar opereren. Ze kunnen een mail sturen met het nieuwe organigram. Ze kunnen ook een plenaire bijeenkomst organiseren waarbij de directie het uitlegt. Of ze organiseren een avond waarop de twee afdelingen samen koken, letterlijk, in één keuken, met elkaar. Na afloop heeft niemand meer een uitleg nodig om te snappen dat die afdelingen nu één zijn. Dat hebben ze net met hun eigen handen gedaan.
+Evenementen die gericht zijn op personeelscommunicatie, geven bovendien ruimte voor dialoog. Zenden én ontvangen. Medewerkers die zich gehoord voelen, zijn meer betrokken. Betrokken medewerkers presteren beter en vertrekken minder snel.
 
-Dat is het verschil. Een mail vertelt iets. Een beleving laat het gebeuren. Je mensen dragen die ervaring de volgende werkdag mee naar hun bureau. Zes maanden later weten ze het nog, omdat ze er zelf deel van waren.
+## De vier pijlers van effectieve communicatiegebeurtenissen
 
-Dit is geen gevoel maar gedragswetenschappelijk onderbouwd. Mensen onthouden gemiddeld tien procent van wat ze lezen, dertig procent van wat ze zien en zeventig procent van wat ze zelf meemaken. Als je een boodschap wilt verankeren bij je mensen, is lezen de minst effectieve optie van de drie. Toch is het de manier waarop de meeste organisaties hun interne communicatie inrichten.
+**Duidelijke boodschap.** Wat is het éne ding dat iedereen moet meenemen? Niet tien thema's, maar één helder verhaal. De beste communicatie-evenementen bouwen alles op rond één centrale boodschap.
 
-## De kernvraag: wat moeten ze woensdagochtend zeggen?
+**Persoonlijk contact.** Directie die rondloopt, vragen beantwoordt en echt in gesprek gaat. Dat is onvervangbaar. Een evenement dat de afstand tussen leiding en medewerkers verkleint, doet meer voor de cultuur dan tien intranetberichten.
 
-Bij elk intern evenement stellen we dezelfde vraag: wat moeten je mensen de dag erna bij de koffieautomaat zeggen? Niet over het eten, niet over de zaal, maar over de boodschap.
+**Verhalende structuur.** Mensen onthouden verhalen, geen feiten. Bouw je communicatiemoment op als een verhaal met een begin, een midden en een einde: waar komen we vandaan, waar staan we nu en waar gaan we naartoe.
 
-Als je dat zinnetje kunt formuleren, heb je de kern. "We gaan niet meer werken als twee kampen, we zijn één bedrijf." "We weten nu waarom dit besluit noodzakelijk was." "We gaan volgend jaar dit bereiken en we staan er samen voor." Die ene zin is de boodschap die het evenement moet overbrengen. Alles wat je daarna bouwt, moet terugslaan op die zin.
+**Ruimte voor reactie.** Plan altijd tijd in voor vragen, discussie of een informeel moment na de plenaire sessie. Medewerkers die kunnen reageren, voelen zich serieus genomen.
 
-Wat we een mechanisme noemen is niet een thema, niet een sfeer, maar de manier waarop mensen de boodschap gaan meemaken. Een mechanisme is altijd concreet: samen koken, samen een probleem oplossen, samen iets bouwen, samen reageren op een dilemma. De boodschap zit verstopt in wat ze doen, niet in wat ze horen.
+## Opzetten voor interne communicatie-evenementen
 
-Een goede test is of je het mechanisme in één zin kunt uitleggen. "We laten de twee afdelingen samen koken" is helder. "We maken een inspirerend evenement over verbinding" is geen mechanisme, dat is een wens zonder vorm. Het verschil is precies het verschil tussen een avond die beklijft en een avond die leuk was maar twee weken later vergeten is.
+**Kick-off of jaarstart.** Dit is de meest gebruikte opzet. Denk aan de strategie voor het nieuwe jaar, de resultaten van het vorige jaar en inspiratie voor wat komen gaat. Het werkt het beste als het programma verder gaat dan dia's en presentaties.
 
-## Drie formats die personeelscommunicatie wél laten landen
+**Plenaire bijeenkomst.** Dit is een bijeenkomst waarbij de directie aan het woord is en medewerkers vragen kunnen stellen. Die kan klein zijn (voor een team) of groot (voor de hele organisatie). Eerlijkheid en openheid zijn de sleutels tot succes.
 
-Niet elke boodschap past bij elk format. Drie formats zetten we regelmatig in voor uiteenlopende vraagstukken op het gebied van personeelscommunicatie.
+**Afdelingsbijeenkomst.** Deze bijeenkomst is gericht op een specifiek team of afdeling, met meer diepgang en meer mogelijkheid voor tweerichtingscommunicatie. Dit is ideaal bij reorganisaties, nieuwe werkwijzen of verandertrajecten.
 
-Het dilemma-evenement werkt goed voor gedragsverandering. Je wilt dat mensen anders gaan denken of handelen, maar je kunt dat niet afdwingen via een presentatie. Zet ze in scenario's waar ze keuzes moeten maken, in groepjes, live, met consequenties die voelbaar zijn. Ze komen weg met nieuwe inzichten en, minstens zo belangrijk, met collega's als meedenkers. Dit format werkt bij strategie-implementatie, veranderingstrajecten en cultuurprogramma's.
+**Hybride communicatie-evenement.** Dit format is geschikt voor organisaties met meerdere vestigingen of thuiswerkers. Combineer een live bijeenkomst met een professionele online uitzending zodat iedereen meedoet, ongeacht de locatie.
 
-De maak-middag werkt goed als je samenwerking tussen teams of afdelingen wilt versterken. Geef mensen samen iets te bouwen: een prototype, een presentatie, een maaltijd, een optreden. De samenwerking volgt vanzelf uit de taak. Dit format werkt bij fusies, reorganisaties en momenten waarop kruisbestuiving tussen teams gewenst is maar niet vanzelf ontstaat.
+## Veelgemaakte fouten bij communicatie-evenementen
 
-Het verhaalmoment werkt goed als je betekenis wilt toevoegen aan een mijlpaal, een afscheid of een nieuwe richting. Bouw een programma rond echte verhalen, van klanten, van mensen op de werkvloer, van iemand die er al vijfentwintig jaar zit. Niet een presentatie met aandachtspunten maar mensen die spreken over wat er werkelijk is gebeurd en wat het voor hen betekent. Dit format werkt bij jubilea, afscheidsmomenten en strategie-aftrappen.
+**Te veel informatie in te weinig tijd.** Een programma dat van 09:00 tot 17:00 gevuld is met presentaties, verliest het publiek na het eerste uur. Kies voor kwaliteit boven kwantiteit. Liever drie boodschappen die landen dan tien die vergeten worden.
 
-## De meest gemaakte fout: één moment is niet genoeg
+**Eenrichtingsverkeer.** Een evenement waarbij medewerkers alleen komen luisteren, mist de kans op echte verbinding. Bouw interactie in: stemrondes, vragenrondes, tafelgesprekken, kleine groepssessies.
 
-De meest gemaakte fout bij intern communiceren via evenementen is denken dat één moment voldoende is. Je houdt een bijeenkomst, je geeft een goede presentatie, je gaat naar huis. Drie weken later heeft de helft van je mensen het gevoel dat er niets is veranderd.
+**Slechte planning.** Een communicatie-evenement over een reorganisatie plant je niet een week voor de vakantie. En een jaarstart-kick-off in december werkt minder goed dan een in januari. Het juiste moment kiezen is óók communicatie.
 
-Dat is geen fout van de mensen. Dat is een architectuurfout in hoe je het evenement hebt neergezet. Één moment is het startschot, niet de finish. Goede personeelscommunicatie werkt met een golfbeweging: het evenement is de piek, maar daarvoor loopt er al maanden iets, en daarna blijft er iets doorlopen.
+**Geen opvolging.** Wat gebeurt er na het evenement? Een samenvatting, een opname, een actieplan: de opvolging bepaalt of de boodschap echt landt of verdampt bij de deur.
 
-Vóór het evenement: teasers die nieuwsgierigheid wekken, vragen die je alvast stelt aan medewerkers, een eerste pre-evenementmoment waarin je al een laag opheft. Dit bouwt verwachting op en zorgt dat mensen niet blanco binnenlopen. Ná het evenement: concrete vervolgacties die aansluiten op wat er gezegd en gedaan is, een terugblik in beeld, een ritme van opvolging dat de boodschap levend houdt.
+## Personeelscommunicatie via evenementen: praktisch georganiseerd
 
-Zonder dat ritme sterft de boodschap na een week. Je hebt dan een leuk feestje gehad, maar geen verandering geborgd. Denk van tevoren na over het hele traject, niet alleen de dag zelf. Dit is ook een van de redenen waarom een evenementenbureau meerwaarde biedt bij interne communicatievraagstukken: wij denken in trajecten, niet in losstaande evenementen.
+Live Impact organiseert communicatie-evenementen voor bedrijven van 20 tot 2.000+ medewerkers. We denken mee over de inhoud: wat is de boodschap en hoe vertel je die het best. Over de opzet: welk type evenement past bij het doel. En over de uitvoering: hoe zorg je dat het soepel verloopt.
 
-## Meten: werkt het? En hoe zie je dat?
+We zijn geen communicatiebureau, maar we begrijpen communicatie. We weten hoe je een verhaal opbouwt dat mensen meeneemt. Hoe je energie creëert in een zaal van 500 mensen. En hoe je een boodschap zo verpakt dat mensen hem onthouden.
 
-Personeelscommunicatie meten is moeilijker dan de conversie van een marketingcampagne meten. Toch is het belangrijk te weten of het heeft gewerkt, niet alleen voor de verantwoording maar ook om te leren voor de volgende keer.
+## Klaar om je personeelscommunicatie te versterken?
 
-De meest gebruikte meting is een bevraging vlak voor en na het evenement: een betrokkenheidsscore, een beoordeling, een korte peiling. Dat is nuttig en makkelijk te organiseren, maar het vertelt alleen het halve verhaal. Mensen zijn na een goed evenement enthousiast. Of dat enthousiasme drie maanden later nog geluid maakt, zie je niet in een vragenlijst van de dag daarna.
+Een goed communicatie-evenement kan het verschil maken tussen medewerkers die de strategie begrijpen en medewerkers die hem beleven. Dat is geen semantisch onderscheid. Dat is het verschil tussen een organisatie die beweegt en een organisatie die stilstaat.
 
-Beter meetbaar is gedragsverandering. Spreken mensen elkaar meer aan? Worden er meer samenwerkingen opgezet tussen teams die normaal los van elkaar werken? Gebruiken mensen de taal die je tijdens het evenement hebt geïntroduceerd als ze over hun werk praten? Dat zijn de signalen die laten zien of de boodschap werkelijk is geland.
-
-Een praktische manier om dit te volgen: spreek drie maanden na het evenement met tien mensen van de werkvloer. Niet via een formulier, maar in een echt gesprek. Wat is er blijven hangen? Wat merken ze van de verandering? Waar lopen ze tegenaan? Die gesprekken leveren echte inzichten op, en tegelijkertijd verhalen en signalen waarmee je het volgende moment kunt bouwen.
-
-## Klaar om je boodschap wel te laten landen?
-
-Personeelscommunicatie is geen zend-probleem, het is een beleefprobleem. Als je mensen ophouden te lezen wat je stuurt, stop dan met alleen maar sturen.
-
-Live Impact helpt organisaties om de boodschappen die ertoe doen te vertalen naar ervaringen die blijven hangen. We beginnen altijd met de vraag: wat moeten je mensen de dag erna tegen elkaar zeggen? Daarna bedenken we het mechanisme dat dat mogelijk maakt.
-
-Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl) voor een vrijblijvend gesprek.
+Bel [085 401 40 14](tel:+31854014014), mail [hello@live-impact.nl](mailto:hello@live-impact.nl) of stuur een briefing via [live-impact.nl/briefing](/briefing). We denken graag mee.
 
 *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
 Kan Live Impact een medewerkersevenement voor ons organiseren?
 
-Ja, medewerkersevenementen zijn een van de kerndisciplines van Live Impact. We werken voor organisaties van 30 tot 5.000 medewerkers, in alle sectoren. Van een informele teamdag in een Brabantse schuur tot een groot personeelsfeest in een stadshal — we pakken het volledig op.
+Ja, medewerkersevenementen zijn een van de kerndisciplines van Live Impact. We werken voor organisaties van 30 tot 5.000 medewerkers, in alle sectoren. Van een informele teamdag in een Brabantse schuur tot een groot personeelsfeest in een stadshal: we pakken het volledig op.
 
 Dat betekent: concept, locatiescouting, programma, entertainment, catering, technische productie en begeleiding op de dag zelf. We zijn gewend om te werken met interne stakeholders, OR-betrokkenheid en de complexiteit van grote groepen. Benieuwd wat we voor jouw organisatie kunnen doen? Neem contact op via live-impact.nl of bel ons direct.
 
@@ -94,15 +89,15 @@ Dat betekent: concept, locatiescouting, programma, entertainment, catering, tech
 
 Welke vormen van medewerkersevenementen zijn er?
 
-Medewerkersevenementen kennen vele vormen. De meest voorkomende zijn: de jaarlijkse personeelsavond (feest, diner, entertainment), de kick-off of strategiedag (nieuwe periode, nieuwe koers), de teambuilding of teamdag (samenwerking, verbinding), de familiedag (medewerkers + gezin, laagdrempelig en breed), de vitaliteits- of welzijnsdag (gezondheid, duurzame inzetbaarheid) en het jubileumevenement (bedrijfsjubileum of medewerkersjubileum).
+Medewerkersevenementen kennen vele vormen. Denk aan de personeelsavond, de kick-off of strategiedag, en de teambuilding of teamdag. Andere veelgebruikte formats zijn de familiedag, de vitaliteits- of welzijnsdag en het jubileumevenement.
 
-De keuze voor een format hangt af van het doel. Wil je vieren, verbinden, informeren of activeren? Dat bepaalt het format — en daarmee de locatie, het programma en de toon van de avond.
+De keuze voor een format hangt af van het doel. Wil je vieren, verbinden, informeren of activeren? Dat bepaalt het format en daarmee de locatie, het programma en de toon van de avond.
 
 **[Lees ons complete artikel over medewerkersevenement organiseren →](/blog/medewerkersevenement-organiseren)**
 
 Hoeveel tijd heb je nodig om een medewerkersevenement te organiseren?
 
-Voor een medewerkersevenement voor 50 tot 200 personen reken je op 6 tot 12 weken voorbereidingstijd. De eerste weken gaan op aan het vaststellen van het format, datum en locatiekeuze. Daarna volgt programma-uitwerking, catering, communicatie naar medewerkers en technische productie.
+Voor een medewerkersevenement voor 50 tot 200 personen reken je op 6 tot 12 weken voorbereidingstijd. De eerste weken gaan op aan het vaststellen van het format, datum en locatiekeuze. Daarna volgen programma-uitwerking, catering, communicatie naar medewerkers en technische productie.
 
 Voor grotere evenementen (500+) of bijzondere locaties is 16 weken een realistischere norm. Onderschat de interne communicatie niet: uitnodigingen, aanmeldingen en updates kosten meer tijd dan je denkt. Een bureau als Live Impact neemt het volledige projectmanagement uit handen, zodat jij je op je eigen rol kunt concentreren.
 
@@ -110,7 +105,7 @@ Voor grotere evenementen (500+) of bijzondere locaties is 16 weken een realistis
 
 Wat kost een medewerkersevenement organiseren?
 
-De kosten van een medewerkersevenement liggen ruwweg tussen €50 en €200 per persoon, afhankelijk van format, locatie, catering en programma. Een informele teamdag met activiteit en lunch zit al rond €50-€75 per persoon. Een avondprogramma met diner, entertainment en locatiehuur loopt richting €120-€200 per persoon.
+De kosten van een medewerkersevenement liggen ruwweg tussen €50 en €200 per persoon, afhankelijk van format, locatie, catering en programma. Een informele teamdag met activiteit en lunch zit al rond €50 tot €75 per persoon. Een avondprogramma met diner, entertainment en locatiehuur loopt richting €120 tot €200 per persoon.
 
 Voor een volledig verzorgd evenement voor 150 medewerkers reken je al snel op een totaalbudget van €15.000 tot €30.000. De grote variabele is de locatie: een eigen bedrijfsterrein is veel goedkoper dan een externe evenementenlocatie met exclusieve catering. Live Impact geeft altijd een transparante budgetopbouw vooraf.
 
@@ -118,15 +113,11 @@ Voor een volledig verzorgd evenement voor 150 medewerkers reken je al snel op ee
 
 Wat is het verschil tussen een medewerkersevenement en een personeelsfeest?
 
-Een personeelsfeest is primair gericht op vieren en ontspanning — denk aan een jaarlijkse feestavond. Een medewerkersevenement heeft een bredere scope: het kan een feest zijn, maar ook een kick-off, een teamdag, een vitaliteitsdag of een interne conferentie.
+Een personeelsfeest is primair gericht op vieren en ontspanning. Denk aan een jaarlijkse feestavond. Een medewerkersevenement heeft een bredere scope. Het kan een feest zijn, maar ook een kick-off, een teamdag, een vitaliteitsdag of een interne conferentie.
 
-Het onderscheid zit in de intentie. Een personeelsfeest motiveert via plezier. Een medewerkersevenement verbindt plezier met een organisatiedoel: cultuurversterking, strategie-uitrol, onderlinge verbinding of waardering. Voor beide formats geldt: een sterke beleving maakt het verschil tussen een avond die iedereen snel vergeet en een moment dat weken nakomt.
+Het onderscheid zit in de intentie. Een personeelsfeest motiveert via plezier. Een medewerkersevenement verbindt plezier met een organisatiedoel: cultuurversterking, strategie-uitrol, onderlinge verbinding of waardering. Voor beide formats geldt: een sterke beleving maakt het verschil. Dat is het verschil tussen een avond die iedereen snel vergeet en een moment dat weken nakomt.
 
 **[Lees ons complete artikel over medewerkersevenement organiseren →](/blog/medewerkersevenement-organiseren)**
-
-Staat je vraag er niet bij?
-
-[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
