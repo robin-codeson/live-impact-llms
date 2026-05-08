@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-personen-teambuilding"
 title: "Hoeveel personen passen bij teambuilding?"
 description: "Teambuilding werkt het best in groepen van 8 tot 50 personen. Kleine groepen (8-15 personen) lenen zich goed voor reflectieve en taakgerichte teambuilding, de dynamieken zijn intenser en persoonlijker. Middelgrote groepen (15-30 personen) zijn ideaal voor de meeste activiteitenvormen. Grote groepen "
 section: "FAQ"
-last_updated: "2026-05-08T17:02:50+00:00"
+last_updated: "2026-05-08T21:23:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
