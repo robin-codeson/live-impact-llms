@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-origineel-jubileumfeest"
 title: "Kan Live Impact helpen bij een origineel jubileumfeest?"
 description: "Ja. Live Impact werkt aan zakelijke evenementen die blijven hangen. We helpen bij het uitwerken van het concept: thema, entertainment, timing, volgorde. We scouten de juiste locatie, boeken entertainment dat past bij jouw verhaal en regelen de volledige techniek en logistiek. Van een intiem diner vo"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:54+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
