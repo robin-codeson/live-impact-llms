@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/nominatie-stemming-awards"
 title: "Hoe organiseer je de nominatie en stemming voor awards?"
 description: "Begin met een helder nominatieproces: stel categorieën vast en maak een online nominatieformulier. Laat nominaties indienen door medewerkers, leidinggevenden of klanten. Stel een jury samen voor de eindafweging of laat het publiek stemmen via een live poll tijdens de avond. Maak de genomineerden voo"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:45+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
