@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eventformats-zorgmedewerkers"
 title: "Welke evenementformats werken het beste voor zorgmedewerkers?"
 description: "Vier formats werken goed in de zorgsector. Een personeelsfeest biedt jaarlijkse erkenning en ontspanning. Een teamdag of teambuilding zorgt voor onderlinge verbinding. Vermijd daarbij te competitieve activiteiten. Een jubileumviering verbindt mensen via het verhaal van de organisatie. Een themabijee"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:21+00:00"
+last_updated: "2026-05-08T21:23:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
