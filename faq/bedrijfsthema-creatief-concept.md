@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bedrijfsthema-creatief-concept"
 title: "Hoe vertaal je een bedrijfsthema naar een creatief concept?"
 description: "Begin met kernwaarden: innovatie, duurzaamheid, solidariteit? Vertaal deze naar zintuiglijke ervaringen. 'Innovatie' betekent interactieve ruimtes en plek om te experimenteren. 'Duurzaamheid' betekent circulair decor, plantaardige catering en minimaal afval. Koppel alles aan één sterke visuele ident"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:22+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
