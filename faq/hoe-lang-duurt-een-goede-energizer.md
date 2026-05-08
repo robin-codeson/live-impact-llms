@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-een-goede-energizer"
 title: "Hoe lang duurt een goede energizer?"
 description: "Een goede energizer duurt twee tot vijftien minuten. Voor congressen en formele settings zijn korte energizers van twee tot vijf minuten het meest effectief. Voor workshops en vergaderingen kun je tot tien minuten gaan met wandelvergaderingen of stille brainstorms. Voor teamdagen en bedrijfsuitjes w"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:45+00:00"
+last_updated: "2026-05-08T21:23:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
