@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/pitchvergoeding-betalen-evenementenbu
 title: "Moet ik als opdrachtgever een pitchvergoeding betalen?"
 description: "Volgens de IDEA Pitchcode is een pitchvergoeding de standaard bij professionele presentaties. Een evenementenbureau investeert 40 tot 80 uur in een volwaardige presentatie. Dat zijn twee werkweken van een senior eventmanager. Een pitchvergoeding compenseert die investering deels. De gangbare vergoed"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:45+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
