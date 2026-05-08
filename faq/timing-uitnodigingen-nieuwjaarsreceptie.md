@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/timing-uitnodigingen-nieuwjaarsrecept
 title: "Wanneer verstuur je de uitnodigingen voor een nieuwjaarsreceptie?"
 description: "Verstuur uitnodigingen voor een nieuwjaarsreceptie 4-6 weken vooraf. Dit geeft gasten tijd in hun agenda, zonder dat het evenement al weer voorbij is. Voor zeer senior doelgroepen (C-level, politici) ga je liever naar 8-10 weken. Een reminder twee weken van tevoren helpt je de inschrijvingsdeadline "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:55+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
