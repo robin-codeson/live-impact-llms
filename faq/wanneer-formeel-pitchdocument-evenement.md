@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-formeel-pitchdocument-eveneme
 title: "Wanneer heb ik een formeel pitchdocument nodig voor een evenement?"
 description: "Een formeel pitchdocument is relevant bij evenementen met een budget boven de €25.000. Ook als je meerdere bureaus wilt vergelijken, bij formele inkoopprocessen of aanbestedingsregels. Of bij complexe evenementen met meerdere doelgroepen en programmaonderdelen. Voor een klein teamuitje of bedrijfsbo"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:53+00:00"
+last_updated: "2026-05-08T21:24:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
