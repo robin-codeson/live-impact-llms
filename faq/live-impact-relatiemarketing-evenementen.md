@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-relatiemarketing-evenemen
 title: "Kan Live Impact relatiemarketing evenementen voor ons organiseren?"
 description: "Ja. Live Impact organiseert relatie-evenementen voor bedrijven die hun klantrelaties serieus nemen. Wij denken mee over de strategie én de uitvoering: locatieselectie, programma, gastheerschap, catering en sfeer. Een goed relatie-evenement voelt niet als een evenement. Het voelt als een persoonlijk "
 section: "FAQ"
-last_updated: "2026-05-08T17:10:08+00:00"
+last_updated: "2026-05-08T21:24:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
