@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/familiedag"
 title: "De familiedag als HR-instrument"
 description: "Familiedag voor je bedrijf organiseren? Een dag die medewerkers én hun gezin bijblijft. Serieus Leuk."
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:18+00:00"
+last_updated: "2026-05-08T21:22:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
