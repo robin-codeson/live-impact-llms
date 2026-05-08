@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-influencer-evenement-merkact
 title: "Wat is het verschil tussen een influencer evenement en een merkactivatie?"
 description: "Een merkactivatie richt zich op een breed publiek en draait om het ervaren van je merk in een fysieke omgeving. Denk aan een pop-up, een festivalstand of een interactieve installatie op straat. Een influencer evenement richt zich op een selecte groep contentmakers en is ontworpen om social media con"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:44+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
