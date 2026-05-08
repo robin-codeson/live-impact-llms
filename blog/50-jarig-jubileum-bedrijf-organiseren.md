@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/50-jarig-jubileum-bedrijf-organisere
 title: "Waarom 50 jaar een andere categorie is"
 description: "50 jaar jubileum organiseren? Alles over aanpak, planning, budget en PR voor een gouden jubileum dat generaties verbindt. Aanpak van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:16+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
