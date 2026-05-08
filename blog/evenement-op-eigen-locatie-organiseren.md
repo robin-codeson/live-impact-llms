@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-op-eigen-locatie-organiser
 title: "Je eigen pand als evenementenlocatie: het werkt, maar vraagt voorbereiding"
 description: "Evenement op je eigen locatie organiseren? Zo transformeer je je bedrijfspand naar een evenementenruimte."
 section: "Blog"
-last_updated: "2026-05-08T16:50:17+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
