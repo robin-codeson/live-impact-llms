@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/relatiedag-organiseren"
 title: "Een relatiedag is geen feestje, het is een investering"
 description: "Relatiedag organiseren? Bekijk hoe je een originele relatiedag bouwt: locatie, programma en concept voor 20 tot 500 relaties. Vraag een voorstel aan."
 section: "Blog"
-last_updated: "2026-05-08T16:52:30+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
