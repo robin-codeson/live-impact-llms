@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-foto-video-evenement"
 title: "Regelt Live Impact ook foto en video bij evenementen?"
 description: "Ja, Live Impact regelt professionele foto en video bij alle zakelijke evenementen. We werken met een netwerk van gecertificeerde fotografen en videomakers die gespecialiseerd zijn in zakelijke evenementen. Ons team coördineert de volledige productie: van briefing en locatieverkenning tot nabewerking"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:15+00:00"
+last_updated: "2026-05-08T21:24:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
