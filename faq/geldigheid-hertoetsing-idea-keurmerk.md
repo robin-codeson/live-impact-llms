@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/geldigheid-hertoetsing-idea-keurmerk"
 title: "Hoe lang is het IDEA-keurmerk geldig en wordt het opnieuw getoetst?"
 description: "Het keurmerk is drie jaar geldig. Daarna volgt een volledige hertoetsing volgens dezelfde structuur als de eerste toetsing. Dossier, audit, besluit. Tussendoor vraagt IDEA jaarlijks een update van de financiële kerncijfers en klanttevredenheidsdata. Bij ernstige tekortkomingen kan het keurmerk worde"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:04+00:00"
+last_updated: "2026-05-08T21:23:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
