@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/personeelsfeest-laten-organiseren-ver
 title: "Wat is het verschil tussen een personeelsfeest laten organiseren en zelf organiseren?"
 description: "Bij zelf organiseren doet je office manager of HR alles: locatiekeuze, leveranciers, draaiboek, event-dag regie. Reken op 150 tot 300 uur werk verspreid over drie maanden. Bij uitbesteden houd je één ding in eigen beheer (meestal: concept, gastenlijst, interne communicatie), en besteed je de product"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:44+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
