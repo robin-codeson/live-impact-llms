@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-openingsfeest-bedrijfsopenin
 title: "Wat is het verschil tussen een openingsfeest en een bedrijfsopening?"
 description: "Een bedrijfsopening is het brede moment waarop een bedrijf of vestiging officieel start. Een openingsfeest is specifiek het feestelijke publieksmoment rond dat punt. Een bedrijfsopening kan ook stil, intern of puur zakelijk zijn. Een openingsfeest nodigt bezoekers uit om de plek te ervaren. Klanten,"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:13+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
