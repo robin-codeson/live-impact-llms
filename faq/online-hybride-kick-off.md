@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/online-hybride-kick-off"
 title: "Kun je een kick-off ook online of hybride organiseren?"
 description: "Ja, een online of hybride kick-off kan goed werken, mits je het zorgvuldig aanpakt. Het vergt meer aandacht voor interactie: online deelnemers haken af als ze alleen maar toekijken. Zorg voor break-outsessies, polls, chat-activatie en een sterke host die beide werelden verbindt. Live Impact heeft er"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:02+00:00"
+last_updated: "2026-05-08T21:24:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
