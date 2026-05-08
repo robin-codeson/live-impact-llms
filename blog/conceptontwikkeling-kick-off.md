@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/conceptontwikkeling-kick-off"
 title: "Waarom de meeste kick-offs niet blijven hangen"
 description: "Conceptontwikkeling voor een kick-off. Zo maak je van een jaarstart een moment waarop het team vertrekt met dezelfde richting, niet met een PowerPoint-kater."
 section: "Blog"
-last_updated: "2026-05-08T16:49:45+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
