@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-wervingsevent-hoe-vroeg"
 title: "Hoe vroeg van tevoren moet je een wervingsevent plannen?"
 description: "Plan een wervingsevent minimaal vier tot acht weken van tevoren. Die tijd heb je nodig voor de communicatie: een aankondiging moet vroeg genoeg komen zodat kandidaten de dag kunnen reserveren. Voor grotere wervingsevenementen met meerdere doelgroepen of externe locaties, begin je bij voorkeur twee t"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:58+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
