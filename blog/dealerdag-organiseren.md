@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/dealerdag-organiseren"
 title: "Dealerdagen die je partnernetwerk écht activeren"
 description: "Dealerdag organiseren? Van format tot locatie en ROI: zo maak je van een dealerdag een partneractivatie die werkt."
 section: "Blog"
-last_updated: "2026-05-08T16:49:56+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
