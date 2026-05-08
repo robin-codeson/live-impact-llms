@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kanalen-evenement-communicatie"
 title: "Welke kanalen gebruik je voor evenement-communicatie?"
 description: "Voor eventcommunicatie heb je verschillende kanalen. Mail is krachtig voor conversie. LinkedIn werkt goed voor professionals, Facebook voor een breder en ouder publiek. Je eigen eventwebsite is de centrale plek. Posters en affiches zijn ideaal voor lokale zichtbaarheid. Een WhatsApp-groep bindt aang"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:19+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
