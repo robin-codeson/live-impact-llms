@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/decoratietrends-zakelijke-evenementen
 title: "Welke decoratietrends zijn populair bij zakelijke evenementen?"
 description: "De grote trend in zakelijke evenementdecoratie gaat van showelement naar beleving. Duurzame materialen als hout, linnen en verse bloemen vervangen plastic en folie. Lichtinstallaties, van warme sfeerverlichting tot lichtprojecties, transformeren ruimtes zonder fysieke ingreep. Minimalistische opstel"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:13+00:00"
+last_updated: "2026-05-08T21:22:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
