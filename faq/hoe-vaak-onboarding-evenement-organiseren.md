@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-vaak-onboarding-evenement-organis
 title: "Hoe vaak moet je een onboarding-evenement organiseren?"
 description: "Zo regelmatig als de instroom van nieuwe medewerkers dat vraagt, maar in ieder geval minimaal elk kwartaal. Nieuwe medewerkers die meer dan zes weken na hun start moeten wachten, zijn al geïntegreerd (of vertrokken). De ideale timing is binnen de eerste twee tot vier weken na de startdatum."
 section: "FAQ"
-last_updated: "2026-05-08T17:01:56+00:00"
+last_updated: "2026-05-08T21:23:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
