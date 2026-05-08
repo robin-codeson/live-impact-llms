@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-symposium-organiseren"
 title: "Kan Live Impact een symposium voor ons organiseren?"
 description: "Ja. Live Impact organiseert symposia voor beroepsorganisaties, kenniscentra, universiteiten en bedrijven die thought leadership willen claimen. Wij helpen met de volledige uitvoering: van locatieselectie en sprekercoördinatie tot dagcoördinatie en technische productie. We beginnen altijd bij je doel"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:26+00:00"
+last_updated: "2026-05-08T21:24:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
