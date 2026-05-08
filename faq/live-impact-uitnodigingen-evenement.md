@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-uitnodigingen-evenement"
 title: "Kan Live Impact helpen met uitnodigingen voor mijn evenement?"
 description: "Ja, wij bouwen het hele uitnodigingstraject als campagne. Van save-the-date tot herinnering op de dag zelf. We schrijven teksten, ontwerpen de visuele lijn, adviseren over kanalen en monitoren de aanmeldingen. Als de conversie achterblijft, sturen we bij met andere tekst, ander kanaal of andere timi"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:35+00:00"
+last_updated: "2026-05-08T21:24:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
