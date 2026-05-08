@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-marketing"
 title: "Kan Live Impact helpen met evenement marketing?"
 description: "Ja. Live Impact organiseert zakelijke evenementen waarbij de marketingdoelstelling van het evenement even zwaar weegt als het programma. Dat betekent: concept en productie én pre-event promotieadvies, contentstrategie op de dag en post-event opvolging. We denken mee over hoe het evenement bijdraagt "
 section: "FAQ"
-last_updated: "2026-05-08T17:08:38+00:00"
+last_updated: "2026-05-08T21:23:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
