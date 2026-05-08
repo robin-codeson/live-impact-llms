@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/prijsuitreiking-zakelijke-uitstraling
 title: "Hoe geef je een prijsuitreiking een zakelijke uitstraling?"
 description: "Een prijsuitreiking geeft zakelijke uitstraling door deze elementen. 1) Locatie: kies een zakelijke of formele omgeving, zoals een theater, congrescentrum of hotelzaal, en niet een café. 2) Kledingvoorschrift: geef duidelijk aan (smoking, zakelijk-formeel) en zorg dat gasten beter gekleed zijn dan n"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:08+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
