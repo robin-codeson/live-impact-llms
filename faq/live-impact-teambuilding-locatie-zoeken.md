@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-teambuilding-locatie-zoek
 title: "Helpt Live Impact bij het zoeken naar een teambuilding locatie?"
 description: "Ja. Wij kennen teambuilding locaties in Nederland op programmatisch niveau, niet alleen op papier. We weten welke locaties flexibel zijn in gebruik en goed cateren voor grote groepen. Ook kennen we de locaties met de juiste sfeer voor jouw programma. Op basis van doel, groepsgrootte, regio en budget"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:28+00:00"
+last_updated: "2026-05-08T21:24:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
