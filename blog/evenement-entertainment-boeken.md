@@ -1,112 +1,91 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/evenement-entertainment-boeken"
+title: "Entertainment boeken voor je evenement: zo kies je de acts die echt werken"
+description: "Entertainment boeken voor je evenement? Welke acts passen, wat kost het en hoe zet je het slim in."
+section: "Blog"
+last_updated: "2026-05-08T16:50:10+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Zangeres treedt op tijdens een intiem personeelsjubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36b2480c3f7c1a5bd33c_697652e1fabc6a2180461836_Alrijne%2520Jubuleumfeest%2520-%2520Entertainment%2520Erica%2520Groeneveld.webp)
 
-# Waarom entertainment je evenement maakt of breekt
+# Entertainment boeken voor je evenement: zo kies je de acts die echt werken
 
-Entertainment is geen extraatje. Het is het hart van je evenement. Het bepaalt de energie, de sfeer en de herinneringen die gasten mee naar huis nemen.
+Entertainment is geen extraatje. Het is het hart van je evenement. Het bepaalt de sfeer en de energie. Plus de herinneringen die gasten mee naar huis nemen.
 
-De juiste act op het juiste moment kan een avond transformeren. Een sterke opening die direct de aandacht pakt. Een interactief moment dat mensen verbindt. Een band die de dansvloer tot de rand vult. Of een intiem akoestisch moment dat je boodschap laat landen.
+De juiste act op het juiste moment kan een avond transformeren: een sterke opening die de aandacht pakt, een interactief moment dat mensen verbindt. Of een persoonlijk akoestisch moment dat je boodschap laat landen.
 
-Toch wordt entertainment bij de meeste evenementen als laatste ingevuld. “We zoeken nog een bandje.” Terwijl het een van de eerste keuzes zou moeten zijn — want entertainment bepaalt de opbouw en energie van je hele programma.
-
-Entertainment boeken is meer dan een naam googelen en een offerte aanvragen. Het gaat om de vraag welke emotie je wilt oproepen. Wat moeten gasten voelen als ze de zaal verlaten? Trots? Energie? Verbondenheid? Dat antwoord bepaalt het type act, de timing, het budget en de manier waarop entertainment in het programma past.
-
-Goed entertainment is onzichtbaar in de zin dat gasten er niet over nadenken — ze voelen het gewoon. Slecht entertainment valt op. Dat is het verschil tussen een avond die lang nawerkt en een avond die iedereen liever vergeet.
+Toch wordt entertainment vaak als laatste ingevuld: 'we zoeken nog een bandje.' Dat had allang beslist moeten zijn. Want entertainment bepaalt de opbouw en energie van je hele programma.
 
 ## Welk type entertainment past bij jouw evenement?
 
-Het type entertainment hangt af van je evenement, je doelgroep en je doel. Hier zijn de meest voorkomende combinaties.
+Het type entertainment hangt af van je evenement, je doelgroep en je doel.
 
-Voor een **personeelsfeest** werkt een coverband goed als je een grote groep wilt laten dansen en samenzingen. Een DJ is veelzijdig en kostenefficiënt. Wil je de avond persoonlijker maken? Kies een comedian die de bedrijfscultuur kent, of een interactieve act als icebreaker vroeg in het programma.
+**Personeelsfeest:** een coverband, dj, of een combinatie. Interactieve acts als ijsbreker. Een spectaculaire show als hoogtepunt.
 
-Bij een **relatie-evenement** ligt de lat anders. Gasten zijn relaties, opdrachtgevers of partners — mensen die je wilt imponeren en bij wie je een blijvende indruk wilt maken. Een akoestisch duo of jazztrio tijdens het diner schept sfeer zonder ten koste te gaan van het gesprek. Een spreker of entertainer die humor en inhoud combineert, maakt de avond gedenkwaardig.
+**Relatie-evenement:** een akoestisch duo tijdens het diner, een jazztrio voor sfeer, een spreker of entertainer die inhoud en humor combineert.
 
-Voor een **congres of kick-off** zet entertainment de toon. Een openingsact die de aandacht trekt en de verwachting vestigt: dit wordt een bijzondere dag. Tussendoor houden interactieve momenten de energie hoog. Na de inhoudelijke sessies markeer je de overgang naar het informele deel met een duidelijk entertainmentmoment.
+**Congres of kick-off:** een openingsact die de toon zet, energizers tussen de sessies, een muzikaal moment dat de boodschap versterkt.
 
-Bij een **gala of awards-ceremonie** is entertainment de structurele basis van de avond. Een live band tijdens het diner, spectaculaire acts als hoogtepunt en een DJ voor de afterparty zijn geen opties maar verwachtingen. Gasten bij een gala komen voor een complete beleving.
+**Gala of awards:** een live band voor diner en feest, spectaculaire acts, een dj voor de naborrel.
 
-Elk format vraagt om een andere aanpak. Wat bij een personeelsfeest werkt, werkt niet automatisch bij een directiediner. De keuze begint altijd bij wie er in de zaal zit.
+Bij Live Impact adviseren we entertainment dat past bij het concept en de doelgroep. Geen standaardlijst, maar maatwerk.
 
 ## Entertainment strategisch inzetten
 
-De beste evenementen gebruiken entertainment niet als vulling maar als strategisch middel. Het versterkt je boodschap, creërt emotie en stuurt de energie van de avond.
+De beste evenementen gebruiken entertainment niet als vulling, maar als strategisch middel. Het versterkt je boodschap, creëert emotie en stuurt de energie van de avond.
 
-Bij de **opening** zet je de toon. Een act die direct de aandacht pakt — een drummer die losbarst, een zangeres die a cappella begint, een act die gasten verrast voordat ze zijn gaan zitten — vertelt meteen: dit wordt geen gewone avond. Dat gevoel wil je de rest van de avond vasthouden.
+**Opening:** zet de toon met een act die direct de aandacht pakt. Gasten weten meteen: dit wordt bijzonder.
 
-**Tussendoor** gebruik je entertainment als verbinding tussen programmaonderdelen. Een muzikaal intermezzo van drie minuten terwijl gasten overgaan van diner naar borrelstand. Een korte interactieve act die energie toevoegt na een langere inhoudelijke sessie. Zo voorkom je de beruchte dip na de pauze.
+**Tussendoor:** gebruik entertainment als verbinding tussen programmaonderdelen. Een muzikaal intermezzo, een korte act, of een interactief moment.
 
-Het **hoogtepunt** bouw je bewust op. Gasten verwachten — bewust of onbewust — dat de avond naar een climax toewerkt. De hoofdact op het juiste moment, na een zorgvuldig opgebouwde spanning, heeft meer impact dan diezelfde act als openingsnummer. Timing is alles.
+**Hoogtepunt:** bouw het programma op naar een climax. De hoofdact op het hoogtepunt van de avond.
 
-De **afsluiting** is het laatste wat mensen meenemen. Eindig met een moment dat bijblijft. Een confetti-regen. Een gezamenlijk lied. Een finale die de avond afrondt in plaats van wegkwijnt. Mensen die tevreden en energiek naar huis rijden, vertellen dat aan anderen.
-
-Dit strategisch denken over entertainment is wat het verschil maakt tussen een programma dat logisch aanvoelt en een avond die mensen achteraf niet goed kunnen uitleggen maar toch geweldig vinden.
+**Afsluiting:** eindig met een moment dat bijblijft. Een confetti-moment, een gezamenlijk lied, of een verrassende finale.
 
 ## Waar let je op bij het boeken van entertainment?
 
-Bij het boeken van entertainment zijn er een paar zaken die bepalen of een act succesvol wordt of niet.
+**Doelgroep:** een band die perfect werkt bij een jong team, kan volledig missen bij een relatie-evenement voor directieleden. Ken je publiek.
 
-**Doelgroep** is het eerste criterium. Een band die perfect werkt bij een jong, energiek team kan volledig missen bij een relatie-evenement voor directieleden van boven de vijftig. Een comedian die in een kroeg het huis afbreekt, doet het niet automatisch goed in een formele galasfeer. Ken je publiek — niet alleen qua leeftijd maar ook qua cultuur, verwachtingen en de mate van formeel versus informeel die bij jullie past.
+**Locatie en techniek:** niet elke act past op elke locatie. Check de ruimte, het geluid, de stroomaansluiting en de podiumgrootte.
 
-**Locatie en techniek** zijn vaker bottleneck dan je denkt. Niet elke act past op elke locatie. Check de beschikbare ruimte, het podiumoppervlak, het geluidssysteem, de stroomaansluiting en de akoestiek. Een band met zes man op een podium van drie bij drie meter werkt niet. Een drummer in een locatie met slechte isolatie irriteert de buren. Vraag altijd een technische rider op.
+**Timing:** populaire acts zijn maanden van tevoren volgeboekt. Boek tijdig, vooral in het najaar.
 
-**Timing** bepaalt beschikbaarheid. Populaire acts zijn soms een half jaar van tevoren volgeboekt, zeker in het vierde kwartaal. September, oktober en november zijn de drukste maanden voor zakelijke evenementen. Boek tijdig of accepteer dat je met je tweede keus te maken hebt.
+**Referenties:** vraag om video's van eerdere optredens bij zakelijke evenementen. Een act die werkt op festivals, werkt niet automatisch bij een bedrijfsevenement.
 
-**Referenties** zijn bewijslast. Vraag om video-opnames van eerdere optredens bij zakelijke evenementen — niet festivalbeelden of horecaoptredens. Een act die feestvierders meekrijgt, werkt anders dan één die een zaal directeuren in beweging brengt.
-
-**Regie** is de bindende factor. Entertainment moet passen in het grotere programma. Een showregisseur die alle elementen coördineert, zorgt voor vloeiende overgangen en de juiste opbouw.
+**Regie:** entertainment moet passen in het grotere programma. Een goede showregisseur coördineert alle acts en zorgt voor vloeiende overgangen.
 
 ## Wat kost entertainment voor een zakelijk evenement?
 
-De kosten van entertainment variëren enorm afhankelijk van het type act, de bezetting en de bekendheid van de artiest.
+De kosten variëren enorm afhankelijk van het type act en de bekendheid:
 
-Een DJ is de meest kostenefficiënte optie. Voor een zakelijke avond betaal je doorgaans 500 tot 2.500 euro afhankelijk van ervaring en apparatuur. Een goede DJ leest de zaal, speelt op het juiste moment de juiste muziek en kan de sfeer van een avond volledig bepalen.
+**Dj:** €500 tot €2.500.  
+**Akoestisch duo/trio:** €1.000 tot €3.000.  
+**Coverband (4 tot 8 leden):** €2.500 tot €8.000.  
+**Spectaculaire act/show:** €3.000 tot €15.000.  
+**Bekende artiest:** €10.000 tot meer dan €50.000.
 
-Een akoestisch duo of trio kost doorgaans 1.000 tot 3.000 euro. Ideaal als achtergrondmuziek bij een diner of ontvangst, maar ook in staat om een klein podiummoment te verzorgen. Veelzijdig en breed inzetbaar.
-
-Een coverband met vier tot acht leden zit tussen de 2.500 en 8.000 euro. Een sterke coverband is het meest gevraagde entertainment bij personeelsfeesten en jubilea. De kwaliteit verschilt enorm — vraag altijd referenties op en bekijk opnamen van zakelijke optredens.
-
-Spectaculaire acts en shows beginnen bij 3.000 euro en kunnen oplopen tot 15.000 euro of meer. Goochelaars, acrobaten, circusartiesten of themashows. Deze acts vereisen vaak specifieke technische of ruimtelijke voorzieningen — check die altijd van tevoren.
-
-Bekende artiesten of comedians beginnen bij 10.000 euro en kennen in principe geen plafond. De toegevoegde waarde van een bekende naam is herkenning en mond-tot-mondreclame — gasten vertellen erna dat ze die artiest hebben gezien.
-
-Houd ook rekening met bijkomende kosten: technische rider, reiskosten, verblijf bij optredens op afstand en productiekosten voor licht en geluid. Die kunnen oplopen tot twintig procent van de act-prijs.
+Bij Live Impact werken we met een selectie van artiesten en acts die we door en door kennen. We weten wat ze kosten, hoe ze presteren en bij welk publiek ze het beste werken.
 
 ## De rol van een showregisseur
 
-Bij evenementen met meerdere entertainmentelementen is een showregisseur onmisbaar. Maar wat doet die precies?
+Bij evenementen met meerdere entertainment-elementen is een showregisseur onmisbaar. De showregisseur coördineert alle acts, techniek en programmaonderdelen. Hij of zij zorgt voor een vloeiende opbouw, de juiste timing en een professionele uitvoering.
 
-Een showregisseur is de architect van de avond. Hij of zij heeft het totaaloverzicht: welke act speelt wanneer, hoe lang duurt elke overgang, waar moet de techniek op voorbereid zijn, wie staat waar op welk moment. Dat klinkt logistiek, maar het is ook inhoudelijk: de showregisseur bepaalt de dramaturgie van de avond.
-
-Zonder showregisseur krijg je loszand. De band is klaar maar de presentator staat nog achter het podium te bellen. De confetti-kanonnen worden afgevuurd terwijl de directeur nog aan het woord is. De DJ begint te spelen terwijl dertig mensen nog bij het buffet staan. Kleine dingen die grote indruk maken — in de verkeerde zin.
-
-Met een goede showregisseur verloopt alles alsof het vanzelf gaat. Overgangen zijn scherp. Momenten landen op het juiste moment. Acts weten precies wanneer ze op moeten. De avond voelt als één geheel in plaats van een reeks losse onderdelen.
-
-Een showregisseur werkt altijd samen met een draaiboek dat tot op de minuut precies is. Dat draaiboek deelt hij met alle betrokken partijen: entertainment, techniek, catering, beveiliging. Zo weet iedereen wat er wanneer van hem wordt verwacht.
-
-Wij werken met vaste showregisseurs die honderden evenementen hebben begeleid. Ze kennen de valkuilen, reageren kalm op onverwachte situaties en houden de avond in de goede richting — ook als er iets niet gaat zoals gepland.
+Bij Live Impact werken we met ervaren showregisseurs die de hele avond aansturen. Dat betekent: soepele overgangen, de juiste energie op het juiste moment en geen verrassingen. Behalve in het programma.
 
 ## Klaar om entertainment te boeken dat het verschil maakt?
 
-Wij adviseren en boeken entertainment voor zakelijke evenementen van alle soorten en maten. Van een akoestisch duo bij een diner voor veertig mensen tot een volledige show met meerdere acts voor vijftienhonderd gasten.
+Bij Live Impact adviseren en boeken we entertainment dat klopt bij jullie concept en doelgroep, binnen het beschikbare budget. Van een akoestisch duo tot een volledige show: we kennen de acts die werken bij zakelijke evenementen.
 
-Wij kennen de acts die echt werken bij zakelijke evenementen. We weten wie er goed zijn, wie er betrouwbaar zijn, wie er de moeite nemen het bedrijf te leren kennen voordat ze op het podium stappen. Dat netwerk en die kennis brengen wij mee.
-
-De eerste vraag die wij stellen: wat moet er bij gasten achterblijven als de avond voorbij is? Vanuit dat antwoord kiezen wij het entertainment dat daartoe het beste bijdraagt.
-
-Bel ons op **085 401 40 14** of stuur een mail naar **hello@live-impact.nl**. We plannen een gesprek, stellen de juiste vragen en komen terug met een voorstel dat klopt.
-
-Serieus Leuk.
+Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl). Of [vul het briefingformulier in](/briefing). *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
@@ -114,7 +93,7 @@ Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
 
 Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
 
-Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij denken mee. We stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
 
 Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
 
@@ -124,15 +103,15 @@ Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
 
 Begin minimaal **drie maanden** van tevoren. Voor grote evenementen (300+ gasten, complexe productie) is **zes maanden** realistischer.
 
-De organisatie verloopt in vier fases: fundament leggen (12–10 weken), concept en partners (10–6 weken), uitwerking (6–3 weken) en uitvoering plus nazorg. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
+De organisatie verloopt in vier fases. Eerst het fundament leggen (12 tot 10 weken voor de datum), dan concept en partners (10 tot 6 weken). Vervolgens de uitwerking (6 tot 3 weken) en tot slot uitvoering plus nazorg in de laatste 3 weken. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
 
 **[Bekijk de volledige fasering in ons artikel →](/blog/bedrijfsevenement-organiseren)**
 
 Hoe schrijf je een goede briefing voor een bedrijfsevenement?
 
-Een goede briefing bevat minimaal zes elementen: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
+Een goede briefing bevat minimaal zes elementen. Dat zijn: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
 
-Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames — en dat levert een rommelig resultaat.
+Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames. Dat levert een rommelig resultaat.
 
 **[Lees het complete artikel met alle briefing-elementen →](/blog/bedrijfsevenement-organiseren)**
 
@@ -146,17 +125,11 @@ Het verschil zit in de aanpak: een personeelsfeest draait om vieren en verbinden
 
 Wat kost het om een bedrijfsevenement te organiseren?
 
-De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100 tot €300+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
-
-De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaande brackets geven de breedte aan voor een gemiddeld zakelijk evenement.
 
 **[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
-
-Staat je vraag er niet bij?
-
-[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
