@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-rotterdam-91d62
 title: "Kan Live Impact een evenement voor cultuurverandering organiseren?"
 description: "Ja. Wij ontwerpen en faciliteren evenementen die cultuurverandering in beweging zetten. Wij starten met een diagnose van de organisatiesituatie, coachen sprekers vooraf, selecteren het juiste format en verzorgen de live facilitatie. Deelnemers vertrekken met een gedeeld richtinggevoel en concrete sa"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:45+00:00"
+last_updated: "2026-05-08T21:23:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
