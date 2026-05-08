@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-jubileumreis-organise
 title: "Kan Live Impact een jubileumreis organiseren?"
 description: "Ja. Wij organiseren jubileumreizen waarbij het verhaal van het bedrijf de rode draad is. Van de eerste brainstorm over de bestemming tot de terugvlucht. Wij regelen vluchten, hotel, vervoer, programma, catering, entertainment en alle verrassingen. Voor groepen van 15 tot 80 personen, in binnen- en b"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:08+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
