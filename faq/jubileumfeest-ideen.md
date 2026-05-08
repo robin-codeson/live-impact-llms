@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/jubileumfeest-ideen"
 title: "Wat zijn ideeën voor een jubileumfeest?"
 description: "Ideeën voor een jubileumfeest zijn talrijk en afhankelijk van je doelstelling en budget. Denk aan een themafeest, familiedag met entertainment of een galadiner met gastsprekers. Ook een open dag voor klanten, een benefietconcert of een digitale viering met online onderdelen werkt goed. Wat jij ook k"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:34+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
