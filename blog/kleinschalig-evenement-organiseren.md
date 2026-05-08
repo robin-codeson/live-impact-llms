@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/kleinschalig-evenement-organiseren"
 title: "Waarom een kleinschalig evenement organiseren?"
 description: "Kleinschalig evenement organiseren? Waarom bewust klein kiezen juist grote impact heeft. Tips voor intieme setting, beleving en sterke relaties."
 section: "Blog"
-last_updated: "2026-05-08T16:51:45+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
