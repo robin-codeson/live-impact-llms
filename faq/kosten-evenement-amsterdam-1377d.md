@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-amsterdam-1377d"
 title: "Wat kost een zakelijk evenement in Amsterdam?"
 description: "De kosten voor een zakelijk evenement in Amsterdam variëren sterk per schaal. Een kleinschalige bijeenkomst voor 30 personen begint rond €3.000; een volledig geproduceerd evenement voor 200+ personen loopt al snel op naar €25.000 tot €60.000. Locatie, catering, technische productie en entertainment "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:14+00:00"
+last_updated: "2026-05-08T21:23:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
