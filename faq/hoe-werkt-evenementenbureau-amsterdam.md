@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-werkt-evenementenbureau-amsterdam
 title: "Hoe werkt een evenementenbureau in Amsterdam?"
 description: "Een evenementenbureau in Amsterdam werkt in vijf stappen: briefing, concept, presentatie, productie en uitvoering. Kennis van vergunningen en stadslogistiek is essentieel."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:14+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
