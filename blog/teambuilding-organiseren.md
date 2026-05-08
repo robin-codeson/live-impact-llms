@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/teambuilding-organiseren"
 title: "Waarom de meeste teambuilding niets verandert"
 description: "Teambuilding organiseren die meer doet dan teamleden naast elkaar zetten? Zo werkt het écht."
 section: "Blog"
-last_updated: "2026-05-08T16:52:44+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
