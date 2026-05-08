@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/origineel-5-jarig-bedrijfsjubileum-vi
 title: "Hoe vier je een 5-jarig bedrijfsjubileum op een originele manier?"
 description: "Een 5-jarig jubileum hoeft niet groots te zijn, maar origineel wel. Denk aan een pop-up evenement, een teamreis, of een jubileumconcept dat jullie bedrijfscultuur weerspiegelt."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:32+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
