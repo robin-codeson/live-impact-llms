@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/brand-activation-evenement"
 title: "Wat is een brand activation evenement?"
 description: "Een brand activation evenement is live marketing op zijn scherpst. Zo bouw je een activatie die merkbeleving, interactie en resultaat combineert."
 section: "Blog"
-last_updated: "2026-05-08T16:49:38+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
