@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/klantevent-organiseren"
 title: "Waarom de meeste klantevents hun doel missen"
 description: "Een klantevent organiseren dat werkt. Zo maak je van een klantenavond een moment dat relaties verdiept, loyaliteit bouwt en nieuwe deals opent."
 section: "Blog"
-last_updated: "2026-05-08T16:51:44+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
