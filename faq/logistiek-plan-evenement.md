@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/logistiek-plan-evenement"
 title: "Hoe maak je een logistiek plan voor een evenement?"
 description: "Een logistiek plan volgt deze stappen. Stap 1: maak een tijdlijn. Bijvoorbeeld: opbouw begint om 10:00 en catering arriveert om 11:30. Setup is klaar om 14:00 en gasten zijn welkom vanaf 14:30. Het evenement loopt van 15:00 tot 19:00, afbouw van 19:15 tot 21:00. Stap 2: zet al je leveranciers op een"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:11+00:00"
+last_updated: "2026-05-08T21:24:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
