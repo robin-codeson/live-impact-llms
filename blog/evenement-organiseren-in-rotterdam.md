@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-rotterdam"
 title: "Waarom Rotterdam een bijzondere evenementenstad is"
 description: "Evenement organiseren in Rotterdam? Iconische locaties, Rotterdamse energie en een bureau dat levert."
 section: "Blog"
-last_updated: "2026-05-08T16:50:40+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
