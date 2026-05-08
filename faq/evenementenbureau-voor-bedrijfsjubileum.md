@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-voor-bedrijfsjubile
 title: "Waarom een evenementenbureau inschakelen voor je bedrijfsjubileum?"
 description: "Een bedrijfsjubileum is een bijzonder moment dat je maar eens in de zoveel jaar hebt. Het verdient meer dan een standaard personeelsfeest. Een evenementenbureau maakt van dat jubileum iets bijzonders. Het brengt een concept dat past bij de identiteit van het bedrijf en een programma dat medewerkers "
 section: "FAQ"
-last_updated: "2026-05-08T16:58:41+00:00"
+last_updated: "2026-05-08T21:23:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
