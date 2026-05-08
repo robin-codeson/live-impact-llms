@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-marketing-merkacti
 title: "Wat is het verschil tussen evenement marketing en een merkactivatie?"
 description: "Evenementmarketing is de overkoepelende strategie. Je zet live momenten in als onderdeel van je marketingmix om bereik, leads en merkvoorkeur te creëren. Een merkactivatie is één specifiek type evenement dáárbinnen, een ervaring die je merk tastbaar maakt. Evenementmarketing omvat ook productlanceri"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:17+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
