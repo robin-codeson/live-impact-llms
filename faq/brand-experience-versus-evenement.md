@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/brand-experience-versus-evenement"
 title: "Wat is een brand experience en hoe verschilt het van een gewoon evenement?"
 description: "Een brand experience is een evenement waarbij de merkbeleving centraal staat. Elk detail is ontworpen met één doel: de waarden en het karakter van het merk voelbaar maken. Dat geldt van de entree tot de catering tot het programma. Het verschil met een gewoon evenement: bij een brand experience is he"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:27+00:00"
+last_updated: "2026-05-08T21:22:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
