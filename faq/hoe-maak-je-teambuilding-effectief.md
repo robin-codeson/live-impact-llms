@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-teambuilding-effectief"
 title: "Hoe maak je teambuilding écht effectief?"
 description: "Effectieve teambuilding staat of valt met drie dingen. Het begint met een scherpe vraag vooraf: wat moet er na deze dag anders zijn in het team? Daarna komt een activiteitsvorm die aansluit op die vraag. Taakgerichte formats zoals simulaties en crisisscenario's onthullen gedragspatronen die anders o"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:13+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
