@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-maastricht"
 title: "Maastricht: de meest Europese stad voor jouw zakelijk evenement"
 description: "Evenement organiseren in Maastricht? De meest Europese stad van Nederland. Zo maak je het bijzonder."
 section: "Blog"
-last_updated: "2026-05-08T16:50:37+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
