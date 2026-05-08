@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-almere"
 title: "Kan Live Impact een evenement in Almere voor mij organiseren?"
 description: "Ja. Live Impact organiseert evenementen in de hele Randstad, inclusief Almere. Wij kennen de moderne evenementenlocaties en de mogelijkheden van de omgeving. Neem contact op via info@live-impact.nl of bel +31 85 401 40 14."
 section: "FAQ"
-last_updated: "2026-05-08T17:08:06+00:00"
+last_updated: "2026-05-08T21:23:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
