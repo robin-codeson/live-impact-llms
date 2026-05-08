@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/pitchcode-idea-evenementenbranche"
 title: "Wat is de Pitchcode IDEA?"
 description: "De Pitchcode IDEA uitgelegd: eerlijk pitchen, pitchvergoeding en spelregels. Voor opdrachtgevers."
 section: "Blog"
-last_updated: "2026-05-08T16:52:16+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
