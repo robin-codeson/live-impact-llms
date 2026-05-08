@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/afscheidsfeest-inclusief"
 title: "Wat is de ideale locatie voor een afscheidsfeest?"
 description: "De ideale locatie voor een afscheidsfeest combineert warmte, intimiteit en praktische kwaliteit. Restaurants met aparte zalen werken goed: ze hebben catering, bediening en sfeer al ingebakken. Bedrijfslocaties (kantoorzaal of directiekamer) zijn goedkoper en voelen vertrouwd. Een boshuis, boerderij "
 section: "FAQ"
-last_updated: "2026-05-08T16:53:47+00:00"
+last_updated: "2026-05-08T21:22:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
