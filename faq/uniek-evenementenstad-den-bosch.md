@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/uniek-evenementenstad-den-bosch"
 title: "Wat maakt 's-Hertogenbosch uniek als evenementenstad in Noord-Brabant?"
 description: "Den Bosch heeft drie unieke troeven. Eerst is er de Binnendieze: een ondergrondse rivier, nergens anders in Nederland. Daarnaast de erfenis van kunstenaar Jeroen Bosch. En een uitgesproken carnavalscultuur die het hele jaar door feestelijke energie geeft. Gasten die voor het eerst in Den Bosch komen"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:11+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
