@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/klantendag-organiseren"
 title: "Wat is een klantendag en waarom werkt die?"
 description: "Klantendag organiseren als loyaliteitsinstrument? Zo maak je er meer van dan een relatiedag."
 section: "Blog"
-last_updated: "2026-05-08T16:51:41+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
