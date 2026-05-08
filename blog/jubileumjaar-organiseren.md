@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/jubileumjaar-organiseren"
 title: "Waarom een jubileumjaar in plaats van één feest?"
 description: "Een jubileumjaar organiseren dat intern en extern werkt? Ontdek de fasestrategie, budgetverdeling en momenten die je mijlpaal 12 maanden laten leven."
 section: "Blog"
-last_updated: "2026-05-08T16:51:35+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
