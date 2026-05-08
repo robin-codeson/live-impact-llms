@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/hybride-evenementen"
 title: "Hoe je hybride evenementen ontwerpt voor zowel de zaal als het scherm"
 description: "Hybride evenement organiseren? Zo betrek je online én fysieke deelnemers echt: niet half."
 section: "Blog"
-last_updated: "2026-05-08T16:51:20+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
