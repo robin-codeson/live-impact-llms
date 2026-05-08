@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activiteiten-geschikt-teamdag"
 title: "Welke activiteiten zijn geschikt voor een teamdag?"
 description: "Er is voor elk team wat wils. Populaire teamdagactiviteiten zijn escape rooms, kookworkshops en buitenactiviteiten als een stadsoriëntatierun of een sportieve teamchallenge. Daarnaast zijn creatieve workshops en inhoudelijke werkvormen populair, zoals een World Café of speeddate-sessies. Kies activi"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:43+00:00"
+last_updated: "2026-05-08T21:22:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
