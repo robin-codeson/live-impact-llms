@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/eventmarketing-strategie"
 title: "Wat is eventmarketing en waarom werkt het beter dan een campagne?"
 description: "Wat is eventmarketing en waarom werkt het beter dan een banner? Live evenementen als strategisch kanaal."
 section: "Blog"
-last_updated: "2026-05-08T16:51:09+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
