@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-jubileum-50-jaar"
 title: "Hoe vroeg moet je beginnen met plannen voor een 50-jarig jubileum?"
 description: "Begin minimaal 9 tot 12 maanden van tevoren. Populaire locaties voor jubileums van deze schaal zijn anderhalf tot twee jaar van tevoren volgeboekt. Dat geldt vooral in het najaar en op mooie weekenddatums. Reserveer de locatie eerst. Daarna volgt het concept: wat is het verhaal, wie spreekt, welke g"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:56+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
