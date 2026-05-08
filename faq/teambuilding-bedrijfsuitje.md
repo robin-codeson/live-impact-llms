@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/teambuilding-bedrijfsuitje"
 title: "Hoe zorg ik dat een bedrijfsuitje echt teambuilding oplevert?"
 description: "Een gemengde groep vraagt voorzichtigheid met activiteiten. Zorg dat de keuze inclusief is. Vermijd activiteiten die te intensief zijn voor minder sportieve collega's of die te fysiek zijn voor wie minder mobiel is. Kies ook geen activiteiten die te jeugdig gericht zijn. Escape rooms, bowling, speur"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:36+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
