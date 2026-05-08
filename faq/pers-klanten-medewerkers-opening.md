@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/pers-klanten-medewerkers-opening"
 title: "Hoe combineer je pers, klanten en medewerkers op één opening?"
 description: "Een openingsfeest heeft bijna altijd meerdere doelgroepen die niet door elkaar moeten lopen. De truc is gefaseerd programmeren op één dag. Start met een persmoment van 30 minuten met de CEO voor de officiële opening. Daarna het zakelijke deel met klanten en relaties: opening, toespraak, rondleiding."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:38+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
