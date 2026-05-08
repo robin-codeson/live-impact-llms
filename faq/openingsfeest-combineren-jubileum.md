@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/openingsfeest-combineren-jubileum"
 title: "Kun je een openingsfeest combineren met een jubileum?"
 description: "Ja, dat is een slimme combinatie. Als een nieuw pand samenvalt met een bedrijfsjubileum, kun je beide momenten versterken. Combineer ze in één groots evenement. Zo maximaliseer je de impact en het budget."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:14+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
