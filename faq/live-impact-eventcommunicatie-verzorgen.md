@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-eventcommunicatie-verzorg
 title: "Kan Live Impact de communicatie rondom ons evenement voor ons verzorgen?"
 description: "Ja. Live Impact ontwikkelt communicatieplannen als vast onderdeel van elk evenement dat wij organiseren. Wij beginnen met een doelgroepanalyse en bouwen een communicatietijdlijn met concrete templates, teksten en timing. Je ontvangt kant-en-klare communicatie die je direct kunt versturen. Van de eer"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:07+00:00"
+last_updated: "2026-05-08T21:24:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
