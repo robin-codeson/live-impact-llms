@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-origineel-standaard-jubileum
 title: "Wat is het verschil tussen een origineel jubileumfeest en een standaard jubileum?"
 description: "Een standaard jubileum volgt een vast patroon: receptie, speech, diner, dansband. Netjes, maar inwisselbaar. Een origineel jubileumfeest begint bij het verhaal van je bedrijf en bouwt daar een uniek concept omheen. De locatie vertelt mee, de entertainment past bij wie je bent, en er zitten persoonli"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:14+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
