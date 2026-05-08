@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-25-jarig-bedrijfsjubileum"
 title: "Welke locatie past bij een 25-jarig bedrijfsjubileum?"
 description: "Kies een locatie met karakter die past bij de identiteit van het bedrijf. Een generieke congresruimte past zelden bij een viering van 25 jaar. Historische kastelen, landgoederen, industrieel erfgoed en exclusieve stadszalen versterken het jubileumgevoel. Let op bereikbaarheid, capaciteit, technische"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:54+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
