@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/relatiedag-vs-klantendag-verschil"
 title: "Wat is het verschil tussen een relatiedag en een klantendag?"
 description: "Een relatiedag is gericht op een brede groep externe stakeholders: klanten, partners, leveranciers en andere relaties. Een klantendag richt zich uitsluitend op bestaande klanten en heeft doorgaans een sterkere commerciële component — productupdates, strategische gesprekken, upsell-momenten. Een rela"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:39+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
