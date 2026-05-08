@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/de-stagemanager"
 title: "De persoon die je niet ziet maar wel alles regelt"
 description: "Stagemanager inhuren voor je evenement? Wat hij doet, wanneer je hem nodig hebt en wat een stagemanager kost. Inclusief praktische richtprijzen."
 section: "Blog"
-last_updated: "2026-05-08T16:49:55+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
