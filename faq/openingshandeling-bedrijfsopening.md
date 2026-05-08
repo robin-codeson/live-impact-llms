@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/openingshandeling-bedrijfsopening"
 title: "Wat is een goede openingshandeling voor een bedrijfsopening?"
 description: "Een goede openingshandeling voor een bedrijfsopening is symbolisch, kort en wordt uitgevoerd door iemand die ertoe doet. Klassieke vormen zijn: het doorknippen van een lint (tijdloos en goed voor de foto) of een sleutelceremonie. Bij een sleutelceremonie wordt de sleutel overgedragen aan een medewer"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:14+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
