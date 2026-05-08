@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-zaanstad-c0055"
 title: "Wat kost een zakelijk evenement in Zaanstad?"
 description: "De kosten voor een zakelijk evenement in Zaanstad variëren sterk per schaal. Een kleinschalige bijeenkomst voor 30 personen begint rond €3.000; een volledig geproduceerd evenement voor 200+ personen loopt al snel op naar €25.000 tot €60.000. Locatie, catering, technische productie en entertainment b"
 section: "FAQ"
-last_updated: "2026-05-08T17:05:57+00:00"
+last_updated: "2026-05-08T21:23:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
