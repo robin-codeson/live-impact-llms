@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/cultuurverandering-evenement-organis
 title: "Waarom cultuurverandering een live moment nodig heeft"
 description: "Evenement inzetten voor cultuurverandering in je organisatie? Zo gebruik je een live moment als instrument voor gedragsverandering. Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:53+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
