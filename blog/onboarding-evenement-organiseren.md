@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/onboarding-evenement-organiseren"
 title: "Waarom de eerste dag de belangrijkste dag is in het dienstverband"
 description: "Onboarding evenement organiseren? Zo bouw je een eerste dag die nieuwe medewerkers het gevoel geeft dat ze de juiste keuze hebben gemaakt."
 section: "Blog"
-last_updated: "2026-05-08T16:52:03+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
