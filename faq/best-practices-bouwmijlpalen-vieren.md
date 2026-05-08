@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-bouwmijlpalen-vieren"
 title: "Wat zijn best practices voor Bouwmijlpalen Vieren?"
 description: "Een bouwmijlpaal vieren is meer dan een symbolische handeling. Het is een kans om het team te bedanken en betrokkenen samen te brengen. Tegelijk vertel je het verhaal van het project. Kies een vorm die past bij de schaal van het project en de mensen die het mogelijk hebben gemaakt. Denk aan een borr"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:08+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
