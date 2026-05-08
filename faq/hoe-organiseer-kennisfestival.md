@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-kennisfestival"
 title: "Hoe organiseer je een kennisfestival?"
 description: "Combineer kennisoverdracht met festivalbeleving via zeven principes. Hou presentaties en workshops kort. Geen lezingen van twee uur, maar sessies van 45 tot 60 minuten. Volg elke sessie op met netwerktijd of pauze. Mix formats: naast presentaties ook demonstraties, werkwinkels, paneldiscussies en po"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:39+00:00"
+last_updated: "2026-05-08T21:23:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
