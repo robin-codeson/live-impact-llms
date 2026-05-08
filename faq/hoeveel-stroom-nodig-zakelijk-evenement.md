@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-stroom-nodig-zakelijk-eveneme
 title: "Hoeveel stroom heb ik nodig voor mijn zakelijk evenement?"
 description: "Maak een vermogensberekening. Podiumverlichting vraagt 10-20 kW, geluid 2-5 kW, beamers en schermen 1-3 kW, en catering (koffieapparaten, foodtrucks) kan flink oplopen. Tel alles op en vergelijk met wat de locatie biedt. Bij buitenevenementen heb je vaak een aggregaat nodig: kies een stille evenemen"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:52+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
