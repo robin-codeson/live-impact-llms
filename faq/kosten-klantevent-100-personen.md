@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-klantevent-100-personen"
 title: "Wat kost een klantevent voor 100 personen?"
 description: "Voor 100 gasten loopt de prijs van 25.000 tot 65.000 euro. De ondergrens krijg je met een standaardlocatie, walking dinner en een dj. De bovengrens koop je een bijzondere locatie, diner van niveau, topspreker, live entertainment en aankleding die het concept draagt. Voor 40.000 tot 50.000 euro krijg"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:23+00:00"
+last_updated: "2026-05-08T21:23:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
