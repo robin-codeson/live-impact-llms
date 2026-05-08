@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-business-casual-smart-casual
 title: "Wat is het verschil tussen business casual en smart casual?"
 description: "Business casual is formeler dan smart casual. Bij business casual draag je een donkere broek of rok, een overhemd of blouse en eventueel een blazer. Dichte schoenen zijn standaard, een stropdas is niet vereist. Smart casual is vrijer: een gekleurde broek mag, een casual blouse of trui is prima. Ook "
 section: "FAQ"
-last_updated: "2026-05-08T17:15:44+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
