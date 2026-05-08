@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/product-presenteren-evenement-overtui
 title: "Hoe presenteer je een nieuw product overtuigend op een evenement?"
 description: "Een overtuigende productpresentatie vereist: (1) sterke opening die probleem schetst en waarom je product anders is (niet: 'wij stellen voor...'); (2) live demonstratie met real customer story, niet slides; (3) hands-on moment waarbij publiek product voelt/ziet/probeert; (4) duidelijke USP en waarde"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:10+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
