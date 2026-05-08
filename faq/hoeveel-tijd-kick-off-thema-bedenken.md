@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-kick-off-thema-bedenken"
 title: "Hoeveel tijd kost het om een kick-off thema te bedenken?"
 description: "Met de juiste input kom je in één sessie tot een goed kick-off thema. Een heldere jaarboodschap en een uur brainstormen volstaan. Zonder die basis loop je weken in rondjes. De fout die de meeste organisaties maken: het thema bedenken vóórdat de strategie helder is. Begin bij de boodschap, niet bij d"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:56+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
