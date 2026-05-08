@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programmaonderdelen-inclusief-eveneme
 title: "Welke programmaonderdelen passen bij een inclusief evenement?"
 description: "Inclusieve programmaonderdelen zijn activiteiten waarbij iedereen op zijn eigen niveau mee kan doen, zonder dat er een 'winnaar' is. Een paar voorbeelden. Interactieve workshops in kleine groepen werken voor introvert en extrovert. Een diverse keynote-spreker is herkenbaar voor meerdere groepen. Het"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:27+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
