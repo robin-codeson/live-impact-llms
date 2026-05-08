@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/idea-keurmerk-evenementenbureau-kieze
 title: "Hoe helpt het IDEA keurmerk bij het kiezen van een evenementenbureau?"
 description: "Het IDEA keurmerk werkt als een eerste filter bij het selecteren van een evenementenbureau. In plaats van uitgebreide referentiechecks te doen, weet je direct dat een gecertificeerd bureau aan minimale kwaliteitsstandaarden voldoet. Kijk daarna op bureau-DNA: past de stijl bij jouw merk? En op track"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:08+00:00"
+last_updated: "2026-05-08T21:23:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
