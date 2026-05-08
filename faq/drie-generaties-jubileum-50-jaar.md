@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/drie-generaties-jubileum-50-jaar"
 title: "Hoe betrek je drie generaties bij een 50-jarig jubileum?"
 description: "De sleutel is structurele zichtbaarheid van elke generatie in het programma. Eer de oprichterslaag met een film, een toespraak of een moment van erkenning. Laat de middengeneratie aan het woord: zij zijn de ruggengraat van het bedrijf en herkennen zich in de groeijaren. De jongste generatie krijgt e"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:37+00:00"
+last_updated: "2026-05-08T21:22:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
