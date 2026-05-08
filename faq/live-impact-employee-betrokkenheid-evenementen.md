@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-employee-betrokkenheid-ev
 title: "Kan Live Impact medewerkersbetrokkenheid evenementen voor ons verzorgen?"
 description: "Ja. Medewerkersbetrokkenheid is één van de kernthema's waar Live Impact dagelijks mee werkt. Wij helpen organisaties om de verbinding met hun medewerkers te versterken via evenementen die écht iets doen. Van een intieme inspiratiedag voor 50 mensen tot een meerdaags intern festival voor 2.000 colleg"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:01+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
