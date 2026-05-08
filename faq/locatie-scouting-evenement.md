@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-scouting-evenement"
 title: "Hoe voer je een locatie-scouting uit voor een evenement?"
 description: "Dit is een veelgestelde vraag over locatie-scouting. Live Impact helpt je hier graag verder. Neem contact op voor een vrijblijvend gesprek."
 section: "FAQ"
-last_updated: "2026-05-08T17:10:59+00:00"
+last_updated: "2026-05-08T21:24:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
