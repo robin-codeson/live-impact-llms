@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-brabant-vs-amsterda
 title: "Wat is het verschil tussen een evenementenbureau in Brabant en een bureau in Amsterdam?"
 description: "Een Brabants evenementenbureau kent de provincie van binnenuit. Dat betekent diepere relaties met lokale locaties, leveranciers en creatieve partners. Dat vertaalt zich in betere prijzen, sneller schakelen en minder verrassingen. Een Amsterdams bureau dat 'ook in Brabant levert' mist die lokale vera"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:32+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
