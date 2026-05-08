@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-event-planner-rotterdam"
 title: "Wat kost een event planner in Rotterdam?"
 description: "De fee van een event planner in Rotterdam ligt tussen €3.500 en €8.000 voor een volledig project, afhankelijk van omvang en complexiteit. Voor kleine events (borrel, diner tot 80 personen) zit je rond €3.500 tot €5.000. Voor grotere producties (150 tot 300 personen met programma, entertainment en br"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:07+00:00"
+last_updated: "2026-05-08T21:23:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
