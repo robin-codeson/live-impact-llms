@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/annuleringsverzekering-evenement-dekk
 title: "Wat dekt een annuleringsverzekering voor evenementen?"
 description: "Een annuleringsverzekering dekt de financiële schade als je evenement niet door kan gaan door omstandigheden buiten jouw macht. Denk aan extreme weersomstandigheden (storm, overstromingen) of brand in de locatie. Ook ernstige ziekte van een onvervangbare spreker of een verbiedend overheidsbesluit. W"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:04+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
