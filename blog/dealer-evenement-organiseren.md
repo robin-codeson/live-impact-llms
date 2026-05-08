@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/dealer-evenement-organiseren"
 title: "Wat een dealerevenement uniek maakt"
 description: "Een dealerevenement organiseren dat partners verkoopt en motiveert. Zo bouw je een programma dat resultaat oplevert in plaats van alleen een avond uit."
 section: "Blog"
-last_updated: "2026-05-08T16:49:56+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
