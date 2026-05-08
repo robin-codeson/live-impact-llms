@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personas-doelgroep-evenement"
 title: "Wie nodigt je uit? De doelgroepvraag die te vaak wordt overgeslagen"
 description: "Persona's opstellen? Zo communiceer je scherper en programmeer je beter voor je doelgroep."
 section: "Blog"
-last_updated: "2026-05-08T16:52:10+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
