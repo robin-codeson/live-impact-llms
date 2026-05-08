@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-zakelijke-borrel-organise
 title: "Kan Live Impact onze zakelijke borrel organiseren?"
 description: "Ja, Live Impact organiseert zakelijke borrels die meer zijn dan een drankje na werktijd. Wij zoeken een locatie die past bij jullie cultuur en regelen de catering. Wij zorgen voor de sfeer en stemmen alles af op jullie budget. Bij een terugkerend format bouwen we een formule die je kunt herhalen met"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:48+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
