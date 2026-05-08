@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-productlancering"
 title: "Hoe lang duurt een productlancering?"
 description: "Een productlancering hoef je niet lang te maken om indruk te maken. Twee tot drie uur is de ideale duur. Een bewezen opzet bestaat uit drie blokken. Eerst dertig minuten ontvangst met side-acts of productdemonstraties. Daarna een uur presentatie met het onthullingsmoment. Tot slot een uur borrel voo"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:53+00:00"
+last_updated: "2026-05-08T21:23:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
