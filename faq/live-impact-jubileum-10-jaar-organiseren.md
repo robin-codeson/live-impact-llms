@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-jubileum-10-jaar-organise
 title: "Kan Live Impact ons jubileum van 10 jaar organiseren?"
 description: "Ja. Een 10-jarig jubileum is precies het soort evenement waarbij Live Impact op zijn sterkst is. Wij bouwen het concept en schrijven het verhaal van jullie tien jaar. Wij kiezen de locatie die past en vullen het programma met entertainment, decor en momenten die bijblijven. Wil je een intiem diner v"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:31+00:00"
+last_updated: "2026-05-08T21:24:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
