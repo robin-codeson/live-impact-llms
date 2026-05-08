@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/dealers-motiveren-evenement"
 title: "Hoe motiveer je dealers via een evenement?"
 description: "Maak het exclusief en waardevol: vroegtijdige productintroducties, aantrekkelijke prijsstaffels en beloningsmogelijkheden zoals bonussen en reizen. Erken topverkopers openbaar. Geef dealers inspraak en laat hen meedenken over de strategie. Combineer leren (producttraining, verkooptips) met vrijetijd"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:11+00:00"
+last_updated: "2026-05-08T21:22:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
