@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personeelsfeest-op-eigen-locatie"
 title: "De voordelen van een personeelsfeest op eigen locatie"
 description: "Personeelsfeest op eigen locatie organiseren? Ontdek de voordelen, praktische tips en veelgemaakte valkuilen bij een bedrijfsfeest op eigen terrein."
 section: "Blog"
-last_updated: "2026-05-08T16:52:12+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
