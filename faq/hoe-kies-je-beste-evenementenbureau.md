@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-kies-je-beste-evenementenbureau"
 title: "Hoe kies je het beste evenementenbureau?"
 description: "Kijk niet alleen naar de portfolio maar naar de match. Stel jezelf deze vragen. Heeft het bureau ervaring met jouw type evenement? Laten ze referenties en cases zien die vergelijkbaar zijn? Zijn ze transparant over kosten en werkwijze? Voelen de mensen goed aan, en is er persoonlijke klik? Brengen z"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:37+00:00"
+last_updated: "2026-05-08T21:23:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
