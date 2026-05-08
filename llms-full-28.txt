@@ -8,7 +8,7 @@
 <!-- canonical: https://live-impact.nl/faq/verschil-jubileum-10-jaar-bedrijfsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-jubileum-10-jaar-bedrijfsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een jubileum van 10 jaar en een regulier bedrijfsfeest?
 
@@ -27,7 +27,7 @@ Een jubileumfeest heeft altijd een narratief: hoe zijn we begonnen, wat hebben w
 <!-- canonical: https://live-impact.nl/faq/verschil-jubileum-100-jaar-50-jaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-jubileum-100-jaar-50-jaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een 100-jarig en een 50-jarig jubileum?
 
@@ -46,7 +46,7 @@ De productie is ook complexer: een eeuwfeest heeft vaak publieksdimensies (open 
 <!-- canonical: https://live-impact.nl/faq/verschil-jubileum-25-jaar-10-jaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-jubileum-25-jaar-10-jaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een 25-jarig en een 10-jarig jubileum?
 
@@ -65,7 +65,7 @@ Bij 25 jaar is het verhaal rijker en complexer. Het programma combineert terugbl
 <!-- canonical: https://live-impact.nl/faq/verschil-jubileum-50-jaar-25-jaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-jubileum-50-jaar-25-jaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een 50-jarig en een 25-jarig jubileum?
 
@@ -84,7 +84,7 @@ Het concept wordt complexer: je vertelt niet één verhaal maar drie verhalen te
 <!-- canonical: https://live-impact.nl/faq/verschil-jubileumfeest-bedrijfsjubileum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-jubileumfeest-bedrijfsjubileum.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een jubileumfeest en een bedrijfsjubileum?
 
@@ -101,7 +101,7 @@ Een jubileumfeest is het feest zelf: de beleving, de avond, het programma, het e
 <!-- canonical: https://live-impact.nl/faq/verschil-jubileumjaar-jubileumfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-jubileumjaar-jubileumfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een jubileumjaar en een jubileumfeest?
 
@@ -120,7 +120,7 @@ Denk aan een kick-off in januari en een terugblikevent in het voorjaar. Daarna e
 <!-- canonical: https://live-impact.nl/faq/verschil-jubileumspeech-bedrijfspresentatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-jubileumspeech-bedrijfspresentatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een jubileumspeech en een bedrijfspresentatie?
 
@@ -139,7 +139,7 @@ Bij een presentatie gebruik je slides en data. Bij een speech gebruik je verhale
 <!-- canonical: https://live-impact.nl/faq/verschil-kennisevent-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kennisevent-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een kennisevent en een congres?
 
@@ -156,7 +156,7 @@ Een congres is typisch formeel en plenair: lange presentaties, een spreker op he
 <!-- canonical: https://live-impact.nl/faq/verschil-kennisfestival-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kennisfestival-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een kennisfestival en een congres?
 
@@ -175,7 +175,7 @@ Deelnemers bewegen vrij tussen verschillende sessies, workshops en informele ont
 <!-- canonical: https://live-impact.nl/faq/verschil-kernwaarden-dna-bedrijf -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kernwaarden-dna-bedrijf.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen kernwaarden en bedrijfs-DNA?
 
@@ -196,7 +196,7 @@ Voor een evenement werkt DNA beter dan kernwaarden, omdat je een gevoel wilt opw
 <!-- canonical: https://live-impact.nl/faq/verschil-kerstborrel-kerstfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kerstborrel-kerstfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een kerstborrel en een kerstfeest?
 
@@ -217,7 +217,7 @@ De fout: een borrel plannen maar de beleving van een feest verwachten.
 <!-- canonical: https://live-impact.nl/faq/verschil-kerstfeest-eindejaarsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kerstfeest-eindejaarsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een kerstfeest en een eindejaarsfeest?
 
@@ -234,7 +234,7 @@ Een kerstfeest draait specifiek om de kerstsfeer: warmte, verbinding, tradities 
 <!-- canonical: https://live-impact.nl/faq/verschil-keynote-dagvoorzitter -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-keynote-dagvoorzitter.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:25+00:00 -->
 
 # Wat is het verschil tussen een keynote spreker en een dagvoorzitter?
 
@@ -253,7 +253,7 @@ Een goede dagvoorzitter voegt betekenis toe aan elk onderdeel: een zwakke is een
 <!-- canonical: https://live-impact.nl/faq/verschil-keynote-spreker-paneldiscussie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-keynote-spreker-paneldiscussie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een keynote spreker en een paneldiscussie?
 
@@ -270,7 +270,7 @@ Een keynote is één spreker met volledige aandacht, ideaal voor inspiratiemomen
 <!-- canonical: https://live-impact.nl/faq/verschil-kick-off-heidag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kick-off-heidag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een kick-off en een heidag?
 
@@ -291,7 +291,7 @@ De twee zijn prima te combineren. Bijvoorbeeld een ochtend kick-off met strategi
 <!-- canonical: https://live-impact.nl/faq/verschil-kick-off-programma-agenda -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kick-off-programma-agenda.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een kick-off programma en een kick-off agenda?
 
@@ -310,7 +310,7 @@ Dat verschil merk je direct in de zaal. Een agenda lees je af. Een programma bel
 <!-- canonical: https://live-impact.nl/faq/verschil-kick-off-thema-concept -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kick-off-thema-concept.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een kick-off thema en een kick-off concept?
 
@@ -329,7 +329,7 @@ Het thema is de rode draad; het concept is hoe je die draad door alles heen weef
 <!-- canonical: https://live-impact.nl/faq/verschil-kickoff-sales-kickoff -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-kickoff-sales-kickoff.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een kick-off en een sales kick-off?
 
@@ -348,7 +348,7 @@ Een bedrijfs-kick-off voelt als een start. Een sales kick-off voelt als een weds
 <!-- canonical: https://live-impact.nl/faq/verschil-klantbinding-klantretentie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-klantbinding-klantretentie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat zijn exclusieve dinerkringen?
 
@@ -365,7 +365,7 @@ De kleine schaal is bewust: echte gesprekken ontstaan aan een tafel van tien, ni
 <!-- canonical: https://live-impact.nl/faq/verschil-klantendag-klantenbinding-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-klantendag-klantenbinding-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:16:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een klantendag en een klantenbindingevenement?
 
@@ -384,7 +384,7 @@ Denk aan exclusieve previews, kennisevenementen, relatiedagen en verrassingsmome
 <!-- canonical: https://live-impact.nl/faq/verschil-klantendag-relatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-klantendag-relatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een klantendag en een relatie-evenement?
 
@@ -401,7 +401,7 @@ Een relatie-evenement heeft een bredere scope: ook prospects, partners en stakeh
 <!-- canonical: https://live-impact.nl/faq/verschil-klantendag-relatiedag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-klantendag-relatiedag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een klantendag en een relatiedag?
 
@@ -422,7 +422,7 @@ Bij een relatiedag werkt dat niet: te veel verschillende doelen in de zaal. Daar
 <!-- canonical: https://live-impact.nl/faq/verschil-ledenvergadering-ledencongres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-ledenvergadering-ledencongres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een ledenvergadering en een ledencongres?
 
@@ -443,7 +443,7 @@ In de praktijk combineren veel grote verenigingen beide: een korte formele verga
 <!-- canonical: https://live-impact.nl/faq/verschil-live-online-kick-off -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-live-online-kick-off.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een live en online kick-off?
 
@@ -460,7 +460,7 @@ Een live kick-off geeft meer energie en informele verbinding. Een online kick-of
 <!-- canonical: https://live-impact.nl/faq/verschil-lokaal-landelijk-evenementenbureau-twente -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-lokaal-landelijk-evenementenbureau-twente.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een lokaal evenementenbureau in Twente en een landelijk bureau?
 
@@ -479,7 +479,7 @@ Het ideale scenario is een bureau dat beide combineert: landelijke expertise met
 <!-- canonical: https://live-impact.nl/faq/verschil-loyaliteitsevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-loyaliteitsevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:26+00:00 -->
 
 # Wat is het verschil tussen een loyaliteitsevenement en ander evenement?
 
@@ -496,7 +496,7 @@ Dat is wat het onderscheidt van een klantevenement of relatie-evenement. Kleiner
 <!-- canonical: https://live-impact.nl/faq/verschil-loyaliteitsevenement-ander-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-loyaliteitsevenement-ander-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een loyaliteitsevenement en een ander evenement?
 
@@ -513,7 +513,7 @@ Het onderscheid is subtiel maar belangrijk. Een klantevenement is voor nieuwe en
 <!-- canonical: https://live-impact.nl/faq/verschil-mechanisme-gimmick-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-mechanisme-gimmick-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een mechanisme en een gimmick?
 
@@ -534,7 +534,7 @@ Beide mogen in een evenement zitten, maar ze hebben een ander doel. Gimmicks bre
 <!-- canonical: https://live-impact.nl/faq/verschil-medewerkersevenement-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-medewerkersevenement-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een medewerkersevenement en een personeelsfeest?
 
@@ -553,7 +553,7 @@ Het onderscheid zit in de intentie. Een personeelsfeest motiveert via plezier. E
 <!-- canonical: https://live-impact.nl/faq/verschil-merkactivatie-bureau-en-evenementenbureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-merkactivatie-bureau-en-evenementenbureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een merkactivatie bureau en een evenementenbureau?
 
@@ -572,7 +572,7 @@ Een merkactivatie bureau werkt andersom. Hier is de hoofdvraag: hoe bereik je ee
 <!-- canonical: https://live-impact.nl/faq/verschil-merkactivatie-bureau-en-sampling-bureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-merkactivatie-bureau-en-sampling-bureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:06+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een merkactivatie bureau en een sampling bureau?
 
@@ -593,7 +593,7 @@ Heb je een product dat mensen moeten proeven? Kies een sampling bureau. Heb je e
 <!-- canonical: https://live-impact.nl/faq/verschil-merkactivatie-en-reclame -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-merkactivatie-en-reclame.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:06+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen merkactivatie en reclame?
 
@@ -612,7 +612,7 @@ Live Impact ontwerpt merkactivaties die voelbaar zijn. Wij zorgen voor een ervar
 <!-- canonical: https://live-impact.nl/faq/verschil-merkactivatie-experiential-marketing -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-merkactivatie-experiential-marketing.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen merkactivatie en experiential marketing?
 
@@ -631,7 +631,7 @@ In de praktijk overlappen ze sterk: de sterkste merkactivaties zijn bijna altijd
 <!-- canonical: https://live-impact.nl/faq/verschil-merkbeleving-merkactivatie-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-merkbeleving-merkactivatie-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen merkbeleving en merkactivatie bij evenementen?
 
@@ -650,7 +650,7 @@ Merkactivatie is één element van merkbeleving. Je kunt merkactivaties inzetten
 <!-- canonical: https://live-impact.nl/faq/verschil-netwerkevenement-relatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-netwerkevenement-relatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een netwerkevenement en een relatie-evenement?
 
@@ -667,7 +667,7 @@ Live Impact ontwerpt beide met duidelijke intentie. Wij bepalen samen welk type 
 <!-- canonical: https://live-impact.nl/faq/verschil-nieuwjaarsborrel-eindejaarsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-nieuwjaarsborrel-eindejaarsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een nieuwjaarsborrel en een eindejaarsfeest?
 
@@ -684,7 +684,7 @@ Beide hebben waarde, maar het doel verschilt fundamenteel. Live Impact helpt jou
 <!-- canonical: https://live-impact.nl/faq/verschil-nieuwjaarsborrel-kerstborrel -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-nieuwjaarsborrel-kerstborrel.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een nieuwjaarsborrel en een kerstborrel?
 
@@ -705,7 +705,7 @@ Praktisch: kerstborrel is meestal december, duurt vaak 3 tot 5 uur, kost €8.00
 <!-- canonical: https://live-impact.nl/faq/verschil-nieuwjaarsborrel-nieuwjaarsreceptie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-nieuwjaarsborrel-nieuwjaarsreceptie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een nieuwjaarsborrel en een nieuwjaarsreceptie?
 
@@ -718,7 +718,7 @@ Praktisch: kerstborrel is meestal december, duurt vaak 3 tot 5 uur, kost €8.00
 <!-- canonical: https://live-impact.nl/faq/verschil-onboarding-evenement-introductiemiddag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-onboarding-evenement-introductiemiddag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:27+00:00 -->
 
 # Wat is het verschil tussen een onboarding evenement en een introductiemiddag?
 
@@ -735,7 +735,7 @@ Live Impact ontwerpt onboarding evenementen die indruk maken. Wij zorgen voor ee
 <!-- canonical: https://live-impact.nl/faq/verschil-online-hybride-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-online-hybride-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een online en een hybride evenement?
 
@@ -752,7 +752,7 @@ Live Impact begeleidt beide vormen. Wij zorgen voor een technische opzet die wer
 <!-- canonical: https://live-impact.nl/faq/verschil-online-offline-productlancering -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-online-offline-productlancering.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een online en offline productlancering?
 
@@ -769,7 +769,7 @@ Een offline productlancering scoort op beleving, exclusiviteit en persoonlijk co
 <!-- canonical: https://live-impact.nl/faq/verschil-openingsfeest-bedrijfsopening -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-openingsfeest-bedrijfsopening.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een openingsfeest en een bedrijfsopening?
 
@@ -790,7 +790,7 @@ Veel bedrijven doen ze samen: de officiële opening met toespraak en lintje gaat
 <!-- canonical: https://live-impact.nl/faq/verschil-openingsfeest-open-dag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-openingsfeest-open-dag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een openingsfeest en een open dag?
 
@@ -807,7 +807,7 @@ Live Impact ontwerpt beide met een duidelijke insteek. Wij zorgen dat de vorm pa
 <!-- canonical: https://live-impact.nl/faq/verschil-origineel-standaard-jubileumfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-origineel-standaard-jubileumfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een origineel jubileumfeest en een standaard jubileum?
 
@@ -826,7 +826,7 @@ Het verschil zit niet in budget maar in denkwerk. Een tijdcapsule kost niks extr
 <!-- canonical: https://live-impact.nl/faq/verschil-outdoor-indoor-bedrijfsfestival -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-outdoor-indoor-bedrijfsfestival.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een outdoor en indoor bedrijfsfestival?
 
@@ -845,7 +845,7 @@ Outdoor vraagt meer logistiek en een weersplan. Indoor vraagt creativiteit in lo
 <!-- canonical: https://live-impact.nl/faq/verschil-personeelsreis-en-incentive -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-personeelsreis-en-incentive.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een personeelsreis en een incentive?
 
@@ -862,7 +862,7 @@ Een personeelsreis is bedoeld voor de hele organisatie of een groot deel ervan. 
 <!-- canonical: https://live-impact.nl/faq/verschil-personeelsuitje-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-personeelsuitje-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een personeelsuitje en een personeelsfeest?
 
@@ -879,7 +879,7 @@ Een personeelsfeest is een groter, formeler jaarlijks evenement: denk aan een ga
 <!-- canonical: https://live-impact.nl/faq/verschil-project-kick-off-reguliere-kick-off -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-project-kick-off-reguliere-kick-off.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een project kick-off en een reguliere kick-off?
 
@@ -896,7 +896,7 @@ Meer lezen? [Bekijk het volledige artikel over project kick-offs organiseren](/b
 <!-- canonical: https://live-impact.nl/faq/verschil-publieksfeest-bedrijfsfestival -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-publieksfeest-bedrijfsfestival.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een publieksfeest en een bedrijfsfestival?
 
@@ -913,7 +913,7 @@ Een bedrijfsfestival is besloten: je organiseert het voor je eigen medewerkers, 
 <!-- canonical: https://live-impact.nl/faq/verschil-reisbureauregeling-normale-btw -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-reisbureauregeling-normale-btw.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Hoe verschilt de reisbureauregeling van de gewone BTW?
 
@@ -932,7 +932,7 @@ Voor reisdiensten van buiten de EU geldt bovendien 0% BTW. Het is een wezenlijk 
 <!-- canonical: https://live-impact.nl/faq/verschil-relatie-evenement-en-klantendag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-relatie-evenement-en-klantendag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een relatie-evenement en een klantendag?
 
@@ -955,7 +955,7 @@ Het format verschilt ook. Een relatie-evenement kan een besloten diner zijn, een
 <!-- canonical: https://live-impact.nl/faq/verschil-relatie-evenement-loyaliteitsevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-relatie-evenement-loyaliteitsevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:28+00:00 -->
 
 # Wat is het verschil tussen een relatie-evenement en een loyaliteitsevenement?
 
@@ -972,7 +972,7 @@ Live Impact ontwerpt beide met de juiste toon en het juiste programma. Wij helpe
 <!-- canonical: https://live-impact.nl/faq/verschil-relatie-evenement-salesbijeenkomst -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-relatie-evenement-salesbijeenkomst.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een relatie-evenement en een salesbijeenkomst?
 
@@ -991,7 +991,7 @@ Dat verschil is merkbaar voor gasten. Een relatie-evenement waarbij de gastheer 
 <!-- canonical: https://live-impact.nl/faq/verschil-risico-inventarisatie-veiligheidsplan -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-risico-inventarisatie-veiligheidsplan.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een risico-inventarisatie en een veiligheidsplan?
 
@@ -1008,7 +1008,7 @@ Een veiligheidsplan beschrijft de concrete veiligheidsmaatregelen: beveiliging, 
 <!-- canonical: https://live-impact.nl/faq/verschil-rode-draad-en-thema -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-rode-draad-en-thema.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een rode draad en een thema?
 
@@ -1027,7 +1027,7 @@ Een rode draad zonder thema werkt juist wél: het is een goed verteld verhaal da
 <!-- canonical: https://live-impact.nl/faq/verschil-rode-draad-thema-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-rode-draad-thema-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een rode draad en een thema?
 
@@ -1048,7 +1048,7 @@ Je kunt een thema hebben zonder rode draad. Dan heb je een verkleedfeest. Je kun
 <!-- canonical: https://live-impact.nl/faq/verschil-roi-teambuilding-klantenevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-roi-teambuilding-klantenevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen ROI meten bij een teambuilding en bij een klantenevenement?
 
@@ -1067,7 +1067,7 @@ Bij een klantenevenement meet je externe effecten. Denk aan relatieverdieping en
 <!-- canonical: https://live-impact.nl/faq/verschil-save-the-date-uitnodiging -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-save-the-date-uitnodiging.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een save the date en een uitnodiging?
 
@@ -1086,7 +1086,7 @@ De uitnodiging volgt 2-3 weken later met alle inhoud: wat, wanneer, waar, voor w
 <!-- canonical: https://live-impact.nl/faq/verschil-seminar-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-seminar-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een seminar en een congres?
 
@@ -1105,7 +1105,7 @@ De interactie is bij een seminar veel hoger. Deelnemers stellen echte vragen, de
 <!-- canonical: https://live-impact.nl/faq/verschil-slogan-thema-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-slogan-thema-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een slogan en een thema voor een evenement?
 
@@ -1126,7 +1126,7 @@ Je hebt niet altijd allebei nodig. Een goed concept heeft altijd een slogan, maa
 <!-- canonical: https://live-impact.nl/faq/verschil-smart-casual-business-casual -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-smart-casual-business-casual.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen smart casual en business casual?
 
@@ -1145,7 +1145,7 @@ Bij twijfel: business casual is altijd een stapje netter dan smart casual.
 <!-- canonical: https://live-impact.nl/faq/verschil-studiereis-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-studiereis-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een studiereis en een congres?
 
@@ -1164,7 +1164,7 @@ Het is een fundamenteel andere ervaring. Bij een studiereis zie, ruik en ervaar 
 <!-- canonical: https://live-impact.nl/faq/verschil-symposium-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-symposium-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een symposium en een congres?
 
@@ -1183,7 +1183,7 @@ Bij een congres kun je sessies missen; bij een symposium is elke sessie relevant
 <!-- canonical: https://live-impact.nl/faq/verschil-symposium-congres-a595d -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-symposium-congres-a595d.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen een symposium en een congres?
 
@@ -1202,7 +1202,7 @@ Een congres is breder en groter, met meerdere parallelle sessies en een meer gem
 <!-- canonical: https://live-impact.nl/faq/verschil-teambuilding-buiten-teamdag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-teambuilding-buiten-teamdag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen teambuilding buiten en een reguliere teamdag?
 
@@ -1221,7 +1221,7 @@ Dat maakt teambuilding in de buitenlucht bij uitstek geschikt voor momenten waar
 <!-- canonical: https://live-impact.nl/faq/verschil-teambuilding-teamdag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-teambuilding-teamdag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:29+00:00 -->
 
 # Wat is het verschil tussen teambuilding en een teamdag?
 
@@ -1238,7 +1238,7 @@ Je kunt teambuildingactiviteiten inzetten als onderdeel van een teamdag, of als 
 <!-- canonical: https://live-impact.nl/faq/verschil-teambuilding-teamdag-28908 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-teambuilding-teamdag-28908.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen teambuilding en een teamdag?
 
@@ -1257,7 +1257,7 @@ Elke teambuilding kan een teamdag zijn, maar niet elke teamdag is teambuilding. 
 <!-- canonical: https://live-impact.nl/faq/verschil-teambuilding-teamdag-ddce7 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-teambuilding-teamdag-ddce7.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen teambuilding en een teamdag?
 
@@ -1276,7 +1276,7 @@ Het verschil zit in de intentie en de opbouw. Teambuilding vraagt altijd om een 
 <!-- canonical: https://live-impact.nl/faq/verschil-teamdag-teambuilding -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-teamdag-teambuilding.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een teamdag en een teambuilding?
 
@@ -1293,7 +1293,7 @@ Een teamdag is een overkoepelende term voor elke dag die je met je team organise
 <!-- canonical: https://live-impact.nl/faq/verschil-thema-concept-jubileum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-thema-concept-jubileum.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een thema en een concept voor een jubileum?
 
@@ -1312,7 +1312,7 @@ Een thema kun je aan elk feest plakken. Een concept ontstaat uit de vraag 'wat v
 <!-- canonical: https://live-impact.nl/faq/verschil-thema-en-concept-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-thema-en-concept-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een thema en een concept?
 
@@ -1333,7 +1333,7 @@ De simpelste test: haal de titel weg. Als er dan nog iets staat dat klopt, heb j
 <!-- canonical: https://live-impact.nl/faq/verschil-themafeest-bedrijfsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-themafeest-bedrijfsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een themafeest en een gewoon bedrijfsfeest?
 
@@ -1354,7 +1354,7 @@ Mensen praten over een themafeest vaak maanden later nog, over een standaard bed
 <!-- canonical: https://live-impact.nl/faq/verschil-themafeest-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-themafeest-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een themafeest en een gewoon personeelsfeest?
 
@@ -1373,7 +1373,7 @@ Themafeesten worden beter onthouden en scoren hoger op medewerkersbeleving. Ze h
 <!-- canonical: https://live-impact.nl/faq/verschil-vervoersplan-evenementenvervoer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-vervoersplan-evenementenvervoer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een vervoersplan en evenementenvervoer?
 
@@ -1390,7 +1390,7 @@ Evenementenvervoer verwijst naar de vervoersmiddelen zelf: de bussen, shuttles, 
 <!-- canonical: https://live-impact.nl/faq/verschil-vitaliteitsevent-teambuilding -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-vitaliteitsevent-teambuilding.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een vitaliteitsevent en teambuilding?
 
@@ -1407,7 +1407,7 @@ Teambuilding richt zich op samenwerking en groepsdynamiek: het doel is dat teams
 <!-- canonical: https://live-impact.nl/faq/verschil-vitaliteitsevent-teamdag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-vitaliteitsevent-teamdag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een vitaliteitsevent en een teamdag?
 
@@ -1426,7 +1426,7 @@ Een teamdag bouwt relaties. Een vitaliteitsevent verandert gewoonten. De experts
 <!-- canonical: https://live-impact.nl/faq/verschil-wervingsevent-open-dag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-wervingsevent-open-dag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een wervingsevent en een open dag?
 
@@ -1445,7 +1445,7 @@ Een open dag informeert; een wervingsevent converteert. De opvolging na een werv
 <!-- canonical: https://live-impact.nl/faq/verschil-wervingsevent-open-dag-70165 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-wervingsevent-open-dag-70165.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een wervingsevent en een open dag?
 
@@ -1464,7 +1464,7 @@ Het is intensiever, gerichter en leidt sneller tot concrete resultaten dan een o
 <!-- canonical: https://live-impact.nl/faq/verschil-winterfestival-kerstfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-winterfestival-kerstfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een winterfestival en een kerstfeest?
 
@@ -1483,7 +1483,7 @@ Een winterfestival overstijgt kerst: het draait om sfeer, spektakel en beleving.
 <!-- canonical: https://live-impact.nl/faq/verschil-workshop-teambuilding -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-workshop-teambuilding.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:30+00:00 -->
 
 # Wat is het verschil tussen een workshop en een teambuilding?
 
@@ -1502,7 +1502,7 @@ Een workshop is compacter, betaalbaarder en makkelijker in te passen op een werk
 <!-- canonical: https://live-impact.nl/faq/verschil-workshop-training-zakelijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-workshop-training-zakelijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wat is het verschil tussen een workshop en een training?
 
@@ -1517,7 +1517,7 @@ Het belangrijkste verschil tussen een workshop en een training is de rolverdelin
 <!-- canonical: https://live-impact.nl/faq/verschil-zakelijk-evenement-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-zakelijk-evenement-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wat is het verschil tussen een zakelijk evenement en een personeelsfeest?
 
@@ -1536,7 +1536,7 @@ Andere typen zakelijke evenementen zijn kick-off (strategie-lancering), bedrijfs
 <!-- canonical: https://live-impact.nl/faq/verschil-zakelijke-borrel-nieuwjaarsborrel -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-zakelijke-borrel-nieuwjaarsborrel.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wat is het verschil tussen een zakelijke borrel en een nieuwjaarsborrel?
 
@@ -1553,7 +1553,7 @@ Een zakelijke borrel is een terugkerend, informeel moment dat je regelmatig inze
 <!-- canonical: https://live-impact.nl/faq/verschil-zomerborrel-zomerfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-zomerborrel-zomerfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wat is het verschil tussen een zomerborrel en een zomerfeest?
 
@@ -1572,7 +1572,7 @@ De zomerborrel is laagdrempeliger en toegankelijker: ook medewerkers die ’s av
 <!-- canonical: https://live-impact.nl/faq/verschil-zomerfeest-bedrijfsfestival -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-zomerfeest-bedrijfsfestival.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wat is het verschil tussen een zomerfeest en een bedrijfsfestival?
 
@@ -1589,7 +1589,7 @@ Live Impact adviseert over het format dat het beste past bij jouw groep, budget 
 <!-- canonical: https://live-impact.nl/faq/verschil-zomerfeest-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verschil-zomerfeest-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wat is het verschil tussen een zomerfeest en een personeelsfeest?
 
@@ -1610,7 +1610,7 @@ Beide zijn geen borrel. Beide vragen om een concept.
 <!-- canonical: https://live-impact.nl/faq/vervoer-evenement-hoe-vroeg-regelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vervoer-evenement-hoe-vroeg-regelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Hoe vroeg moet ik vervoer regelen voor een evenement?
 
@@ -1629,7 +1629,7 @@ Vier tot zes weken voor het evenement communiceer je de vervoersinfo aan deelnem
 <!-- canonical: https://live-impact.nl/faq/vervoer-grote-groep-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vervoer-grote-groep-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Hoe organiseer je vervoer voor een groep van 100+ personen?
 
@@ -1646,7 +1646,7 @@ Voor 100+ personen boek je twee tot vier bussen van 50 zitplaatsen, afhankelijk 
 <!-- canonical: https://live-impact.nl/faq/vervoer-regelen-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vervoer-regelen-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Welk vervoer regel je het best voor een zakelijk evenement?
 
@@ -1667,7 +1667,7 @@ De vuistregel: maak het voor deelnemers makkelijker dan gemakkelijk. Elke drempe
 <!-- canonical: https://live-impact.nl/faq/vervoersinformatie-communiceren-gasten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vervoersinformatie-communiceren-gasten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wanneer communiceer ik vervoersinformatie aan mijn gasten?
 
@@ -1684,7 +1684,7 @@ Communiceer vervoersinformatie op drie momenten. Eerste moment: in de uitnodigin
 <!-- canonical: https://live-impact.nl/faq/vervoersopties-zakelijke-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vervoersopties-zakelijke-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Welke vervoersopties zijn er voor zakelijke evenementen?
 
@@ -1701,7 +1701,7 @@ Een shuttlebus op locatie is handig als de locatie afgelegen is. Wij regelen het
 <!-- canonical: https://live-impact.nl/faq/verwachtingen-techprofessionals-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verwachtingen-techprofessionals-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Wat verwachten techprofessionals van een zakelijk evenement?
 
@@ -1720,7 +1720,7 @@ En: betrouwbare wifi voor honderden simultane gebruikers, voldoende stroom. Een 
 <!-- canonical: https://live-impact.nl/faq/verwarring-dresscode-evenement-voorkomen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/verwarring-dresscode-evenement-voorkomen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:31+00:00 -->
 
 # Hoe voorkom je verwarring over de dresscode bij je evenement?
 
@@ -1737,7 +1737,7 @@ Verwarring ontstaat door vage termen, inconsistente communicatie of cultuurversc
 <!-- canonical: https://live-impact.nl/faq/vijf-garanties-idea-keurmerk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vijf-garanties-idea-keurmerk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Wat zijn de 5 garanties van het IDEA-keurmerk?
 
@@ -1754,7 +1754,7 @@ Deze garanties worden tweejaarlijks getoetst bij alle leden. Voor opdrachtgevers
 <!-- canonical: https://live-impact.nl/faq/vip-behandeling-evenement-meten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vip-behandeling-evenement-meten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Hoe meet ik of de VIP-behandeling bij een evenement werkt?
 
@@ -1771,7 +1771,7 @@ Houd ook bij welke elementen van de VIP-behandeling positieve reacties kregen en
 <!-- canonical: https://live-impact.nl/faq/vip-gasten-ontvangen-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vip-gasten-ontvangen-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Hoe ontvang ik VIP-gasten op de juiste manier bij een evenement?
 
@@ -1788,7 +1788,7 @@ Zorg voor een aparte ontvangst met een VIP-lounge of een eerder inchecktijdstip.
 <!-- canonical: https://live-impact.nl/faq/vip-lounge-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vip-lounge-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Wat is een VIP-lounge bij een evenement?
 
@@ -1805,7 +1805,7 @@ Live Impact ontwerpt VIP-lounges die passen bij de uitstraling van jouw organisa
 <!-- canonical: https://live-impact.nl/faq/viral-brand-activation -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/viral-brand-activation.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Hoe zorg je dat je merkactivatie viral gaat?
 
@@ -1822,7 +1822,7 @@ Ja, Live Impact ontwerpt merkactivaties die merken tot leven brengen. Ons proces
 <!-- canonical: https://live-impact.nl/faq/vitaliteitsevent-buiten-deur-of-eigen-terrein -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vitaliteitsevent-buiten-deur-of-eigen-terrein.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Moet een vitaliteitsevent buiten de deur of kan het op eigen terrein?
 
@@ -1841,7 +1841,7 @@ Op eigen terrein is laagdrempeliger en goedkoper, maar vraagt meer creativiteit 
 <!-- canonical: https://live-impact.nl/faq/vitaliteitsevent-effectief-na-de-dag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vitaliteitsevent-effectief-na-de-dag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Hoe maak je een vitaliteitsevent effectief na de dag zelf?
 
@@ -1860,7 +1860,7 @@ Koppel het evenement aan structurele aanpassingen: een wekelijkse wandelpauze, e
 <!-- canonical: https://live-impact.nl/faq/vitaliteitsevent-leuk-niet-verplicht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vitaliteitsevent-leuk-niet-verplicht.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Hoe maak je een vitaliteitsevent leuk in plaats van verplicht?
 
@@ -1877,7 +1877,7 @@ De sleutel is keuzevrijheid en beleving. Bied meerdere activiteiten aan waar dee
 <!-- canonical: https://live-impact.nl/faq/voor-welk-type-bedrijf-is-brand-experience-geschikt -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voor-welk-type-bedrijf-is-brand-experience-geschikt.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Voor welk type bedrijf is een brand experience geschikt?
 
@@ -1896,7 +1896,7 @@ Het format verschilt: een tech-merk kiest voor interactieve installaties en inno
 <!-- canonical: https://live-impact.nl/faq/voor-welke-bedrijven-live-impact -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voor-welke-bedrijven-live-impact.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Voor welke bedrijven werkt Live Impact?
 
@@ -1913,7 +1913,7 @@ Benieuwd of wij bij jou passen? [Plan een kennismaking](/contact).
 <!-- canonical: https://live-impact.nl/faq/voor-wie-bedrijfsweekend-geschikt -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voor-wie-bedrijfsweekend-geschikt.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Voor welke organisaties is een bedrijfsweekend geschikt?
 
@@ -1930,7 +1930,7 @@ Belangrijk is dat er draagvlak is binnen het team. [Live Impact](https://live-im
 <!-- canonical: https://live-impact.nl/faq/voor-wie-is-studiereis-geschikt -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voor-wie-is-studiereis-geschikt.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Voor wie is een studiereis geschikt?
 
@@ -1947,7 +1947,7 @@ Studiereizen zijn geschikt voor leidinggevenden die hun visie willen verbreden, 
 <!-- canonical: https://live-impact.nl/faq/voor-wie-organiseer-je-incentive -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voor-wie-organiseer-je-incentive.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:17:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:32+00:00 -->
 
 # Voor wie organiseer je een incentive?
 
@@ -1966,7 +1966,7 @@ De sleutel is selectiviteit: niet iedereen, maar precies de mensen die het verdi
 <!-- canonical: https://live-impact.nl/faq/voorbeeld-wat-kost-een-personeelsfeest-op-locatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbeeld-wat-kost-een-personeelsfeest-op-locatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # VOORBEELD - Wat kost een personeelsfeest op locatie?
 
@@ -1983,7 +1983,7 @@ Met de WKR kun je dit fiscaal voordelig organiseren.
 <!-- canonical: https://live-impact.nl/faq/voorbeelden-interne-eventmarketing -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbeelden-interne-eventmarketing.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Wat zijn voorbeelden van interne evenementmarketing?
 
@@ -2002,7 +2002,7 @@ Deze momenten zijn communicatiemomenten, niet HR-activiteiten. Organisaties die 
 <!-- canonical: https://live-impact.nl/faq/voorbeelden-sterke-evenement-mechanismen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbeelden-sterke-evenement-mechanismen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Wat zijn voorbeelden van sterke evenementmechanismen?
 
@@ -2019,7 +2019,7 @@ Sterke voorbeelden zijn er genoeg. Denk aan live polling met direct debat (betro
 <!-- canonical: https://live-impact.nl/faq/voorbereiding-bedrijfsprijs -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereiding-bedrijfsprijs.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoe bereid je je voor op het winnen van een bedrijfsprijs?
 
@@ -2034,7 +2034,7 @@ Voorbereiding op het winnen van een bedrijfsprijs voorkomt onhandige momenten op
 <!-- canonical: https://live-impact.nl/faq/voorbereiding-beurs -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereiding-beurs.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoe bereid je je voor op een succesvolle beursdeelname?
 
@@ -2051,7 +2051,7 @@ Een opvallende beursstand onderscheidt zich op verschillende manieren. Eerst, he
 <!-- canonical: https://live-impact.nl/faq/voorbereiding-eerste-overleg-live-impact -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereiding-eerste-overleg-live-impact.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoe bereid ik me voor op een eerste overleg met Live Impact?
 
@@ -2066,7 +2066,7 @@ Zet vooraf je ideeën op papier: wanneer, waar, hoeveel gasten, wat is het doel?
 <!-- canonical: https://live-impact.nl/faq/voorbereidingstijd-jubileum-10-jaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereidingstijd-jubileum-10-jaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoeveel tijd heb je nodig om een jubileum van 10 jaar voor te bereiden?
 
@@ -2085,7 +2085,7 @@ Begin altijd met de locatie, die is het vroegst uitverkocht. Daarna volgen conce
 <!-- canonical: https://live-impact.nl/faq/voorbereidingstijd-jubileum-concept -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereidingstijd-jubileum-concept.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoe lang van tevoren start je met conceptontwikkeling voor een jubileum?
 
@@ -2104,7 +2104,7 @@ Daarna komt locatie vastleggen, entertainment boeken, productie opbouwen en comm
 <!-- canonical: https://live-impact.nl/faq/voorbereidingstijd-jubileumjaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereidingstijd-jubileumjaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoeveel tijd heb je nodig om een jubileumjaar voor te bereiden?
 
@@ -2123,7 +2123,7 @@ Door het te spreiden is de werkdruk per fase goed te doen. Veel beter dan alles 
 <!-- canonical: https://live-impact.nl/faq/voorbereidingstijd-medewerkersevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereidingstijd-medewerkersevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoeveel tijd heb je nodig om een medewerkersevenement te organiseren?
 
@@ -2142,7 +2142,7 @@ Voor grotere evenementen (500+) of bijzondere locaties is 16 weken een realistis
 <!-- canonical: https://live-impact.nl/faq/voorbereidingstijd-uitbesteed-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorbereidingstijd-uitbesteed-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Hoe lang duurt de voorbereiding van een uitbesteed personeelsfeest?
 
@@ -2159,7 +2159,7 @@ Voor een uitbesteed personeelsfeest met 100 tot 200 medewerkers reken je op 8 to
 <!-- canonical: https://live-impact.nl/faq/voordeel-beursdeelname -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordeel-beursdeelname.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Wat is het voordeel van deelname aan een beurs?
 
@@ -2174,7 +2174,7 @@ Een symposium, congres of beursdeelname kost ongeveer €200 tot €300+ per per
 <!-- canonical: https://live-impact.nl/faq/voordeel-eigen-locatie-vs-locatiehuur -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordeel-eigen-locatie-vs-locatiehuur.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Wat is het voordeel van een bedrijfsfeest op eigen locatie ten opzichte van locatiehuur?
 
@@ -2193,7 +2193,7 @@ Nadeel: je moet de werkplek zelf transformeren naar feestlocatie. Dat vraagt mee
 <!-- canonical: https://live-impact.nl/faq/voordeel-onboarding-evenement-training -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordeel-onboarding-evenement-training.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:33+00:00 -->
 
 # Wat is het voordeel van een onboarding-evenement ten opzichte van interne training?
 
@@ -2212,7 +2212,7 @@ Die beleving bepaalt of iemand snel thuis is of maanden blijft aftasten. Live Im
 <!-- canonical: https://live-impact.nl/faq/voordelen-ai-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-ai-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn voordelen van AI bij evenementen?
 
@@ -2231,7 +2231,7 @@ En repetitief werk, van herinneringen tot registratie, wordt geautomatiseerd. Zo
 <!-- canonical: https://live-impact.nl/faq/voordelen-evenement-eigen-locatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-evenement-eigen-locatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn de voordelen van een evenement op eigen locatie?
 
@@ -2248,7 +2248,7 @@ Een evenement op eigen locatie biedt meerdere voordelen. Je betaalt geen huurkos
 <!-- canonical: https://live-impact.nl/faq/voordelen-eventmanagement-uitbesteden -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-eventmanagement-uitbesteden.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn de voordelen van eventmanagement uitbesteden?
 
@@ -2265,7 +2265,7 @@ Uitbesteden biedt meerdere voordelen. Je team bespaart honderden uren. Je krijgt
 <!-- canonical: https://live-impact.nl/faq/voordelen-hoge-klantretentie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-hoge-klantretentie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Hoe begeleiden jullie ons bij gerichte evenementen?
 
@@ -2280,7 +2280,7 @@ Wij begeleiden je van A tot Z bij gerichte evenementen. Onze adviserende aanpak 
 <!-- canonical: https://live-impact.nl/faq/voordelen-interne-communicatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-interne-communicatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn de voordelen van een intern communicatie-evenement?
 
@@ -2299,7 +2299,7 @@ Het creëert ook een gedeeld moment dat mensen verbindt en een gevoel van 'wij' 
 <!-- canonical: https://live-impact.nl/faq/voordelen-klantenbinding-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-klantenbinding-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn voordelen van klantenbinding via evenementen?
 
@@ -2318,7 +2318,7 @@ Dat versterkt loyaliteit meer dan een korting ooit kan. Bovendien bieden eveneme
 <!-- canonical: https://live-impact.nl/faq/voordelen-kleinschalig-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-kleinschalig-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn voordelen van een kleinschalig evenement?
 
@@ -2337,7 +2337,7 @@ Voor bedrijven is dat waardevol: je kunt doelgericht werken aan verdieping, vert
 <!-- canonical: https://live-impact.nl/faq/voordelen-kleinschalig-evenement-fe449 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-kleinschalig-evenement-fe449.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn de voordelen van een kleinschalig evenement ten opzichte van een groot evenement?
 
@@ -2354,7 +2354,7 @@ Kleinschalige evenementen hebben drie grote voordelen. Eerste: betrokkenheid. Ie
 <!-- canonical: https://live-impact.nl/faq/voordelen-leveranciersdag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-leveranciersdag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn voordelen van een leveranciersdag?
 
@@ -2373,7 +2373,7 @@ Dat betaalt zich terug in prioriteit, meedenken en flexibiliteit. Een goed progr
 <!-- canonical: https://live-impact.nl/faq/voordelen-loyaliteitsevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-loyaliteitsevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn voordelen van een loyaliteitsevenement?
 
@@ -2392,7 +2392,7 @@ Klanten die zich gewaardeerd voelen, blijven langer, besteden meer en bevelen je
 <!-- canonical: https://live-impact.nl/faq/voordelen-personeelsfeest-eigen-locatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voordelen-personeelsfeest-eigen-locatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Wat zijn de voordelen van een personeelsfeest op eigen locatie?
 
@@ -2409,7 +2409,7 @@ Ten derde is de logistiek eenvoudiger, medewerkers hoeven niet ver te reizen en 
 <!-- canonical: https://live-impact.nl/faq/voorkomen-no-show-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/voorkomen-no-show-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Hoe voorkom je no-show op evenementen?
 
@@ -2426,7 +2426,7 @@ Dit is een veelgestelde vraag over no-show voorkomen. Live Impact helpt je hier 
 <!-- canonical: https://live-impact.nl/faq/vormen-interactie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vormen-interactie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Welke vormen van interactie werken het best?
 
@@ -2443,7 +2443,7 @@ Fysieke interactie, zoals kaartspellen, whiteboards of co-creatieopdrachten, wer
 <!-- canonical: https://live-impact.nl/faq/vormen-medewerkersevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vormen-medewerkersevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:34+00:00 -->
 
 # Welke vormen van medewerkersevenementen zijn er?
 
@@ -2462,7 +2462,7 @@ De keuze voor een format hangt af van het doel. Wil je vieren, verbinden, inform
 <!-- canonical: https://live-impact.nl/faq/vrijwilligheid-bedrijfsuitje -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/vrijwilligheid-bedrijfsuitje.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Hoe plan ik een bedrijfsuitje waar niemand zich verplicht voelt deel te nemen?
 
@@ -2479,7 +2479,7 @@ Vrijwillige deelname begint bij hoe je het uitje aankondigt en samenstelt. Commu
 <!-- canonical: https://live-impact.nl/faq/waar-gaat-budget-familiedag-naartoe -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-gaat-budget-familiedag-naartoe.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar gaat het budget van een familiedag naartoe?
 
@@ -2496,7 +2496,7 @@ Meer over kostenposten? [Lees het volledige artikel](/blog/familiedag-budget).
 <!-- canonical: https://live-impact.nl/faq/waar-kan-ik-reviews-live-impact-lezen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-kan-ik-reviews-live-impact-lezen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar kan ik reviews van Live Impact lezen?
 
@@ -2515,7 +2515,7 @@ Live Impact deelt ook cases op de eigen website. Denk aan het 175-jarig jubileum
 <!-- canonical: https://live-impact.nl/faq/waar-letten-bij-kiezen-evenement-coordinator -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-letten-bij-kiezen-evenement-coordinator.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar let ik op bij het kiezen van een evenementcoördinator?
 
@@ -2532,7 +2532,7 @@ Een IDEA-gecertificeerd bureau als [Live Impact](https://live-impact.nl) biedt e
 <!-- canonical: https://live-impact.nl/faq/waar-letten-bij-locatiebezoek -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-letten-bij-locatiebezoek.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar moet je op letten bij een locatiebezoek?
 
@@ -2549,7 +2549,7 @@ Een locatiebezoek is essentieel. Let op bereikbaarheid (auto + OV), parkeergeleg
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-den-haag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-den-haag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Den Haag?
 
@@ -2564,7 +2564,7 @@ Live Impact kan je helpen met planning, locatieselectie en volledige evenementor
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-deventer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-deventer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Deventer?
 
@@ -2579,7 +2579,7 @@ Live Impact biedt professionele ondersteuning voor evenementorganisatie in Deven
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-dordrecht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-dordrecht.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Dordrecht?
 
@@ -2594,7 +2594,7 @@ Live Impact helpt je met alle aspecten van evenementorganisatie in Dordrecht.
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-ede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-ede.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Ede?
 
@@ -2609,7 +2609,7 @@ Live Impact is je partner voor succesvolle evenementorganisatie in Ede.
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-eindhoven -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-eindhoven.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Eindhoven?
 
@@ -2624,7 +2624,7 @@ Live Impact biedt volledige ondersteuning voor evenementorganisatie in Eindhoven
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-emmen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-emmen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Emmen?
 
@@ -2639,7 +2639,7 @@ Live Impact ondersteunt je met professionele evenementorganisatie in Emmen.
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-enschede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-enschede.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Enschede?
 
@@ -2654,7 +2654,7 @@ Live Impact biedt deskundige ondersteuning voor evenementorganisatie in Enschede
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-haarlem -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-haarlem.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Haarlem?
 
@@ -2669,7 +2669,7 @@ Live Impact helpt je met evenementorganisatie en locatieselectie in Haarlem.
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-haarlemmermeer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-haarlemmermeer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:35+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Haarlemmermeer?
 
@@ -2684,7 +2684,7 @@ Live Impact specialiseert zich in waterevenementen en andere evenementen in Haar
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-helmond -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-helmond.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Helmond?
 
@@ -2699,7 +2699,7 @@ Live Impact biedt volledige evenementenmanagementdiensten in Helmond.
 <!-- canonical: https://live-impact.nl/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-hilversum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-vind-ik-hulp-bij-het-organiseren-van-een-evenement-in-hilversum.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waar vind ik hulp bij het organiseren van een evenement in Hilversum?
 
@@ -2714,7 +2714,7 @@ Live Impact kan je helpen met hybride en digitale evenementorganisatie in Hilver
 <!-- canonical: https://live-impact.nl/faq/waar-zitten-jullie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waar-zitten-jullie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waar zitten jullie?
 
@@ -2729,7 +2729,7 @@ We wonen in de Gruijterfabriek in Den Bosch. Dat is een grote gerenoveerde snoep
 <!-- canonical: https://live-impact.nl/faq/waarom-amsterdam-geschikt-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-amsterdam-geschikt-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waarom is Amsterdam geschikt voor een zakelijk evenement?
 
@@ -2744,7 +2744,7 @@ Amsterdam trekt iedereen aan. **Schiphol** is dichtbij, hotels zijn er genoeg, e
 <!-- canonical: https://live-impact.nl/faq/waarom-breda-geschikt-bedrijfsevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-breda-geschikt-bedrijfsevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waarom is Breda geschikt voor een bedrijfsevenement?
 
@@ -2759,7 +2759,7 @@ Breda ligt op het **kruispunt van de A16 en A27**. Iedereen bereikt het makkelij
 <!-- canonical: https://live-impact.nl/faq/waarom-bureau-inschakelen-verandercommunicatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-bureau-inschakelen-verandercommunicatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waarom een bureau inschakelen voor verandercommunicatie?
 
@@ -2778,7 +2778,7 @@ Meer over de aanpak lees je in ons artikel over [verandercommunicatie evenemente
 <!-- canonical: https://live-impact.nl/faq/waarom-evenementenbureau-breda-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-evenementenbureau-breda-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waarom een evenementenbureau in Breda inschakelen?
 
@@ -2795,7 +2795,7 @@ Van [conceptontwikkeling](https://live-impact.nl/blog/evenement-concept-ontwikke
 <!-- canonical: https://live-impact.nl/faq/waarom-evenementenbureau-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-evenementenbureau-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waarom zou je een evenementenbureau inschakelen?
 
@@ -2816,7 +2816,7 @@ Bij ons krijg je geen standaardpakket maar maatwerk. Wij luisteren, bedenken en 
 <!-- canonical: https://live-impact.nl/faq/waarom-evenementenbureau-s-hertogenbosch-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-evenementenbureau-s-hertogenbosch-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waarom een evenementenbureau in 's-Hertogenbosch inschakelen?
 
@@ -2833,7 +2833,7 @@ Een professioneel bureau begeleidt jouw evenement van [conceptontwikkeling](http
 <!-- canonical: https://live-impact.nl/faq/waarom-evenementenbureau-tilburg-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-evenementenbureau-tilburg-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:36+00:00 -->
 
 # Waarom een evenementenbureau in Tilburg inschakelen?
 
@@ -2850,7 +2850,7 @@ Van het eerste [concept](https://live-impact.nl/blog/evenement-concept-ontwikkel
 <!-- canonical: https://live-impact.nl/faq/waarom-eventbureau-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-eventbureau-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom een eventbureau inschakelen?
 
@@ -2865,7 +2865,7 @@ Het korte antwoord: **tijd**. Het lange antwoord: expertise, rust en beter resul
 <!-- canonical: https://live-impact.nl/faq/waarom-idea-gecertificeerd-evenementenbureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-idea-gecertificeerd-evenementenbureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom kiezen voor een IDEA-gecertificeerd evenementenbureau?
 
@@ -2882,7 +2882,7 @@ Dit is vooral belangrijk bij evenementen met een substantieel budget, zoals [con
 <!-- canonical: https://live-impact.nl/faq/waarom-interactie-belangrijk-zakelijke-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-interactie-belangrijk-zakelijke-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom is interactie zo belangrijk bij zakelijke evenementen?
 
@@ -2903,7 +2903,7 @@ Die combinatie van meer leren en sterker verbinden is precies waarom interactie 
 <!-- canonical: https://live-impact.nl/faq/waarom-is-goede-briefing-belangrijk-voor-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-is-goede-briefing-belangrijk-voor-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom is een goede briefing zo belangrijk voor mijn evenement?
 
@@ -2924,7 +2924,7 @@ Zonder briefing gaat een bureau gokken, en dat levert voorstellen op die niet pa
 <!-- canonical: https://live-impact.nl/faq/waarom-kiezen-bedrijven-live-impact-evenementenbureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-kiezen-bedrijven-live-impact-evenementenbureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom kiezen bedrijven voor Live Impact als evenementenbureau?
 
@@ -2943,7 +2943,7 @@ Klanten waarderen de persoonlijke aanpak: je hebt één vaste contactpersoon die
 <!-- canonical: https://live-impact.nl/faq/waarom-klanten-kiezen-live-impact -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-klanten-kiezen-live-impact.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom kiezen klanten voor Live Impact?
 
@@ -2960,7 +2960,7 @@ Meer weten? [Plan een kennismaking](/contact).
 <!-- canonical: https://live-impact.nl/faq/waarom-live-impact-evenementenbureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-live-impact-evenementenbureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom Live Impact als evenementenbureau?
 
@@ -2977,7 +2977,7 @@ Bij Live Impact geloven we dat evenementen impact moeten maken. We combineren st
 <!-- canonical: https://live-impact.nl/faq/waarom-live-impact-evenementenbureau-f0ff8 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-live-impact-evenementenbureau-f0ff8.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom kiezen bedrijven voor Live Impact als evenementenbureau?
 
@@ -2994,7 +2994,7 @@ Meer weten? Lees ons artikel over [waarom zakelijke evenementen belangrijk zijn]
 <!-- canonical: https://live-impact.nl/faq/waarom-live-impact-kiezen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-live-impact-kiezen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom kiezen opdrachtgevers voor Live Impact?
 
@@ -3013,7 +3013,7 @@ Ons vertrekpunt is altijd de doelstelling — niet het format.
 <!-- canonical: https://live-impact.nl/faq/waarom-merkactivatie-belangrijk-voor-bedrijf -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-merkactivatie-belangrijk-voor-bedrijf.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom is merkactivatie belangrijk voor mijn bedrijf?
 
@@ -3034,7 +3034,7 @@ Merken die laten voelen, winnen het van merken die alleen maar vertellen.
 <!-- canonical: https://live-impact.nl/faq/waarom-mijlpalen-vieren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-mijlpalen-vieren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom is het belangrijk om bedrijfsmijlpalen te vieren?
 
@@ -3051,7 +3051,7 @@ Een bouwmijlpaalviering moet onvergetelijk zijn omdat het een cruciaal moment in
 <!-- canonical: https://live-impact.nl/faq/waarom-projectafronding-vieren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-projectafronding-vieren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom is het vieren van een projectafronding zo belangrijk?
 
@@ -3070,7 +3070,7 @@ Zonder dat eindpunt stapelen projecten zich op zonder gevoel van afsluiting. Een
 <!-- canonical: https://live-impact.nl/faq/waarom-rebranding-lanceermoment -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-rebranding-lanceermoment.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:37+00:00 -->
 
 # Waarom verdient een rebranding een lanceermoment?
 
@@ -3089,7 +3089,7 @@ Een evenement maakt de breuk zichtbaar en geeft medewerkers, klanten en partners
 <!-- canonical: https://live-impact.nl/faq/waarom-sterk-concept-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-sterk-concept-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Waarom is een sterk concept belangrijk voor een evenement?
 
@@ -3106,7 +3106,7 @@ Zonder concept is je evenement een verzameling losse onderdelen. Met een sterk c
 <!-- canonical: https://live-impact.nl/faq/waarom-utrecht-populair-eventlocatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-utrecht-populair-eventlocatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Waarom is Utrecht zo populair als eventlocatie?
 
@@ -3125,7 +3125,7 @@ Bovendien combineert de stad uitstekende bereikbaarheid met een rijke mix van lo
 <!-- canonical: https://live-impact.nl/faq/waarom-utrecht-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-utrecht-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Waarom is Utrecht een goede plek voor een zakelijk evenement?
 
@@ -3140,7 +3140,7 @@ Utrecht is de meest **centrale stad van Nederland**. Vanaf Utrecht Centraal bere
 <!-- canonical: https://live-impact.nl/faq/waarom-vip-gasten-andere-aanpak -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/waarom-vip-gasten-andere-aanpak.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Waarom verdienen VIP-gasten een andere aanpak dan gewone gasten?
 
@@ -3159,7 +3159,7 @@ Bovendien zijn ze gewend aan kwaliteit en vallen tekortkomingen hen eerder op. E
 <!-- canonical: https://live-impact.nl/faq/wanneer-apart-evenement-logo-nodig -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-apart-evenement-logo-nodig.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer heb je een apart evenement-logo nodig?
 
@@ -3176,7 +3176,7 @@ Een apart evenement-logo heeft zin als je evenement een eigen identiteit krijgt.
 <!-- canonical: https://live-impact.nl/faq/wanneer-beginnen-afscheidsfeest-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-beginnen-afscheidsfeest-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Hoe ver van tevoren plan ik een afscheidsfeest?
 
@@ -3193,7 +3193,7 @@ Begin in elk geval zo vroeg mogelijk met de locatie. Goede restaurantruimtes of 
 <!-- canonical: https://live-impact.nl/faq/wanneer-beginnen-communicatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-beginnen-communicatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer begin je met de communicatie rondom een evenement?
 
@@ -3212,7 +3212,7 @@ Veel organisatoren beginnen te laat. Twee tot vier weken voor het evenement is v
 <!-- canonical: https://live-impact.nl/faq/wanneer-beginnen-kerstfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-beginnen-kerstfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer moet je beginnen met het organiseren van een kerstfeest?
 
@@ -3229,7 +3229,7 @@ Begin zo vroeg mogelijk, liefst in het voorjaar. De beste kerstlocaties zijn in 
 <!-- canonical: https://live-impact.nl/faq/wanneer-beginnen-organiseren-bedrijfsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-beginnen-organiseren-bedrijfsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer moet je beginnen met het organiseren van een bedrijfsfeest?
 
@@ -3248,7 +3248,7 @@ Populaire locaties en bands zijn snel volgeboekt, vooral in november en december
 <!-- canonical: https://live-impact.nl/faq/wanneer-boeken-kerstborrel-locatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-boeken-kerstborrel-locatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer moet je een kerstborrel-locatie boeken?
 
@@ -3265,7 +3265,7 @@ Zo vroeg mogelijk, bij voorkeur in augustus of september. November en december z
 <!-- canonical: https://live-impact.nl/faq/wanneer-briefing-naar-evenementenbureau-sturen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-briefing-naar-evenementenbureau-sturen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer moet ik de briefing naar mijn evenementenbureau sturen?
 
@@ -3286,7 +3286,7 @@ Een bureau heeft tijd nodig om een voorstel te maken, locaties te checken en ent
 <!-- canonical: https://live-impact.nl/faq/wanneer-draaiboek-evenement-maken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-draaiboek-evenement-maken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Hoe ver van tevoren maak je een evenementdraaiboek?
 
@@ -3305,7 +3305,7 @@ De definitieve versie is klaar uiterlijk 1 week voor het evenement. Plan ook een
 <!-- canonical: https://live-impact.nl/faq/wanneer-effectief-outdoor-teambuilding -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-effectief-outdoor-teambuilding.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer is outdoor teambuilding het meest effectief?
 
@@ -3322,7 +3322,7 @@ Outdoor teambuilding werkt het best bij drie doelen. Mensen die elkaar beter moe
 <!-- canonical: https://live-impact.nl/faq/wanneer-entertainment-boeken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-entertainment-boeken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:38+00:00 -->
 
 # Wanneer moet je entertainment boeken voor een evenement?
 
@@ -3339,7 +3339,7 @@ Start vroeg met het boeken van entertainment. Populaire livebands en bekende art
 <!-- canonical: https://live-impact.nl/faq/wanneer-evenement-coordinator-nodig -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-evenement-coordinator-nodig.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:39+00:00 -->
 
 # Wanneer heb ik een evenementcoördinator nodig?
 
@@ -3356,7 +3356,7 @@ Ook bij evenementen met een hoge prioriteit zoals [jubilea](https://live-impact.
 <!-- canonical: https://live-impact.nl/faq/wanneer-evenement-marketing-bureau-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-evenement-marketing-bureau-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:39+00:00 -->
 
 # Wanneer schakel je een evenementmarketingbureau in?
 
@@ -3373,7 +3373,7 @@ Een evenementmarketingbureau is ideaal wanneer je evenementen wilt gebruiken als
 <!-- canonical: https://live-impact.nl/faq/wanneer-evenement-uitbesteden -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-evenement-uitbesteden.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:39+00:00 -->
 
 # Wanneer is het zinvol om een evenement uit te besteden?
 
@@ -3390,7 +3390,7 @@ Uitbesteden loont als je intern de capaciteit of expertise mist, als het eveneme
 <!-- canonical: https://live-impact.nl/faq/wanneer-evenementcoordinator-nodig -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-evenementcoordinator-nodig.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:39+00:00 -->
 
 # Wanneer heb je een evenementcoördinator nodig?
 
@@ -3411,7 +3411,7 @@ Een vierde signaal is zachter maar even belangrijk. Als de opdrachtgever zelf aa
 <!-- canonical: https://live-impact.nl/faq/wanneer-evenementenbureau-inhuren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-evenementenbureau-inhuren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:39+00:00 -->
 
 # Wanneer is het slim om een evenementenbureau in te huren?
 
@@ -3428,7 +3428,7 @@ Overweeg een bureau bij 100+ gasten of een complex programma. Ook bij hoge verwa
 <!-- canonical: https://live-impact.nl/faq/wanneer-evenementenbureau-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-evenementenbureau-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:39+00:00 -->
 
 # Wanneer is het de moeite waard om een evenementenbureau in te schakelen?
 
@@ -3445,7 +3445,7 @@ Vier situaties waarbij een evenementenbureau echt toegevoegde waarde heeft: (1) 
 <!-- canonical: https://live-impact.nl/faq/wanneer-evenementenvervoer-nodig -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/wanneer-evenementenvervoer-nodig.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:18:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:29:39+00:00 -->
 
 # Wanneer heb je evenementenvervoer nodig?
 
