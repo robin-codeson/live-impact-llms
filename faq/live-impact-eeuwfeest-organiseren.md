@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-eeuwfeest-organiseren"
 title: "Kan Live Impact een eeuwfeest voor ons organiseren?"
 description: "Ja. Live Impact heeft ervaring met grootschalige jubileumvieringen waarbij erfenis, publieksdimensie en hoge productiestandaarden samenkomen. Wij bouwen het concept van erfenis als springplank. De terugblik op 100 jaar vormt de basis voor een statement over de volgende generatie. Van locatiekeuze to"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:58+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
