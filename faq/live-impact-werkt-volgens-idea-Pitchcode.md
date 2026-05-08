@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-werkt-volgens-idea-Pitchc
 title: "Werkt Live Impact volgens de IDEA Pitchcode?"
 description: "Ja. Live Impact werkt volgens de IDEA Pitchcode. Niet omdat het verplicht is, maar omdat een eerlijk pitchproces betere samenwerking oplevert. Voor elke presentatie vragen wij naar de spelregels. Hoeveel bureaus doen mee, hoe groot is de pitchvergoeding en is de briefing volwaardig? Als de omstandig"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:43+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
