@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/grootte-zakelijk-kerstfeest"
 title: "Hoe groot is een gemiddeld zakelijk kerstfeest?"
 description: "De meeste zakelijke kerstfeesten hebben 30 tot 300 deelnemers. Kleine teams vieren vaker intern of in een restaurant; grotere organisaties kiezen voor een externe locatie met volledig programma."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:29+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
