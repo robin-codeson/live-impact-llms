@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-logo-bedrijfshuisstijl-pass
 title: "Hoe zorg je dat een evenement-logo past bij je bedrijfshuisstijl?"
 description: "Zorg dat het evenement-logo dezelfde typografie, het kleurenpalet of stilistische elementen bevat als je bedrijfshuisstijl. Dit kan via een visuele toevoeging aan je hoofdlogo. Zet je bedrijfslogo klein in de hoek en plaats er evenementspecifieke elementen naast. Geef de vormgever een expliciete bri"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:15+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
