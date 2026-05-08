@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-jubileumfeest-bedrijfsjubile
 title: "Wat is het verschil tussen een jubileumfeest en een bedrijfsjubileum?"
 description: "Een jubileumfeest is het feest zelf: de beleving, de avond, het programma, het entertainment. Hoe zorg je dat gasten een onvergetelijke avond hebben? Een bedrijfsjubileum is breder: de strategie eromheen. Voor wie doen we dit? Welk concept past bij ons? Hoe spreken we alle doelgroepen aan? Welke WKR"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:49+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
