@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-kick-off-heidag"
 title: "Wat is het verschil tussen een kick-off en een heidag?"
 description: "Een kick-off activeert je team rond een concreet doel: een nieuwe strategie, een project, een jaarstart. Het programma is gericht, energetisch en heeft een duidelijke boodschap. Een heidag is breder: gericht op samenwerking, teamdynamiek en het versterken van onderlinge relaties. Beide zijn waardevo"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:55+00:00"
+last_updated: "2026-05-08T21:24:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
