@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/s-hertogenbosch-bijzonder-als-eventst
 title: "Wat maakt 's-Hertogenbosch bijzonder als eventstad?"
 description: "'s-Hertogenbosch combineert Brabantse gastvrijheid met een rijke historische binnenstad en een strategische ligging midden in Nederland. De stad heeft een eigen cultuur van warmte en directheid. Die geeft zakelijke evenementen een persoonlijke lading die je in de Randstad minder snel vindt. Daarnaas"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:49+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
