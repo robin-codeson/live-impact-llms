@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-kick-off"
 title: "Welke locatie is geschikt voor een kick-off?"
 description: "De locatie van je kick-off versterkt óf ondermijnt de boodschap. Een vertrouwde vergaderruimte op kantoor geeft weinig nieuwe energie. Een inspirerende externe locatie geeft je team een andere mindset. Denk aan een theater, een innovatiehub, een bijzonder congrescentrum of een locatie in de natuur. "
 section: "FAQ"
-last_updated: "2026-05-08T17:10:57+00:00"
+last_updated: "2026-05-08T21:24:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
