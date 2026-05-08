@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/openingsfeest-organiseren"
 title: "Wat maakt een openingsfeest anders dan andere bedrijfsevenementen?"
 description: "Openingsfeest organiseren? Zo maak je van een officiële opening een krachtig merkmoment."
 section: "Blog"
-last_updated: "2026-05-08T16:52:08+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
