@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/rechten-fotos-videos-zakelijk-eveneme
 title: "Wat is het verschil tussen fotografen en videografen bij een evenement?"
 description: "Fotografen leggen momenten vast in stilstaande beelden met hoge resolutie. Ze leveren doorgaans 200 tot 500 geselecteerde foto's en zijn snel inzetbaar. Videografen maken bewegende beelden met geluid en verhaal. Een korte evenementsfilm van 2 tot 5 minuten vergt nabewerking, kleurgrading en muziek. "
 section: "FAQ"
-last_updated: "2026-05-08T17:13:33+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
