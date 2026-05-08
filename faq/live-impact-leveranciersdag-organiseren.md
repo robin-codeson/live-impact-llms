@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-leveranciersdag-organiser
 title: "Kan Live Impact een leveranciersdag organiseren?"
 description: "Ja. Live Impact organiseert leveranciersdagen voor bedrijven in de industrie, zakelijke dienstverlening en retail. Van een intieme sessie voor 20 strategische toeleveranciers tot een groot leveranciersevenement voor 300 partijen. Wij begeleiden de strategische opzet van de dag, de locatieselectie en"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:44+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
