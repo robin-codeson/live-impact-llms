@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-vervoersplan-evenement"
 title: "Kan Live Impact een vervoersplan maken voor ons evenement?"
 description: "Ja. Wij nemen vervoersplanning mee als vast onderdeel van onze evenementproductie. Wij analyseren de bereikbaarheid van de locatie en beoordelen of een shuttle noodzakelijk is. Daarnaast regelen we het parkeeradvies en de parkeercommunicatie. Tot slot coördineren we de vervoerslogistiek op de dag ze"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:38+00:00"
+last_updated: "2026-05-08T21:24:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
