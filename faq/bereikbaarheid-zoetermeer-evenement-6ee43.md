@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-zoetermeer-evenement-6
 title: "Hoe bereikbaar is Zoetermeer voor zakelijke gasten?"
 description: "Zoetermeer is uitstekend bereikbaar voor zakelijke gasten. Per trein ligt Zoetermeer op de spoorlijn van Den Haag naar Utrecht. Vanaf Zoetermeer Centraal ben je in tien minuten in Den Haag. Rotterdam bereik je in dertig minuten, Schiphol in veertig. Per auto loopt de A12 dwars door de stad. Die geef"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:00+00:00"
+last_updated: "2026-05-08T21:22:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
