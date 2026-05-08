@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-vs-zelf-organiseren
 title: "Wat doet een evenementenbureau anders dan ik zelf zou doen?"
 description: "Een evenementenbureau brengt drie dingen die jij als intern organisator niet hebt. Leveranciersrelaties opgebouwd over honderden evenementen. Probleemoplossend vermogen op de dag zelf. En een frisse blik van buitenaf. Zelf organiseren kost gemiddeld 150 tot 300 uur voor een evenement van 100 tot 300"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:42+00:00"
+last_updated: "2026-05-08T21:23:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
