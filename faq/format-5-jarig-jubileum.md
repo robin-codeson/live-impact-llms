@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/format-5-jarig-jubileum"
 title: "Welk format past bij een 5-jarig jubileum?"
 description: "Het format hangt af van wie je wil vieren en met wie. Intern gericht: een teamuitje of feest dat de samenwerking viert, werkt goed als de teamcultuur centraal staat. Extern gericht: een relatiediner of exclusieve borrel waarbij je klanten en partners laat zien hoe ver je bent gekomen. Gemengd: een i"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:38+00:00"
+last_updated: "2026-05-08T21:23:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
