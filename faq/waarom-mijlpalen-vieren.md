@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-mijlpalen-vieren"
 title: "Waarom is het belangrijk om bedrijfsmijlpalen te vieren?"
 description: "Een bouwmijlpaalviering moet onvergetelijk zijn omdat het een cruciaal moment in je bouwtraject markeert. Zorg voor: 1) Timing: vier precies op het moment (eerste paal geslagen, ruwbouw klaar, oplevering)—niet 'ergens later'. 2) Ceremonie: een paar minuten formeel moment (toespraken, foto's, symboli"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:40+00:00"
+last_updated: "2026-05-08T21:24:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
