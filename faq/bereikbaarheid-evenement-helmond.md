@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-evenement-helmond"
 title: "Is Helmond goed bereikbaar voor deelnemers aan een evenement?"
 description: "Helmond is goed bereikbaar voor deelnemers vanuit de Brainport-regio. Per auto via de A67 en A270 vanuit Eindhoven (15 min), Tilburg (30 min) en Den Bosch (35 min). Per trein zijn er directe verbindingen vanuit Eindhoven in 10 minuten en vanuit Venlo in 45 minuten. Parkeren bij de meeste evenementlo"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:48+00:00"
+last_updated: "2026-05-08T21:22:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
