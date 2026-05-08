@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/decoratie-aankleding-evenement"
 title: "Decoratie is geen versiering. Het is beleving."
 description: "Hoe kleed je een evenementenruimte aan? Van bloemen tot lichtdesign: zo gebruik je decoratie om een locatie te transformeren."
 section: "Blog"
-last_updated: "2026-05-08T16:49:57+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
