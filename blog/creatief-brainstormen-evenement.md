@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/creatief-brainstormen-evenement"
 title: "Waarom de meeste brainstorms mislukken"
 description: "Creatief brainstormen voor een evenement? Zo voer je een sessie die geen losse ideeën oplevert, maar een concept dat klopt met je DNA en doel."
 section: "Blog"
-last_updated: "2026-05-08T16:49:48+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
