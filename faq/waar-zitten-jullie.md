@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waar-zitten-jullie"
 title: "Waar zitten jullie?"
 description: "Live Impact zit in de Gruijterfabriek in 's-Hertogenbosch, een creatieve hotspot in een voormalige snoepjesfabriek. Het pand staat in het hart van de stad. Een plek die past bij wie we zijn: creatief, vol karakter en met de geur van iets leuks. Ons adres: Gruijterfabriek, 's-Hertogenbosch. Je bent a"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:29+00:00"
+last_updated: "2026-05-08T21:24:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
