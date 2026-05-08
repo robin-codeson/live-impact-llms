@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-coordinator"
 title: "Wat een evenementcoördinator precies doet"
 description: "Eventcoördinator inhuren? Wat een coördinator doet, wat het kost en wanneer je er echt een nodig hebt."
 section: "Blog"
-last_updated: "2026-05-08T16:50:09+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
