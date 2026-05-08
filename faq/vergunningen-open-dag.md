@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunningen-open-dag"
 title: "Heb je vergunningen nodig voor een open dag?"
 description: "Op je eigen terrein heb je voor een open dag vaak geen vergunning nodig. Verwacht je meer dan honderd bezoekers, organiseer je buitenactiviteiten of gebruik je muziekinstallaties, dan kan een evenementenvergunning vereist zijn. Schenk je alcohol? Dan is een tijdelijke drank- en horecaontheffing nodi"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:25+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
