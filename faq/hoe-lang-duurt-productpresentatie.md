@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-productpresentatie"
 title: "Hoe lang duurt een goede productpresentatie?"
 description: "Een productpresentatie duurt idealiter 60 tot 90 minuten, inclusief demo en vragen. Korter dan een uur voelt te snel; langer dan negentig minuten verlies je de aandacht."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:54+00:00"
+last_updated: "2026-05-08T21:23:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
