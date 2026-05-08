@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/organiseren-loyaliteitsevenement"
 title: "Hoe organiseer je een loyaliteitsevenement?"
 description: "Dit is een veelgestelde vraag over loyaliteitsevenementen. Live Impact helpt je hier graag verder. Neem contact op voor een vrijblijvend gesprek."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:31+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
