@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/kick-off"
 title: "Kick-off organiseren?"
 description: "Kick-off organiseren met impact? Gebruik 'Serious Fun' om je team echt te inspireren. Wij regelen de volledige productie voor je. Plan vandaag een kennismaking!"
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:22+00:00"
+last_updated: "2026-05-08T21:22:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
