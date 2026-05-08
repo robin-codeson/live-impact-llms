@@ -1,6 +1,11 @@
-[< Back](jubileumcongres-25-jaar-tln.html#)[< Work](jubileumcongres-25-jaar-tln.html#)
-
-[Next >](jubileumcongres-25-jaar-tln.html#)
+---
+canonical_url: "https://live-impact.nl/portfolio/jubileumcongres-25-jaar-tln"
+title: "Volle vaart vooruit"
+description: "25 jaar TLN: rauw en energiek jubileum in de Onderzeebootloods. Met 800 gasten, Peer Swinkels en Maarten van der Weijden maakte Live Impact het Serieus Leuk."
+section: "Portfolio"
+last_updated: "2026-05-08T22:30:08+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 [
 
@@ -11,7 +16,7 @@
 
 ![25 jaar TLN — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce2_69761e5d828fa3fe8aa27fc5_TLN%2520Live%2520Awardshow%2520uuitreiking%2520winnaar%2520en%2520kussentjes%2520door%2520de%2520lucht.webp)
 
-[Jubileumfeest](jubileumcongres-25-jaar-tln.html#)
+[Jubileumfeest](#)
 
 ## 25 jaar TLN
 
@@ -29,29 +34,37 @@ Dit is Serieus Leuk: overdag scherp op inhoud, 's avonds de voeten van de vloer.
 
 ‍
 
-Meer weten over jubileumcongressen? Bekijk onze aanpak op de [jubileumfeest pagina](../categories/jubileumfeest.html).
+Meer weten over jubileumcongressen? Bekijk onze aanpak op de [jubileumfeest pagina](/categories/jubileumfeest).
 
-Wil je ook zo'n event? [Start hier met het maken van je briefing.](../briefing.html)
+Wil je ook zo'n evenement? [Start hier met het maken van je briefing.](/briefing)
 
-Meer weten over het organiseren van een [jubileumfeest](../categories/jubileumfeest.html) of [relatie-event](../categories/relaties.html)? Bekijk onze aanpak.
+##
 
-Wil je ook zo'n event? [Start hier met het maken van je briefing.](../briefing.html)
+Meer weten over het organiseren van een [jubileumfeest](/categories/jubileumfeest) of [relatie-evenement](/categories/relaties)? Bekijk onze aanpak.
 
-[![25 jaar TLN — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3702bc3028ce0bd613b0_697620452cb71ab803408b15_TLN%2520Live%2520Catering%2520auto%2527s%2520cake.webp)](jubileumcongres-25-jaar-tln.html#)
+Wil je ook zo'n evenement? [Start hier met het maken van je briefing.](/briefing)
 
-[![25 jaar TLN — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd61427_697620452e8acb5cb930f698_TLN%2520Live%2520Overzicht%2520zaal%2520Maarten%2520vd%2520Weijden.webp)](jubileumcongres-25-jaar-tln.html#)
+##
 
-[![25 jaar TLN — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36ffbc3028ce0bd6139a_69762045ac4a681d83091780_TLN%2520Live%2520Openingsshow.webp)](jubileumcongres-25-jaar-tln.html#)
+[![25 jaar TLN — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3702bc3028ce0bd613b0_697620452cb71ab803408b15_TLN%2520Live%2520Catering%2520auto%2527s%2520cake.webp)](#)
 
-[![25 jaar TLN — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3706bc3028ce0bd61402_697620458401ff7a45ee85e9_TLN%2520Live%2520Minister%2520krijgt%2520uitleg.webp)](jubileumcongres-25-jaar-tln.html#)
+[![25 jaar TLN — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd61427_697620452e8acb5cb930f698_TLN%2520Live%2520Overzicht%2520zaal%2520Maarten%2520vd%2520Weijden.webp)](#)
 
-[![25 jaar TLN — sfeerbeeld 5 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3702bc3028ce0bd613b3_697620455e233407f3042732_TLN%2520Live%2520Gast%2520robothand.webp)](jubileumcongres-25-jaar-tln.html#)
+[![25 jaar TLN — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca36ffbc3028ce0bd6139a_69762045ac4a681d83091780_TLN%2520Live%2520Openingsshow.webp)](#)
 
-[![25 jaar TLN — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3701bc3028ce0bd613ab_69762045c08b68dd8a7cd524_TLN%2520Live%2520Overzicht%2520plein.webp)](jubileumcongres-25-jaar-tln.html#)
+[![25 jaar TLN — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3706bc3028ce0bd61402_697620458401ff7a45ee85e9_TLN%2520Live%2520Minister%2520krijgt%2520uitleg.webp)](#)
 
-[![25 jaar TLN — sfeerbeeld 7 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce2_69761e5d828fa3fe8aa27fc5_TLN%2520Live%2520Awardshow%2520uuitreiking%2520winnaar%2520en%2520kussentjes%2520door%2520de%2520lucht.webp)](jubileumcongres-25-jaar-tln.html#)
+[![25 jaar TLN — sfeerbeeld 5 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3702bc3028ce0bd613b3_697620455e233407f3042732_TLN%2520Live%2520Gast%2520robothand.webp)](#)
+
+[![25 jaar TLN — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3701bc3028ce0bd613ab_69762045c08b68dd8a7cd524_TLN%2520Live%2520Overzicht%2520plein.webp)](#)
+
+[![25 jaar TLN — sfeerbeeld 7 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce2_69761e5d828fa3fe8aa27fc5_TLN%2520Live%2520Awardshow%2520uuitreiking%2520winnaar%2520en%2520kussentjes%2520door%2520de%2520lucht.webp)](#)
 
 No items found.
+
+##
+
+##
 
 ## Geïnspireerd geraakt?
 
