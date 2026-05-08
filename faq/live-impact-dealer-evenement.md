@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-dealer-evenement"
 title: "Kan Live Impact een dealer evenement voor ons organiseren?"
 description: "Ja, van strategisch concept tot uitvoering. Wij starten met de vraag wat dealers anders moeten doen na het evenement en bouwen daarop het programma. Drie concepten op tafel binnen twee weken. Na keuze regelen wij locatie, programma, productie, catering, entertainment, transport en gastontvangst. Wij"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:45+00:00"
+last_updated: "2026-05-08T21:23:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
