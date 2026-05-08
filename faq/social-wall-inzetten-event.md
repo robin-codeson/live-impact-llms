@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/social-wall-inzetten-event"
 title: "Hoe zet je een social wall in bij een evenement?"
 description: "Een social wall inzetten bij een evenement doe je in drie stappen. Stap 1: kies een platform dat past bij je locatie en doelgroep. Walls.io is de meest gebruikte keuze voor zakelijke evenementen, met een daglicentie vanaf €15. Stap 2: stel een korte, herkenbare hashtag in — combineer bedrijfsnaam + "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:04+00:00"
+last_updated: "2026-05-08T21:24:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
