@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voordeel-onboarding-evenement-trainin
 title: "Wat is het voordeel van een onboarding-evenement ten opzichte van interne training?"
 description: "Een interne training is informatief: je leert procedures, systemen en beleid. Een onboarding-evenement voegt een laag toe die trainingen niet kunnen bieden: emotionele verbinding. Nieuwe medewerkers voelen bij een goed onboarding-evenement dat ze welkom zijn en ergens bijhoren. Ook voelen ze dat de "
 section: "FAQ"
-last_updated: "2026-05-08T17:18:08+00:00"
+last_updated: "2026-05-08T21:24:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
