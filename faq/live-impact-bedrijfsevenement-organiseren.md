@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-bedrijfsevenement-organis
 title: "Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?"
 description: "Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering, entertainment en productie. Of je nu een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij de"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:17+00:00"
+last_updated: "2026-05-08T21:23:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
