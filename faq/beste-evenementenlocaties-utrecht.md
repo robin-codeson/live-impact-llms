@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-evenementenlocaties-utrecht"
 title: "Wat zijn de beste evenementenlocaties in Utrecht?"
 description: "Utrecht heeft toplocaties voor elk type zakelijk evenement. De Jaarbeurs is het grootste congrescentrum direct naast een treinstation in Nederland: ideaal voor grootschalige congressen en beurzen. De Werkspoorkathedraal (voormalige locomotiefwerkplaats, 6.000 m²) is een van de meest indrukwekkende i"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:16+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
