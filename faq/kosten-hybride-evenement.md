@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-hybride-evenement"
 title: "Wat zijn de kosten van een hybride evenement?"
 description: "De kosten van hybride evenementen in de praktijk: basiskosten voor locatie en catering (op locatie) bedragen 10.000-30.000 euro. Daar bovenop komt hybride technologie. Een livestreamplatform kost 500-3.000 euro. Een camerateam 2.000-5.000 euro en een streamingtechnicus 1.000-2.000 euro. Voeg daar ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:18+00:00"
+last_updated: "2026-05-08T21:23:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
