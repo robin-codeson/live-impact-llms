@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-kies-je-eventmanagement-partner"
 title: "Hoe kies je een eventmanagement partner?"
 description: "Kijk verder dan de portfolio en tarieven. Vraag hoe het bureau communiceert: is er één vast aanspreekpunt? Hoe transparant zijn ze over kosten en risico's? Vraag naar referenties van vergelijkbare evenementen en ga een kennismakingsgesprek aan. De persoonlijke klik is net zo belangrijk als de ervari"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:39+00:00"
+last_updated: "2026-05-08T21:23:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
