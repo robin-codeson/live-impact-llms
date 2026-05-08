@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-kies-je-een-merkactivatie-bureau"
 title: "Hoe kies je een merkactivatie bureau?"
 description: "Stel bij elk bureau drie vragen. Eén: beginnen jullie bij het merk of bij het format? Een bureau dat direct met tentjes, hostessen of samplingplannen komt, werkt vanuit een ander vertrekpunt. Dat verschilt van een bureau dat eerst wil weten waarom iemand iets van jou moet merken. Twee: welke cases l"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:38+00:00"
+last_updated: "2026-05-08T21:23:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
