@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-inclusiviteit-diversiteit-ev
 title: "Wat is het verschil tussen inclusiviteit en diversiteit bij evenementen?"
 description: "Diversiteit gaat over samenstelling: zijn er mensen aanwezig met verschillende achtergronden, leeftijden, genders, nationaliteiten en perspectieven? Inclusiviteit gaat over beleving: voelen al die mensen zich ook echt welkom en betrokken? Je kunt een divers gezelschap hebben op een evenement dat toc"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:44+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
