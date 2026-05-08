@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-congrestival-organiser
 title: "Wat zijn best practices voor Congrestival Organiseren?"
 description: "Een congrestival combineert de inhoud van een congres met de beleving van een festival. Dat vraagt om een specifieke aanpak: meerdere stages of zalen, een open programmastructuur waarbij deelnemers zelf kiezen, een festivalsfeer in de hospitality en een podium dat ook buiten sessietijden actief is. "
 section: "FAQ"
-last_updated: "2026-05-08T16:55:11+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
