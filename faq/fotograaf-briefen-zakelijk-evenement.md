@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/fotograaf-briefen-zakelijk-evenement"
 title: "Hoe brief je een fotograaf voor een zakelijk evenement?"
 description: "Een fotograaf briefen voor een zakelijk evenement begint met duidelijke doelen: welke momenten zijn cruciaal (sprekers, netwerkmomenten, hoogtepunten)? Lever een schematische planning aan met starttijden, locatiedetails en VIP-gasten. Deel vooraf een moodboard of voorbeelden van de gewenste stijl (j"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:51+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
