@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-communicatieplan-opstelle
 title: "Kan Live Impact een communicatieplan opstellen voor ons evenement?"
 description: "Ja, Live Impact stelt voor jou een compleet communicatieplan op. We helpen je stap voor stap: doelgroepanalyse, kernboodschap, kanaalstrategie, teksten schrijven, beeld ontwerpen, planning bepalen en meting inrichten. Samen met je team faciliteren we brainstormsessies zodat iedereen op één lijn zit."
 section: "FAQ"
-last_updated: "2026-05-08T17:07:34+00:00"
+last_updated: "2026-05-08T21:23:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
