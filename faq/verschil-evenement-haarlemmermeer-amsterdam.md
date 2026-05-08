@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-haarlemmermeer-ams
 title: "Wat is het verschil tussen evenement organiseren in Haarlemmermeer en Amsterdam?"
 description: "<p>Amsterdam heeft historisch karakter en internationale uitstraling maar is duur en logistiek complex voor evenementen met internationale gasten. Haarlemmermeer ligt direct naast Schiphol: ideaal als je deelnemers hebt die vliegen. Professionele locaties, ruime parkeermogelijkheden en 15 minuten va"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:12+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
