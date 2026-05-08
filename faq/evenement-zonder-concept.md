@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-zonder-concept"
 title: "Kun je een evenement organiseren zonder concept?"
 description: "Technisch gezien wel, maar het resultaat is zwakker. Zonder concept is een evenement een optelsom van losse onderdelen: een locatie, een spreker, een diner, wat entertainment. Met een concept wordt het een samenhangende beleving met een verhaal. Gasten voelen het verschil, ook al benoemen ze het nie"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:25+00:00"
+last_updated: "2026-05-08T21:23:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
