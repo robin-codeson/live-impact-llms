@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/duur-bedrijfssportevenement"
 title: "Hoe lang duurt een gemiddeld bedrijfssportevenement?"
 description: "De meeste bedrijfssportevenementen duren een halve dag (3–4 uur) tot een volledige dag (6–8 uur). Met een afsluiting of diner erbij loop je snel op tot 10–12 uur."
 section: "FAQ"
-last_updated: "2026-05-08T16:57:39+00:00"
+last_updated: "2026-05-08T21:22:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
