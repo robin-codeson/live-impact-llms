@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/hackathon-organiseren"
 title: "Wat een hackathon is en waarom het voor jouw organisatie werkt"
 description: "Hackathon organiseren met echte output? Uitdaging-ontwerp, teamformatie en opvolging. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:19+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
