@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/belastingvrije-reiskostenvergoeding-e
 title: "Hoeveel reiskosten mag ik belastingvrij vergoeden voor een zakelijk evenement?"
 description: "In 2025 mag je medewerkers een belastingvrije reiskostenvergoeding geven van €0,23 per kilometer. Dat geldt voor reizen met de eigen auto naar zakelijke activiteiten, inclusief evenementen. Dit valt onder de gerichte vrijstelling binnen de werkkostenregeling (WKR). Voor openbaar vervoer kun je de we"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:28+00:00"
+last_updated: "2026-05-08T21:22:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
