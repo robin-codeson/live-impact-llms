@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/follow-up-cultuurverandering-evenemen
 title: "Hoe zorg je voor follow-up na een cultuurveranderingsevenement?"
 description: "Een evenement is een startmoment, geen eindpunt. Verstuur binnen een week een samenvattingsbrief met leerpunten en vervolgstappen. Richt werkgroepen of commissies op voor opkomende thema's. Plan 30 tot 60 dagen later een consolidatiemoment (een kleinere bijeenkomst). Communiceer de voortgang en resu"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:36+00:00"
+last_updated: "2026-05-08T21:23:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
