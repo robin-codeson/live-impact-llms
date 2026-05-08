@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/thema-25-jarig-bedrijfsjubileum"
 title: "Wat is een passend thema voor een 25-jarig bedrijfsjubileum?"
 description: "Een 25-jarig jubileum vraagt om een thema dat verleden en toekomst verbindt. Denk aan: 'Van toen naar nu', een terugblik in decennia, of een feestthema dat de identiteit van het bedrijf weerspiegelt."
 section: "FAQ"
-last_updated: "2026-05-08T17:14:45+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
