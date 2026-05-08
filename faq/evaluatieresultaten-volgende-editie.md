@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evaluatieresultaten-volgende-editie"
 title: "Wat doe je met de evaluatieresultaten voor de volgende editie?"
 description: "Evaluatieresultaten zijn waardeloos zonder actie. Zet resultaten om in een concreet actieprogramma voor de tweede editie. Bepaal wat je stopt, behoudt en toevoegt. Deel je bevindingen met je team en belanghebbenden, zodat iedereen op dezelfde lijn zit. Maak verbeteringen meetbaar en uitvoerbaar: nie"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:07+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
