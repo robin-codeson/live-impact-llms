@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/meten-klantenbinding-na-evenement"
 title: "Hoe meet je klantenbinding na een evenement?"
 description: "Meet het effect van je klantenbindingsevenement langs meerdere dimensies. Kwantitatief: volg het percentage herhaalaankopen en de gemiddelde orderwaarde. Kijk ook naar de retentiegraad, het aantal klanten dat niet overstapt naar een concurrent. Kwalitatief: voer een enquête uit over tevredenheid, de"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:30+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
