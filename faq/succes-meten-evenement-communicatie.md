@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succes-meten-evenement-communicatie"
 title: "Hoe meet je het succes van je evenement-communicatie?"
 description: "Succes van je eventcommunicatie meet je via deze KPI's. Bereik: hoeveel unieke mensen je per kanaal aanspreekt (mail, LinkedIn, website). Betrokkenheid: het aantal klikken op je boodschap (klikpercentage). Conversie: het aantal mensen dat zich aanmeldt na je boodschap (aanmeldpercentage). Opkomst: h"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:22+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
