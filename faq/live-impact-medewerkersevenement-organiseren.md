@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-medewerkersevenement-orga
 title: "Kan Live Impact een medewerkersevenement voor ons organiseren?"
 description: "Ja, medewerkersevenementen zijn een van de kerndisciplines van Live Impact. We werken voor organisaties van 30 tot 5.000 medewerkers, in alle sectoren. Van een informele teamdag in een Brabantse schuur tot een groot personeelsfeest in een stadshal: we pakken het volledig op. Dat betekent: concept, l"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:46+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
