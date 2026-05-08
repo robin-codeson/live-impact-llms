@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/duur-professionele-nieuwjaarsreceptie
 title: "Hoe lang duurt een professionele nieuwjaarsreceptie?"
 description: "Een goede nieuwjaarsreceptie duurt 2 tot 3 uur. Korter voelt oppervlakkig; langer haken gasten af. Een ideaal schema ziet er zo uit: ontvangst (15 min), openingswoord directie (10 min), vrije netwerkfase met catering (90 min). Sluit af met eventueel entertainment of een hoogtepunt (20 min) en een af"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:41+00:00"
+last_updated: "2026-05-08T21:22:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
