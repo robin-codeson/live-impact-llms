@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-je-jubileumjaar"
 title: "Hoe organiseer je een heel jubileumjaar?"
 description: "Een jubileumjaar bouw je op als een verhaal in vier seizoenen. Start in het eerste kwartaal met een ceremonieel openingsevent voor directie en sleutelfiguren. Plan in het tweede kwartaal een medewerkersfestival. Organiseer in het derde kwartaal een relatie-evenement voor klanten en partners. En slui"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:35+00:00"
+last_updated: "2026-05-08T21:23:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
