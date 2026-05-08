@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/zomerfeest-organiseren"
 title: "Wat is een zomerfeest en waarom werkt het halfweg het jaar?"
 description: "Zomerfeest organiseren? De zomer als strategisch verbindingsmoment voor je team. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:53:15+00:00"
+last_updated: "2026-05-08T21:22:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
