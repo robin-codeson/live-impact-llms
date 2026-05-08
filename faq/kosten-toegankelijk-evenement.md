@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-toegankelijk-evenement"
 title: "Wat kost het toegankelijk maken van een evenement?"
 description: "Toegankelijk maken van een evenement kost extra, maar niet drastisch. Gemiddeld: +10-20% op totale budget. Uitsplitsing: fysieke aanpassingen (helling, lift, ondertiteling) €500-2.000; tolking voor doven €150-300/uur; ruimte-aanpassingen (stilte-ruimte, noodplan) €200-500; catering-diversificatie (a"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:45+00:00"
+last_updated: "2026-05-08T21:23:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
