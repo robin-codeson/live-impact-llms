@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-capaciteit-locatie-bepalen"
 title: "Hoe bepaal je de juiste capaciteit van een locatie?"
 description: "Begin met je bevestigde gastenaantal en voeg daar 10 procent marge bij. Te krap voelt ongemakkelijk. Houd daarna rekening met de opstelling: theateropstelling neemt het minst ruimte in, diners met ronde tafels het meest. Een staande borrel heeft minder vierkante meters nodig dan een gala. Vraag de l"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:41+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
