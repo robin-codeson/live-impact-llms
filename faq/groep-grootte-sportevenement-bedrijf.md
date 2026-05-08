@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/groep-grootte-sportevenement-bedrijf"
 title: "Hoe groot moet mijn groep zijn voor een sportevenement?"
 description: "Een bedrijfssportevenement werkt al vanaf 15 deelnemers. Met 50+ mensen kun je meerdere disciplines tegelijk inzetten. Boven de 200 werken festivalformats het beste."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:18+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
