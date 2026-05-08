@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voordelen-personeelsfeest-eigen-locat
 title: "Wat zijn de voordelen van een personeelsfeest op eigen locatie?"
 description: "Een personeelsfeest op eigen locatie heeft vier concrete voordelen. Ten eerste bespaar je op locatiehuur, vaak de grootste kostenpost, die je kunt herinvesteren in catering of entertainment. Ten tweede heb je volledige controle: je kiest zelf je cateraar, je eindtijd en de inrichting. Ten derde is d"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:14+00:00"
+last_updated: "2026-05-08T21:24:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
