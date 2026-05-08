@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/spanning-creeren-productpresentatie"
 title: "Hoe creëer je spanning (anticipatie) vóór een productpresentatie?"
 description: "Spanning creëren vóór een productpresentatie vergroot de anticipatie en opkomst. Werkende tactieken: (1) een teaser-campagne via e-mail of social (mystery/countdown). (2) Een voorbeschouwing door een influencer of expert ('binnenkort iets revolutionairs'). (3) Exclusieve vroege toegang voor een VIP-"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:07+00:00"
+last_updated: "2026-05-08T21:24:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
