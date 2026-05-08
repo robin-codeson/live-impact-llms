@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/productpresentatie-organiseren"
 title: "Waarom een productpresentatie méér is dan een demo"
 description: "Hoe organiseer je een professionele productpresentatie? Van strategie en locatiekeuze tot demo, techniek en opvolging. Praktisch advies van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:21+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
