@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-alphen-aan-den-rij
 title: "Wat is het verschil tussen een evenement in Alphen aan den Rijn en Leiden?"
 description: "Alphen aan den Rijn en Leiden liggen op 15 minuten rijden van elkaar, maar bieden een heel andere evenementenbeleving. Leiden is universitair en historisch, met een bruisend centrum. De stad heeft een groot aanbod aan stedelijke locaties en congresaccommodaties voor evenementen van 50 tot 500 person"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:01+00:00"
+last_updated: "2026-05-08T21:24:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
