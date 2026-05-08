@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/cateringvorm-personeelsfeest"
 title: "Welke cateringvorm past bij een personeelsfeest?"
 description: "Een walking dinner is de populairste keuze voor personeelsfeesten. Gasten bewegen door de ruimte, netwerken is vanzelfsprekend en de vorm past bij veel verschillende thema's. Voor een formelere avond is een geplaceerd diner een goede optie. Bij een informeel buitenfeest zijn foodtrucks en streetfood"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:47+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
