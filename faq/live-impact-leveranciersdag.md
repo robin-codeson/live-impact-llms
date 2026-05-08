@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-leveranciersdag"
 title: "Hoe organiseert Live Impact een leveranciersdag?"
 description: "Live Impact koppelt de strategische doelstelling aan een concreet programma. Dat loopt van segmentatie en uitnodigingsstrategie tot draaiboek en beleving op de dag zelf. Het bureau neemt de volledige organisatie over."
 section: "FAQ"
-last_updated: "2026-05-08T17:09:43+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
