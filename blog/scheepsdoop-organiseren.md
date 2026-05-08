@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/scheepsdoop-organiseren"
 title: "De scheepsdoop: een ritueel met gewicht"
 description: "Een scheepsdoop organiseren? Alles over het ritueel, de openingshandeling en de feestelijke ontvangst. Aanpak van Live Impact, dat blijft hangen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:34+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
