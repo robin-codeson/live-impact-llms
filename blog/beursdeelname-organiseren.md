@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/beursdeelname-organiseren"
 title: "Waarom beursdeelname meer is dan een stand neerzetten"
 description: "Beursdeelname organiseren die echt leads oplevert? Ontdek hoe je standconcept, bezoekersstrategie en opvolging slim aanpakt. Tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:35+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
