@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/awards-ceremony-spannend-maken"
 title: "Hoe maak je een awards ceremony spannend?"
 description: "Spanning bij een awards ceremony bouw je op met de juiste tools. Gebruik nominatievideo's die de achtergrond van de genomineerden laten zien. Laat winnaars zo lang mogelijk in spanning: enveloppen openen, drumrolls en een korte pauze voor de onthulling. Wissel awards af met entertainmentmomenten zod"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:09+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
