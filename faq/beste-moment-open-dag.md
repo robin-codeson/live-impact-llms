@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-moment-open-dag"
 title: "Wanneer is het beste moment voor een open dag?"
 description: "Het voorjaar en vroege najaar zijn de meest geschikte periodes. Denk aan april tot juni en september tot oktober. Een zaterdag geeft het beste bereik, zeker als gezinnen en buurtbewoners ook welkom zijn. Vermijd schoolvakanties, feestdagenweekends en periodes waarin je medewerkers intern heel druk z"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:30+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
