@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-begeleiders-vip-gasten"
 title: "Hoeveel begeleiders heb ik nodig voor VIP-gasten bij een evenement?"
 description: "Reken op één begeleider per vijf tot tien VIP-gasten. Elke begeleider heeft een eigen lijst van gasten en is verantwoordelijk voor hun ervaring tijdens het evenement."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:17+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
