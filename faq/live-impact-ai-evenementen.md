@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-ai-evenementen"
 title: "Gebruikt Live Impact AI bij het organiseren van evenementen?"
 description: "Ja. Wij gebruiken AI als productiviteitstool op de plekken waar het waarde toevoegt: snellere communicatie, betere analyses van guestflows, slimmere registratieplanning. De creatieve kern van elk evenement doen wij zelf: het concept, de beleving, de emotionele impact. AI is ons gereedschap, niet onz"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:13+00:00"
+last_updated: "2026-05-08T21:23:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
