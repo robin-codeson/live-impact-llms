@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activiteiten-familiedag"
 title: "Welke activiteiten werken goed op een familiedag?"
 description: "De beste activiteiten op een familiedag werken voor zowel kinderen als volwassenen, of bieden beide een eigen programmalijn. Voor kinderen werken sportopdrachten, springkastelen, knutselworkshops, schmink en interactieve spelshows goed. Voor volwassenen werken rondleidingen, foodstations, teamactivi"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:41+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
