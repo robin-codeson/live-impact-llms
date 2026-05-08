@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waar-letten-bij-locatiebezoek"
 title: "Waar moet je op letten bij een locatiebezoek?"
 description: "Een locatiebezoek is meer dan rondkijken. Let op de bereikbaarheid: hoe ver is het van een treinstation en hoeveel parkeerplaatsen zijn er? Beoordeel de akoestiek en het natuurlijk licht. Controleer de technische faciliteiten: stroom, internet, AV. Vraag naar de opbouw- en afbouwtijden en de flexibi"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:18+00:00"
+last_updated: "2026-05-08T21:24:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
