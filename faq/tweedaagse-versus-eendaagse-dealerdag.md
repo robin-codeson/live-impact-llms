@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/tweedaagse-versus-eendaagse-dealerdag
 title: "Is een tweedaagse dealerdag beter dan een eendaagse?"
 description: "Een tweedaagse dealerdag geeft meer ruimte voor verdieping en relatieopbouw. Het dagprogramma is inhoudelijk, het avondprogramma informeel, en juist in die informele momenten ontstaan de sterkste verbindingen. De investering is hoger (€350-400+ per persoon versus €150-200+), maar het rendement ook. "
 section: "FAQ"
-last_updated: "2026-05-08T17:15:02+00:00"
+last_updated: "2026-05-08T21:24:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
