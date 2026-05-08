@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/shuttle-regelen-evenement"
 title: "Moet ik een shuttle regelen voor mijn evenement?"
 description: "Dat hangt af van de bereikbaarheid van je locatie en de samenstelling van je gasten. Organiseer een shuttle als de locatie slecht bereikbaar is per OV of het programma eindigt na de laatste treinverbinding. Doe dat ook als meer dan 30% van je gasten van buiten de stad komt. Of wanneer je veel gasten"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:57+00:00"
+last_updated: "2026-05-08T21:24:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
