@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activiteiten-bedrijfsreis"
 title: "Welke activiteiten zijn geschikt voor een bedrijfsreis?"
 description: "De beste activiteiten op een bedrijfsreis combineren cultuur, samenwerking en ontspanning. Rondleidingen en culinaire proeverijen geven een lokale beleving die mensen verbindt. Samenwerkingsactiviteiten zoals escape rooms of buitensporten versterken de samenwerking op een ontspannen manier. Avontuur"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:39+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
