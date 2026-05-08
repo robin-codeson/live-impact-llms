@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-brainstorm-conceptontwikkeli
 title: "Wat is het verschil tussen brainstormen en conceptontwikkeling?"
 description: "Brainstormen is grondstof verzamelen. Conceptontwikkeling is die grondstof omzetten in iets wat staat. In een brainstorm zoek je richting, associaties, energie. Je eindigt met twee of drie clusters waar beweging in zit. Conceptontwikkeling begint daarna: je kiest één richting en bouwt die uit tot ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:43+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
