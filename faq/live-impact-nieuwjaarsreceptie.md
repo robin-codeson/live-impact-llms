@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-nieuwjaarsreceptie"
 title: "Kan Live Impact een nieuwjaarsreceptie voor ons organiseren?"
 description: "Ja, Live Impact specialiseert zich in premium nieuwjaarsrecepties. Wij verzorgen het complete pakket: strategische planning (doelstelling, gastenlijst, budget), locatieselectie, catering- en drankarrangementen, entertainment, decoratie en gasttijdschema. Van kleinere recepties voor 30 personen tot g"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:50+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
