@@ -8,7 +8,7 @@
 <!-- canonical: https://live-impact.nl/faq/inclusie-introverten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inclusie-introverten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe zorg ik ervoor dat teruggetrokken gasten zich ook betrokken voelen?
 
@@ -25,7 +25,7 @@ Passiviteit ontstaat door: lange monologen, zitten zonder doel, geen duidelijke 
 <!-- canonical: https://live-impact.nl/faq/inclusief-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inclusief-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe maak je een zakelijk evenement inclusiever?
 
@@ -42,7 +42,7 @@ Een zakelijk evenement inclusiever maken begint met bewustzijn van diversiteit. 
 <!-- canonical: https://live-impact.nl/faq/inclusiviteit-bedrijfsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inclusiviteit-bedrijfsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Hoe zorg ik dat alle medewerkers zich welkom voelen op het feest?
 
@@ -59,7 +59,7 @@ Ja! Live Impact organiseert bedrijfsfeesten die je team echt verbinden. We regel
 <!-- canonical: https://live-impact.nl/faq/inclusiviteit-bedrijfssportevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inclusiviteit-bedrijfssportevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Kan iedereen meedoen aan een bedrijfssportevenement?
 
@@ -78,7 +78,7 @@ Een goede eventpartner ontwerpt het programma zo dat deelname nooit verplicht aa
 <!-- canonical: https://live-impact.nl/faq/inclusiviteit-sportevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inclusiviteit-sportevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Hoe zorg je voor inclusiviteit bij een zakelijk sportevenement?
 
@@ -97,7 +97,7 @@ Bied altijd een niet-sportieve rol aan (coach, scheidsrechter, supporter). Let o
 <!-- canonical: https://live-impact.nl/faq/influencers-productpresentatie-betrekken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/influencers-productpresentatie-betrekken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Hoe betrek je influencers bij je productpresentatie?
 
@@ -112,7 +112,7 @@ Influencers maken een productpresentatie groter dan je eigen netwerk. Selectie s
 <!-- canonical: https://live-impact.nl/faq/ingredienten-geslaagde-projectafsluiting -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/ingredienten-geslaagde-projectafsluiting.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Wat zijn de ingrediënten van een geslaagde projectafsluiting?
 
@@ -131,7 +131,7 @@ Ten derde een blik vooruit: wat nemen we mee naar volgende projecten? En ten slo
 <!-- canonical: https://live-impact.nl/faq/inhoud-evenement-draaiboek -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inhoud-evenement-draaiboek.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Wat hoort er in een evenementdraaiboek?
 
@@ -150,7 +150,7 @@ In de contactlijst staan naam, functie en telefoonnummer van iedereen die op de 
 <!-- canonical: https://live-impact.nl/faq/inhoud-pitchdocument-evenementenbureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inhoud-pitchdocument-evenementenbureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Wat moet er in een pitchdocument voor een evenementenbureau?
 
@@ -178,7 +178,7 @@ Hoe concreter de briefing, hoe relevanter het voorstel.
 <!-- canonical: https://live-impact.nl/faq/innovatieve-activaties -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/innovatieve-activaties.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Wat zijn innovatieve vormen van merkactivatie?
 
@@ -197,7 +197,7 @@ De sterkste activaties koppelen merkwaarden aan een tastbaar gevoel. Live Impact
 <!-- canonical: https://live-impact.nl/faq/innovatieve-technologie-zakelijke-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/innovatieve-technologie-zakelijke-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Welke innovatieve technologieën worden gebruikt bij zakelijke evenementen?
 
@@ -214,7 +214,7 @@ Innovatieve technologieën bij zakelijke evenementen groeien snel. AR (augmented
 <!-- canonical: https://live-impact.nl/faq/intern-extern-evenement-communicatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/intern-extern-evenement-communicatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Wat is het verschil tussen interne en externe evenement-communicatie?
 
@@ -233,7 +233,7 @@ Interne communicatie start eerder en vraagt veel herhaling zodat iedereen op é�
 <!-- canonical: https://live-impact.nl/faq/intern-extern-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/intern-extern-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Wat is het verschil tussen een intern en extern zakelijk evenement?
 
@@ -250,7 +250,7 @@ Externe zakelijke evenementen richten zich op klanten, partners of prospects: re
 <!-- canonical: https://live-impact.nl/faq/internationaal-evenement-venlo -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/internationaal-evenement-venlo.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:58+00:00 -->
 
 # Is Venlo geschikt voor internationale zakelijke evenementen?
 
@@ -269,7 +269,7 @@ Deelnemers vanuit Nordrhein-Westfalen kunnen Venlo zonder vliegtuig bereiken. Di
 <!-- canonical: https://live-impact.nl/faq/internationale-deelnemers-nijmegen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/internationale-deelnemers-nijmegen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Waarom is Nijmegen interessant voor evenementen met internationale deelnemers?
 
@@ -286,7 +286,7 @@ Nijmegen heeft een rijke WWII-geschiedenis (Operatie Market Garden) die internat
 <!-- canonical: https://live-impact.nl/faq/internationale-evenementen-haarlemmermeer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/internationale-evenementen-haarlemmermeer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Is Haarlemmermeer de beste keuze voor evenementen met internationale deelnemers?
 
@@ -303,7 +303,7 @@ Ja, als je internationale deelnemers verwacht. Haarlemmermeer grenst direct aan 
 <!-- canonical: https://live-impact.nl/faq/interne-evenementen-jubileumjaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/interne-evenementen-jubileumjaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Welke interne evenementen passen in een jubileumjaar?
 
@@ -322,7 +322,7 @@ Deze momenten kosten elk 2.000 tot 10.000 euro en bouwen interne trots op door h
 <!-- canonical: https://live-impact.nl/faq/interne-vs-externe-eventcommunicatie-verschil -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/interne-vs-externe-eventcommunicatie-verschil.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Hoe verschilt communicatie voor interne evenementen van externe evenementen?
 
@@ -341,7 +341,7 @@ Bij beiden geldt: de bevestigingse-mail is het meest gelezen document van je com
 <!-- canonical: https://live-impact.nl/faq/interne-vs-externe-rebranding-lancering -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/interne-vs-externe-rebranding-lancering.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Wat is het verschil tussen een interne en externe rebranding-lancering?
 
@@ -358,7 +358,7 @@ De volgorde is altijd intern eerst. Een medewerker die zijn eigen rebranding via
 <!-- canonical: https://live-impact.nl/faq/is-bedrijfsfeest-op-eigen-locatie-goed-idee -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-bedrijfsfeest-op-eigen-locatie-goed-idee.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Is een bedrijfsfeest op eigen locatie een goed idee?
 
@@ -377,7 +377,7 @@ Voordelen: het is vertrouwd, authentiek en fiscaal aantrekkelijk via de werkkost
 <!-- canonical: https://live-impact.nl/faq/is-een-personeelsreis-fiscaal-aftrekbaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-een-personeelsreis-fiscaal-aftrekbaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Is een personeelsreis fiscaal aftrekbaar?
 
@@ -396,7 +396,7 @@ Voorwaarde: de reis moet een zakelijk karakter hebben. Denk aan teambuilding, st
 <!-- canonical: https://live-impact.nl/faq/is-er-template-voor-evenement-briefing -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-er-template-voor-evenement-briefing.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Is er een template voor een evenement briefing?
 
@@ -415,7 +415,7 @@ Zo geef je je evenementenbureau precies wat het nodig heeft om een voorstel te m
 <!-- canonical: https://live-impact.nl/faq/is-live-impact-idea-gecertificeerd -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-live-impact-idea-gecertificeerd.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Is Live Impact IDEA-gecertificeerd?
 
@@ -432,7 +432,7 @@ Lees meer over wat het [IDEA-keurmerk](https://live-impact.nl/blog/idea-keurmerk
 <!-- canonical: https://live-impact.nl/faq/is-live-impact-idea-gecertificeerd-7cad5 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-live-impact-idea-gecertificeerd-7cad5.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Is Live Impact IDEA-gecertificeerd?
 
@@ -451,7 +451,7 @@ Voor opdrachtgevers betekent het IDEA-keurmerk een objectieve garantie: het bure
 <!-- canonical: https://live-impact.nl/faq/is-live-impact-idea-gecertificeerd-ca557 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/is-live-impact-idea-gecertificeerd-ca557.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:59+00:00 -->
 
 # Is Live Impact IDEA-gecertificeerd?
 
@@ -472,7 +472,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/jaarafsluiting-combineren-feest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jaarafsluiting-combineren-feest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe combineer je een jaarafsluiting met een feest?
 
@@ -489,7 +489,7 @@ Meer tips op [eindejaarsfeest organiseren](/blog/eindejaarsfeest-organiseren).
 <!-- canonical: https://live-impact.nl/faq/jubileum-vieren-versus-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileum-vieren-versus-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Wat is het verschil tussen een jubileum vieren en een jubileum organiseren?
 
@@ -506,7 +506,7 @@ Organiseren is procedureel: locatie, catering, logistiek, gastenlijst. Vieren is
 <!-- canonical: https://live-impact.nl/faq/jubileumfeest-definitie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileumfeest-definitie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Wat is een jubileumfeest?
 
@@ -523,7 +523,7 @@ Een goed jubileumfeest doet meer dan terugkijken. Het vertelt wie jullie zijn en
 <!-- canonical: https://live-impact.nl/faq/jubileumfeest-ideen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileumfeest-ideen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Wat zijn ideeën voor een jubileumfeest?
 
@@ -547,7 +547,7 @@ Wat jij ook kiest, zorg dat het past bij de identiteit van je organisatie. [Meer
 <!-- canonical: https://live-impact.nl/faq/jubileumfeest-kosten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileumfeest-kosten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Wat kost een jubileumfeest?
 
@@ -566,7 +566,7 @@ Live Impact maakt een heldere kostenopbouw per fase, zodat je jubileum past bij 
 <!-- canonical: https://live-impact.nl/faq/jubileumfeest-live-impact -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileumfeest-live-impact.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Kan Live Impact een jubileumfeest voor ons organiseren?
 
@@ -583,7 +583,7 @@ Ja. Live Impact heeft jubileumfeesten georganiseerd voor bedrijven van 20 tot 1.
 <!-- canonical: https://live-impact.nl/faq/jubileumfeest-onvergetelijk-maken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileumfeest-onvergetelijk-maken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe maak je een jubileumfeest onvergetelijk voor alle gasten?
 
@@ -600,7 +600,7 @@ Vier dingen: (1) Mix entertainment, emotionele momenten en persoonlijke details.
 <!-- canonical: https://live-impact.nl/faq/jubileumfeest-organisatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileumfeest-organisatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe organiseer je een succesvol jubileumfeest?
 
@@ -623,7 +623,7 @@ Live Impact helpt je een jubileumfeest te creëren dat onvergetelijk is en aansl
 <!-- canonical: https://live-impact.nl/faq/jubileumverhaal-verweven-in-reis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/jubileumverhaal-verweven-in-reis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe verweef je het jubileumverhaal in een reis?
 
@@ -648,7 +648,7 @@ De samenhang tussen bestemming, programma en details maakt van een trip een vier
 <!-- canonical: https://live-impact.nl/faq/juiste-band-kiezen-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-band-kiezen-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe kies je de juiste band voor je evenement?
 
@@ -665,7 +665,7 @@ De juiste band maakt of breekt de sfeer. Let op: past het repertoire bij je doel
 <!-- canonical: https://live-impact.nl/faq/juiste-bestemming-incentive-reis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-bestemming-incentive-reis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe kies je de juiste bestemming voor een incentive reis?
 
@@ -682,7 +682,7 @@ De juiste bestemming hangt af van drie factoren. Welke incentive-doelstelling he
 <!-- canonical: https://live-impact.nl/faq/juiste-capaciteit-locatie-bepalen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-capaciteit-locatie-bepalen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe bepaal je de juiste capaciteit van een locatie?
 
@@ -704,7 +704,7 @@ Gebruik het [Live Impact Evenement Orakel](/evenement-orakel) en zie in één kl
 <!-- canonical: https://live-impact.nl/faq/juiste-evenement-mechanisme-kiezen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-evenement-mechanisme-kiezen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe kies je het juiste mechanisme voor jouw evenement?
 
@@ -721,7 +721,7 @@ Start met je einddoel: willen deelnemers meer weten, elkaar ontmoeten, of keuzes
 <!-- canonical: https://live-impact.nl/faq/juiste-evenementenbureau-kiezen-s-hertogenbosch -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-evenementenbureau-kiezen-s-hertogenbosch.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:00+00:00 -->
 
 # Hoe kies je het juiste evenementenbureau in 's-Hertogenbosch?
 
@@ -738,7 +738,7 @@ Let bij de keuze voor een evenementenbureau in 's-Hertogenbosch op ervaring met 
 <!-- canonical: https://live-impact.nl/faq/juiste-evenementenbureau-kiezen-twente -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-evenementenbureau-kiezen-twente.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Hoe kies je het juiste evenementenbureau in Twente?
 
@@ -755,7 +755,7 @@ Let bij de keuze voor een evenementenbureau in Twente op ervaring met jouw type 
 <!-- canonical: https://live-impact.nl/faq/juiste-format-personeelsfeest-kiezen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-format-personeelsfeest-kiezen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Hoe kies ik het juiste format voor mijn personeelsfeest?
 
@@ -774,7 +774,7 @@ Tip: vraag je medewerkers mee via een korte poll. Betrokkenheid vóór het feest
 <!-- canonical: https://live-impact.nl/faq/juiste-influencers-selecteren-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-influencers-selecteren-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Hoe selecteer je de juiste influencers voor jouw evenement?
 
@@ -791,7 +791,7 @@ Influencers selecteren doe je op basis van drie factoren. 1) Publieksfit: passen
 <!-- canonical: https://live-impact.nl/faq/juiste-kandidaten-wervingsevent-trekken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-kandidaten-wervingsevent-trekken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Hoe trek je de juiste kandidaten naar een wervingsevent?
 
@@ -808,7 +808,7 @@ Begin bij je eigen medewerkers: zij zijn je beste ambassadeurs. Geef ze tools om
 <!-- canonical: https://live-impact.nl/faq/juiste-locatie-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-locatie-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Hoe vind je de juiste locatie voor je zakelijk evenement?
 
@@ -829,7 +829,7 @@ Nederland heeft prachtige locaties: van industrieel erfgoed tot landgoederen, va
 <!-- canonical: https://live-impact.nl/faq/juiste-spreker-kiezen-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-spreker-kiezen-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Hoe kies je de juiste spreker voor een zakelijk evenement?
 
@@ -846,7 +846,7 @@ Begin niet met namen maar met je briefing. Bepaal thema, publiek, format en toon
 <!-- canonical: https://live-impact.nl/faq/juiste-spreker-kiezen-zakelijk-evenement-fce1e -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juiste-spreker-kiezen-zakelijk-evenement-fce1e.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Hoe kies je de juiste spreker voor een zakelijk evenement?
 
@@ -865,7 +865,7 @@ Een keynote voor directeuren vraagt een andere aanpak dan een sessie voor medewe
 <!-- canonical: https://live-impact.nl/faq/juridische-aandachtspunten-ugc-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/juridische-aandachtspunten-ugc-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Welke juridische aandachtspunten zijn er bij UGC op evenementen?
 
@@ -884,7 +884,7 @@ Hergebruik UGC van derden nooit zonder toestemming. Een like is geen licentie. B
 <!-- canonical: https://live-impact.nl/faq/kan-ik-live-impact-bellen-zonder-briefing -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-ik-live-impact-bellen-zonder-briefing.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Kan ik Live Impact ook bellen als ik nog geen briefing heb?
 
@@ -905,7 +905,7 @@ Je kunt ook ons online briefingsdocument gebruiken als startpunt: dat leidt je s
 <!-- canonical: https://live-impact.nl/faq/kan-je-een-hologram-gebruiken-op-een-bedrijfsevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-je-een-hologram-gebruiken-op-een-bedrijfsevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Kan je een hologram gebruiken op een bedrijfsevenement?
 
@@ -928,7 +928,7 @@ Lees meer over technologische mogelijkheden in ons artikel over [innovatieve eve
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-100-jarig-jubileum-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-100-jarig-jubileum-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Kan Live Impact een 100-jarig jubileum organiseren?
 
@@ -947,7 +947,7 @@ Van het ceremoniële openingsevenement tot het slotfestival. Bel Robin op 073-76
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-50-jarig-jubileum-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-50-jarig-jubileum-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Kan Live Impact een 50-jarig jubileum organiseren?
 
@@ -968,7 +968,7 @@ Bel Robin op 073-7600707 of mail naar [robin@live-impact.nl](mailto:robin@live-i
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-bedrijfsreis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-bedrijfsreis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:01+00:00 -->
 
 # Kan Live Impact een bedrijfsreis organiseren?
 
@@ -987,7 +987,7 @@ Geen standaardpakketten. Alles op maat. Bel ons op +31 85 401 40 14 of mail naar
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-bedrijfsweekend-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-bedrijfsweekend-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een bedrijfsweekend voor ons organiseren?
 
@@ -1010,7 +1010,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-coordinatie-verzorgen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-coordinatie-verzorgen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact de coördinatie van ons event verzorgen?
 
@@ -1031,7 +1031,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-cultureel-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-cultureel-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een cultureel evenement organiseren?
 
@@ -1050,7 +1050,7 @@ Bel Robin op +31 73 760 07 07 of mail naar [robin@live-impact.nl](mailto:robin@l
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-dealerdagen-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-dealerdagen-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact onze dealerdagen organiseren?
 
@@ -1067,7 +1067,7 @@ Ja. Live Impact organiseert regelmatig dealerdagen, partnerdagen en distributeur
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-een-bedrijfsborrel-voor-ons-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-een-bedrijfsborrel-voor-ons-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een bedrijfsborrel voor ons organiseren?
 
@@ -1086,7 +1086,7 @@ Wij kennen de beste locaties in Nederland voor een bedrijfsborrel. Denk aan brui
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-een-evenement-organiseren-in-amsterdam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-een-evenement-organiseren-in-amsterdam.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een evenement organiseren in Amsterdam?
 
@@ -1103,7 +1103,7 @@ Lees meer op onze pagina [Evenementenbureau Amsterdam](/blog/evenementenbureau-a
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-een-evenement-organiseren-in-den-haag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-een-evenement-organiseren-in-den-haag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een evenement organiseren in Den Haag?
 
@@ -1120,7 +1120,7 @@ Lees meer op onze pagina [Evenementenbureau Den Haag](/blog/evenementenbureau-de
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-een-evenement-organiseren-in-eindhoven -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-een-evenement-organiseren-in-eindhoven.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een evenement organiseren in Eindhoven?
 
@@ -1137,7 +1137,7 @@ Lees meer op onze pagina [Evenementenbureau Eindhoven](/blog/evenementenbureau-e
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-een-evenement-organiseren-in-rotterdam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-een-evenement-organiseren-in-rotterdam.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een evenement organiseren in Rotterdam?
 
@@ -1154,7 +1154,7 @@ Lees meer op onze pagina [Evenementenbureau Rotterdam](/blog/evenementenbureau-r
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-een-evenement-organiseren-in-utrecht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-een-evenement-organiseren-in-utrecht.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een evenement organiseren in Utrecht?
 
@@ -1171,7 +1171,7 @@ Lees meer op onze pagina [Evenementenbureau Utrecht](/blog/evenementenbureau-utr
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-evenement-marketing-verzorgen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-evenement-marketing-verzorgen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact evenement marketing voor ons verzorgen?
 
@@ -1188,7 +1188,7 @@ Ja. Live Impact denkt vanuit impact: meetbaar effect, niet holle frasen. We star
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-fusie-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-fusie-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:06+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:02+00:00 -->
 
 # Kan Live Impact een fusie-evenement organiseren?
 
@@ -1205,7 +1205,7 @@ Ja. Live Impact heeft ervaring met fusie-evenementen, overnamebijeenkomsten en t
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-incentive-reis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-incentive-reis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een incentive reis organiseren?
 
@@ -1224,7 +1224,7 @@ Elke incentive reis is op maat, afgestemd op jouw team, cultuur en doelen. Bel o
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-jubileumreis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-jubileumreis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een jubileumreis organiseren?
 
@@ -1243,7 +1243,7 @@ Voor groepen van 15 tot 80 personen, in binnen- en buitenland. Bel ons op +31 85
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-kennisevent-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-kennisevent-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een kennisevent organiseren?
 
@@ -1260,7 +1260,7 @@ Ja. Live Impact voegt aan kennisevents toe wat intern vaak ontbreekt: dramaturgi
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-kerstfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-kerstfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact ons kerstfeest organiseren?
 
@@ -1277,7 +1277,7 @@ Ja, Live Impact organiseert al sinds 1998 zakelijke kerstfeesten. Van intieme ke
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-klantendag-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-klantendag-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een klantendag voor ons organiseren?
 
@@ -1300,7 +1300,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-merkactivatie-verzorgen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-merkactivatie-verzorgen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact onze merkactivatie verzorgen?
 
@@ -1319,7 +1319,7 @@ Zoek je een hostess voor volgende week? Dan ben je bij een sampling bureau beter
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-nieuwjaarsborrel-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-nieuwjaarsborrel-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact onze nieuwjaarsborrel organiseren?
 
@@ -1340,7 +1340,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-openingsfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-openingsfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een openingsfeest voor ons organiseren?
 
@@ -1363,7 +1363,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-personeelsfeest-begin-tot-eind-regelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-personeelsfeest-begin-tot-eind-regelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact mijn personeelsfeest van begin tot eind regelen?
 
@@ -1382,7 +1382,7 @@ Je hoeft zelf geen leveranciers te zoeken, geen offertes te vergelijken en geen 
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-studiereis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-studiereis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een studiereis organiseren?
 
@@ -1401,7 +1401,7 @@ Voor teams van 12 tot 80 personen. Bel ons op +31 85 401 40 14 of mail naar hell
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-themafeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-themafeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een themafeest voor ons organiseren?
 
@@ -1424,7 +1424,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-vitaliteitsevent-verzorgen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-vitaliteitsevent-verzorgen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een vitaliteitsevent verzorgen?
 
@@ -1441,7 +1441,7 @@ Ja. Live Impact organiseert vitaliteitsevents als complete beleving: geen droge 
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-wervingsevent-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-wervingsevent-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact een wervingsevent voor ons organiseren?
 
@@ -1458,7 +1458,7 @@ Ja. Live Impact organiseert wervingsevents die je employer brand tastbaar maken.
 <!-- canonical: https://live-impact.nl/faq/kan-live-impact-zomerfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kan-live-impact-zomerfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:03+00:00 -->
 
 # Kan Live Impact ons zomerfeest organiseren?
 
@@ -1479,7 +1479,7 @@ Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:h
 <!-- canonical: https://live-impact.nl/faq/kanaal-evenementuitnodiging -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kanaal-evenementuitnodiging.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Via welk kanaal verstuur je een evenementuitnodiging?
 
@@ -1496,7 +1496,7 @@ Multichannel werkt het best. E-mail voor grote groepen (20-30% open rate). Fysie
 <!-- canonical: https://live-impact.nl/faq/kanaal-eventuitnodiging -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kanaal-eventuitnodiging.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Welk kanaal gebruik je voor een evenementuitnodiging?
 
@@ -1515,7 +1515,7 @@ WhatsApp past bij informele of persoonlijke evenementen, mits de relatie dat toe
 <!-- canonical: https://live-impact.nl/faq/kanalen-evenement-communicatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kanalen-evenement-communicatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Welke kanalen gebruik je voor evenement-communicatie?
 
@@ -1534,7 +1534,7 @@ Wat kies je? Een combinatie is de sleutel. Start met de kanalen waar je doelgroe
 <!-- canonical: https://live-impact.nl/faq/kandidaten-bereiken-wervingsevent -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kandidaten-bereiken-wervingsevent.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Hoe bereik je de juiste kandidaten voor een wervingsevent?
 
@@ -1553,7 +1553,7 @@ Geef het evenement een inhoudelijk thema dat de doelgroep aanspreekt, niet allee
 <!-- canonical: https://live-impact.nl/faq/kansen-bedrijfsprijs -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kansen-bedrijfsprijs.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Hoe vergroot je je kansen op een bedrijfsprijs?
 
@@ -1570,7 +1570,7 @@ Je kansen op een bedrijfsprijs vergroot je als volgt. 1) Juiste prijsselectie: o
 <!-- canonical: https://live-impact.nl/faq/kantoor-transformeren-eventlocatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kantoor-transformeren-eventlocatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Hoe transformeer je een kantoor tot eventlocatie?
 
@@ -1587,7 +1587,7 @@ Transformatie is de sleutel. Begin bij de entree: creëer een wow-moment dat nie
 <!-- canonical: https://live-impact.nl/faq/kantoor-transformeren-feestlocatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kantoor-transformeren-feestlocatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Hoe transformeer ik mijn kantoor naar een feestlocatie?
 
@@ -1604,7 +1604,7 @@ De transformatie van kantoor naar feestlocatie vraagt om een combinatie van inzi
 <!-- canonical: https://live-impact.nl/faq/kengetallen-vs-offerte-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kengetallen-vs-offerte-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Wat is het verschil tussen kengetallen en een offerte bij evenementen?
 
@@ -1623,7 +1623,7 @@ Een offerte is een concrete prijsopgave van een specifieke leverancier voor een 
 <!-- canonical: https://live-impact.nl/faq/kengetallen-zakelijke-evenementen-meten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kengetallen-zakelijke-evenementen-meten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Welke kengetallen gebruik je bij zakelijke evenementen?
 
@@ -1642,7 +1642,7 @@ Daarnaast meet je merkwaardering via vermeldingen op sociale media. En retentie 
 <!-- canonical: https://live-impact.nl/faq/kenmerken-goed-kennisfestival -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kenmerken-goed-kennisfestival.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Wat zijn de kenmerken van een goed kennisfestival?
 
@@ -1659,7 +1659,7 @@ Ten derde een festivalsfeer in de gastvrijheid: catering, ontmoetingsplekken en 
 <!-- canonical: https://live-impact.nl/faq/kenmerken-goed-onboarding-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kenmerken-goed-onboarding-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Wat zijn kenmerken van een goed onboarding evenement?
 
@@ -1678,7 +1678,7 @@ En verbindend: ze kennen al collega's voor hun eerste werkdag. Live Impact ontwe
 <!-- canonical: https://live-impact.nl/faq/kennisevent-deelnemers-laten-leren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kennisevent-deelnemers-laten-leren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Hoe zorg je dat deelnemers echt iets leren op een kennisevent?
 
@@ -1695,7 +1695,7 @@ Drie principes: korte sessies (max 30 minuten plenair), actieve verwerking (laat
 <!-- canonical: https://live-impact.nl/faq/kennisfestival-wat-is-geschikt -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kennisfestival-wat-is-geschikt.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Wat is een kennisfestival en voor wie is het geschikt?
 
@@ -1712,7 +1712,7 @@ Het format werkt goed voor bedrijven die professionals, klanten of een gemeensch
 <!-- canonical: https://live-impact.nl/faq/kerstborrel-wkr-vrijgesteld -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kerstborrel-wkr-vrijgesteld.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:04+00:00 -->
 
 # Valt een kerstborrel onder de WKR?
 
@@ -1729,7 +1729,7 @@ Ja. Een kerstborrel valt onder de werkkostenregeling (WKR). In 2026 is de vrije 
 <!-- canonical: https://live-impact.nl/faq/kick-off-programma-maken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kick-off-programma-maken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe maak je een kick-off programma?
 
@@ -1750,7 +1750,7 @@ Het laatste kwartier bepaalt wat mensen onthouden. Investeer daar extra in. Wij 
 <!-- canonical: https://live-impact.nl/faq/kick-off-programma-workshops -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kick-off-programma-workshops.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Moet een kick-off programma workshops bevatten?
 
@@ -1769,7 +1769,7 @@ Houd workshops compact: 45 tot 75 minuten, kleine groepen, concrete opdrachten.
 <!-- canonical: https://live-impact.nl/faq/kick-off-thema-onvergetelijk-maken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kick-off-thema-onvergetelijk-maken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe maak je een kick-off thema onvergetelijk?
 
@@ -1788,7 +1788,7 @@ Combineer het thema met één sterk emotioneel moment in het programma: een spee
 <!-- canonical: https://live-impact.nl/faq/kickoff-concept-duurzaam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kickoff-concept-duurzaam.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe zorg je dat een kick-off concept ook na de dag nog werkt?
 
@@ -1809,7 +1809,7 @@ Zonder die drie is de kick-off een ochtend. Met die drie is het een vertrekpunt.
 <!-- canonical: https://live-impact.nl/faq/kinderen-tieners-volwassenen-familiedag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kinderen-tieners-volwassenen-familiedag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe bedien je kinderen, tieners en volwassenen tegelijk op een familiedag?
 
@@ -1828,7 +1828,7 @@ Een goed familiedag-concept biedt de drie groepen elk iets dat past in dezelfde 
 <!-- canonical: https://live-impact.nl/faq/klantenbinding-evenement-meten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/klantenbinding-evenement-meten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe meet je of een klantenbindingevenement succesvol is?
 
@@ -1847,7 +1847,7 @@ Tel concrete vervolgafspraken en offerteaanvragen die uit het evenement voortkom
 <!-- canonical: https://live-impact.nl/faq/klantendag-waardevol-voor-gasten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/klantendag-waardevol-voor-gasten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe maak je een klantendag waardevol voor je gasten?
 
@@ -1862,7 +1862,7 @@ Een waardevolle klantendag biedt exclusieve content die klanten nergens anders k
 <!-- canonical: https://live-impact.nl/faq/klantevent-prijs-per-persoon -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/klantevent-prijs-per-persoon.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoeveel moet je per persoon rekenen voor een klantevent?
 
@@ -1881,7 +1881,7 @@ Een relatie-evenement is altijd premium: gasten zijn klanten of partners die je 
 <!-- canonical: https://live-impact.nl/faq/klantevent-succes-meten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/klantevent-succes-meten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe meet je of een klantevent succesvol was?
 
@@ -1900,7 +1900,7 @@ Directe feedback 48 uur na het evenement. Gedragsverandering in de drie maanden 
 <!-- canonical: https://live-impact.nl/faq/klantevent-vast-budget -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/klantevent-vast-budget.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Kan Live Impact binnen een vast budget werken?
 
@@ -1919,7 +1919,7 @@ We werken met drie varianten (basis, midden, uitgebreid) zodat je kunt kiezen.
 <!-- canonical: https://live-impact.nl/faq/klantretentie-vergroten-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/klantretentie-vergroten-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Hoe bouw je relaties voorbij de transactie uit?
 
@@ -1934,7 +1934,7 @@ Echte relaties bouw je voorbij de transactie uit door specifieke, betekenisvolle
 <!-- canonical: https://live-impact.nl/faq/kleinschalig-evenement-grootte -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kleinschalig-evenement-grootte.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Wat is een kleinschalig evenement qua grootte?
 
@@ -1951,7 +1951,7 @@ Live Impact organiseert ook kleinschalige bijeenkomsten met maximale impact: een
 <!-- canonical: https://live-impact.nl/faq/kleinschalig-evenement-grootte-definitie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kleinschalig-evenement-grootte-definitie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:05+00:00 -->
 
 # Wat is een kleinschalig evenement qua grootte?
 
@@ -1968,7 +1968,7 @@ Een kleinschalig evenement ligt tussen 20 en 150 personen, met nadruk op 20-50 v
 <!-- canonical: https://live-impact.nl/faq/kost-duurzaam-evenement-meer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kost-duurzaam-evenement-meer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Kost een duurzaam evenement meer dan een regulier evenement?
 
@@ -1987,7 +1987,7 @@ Waar duurzame evenementen soms meer kosten: gecertificeerde groene energie, duur
 <!-- canonical: https://live-impact.nl/faq/kosten-25-jarig-jubileum-bedrijf -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-25-jarig-jubileum-bedrijf.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een 25-jarig jubileum organiseren?
 
@@ -2006,7 +2006,7 @@ Inclusief locatie, catering, entertainment en productie. De grootste kostenposte
 <!-- canonical: https://live-impact.nl/faq/kosten-25-jarig-jubileum-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-25-jarig-jubileum-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost het organiseren van een 25-jarig jubileum?
 
@@ -2023,7 +2023,7 @@ Inclusief locatie, catering, entertainment en productie. De grootste kostenposte
 <!-- canonical: https://live-impact.nl/faq/kosten-5-jarig-jubileumfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-5-jarig-jubileumfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een 5-jarig jubileumfeest gemiddeld?
 
@@ -2040,7 +2040,7 @@ Inclusief locatie, catering, entertainment en productie. De grootste kostenposte
 <!-- canonical: https://live-impact.nl/faq/kosten-50-jarig-jubileum-bedrijf -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-50-jarig-jubileum-bedrijf.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een 50-jarig jubileum voor een bedrijf?
 
@@ -2059,7 +2059,7 @@ Inclusief locatie, catering, entertainment en productie. De grootste kostenposte
 <!-- canonical: https://live-impact.nl/faq/kosten-aankleding-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-aankleding-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost de aankleding van een zakelijk evenement?
 
@@ -2078,7 +2078,7 @@ Live Impact adviseert over de beste verhouding tussen investering en impact voor
 <!-- canonical: https://live-impact.nl/faq/kosten-afscheidsfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-afscheidsfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een afscheidsfeest organiseren gemiddeld?
 
@@ -2095,7 +2095,7 @@ De grootste kostenposten zijn: de locatie of het restaurant, de catering, het ca
 <!-- canonical: https://live-impact.nl/faq/kosten-ai-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-ai-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Kosten AI-integratie in evenementen?
 
@@ -2108,7 +2108,7 @@ De grootste kostenposten zijn: de locatie of het restaurant, de catering, het ca
 <!-- canonical: https://live-impact.nl/faq/kosten-av-techniek-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-av-techniek-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost AV-techniek voor een zakelijk evenement?
 
@@ -2127,7 +2127,7 @@ Ontdek meer in ons artikel over [technische infrastructuur op je evenement](/blo
 <!-- canonical: https://live-impact.nl/faq/kosten-award-show-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-award-show-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een award show organiseren?
 
@@ -2146,7 +2146,7 @@ Een award show is productie-intensief: licht, geluid, video, presentatie en een 
 <!-- canonical: https://live-impact.nl/faq/kosten-bbq-evenement-bedrijf -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bbq-evenement-bedrijf.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een BBQ evenement voor een bedrijf gemiddeld?
 
@@ -2165,7 +2165,7 @@ Een BBQ of zomerborrel is doorgaans korter dan een avondfeest, met catering die 
 <!-- canonical: https://live-impact.nl/faq/kosten-beachparty-bedrijf -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-beachparty-bedrijf.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een beachparty voor een bedrijf organiseren?
 
@@ -2184,7 +2184,7 @@ Boek een beachclub in het zomerseizoen minimaal 3 tot 4 maanden van tevoren.
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:06+00:00 -->
 
 # Wat kost een bedrijfsfeest organiseren?
 
@@ -2201,7 +2201,7 @@ Een bedrijfsfeest kost ongeveer €250 tot €350+ per persoon ex. btw bij 250 t
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsfeest organiseren?
 
@@ -2216,7 +2216,7 @@ Een bedrijfsfeest kost ongeveer €250 tot €350+ per persoon ex. btw bij 250 t
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsjubileum-vieren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsjubileum-vieren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsjubileum vieren?
 
@@ -2235,7 +2235,7 @@ Inclusief locatie, catering, entertainment en productie. De grootste kostenposte
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsopening-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsopening-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsopening organiseren?
 
@@ -2254,7 +2254,7 @@ Een bedrijfsopening combineert een ceremonieel moment met een feestelijk program
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsopening-organiseren-fbb96 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsopening-organiseren-fbb96.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsopening organiseren?
 
@@ -2271,7 +2271,7 @@ Live Impact denkt graag mee over het juiste format voor jouw budget. Wij maken e
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsprijzen-winnen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsprijzen-winnen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsprijzenuitreiking organiseren?
 
@@ -2288,7 +2288,7 @@ Live Impact verzorgt de volledige productie, van de categorieën en de jury tot 
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsreis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsreis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een zakelijke bedrijfsreis per persoon?
 
@@ -2303,7 +2303,7 @@ Een bedrijfsreis kost ongeveer €500 tot €1.800+ per persoon voor een Europes
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsreis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsreis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsreis organiseren?
 
@@ -2318,7 +2318,7 @@ Een bedrijfsreis kost ongeveer €500 tot €1.800+ per persoon voor een Europes
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsuitje -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsuitje.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsuitje per persoon?
 
@@ -2337,7 +2337,7 @@ Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaan
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsuitje-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsuitje-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost Bedrijfsuitje Organiseren?
 
@@ -2350,7 +2350,7 @@ Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaan
 <!-- canonical: https://live-impact.nl/faq/kosten-bedrijfsuitje-per-persoon -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bedrijfsuitje-per-persoon.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost een bedrijfsuitje per persoon?
 
@@ -2369,7 +2369,7 @@ Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaan
 <!-- canonical: https://live-impact.nl/faq/kosten-begroting-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-begroting-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost Begroting Evenementen?
 
@@ -2382,7 +2382,7 @@ Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaan
 <!-- canonical: https://live-impact.nl/faq/kosten-belang-van-interactie-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-belang-van-interactie-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost Belang Van Interactie Evenementen?
 
@@ -2395,7 +2395,7 @@ Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaan
 <!-- canonical: https://live-impact.nl/faq/kosten-beursdeelname-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-beursdeelname-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost Beursdeelname Organiseren?
 
@@ -2408,7 +2408,7 @@ Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaan
 <!-- canonical: https://live-impact.nl/faq/kosten-bouwmijlpalen-vieren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-bouwmijlpalen-vieren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:07+00:00 -->
 
 # Wat kost het vieren van een bouwmijlpaal?
 
@@ -2425,7 +2425,7 @@ Live Impact ontwerpt bouwmijlpaalvieringen die passen bij het moment en de boods
 <!-- canonical: https://live-impact.nl/faq/kosten-brand-activation-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-brand-activation-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost een brand activation evenement?
 
@@ -2444,7 +2444,7 @@ Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaan
 <!-- canonical: https://live-impact.nl/faq/kosten-brand-activation-evenement-f4aa7 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-brand-activation-evenement-f4aa7.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost een merkactivatie-evenement?
 
@@ -2461,7 +2461,7 @@ Live Impact ontwerpt merkactivaties die binnen jouw budget het maximale effect b
 <!-- canonical: https://live-impact.nl/faq/kosten-catering-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-catering-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost catering bij een zakelijk evenement?
 
@@ -2480,7 +2480,7 @@ Catering maakt doorgaans 20 tot 40 procent uit van het totale evenementenbudget.
 <!-- canonical: https://live-impact.nl/faq/kosten-concept-voorbeelden-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-concept-voorbeelden-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost een creatief concept voor een zakelijk evenement?
 
@@ -2497,7 +2497,7 @@ Live Impact werkt altijd met een duidelijke conceptfase: DNA-sessie, conceptontw
 <!-- canonical: https://live-impact.nl/faq/kosten-conceptontwikkeling-jubileum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-conceptontwikkeling-jubileum.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost conceptontwikkeling voor een jubileum?
 
@@ -2516,7 +2516,7 @@ Dat komt bovenop de productiekosten van het feest zelf, die afhankelijk van scha
 <!-- canonical: https://live-impact.nl/faq/kosten-conceptontwikkeling-kickoff -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-conceptontwikkeling-kickoff.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost conceptontwikkeling voor een kick-off?
 
@@ -2535,7 +2535,7 @@ De productie van de kick-off zelf ligt tussen 15.000 en 75.000 euro. Dat geldt v
 <!-- canonical: https://live-impact.nl/faq/kosten-conferentie-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-conferentie-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Hoeveel kost het organiseren van een conferentie?
 
@@ -2552,7 +2552,7 @@ Conferenties met inschrijfgeld kunnen een deel van de kosten dekken. Sponsoring 
 <!-- canonical: https://live-impact.nl/faq/kosten-conferentie-organiseren-3ac94 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-conferentie-organiseren-3ac94.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost een conferentie organiseren?
 
@@ -2569,7 +2569,7 @@ Live Impact maakt een begroting op maat op basis van jouw doelstelling, doelgroe
 <!-- canonical: https://live-impact.nl/faq/kosten-congrestival-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-congrestival-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Hoeveel kost het om een congrestival te organiseren?
 
@@ -2586,7 +2586,7 @@ Lees meer in ons artikel over [een congrestival organiseren](/blog/congrestival-
 <!-- canonical: https://live-impact.nl/faq/kosten-congrestival-organiseren-c8856 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-congrestival-organiseren-c8856.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:04:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost een congrestival organiseren?
 
@@ -2603,7 +2603,7 @@ Live Impact heeft ervaring met dit hybride format en denkt graag mee over de mee
 <!-- canonical: https://live-impact.nl/faq/kosten-corporate-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-corporate-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Hoeveel kost een corporate evenement?
 
@@ -2620,7 +2620,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-creatief-concept-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-creatief-concept-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:08+00:00 -->
 
 # Wat kost een creatief concept voor een zakelijk evenement?
 
@@ -2641,7 +2641,7 @@ Onze ervaring: nooit bezuinigen op conceptwerk. Het is het goedkoopste onderdeel
 <!-- canonical: https://live-impact.nl/faq/kosten-crowdcontrol-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-crowdcontrol-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost crowdcontrol bij een zakelijk evenement?
 
@@ -2660,7 +2660,7 @@ Zichtbare beveiliging is goedkoper dan gemengde teams voor crowdbeheer. Live Imp
 <!-- canonical: https://live-impact.nl/faq/kosten-culturele-acts-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-culturele-acts-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost het boeken van culturele acts of optredens?
 
@@ -2679,7 +2679,7 @@ Het honorarium omvat doorgaans 30 tot 45 minuten. Reken ook mee: technische opbo
 <!-- canonical: https://live-impact.nl/faq/kosten-cultuurverandering-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-cultuurverandering-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost een cultuurverandering-evenement gemiddeld?
 
@@ -2698,7 +2698,7 @@ Voor grotere organisaties met 200+ mensen loop je al snel op naar €60.000 of m
 <!-- canonical: https://live-impact.nl/faq/kosten-dealer-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-dealer-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost een dealer evenement organiseren?
 
@@ -2717,7 +2717,7 @@ Dagprogramma 60 dealers: 35.000-70.000 euro. Tweedaags 100 dealers: 80.000-130.0
 <!-- canonical: https://live-impact.nl/faq/kosten-dealer-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-dealer-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost een dealerevenement organiseren?
 
@@ -2736,7 +2736,7 @@ Belangrijkste kostenposten zijn reizen, verblijf, catering en entertainment. Liv
 <!-- canonical: https://live-impact.nl/faq/kosten-decoratie-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-decoratie-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Hoeveel kost decoratie voor een zakelijk evenement?
 
@@ -2753,7 +2753,7 @@ Voor een solide decoratiepakket voor een evenement van 200 gasten reken je op �
 <!-- canonical: https://live-impact.nl/faq/kosten-deelname-zakenprijs -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-deelname-zakenprijs.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost deelname aan een zakenprijs?
 
@@ -2772,7 +2772,7 @@ De echte kostpost is echter tijd: reken op twee tot vier maanden intern werk voo
 <!-- canonical: https://live-impact.nl/faq/kosten-duurzaam-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-duurzaam-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Kost een duurzaam evenement meer dan een regulier evenement?
 
@@ -2789,7 +2789,7 @@ Niet per definitie. Sommige duurzame keuzes besparen geld: minder verspilling, h
 <!-- canonical: https://live-impact.nl/faq/kosten-duurzaam-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-duurzaam-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost het om een evenement duurzaam te organiseren?
 
@@ -2806,7 +2806,7 @@ Goed nieuws: duurzame evenementen kosten niet meer dan conventionele evenementen
 <!-- canonical: https://live-impact.nl/faq/kosten-eigen-beurs-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-eigen-beurs-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost het om een eigen beurs te organiseren?
 
@@ -2823,7 +2823,7 @@ Een eigen beurs voor 25 exposanten en 400 bezoekers kost gemiddeld tussen de €
 <!-- canonical: https://live-impact.nl/faq/kosten-employee-engagement-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-employee-engagement-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kosten medewerkersbetrokkenheid evenementen gemiddeld?
 
@@ -2842,7 +2842,7 @@ De investering moet je afzetten tegen de opbrengst: een hogere betrokkenheid ver
 <!-- canonical: https://live-impact.nl/faq/kosten-employer-branding-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-employer-branding-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost een employer branding evenement?
 
@@ -2861,7 +2861,7 @@ De opbrengst is groot: één geslaagde aanwerving van het juiste toptalent recht
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-alkmaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-alkmaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:09+00:00 -->
 
 # Wat kost een evenement organiseren in Alkmaar?
 
@@ -2880,7 +2880,7 @@ Een borrel of teamdag voor 50 personen start rond €3.500. Een groter personeel
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-alkmaar-7f26f -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-alkmaar-7f26f.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Alkmaar?
 
@@ -2897,7 +2897,7 @@ De kosten voor een zakelijk evenement in Alkmaar variëren sterk per schaal. Een
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-almere -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-almere.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Almere?
 
@@ -2914,7 +2914,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-almere-96989 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-almere-96989.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Almere?
 
@@ -2931,7 +2931,7 @@ De kosten voor een zakelijk evenement in Almere variëren sterk per schaal. Een 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-alphen-aan-den-rijn -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-alphen-aan-den-rijn.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een evenement organiseren in Alphen aan den Rijn?
 
@@ -2950,7 +2950,7 @@ Een borrel of teamdag voor 40 personen start rond €3.000. Een personeelsfeest 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-alphen-aan-den-rijn-c5942 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-alphen-aan-den-rijn-c5942.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Alphen aan den Rijn?
 
@@ -2967,7 +2967,7 @@ De kosten voor een zakelijk evenement in Alphen aan den Rijn variëren sterk per
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-amersfoort -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-amersfoort.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Amersfoort?
 
@@ -2984,7 +2984,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-amersfoort-eb37f -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-amersfoort-eb37f.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Amersfoort?
 
@@ -3001,7 +3001,7 @@ De kosten voor een zakelijk evenement in Amersfoort variëren sterk per schaal. 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-amersfoort-eecd6 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-amersfoort-eecd6.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Amersfoort?
 
@@ -3018,7 +3018,7 @@ De kosten voor een zakelijk evenement in Amersfoort variëren sterk per schaal. 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-amsterdam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-amsterdam.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Amsterdam?
 
@@ -3035,7 +3035,7 @@ Amsterdam is de duurste evenementenstad van Nederland. Reken op €150 tot €40
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-amsterdam-1377d -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-amsterdam-1377d.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Amsterdam?
 
@@ -3052,7 +3052,7 @@ De kosten voor een zakelijk evenement in Amsterdam variëren sterk per schaal. E
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-apeldoorn -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-apeldoorn.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Apeldoorn?
 
@@ -3069,7 +3069,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-apeldoorn-46bda -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-apeldoorn-46bda.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Apeldoorn?
 
@@ -3086,7 +3086,7 @@ De kosten voor een zakelijk evenement in Apeldoorn variëren sterk per schaal. E
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-apeldoorn-b19c0 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-apeldoorn-b19c0.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:10+00:00 -->
 
 # Wat kost een zakelijk evenement in Apeldoorn?
 
@@ -3103,7 +3103,7 @@ De kosten voor een zakelijk evenement in Apeldoorn variëren sterk per schaal. E
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-arnhem -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-arnhem.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Arnhem?
 
@@ -3120,7 +3120,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-arnhem-cdd36 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-arnhem-cdd36.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een zakelijk evenement in Arnhem?
 
@@ -3137,7 +3137,7 @@ De kosten voor een zakelijk evenement in Arnhem variëren sterk per schaal. Een 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-breda -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-breda.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Breda?
 
@@ -3154,7 +3154,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-breda-99d0e -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-breda-99d0e.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een zakelijk evenement in Breda?
 
@@ -3171,7 +3171,7 @@ De kosten voor een zakelijk evenement in Breda variëren sterk per schaal. Een k
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-delft -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-delft.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een evenement organiseren in Delft?
 
@@ -3190,7 +3190,7 @@ Een borrel of teamdag voor 50 personen start rond €4.000. Een groter personeel
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-delft-95fa9 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-delft-95fa9.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een zakelijk evenement in Delft?
 
@@ -3207,7 +3207,7 @@ De kosten voor een zakelijk evenement in Delft variëren sterk per schaal. Een k
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-den-bosch -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-den-bosch.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een zakelijk evenement in Den Bosch?
 
@@ -3224,7 +3224,7 @@ De kosten voor een zakelijk evenement in Den Bosch variëren sterk per schaal. E
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-den-haag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-den-haag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Den Haag?
 
@@ -3241,7 +3241,7 @@ Den Haag is iets goedkoper dan Amsterdam maar duurder dan de meeste andere stede
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-deventer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-deventer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:11+00:00 -->
 
 # Wat kost een evenement organiseren in Deventer?
 
@@ -3260,7 +3260,7 @@ Een teamdag of borrel voor 50 personen start rond €3.000. Een personeelsfeest 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-deventer-ee076 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-deventer-ee076.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een zakelijk evenement in Deventer?
 
@@ -3277,7 +3277,7 @@ De kosten voor een zakelijk evenement in Deventer variëren sterk per schaal. Ee
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-dordrecht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-dordrecht.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een evenement organiseren in Dordrecht?
 
@@ -3296,7 +3296,7 @@ Dordrecht heeft unieke havenlocaties en historische panden die de sfeer bepalen 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-dordrecht-11dee -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-dordrecht-11dee.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een zakelijk evenement in Dordrecht?
 
@@ -3313,7 +3313,7 @@ De kosten voor een zakelijk evenement in Dordrecht variëren sterk per schaal. E
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-ede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-ede.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een evenement organiseren in Ede?
 
@@ -3332,7 +3332,7 @@ Een teamdag of workshop voor 40 personen start rond €3.000. Een personeelsfees
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-eindhoven -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-eindhoven.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Eindhoven?
 
@@ -3349,7 +3349,7 @@ Eindhoven is goed geprijsd voor een grote stad. Reken op €95 tot €280 per pe
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-eindhoven-c533d -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-eindhoven-c533d.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een zakelijk evenement in Eindhoven?
 
@@ -3366,7 +3366,7 @@ De kosten voor een zakelijk evenement in Eindhoven variëren sterk per schaal. E
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-emmen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-emmen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een evenement organiseren in Emmen?
 
@@ -3385,7 +3385,7 @@ Een teamdag of borrel voor 50 personen start rond €2.500. Een personeelsfeest 
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-enschede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-enschede.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Enschede?
 
@@ -3402,7 +3402,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-evalueren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-evalueren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost het evalueren van een evenement?
 
@@ -3419,7 +3419,7 @@ Live Impact voert altijd een evaluatie uit na elk project. Wij leveren inzichten
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-fotografie-videografie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-fotografie-videografie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat is bedrijfsevenementfotografie?
 
@@ -3434,7 +3434,7 @@ Bedrijfsevenementfotografie is het professioneel vastleggen van zakelijke evenem
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-groningen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-groningen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een zakelijk evenement in Groningen?
 
@@ -3451,7 +3451,7 @@ Een zakelijk evenement in Groningen begint voor kleinere evenementen (50 persone
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-grote-vereniging -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-grote-vereniging.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Hoeveel kost een evenement voor een grote vereniging?
 
@@ -3470,7 +3470,7 @@ De voornaamste kostenposten zijn locatiehuur, catering en drankjes, technische p
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-grote-vereniging-5ab61 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-grote-vereniging-5ab61.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een evenement voor een grote vereniging?
 
@@ -3489,7 +3489,7 @@ Live Impact helpt verenigingen bij het budgetteren en organiseren van evenemente
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-haarlem -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-haarlem.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:12+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Haarlem?
 
@@ -3506,7 +3506,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-haarlemmermeer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-haarlemmermeer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:13+00:00 -->
 
 # Wat kost een zakelijk evenement organiseren in Haarlemmermeer?
 
@@ -3523,7 +3523,7 @@ Het exacte budget hangt af van het type, de locatie en het programma.
 <!-- canonical: https://live-impact.nl/faq/kosten-evenement-helmond -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/kosten-evenement-helmond.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:05:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:28:13+00:00 -->
 
 # Wat kost een evenement organiseren in Helmond?
 
