@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/familiedag-concept"
 title: "Waarom de meeste familiedagen aanvoelen als een attractiepark met logo"
 description: "Familiedag-concept ontwikkelen? Hoe je een dag bedenkt die past bij je bedrijf en je medewerkers. Geen attractiepark met logo."
 section: "Blog"
-last_updated: "2026-05-08T16:51:12+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
