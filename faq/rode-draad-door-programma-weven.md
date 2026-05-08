@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/rode-draad-door-programma-weven"
 title: "Hoe weef je een rode draad door een heel programma?"
 description: "Een rode draad is niet iets wat je in de opening noemt en verder laat rusten. Vijf momenten moeten hem dragen: de uitnodiging, de opening, de sprekers, de overgangen en de afsluiting. De uitnodiging zet de toon. De opening maakt de rode draad expliciet zonder hem uit te leggen. De sprekers spelen el"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:45+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
