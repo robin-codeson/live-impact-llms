@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/teambuilding-aan-zee"
 title: "Kan een teambuilding aan zee of het strand?"
 description: "Ja, teambuilding aan zee is heel goed mogelijk en populair. De kust biedt ruimte voor buitenactiviteiten zoals strandvolleybal, survivals, zeilen, kitesurfen-workshops en beach parties. Locaties als Noordwijk, Zandvoort, Scheveningen en de Zeeuwse kust hebben goede faciliteiten voor bedrijfsgroepen "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:34+00:00"
+last_updated: "2026-05-08T21:24:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
