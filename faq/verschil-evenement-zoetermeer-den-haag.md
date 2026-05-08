@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-zoetermeer-den-haa
 title: "Wat is het verschil tussen evenement organiseren in Zoetermeer en Den Haag?"
 description: "Den Haag heeft politiek prestige en historische uitstraling. Ideaal voor formele gelegenheden. Zoetermeer is modern, zakelijk en efficiënt. Beter voor evenementen waar de inhoud centraal staat en niet de locatie-uitstraling. Zoetermeer heeft meer parkeermogelijkheden en is gemiddeld 25 tot 35 procen"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:24+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
