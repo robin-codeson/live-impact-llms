@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programma-uitloopt-zakelijk-evenement
 title: "Wat doe ik als het programma van een zakelijk evenement uitloopt?"
 description: "Bouw altijd buffers in het programma. Loopt het toch uit? Schrap een onderdeel of verschuif de pauze. Communiceer transparant naar de zaal."
 section: "FAQ"
-last_updated: "2026-05-08T17:13:25+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
