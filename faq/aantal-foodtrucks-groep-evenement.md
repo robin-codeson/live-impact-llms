@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/aantal-foodtrucks-groep-evenement"
 title: "Hoeveel foodtrucks heb je nodig voor jouw groep?"
 description: "Vuistregel: één foodtruck per 75-100 gasten. Voor 50 personen volstaat één truck. Voor 200 personen kies je twee trucks om lange rijen te voorkomen. Voor 500+ gasten zijn minstens drie trucks nodig, liefst met verschillende concepten voor diversiteit. Wachttijd is kritiek: te lang en gasten vervelen"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:34+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
