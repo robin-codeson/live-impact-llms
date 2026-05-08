@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-kleinschalig-evenement"
 title: "Organiseert Live Impact ook kleinschalige evenementen?"
 description: "Ja, Live Impact is gespecialiseerd in kleinschalige evenementen van 20-100 personen. Dit is onze kernsterkte: intieme evenementen waar kwaliteit en relatiebouw centraal staan. Voor ons is kleinschalig ideaal omdat we elk detail kunnen controleren en personaliseren. Ons proces: je wilt iets bereiken "
 section: "FAQ"
-last_updated: "2026-05-08T17:09:42+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
