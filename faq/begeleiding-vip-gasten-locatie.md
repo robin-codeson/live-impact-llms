@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/begeleiding-vip-gasten-locatie"
 title: "Wie begeleidt VIP-gasten op locatie?"
 description: "Wijs per VIP-gast een vaste gastambassadeur aan. Dat is iemand die verantwoordelijk is voor het welzijn en de ervaring van die specifieke gast. Deze persoon kent het profiel, kent het programma en heeft de vrijheid om buiten het officiële programma aandacht te geven. Laat VIP-begeleiding nooit over "
 section: "FAQ"
-last_updated: "2026-05-08T16:54:23+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
