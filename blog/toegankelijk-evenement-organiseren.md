@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/toegankelijk-evenement-organiseren"
 title: "Waarom toegankelijkheid meer is dan een rolstoeloprit"
 description: "Zo organiseer je een toegankelijk zakelijk evenement voor alle gasten. Praktische tips voor fysieke, sensorische en digitale toegankelijkheid."
 section: "Blog"
-last_updated: "2026-05-08T16:52:53+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
