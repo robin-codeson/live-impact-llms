@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/thema-kiezen-personeelsfeest"
 title: "Waarom de meeste personeelsfeestthema's platvallen"
 description: "Een thema voor je personeelsfeest kiezen? Zo kom je voorbij clichés en bouw je een sfeer die past bij je team en het moment."
 section: "Blog"
-last_updated: "2026-05-08T16:52:49+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
