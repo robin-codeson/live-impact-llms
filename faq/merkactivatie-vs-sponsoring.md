@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/merkactivatie-vs-sponsoring"
 title: "Wat is het verschil tussen merkactivatie en sponsoring?"
 description: "Sponsoring betekent dat je financieel bijdraagt aan een evenement en daar zichtbaarheid voor terugkrijgt. Je naam staat op een banner of in het programmaboekje. Merkactivatie gaat verder: je creëert een interactieve ervaring waarbij deelnemers direct met jouw merk in aanraking komen. Niet passief zi"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:28+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
