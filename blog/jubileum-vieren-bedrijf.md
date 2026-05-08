@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/jubileum-vieren-bedrijf"
 title: "Wat het betekent om een jubileum te vieren als bedrijf"
 description: "Jubileum vieren bij een bedrijf gaat om betekenis, niet alleen planning. Hoe maak je van een mijlpaal een moment dat blijft hangen?"
 section: "Blog"
-last_updated: "2026-05-08T16:51:34+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
