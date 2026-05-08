@@ -1,138 +1,129 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/nieuwjaarsborrel-organiseren"
+title: "Wat is een nieuwjaarsborrel en waarom telt hij zo?"
+description: "Nieuwjaarsborrel organiseren? Van borrel naar strategisch startmoment. Zo pak je het aan."
+section: "Blog"
+last_updated: "2026-05-08T16:52:01+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Dinertafel met confetti tijdens een feestelijk zakelijk diner](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1b0e8dffa7153f60d92_69c06992273121e5d58ec759_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520Circustent%2520DIner%2520Tafel%252013%2520Confetti%25202.webp)
 
-# De nieuwjaarsborrel als strategisch startschot
+# Wat is een nieuwjaarsborrel en waarom telt hij zo?
 
-Een **nieuwjaarsborrel organiseren** is voor veel bedrijven een jaarlijks ritueel. Maar te vaak blijft het bij een glaasje champagne en een korte speech van de directie. Zonde, want de nieuwjaarsbijeenkomst is hét moment om het nieuwe jaar richting te geven, je team te inspireren en samen vooruit te kijken.
+Een nieuwjaarsborrel is het eerste fysieke moment van het jaar waarop je collega's, klanten of relaties samenbrengt. Hij valt tussen 2 en 20 januari. Daarna is het moment weg. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke evenementen organiseert door heel Nederland. Per jaar bouwen we meer dan 150 evenementen. De nieuwjaarsborrel zit elk jaar in onze top vijf.
 
-Een nieuwjaarsborrel is geen eindejaarsfeest. Het [eindejaarsfeest](https://live-impact.nl/blog/eindejaarsfeest-organiseren) is een afsluiting — een viering van wat was. De nieuwjaarsborrel is een opening: een blik op wat komt. Dat verschil klinkt subtiel maar bepaalt alles: de toon van je speech, het type entertainment, de sfeer die je neerzet.
+Hoe organiseer je een nieuwjaarsborrel? Dat doe je in drie stappen. Bepaal waarom je het doet (terugblik, vooruitblik, of allebei). Kies een locatie die de juiste energie heeft voor begin januari. Zet een programma neer dat meer ritme heeft dan een toastmoment en daarna vrij spelen.
 
-De toon die je zet op de nieuwjaarsbijeenkomst werkt door in de maanden die volgen. Teams die het jaar beginnen met een duidelijk gezamenlijk moment — een gedeeld gevoel van richting, een paar concrete ambities, een eerste échte ontmoeting van het jaar — presteren anders dan teams die januari starten met een leeg agendaboek en een stapel achterstallige e-mails.
+De nieuwjaarsborrel is het zwakkere broertje van de kerstborrel, denken veel HR-leiders. Dat is precies waarom het werkt als je het goed doet. De verwachting ligt laag. Iedereen kent de "glaasje, toost, terug naar huis"-versie. Als jouw borrel iets extra's heeft, valt dat direct op. Dat geeft energie voor de rest van Q1.
 
-Dat geldt voor bedrijven van elke omvang. Een borrel voor veertig medewerkers in de kantine kan hetzelfde effect hebben als een bijeenkomst voor vierhonderd mensen op een externe locatie — als het programma klopt en de intentie duidelijk is.
+## Wanneer werkt een nieuwjaarsborrel het best?
 
-Wat maakt een nieuwjaarsbijeenkomst écht de moeite waard? Niet de fles cava, maar het moment waarop mensen naar huis rijden met het gevoel: dit jaar wordt anders. Goed anders.
+De ideale periode ligt tussen maandag 12 en donderdag 22 januari. Voor die dagen zit iedereen nog in vakantie-modus of in de detox-week. Na 22 januari is de aandacht weer bij de jaarplannen en deadlines. Kies een dinsdag, woensdag of donderdag. Maandag is te vroeg, vrijdag concurreert met de vrijdagmiddagborrel.
 
-## Wat maakt een nieuwjaarsborrel geslaagd?
+Start de borrel om 16:00 of 17:00 uur. Dat vangt zowel het einde van de werkdag als de mensen die nog een vergadering moeten afmaken. Houd 'm compact: 3 uur is genoeg. Na 20:00 wordt het een feest en dat is niet wat een nieuwjaarsborrel moet zijn.
 
-Een geslaagde nieuwjaarsbijeenkomst combineert drie elementen: inhoud, beleving en verbinding. Die drie klinken vaag totdat je ze vertaalt naar concrete keuzes.
+De duur van je borrel zegt iets over je intentie. Korter is scherper. Iedereen wil over een mooi begin van het jaar praten, niet over hoe laat ze thuis waren.
 
-Inhoud betekent een helder moment waarop je terugblikt en vooruitkijkt. Niet een lange managementpresentatie met vijftig slides, maar een korte, persoonlijke speech die mensen het gevoel geeft dat ze weten waar ze naartoe gaan. Maximaal tien minuten. Concreet. Zonder zakelijk jargon.
+## De juiste locatie: weg van kantoor
 
-Beleving betekent dat de sfeer aansluit bij de ambitie van het jaar. Gaat het om groei? Dan past een energiek, vooruitstrevend programma. Gaat het om consolidatie en kwaliteit? Dan past een gedegen, verzorgde bijeenkomst waarbij kwaliteit in elk detail voelbaar is. Een [thema](https://live-impact.nl/blog/themafeest-organiseren) dat de jaardoelstellingen symboliseert helpt daarbij — het geeft mensen een kapstok om het moment aan op te hangen.
+De juiste locatie voor een nieuwjaarsborrel is zelden je eigen kantoor. Kantoor ruikt naar de werkdag die net is geweest. Een nieuwjaarsborrel moet de boel openbreken. Zoek een plek die een andere energie heeft. Dat maakt alleen al de aankomst bijzonder.
 
-Verbinding betekent ruimte voor informeel contact. Ruimte voor kennismaking met nieuwe collega’s die er in het afgelopen jaar bij zijn gekomen. Ruimte voor gesprekken die niet over werk gaan maar die de basis leggen voor samenwerking die wél over werk gaat.
+Goede keuzes voor een zakelijke nieuwjaarsborrel zijn een restaurant met privéruimte of een bistro. Industriële ruimtes werken als de verwarming goed is. Horeca met open haard geeft extra sfeer in januari. [Meer over het kiezen van de juiste locatie vind je hier.](/blog/evenementenlocatie-vinden)
 
-Het programma hoeft niet lang te zijn. Anderhalf tot twee uur is voor de meeste bijeenkomsten voldoende: een kort plenair moment gevolgd door een borrel met entertainment of interactieve elementen. Zo hou je het licht en laagdrempelig, maar geef je het wel betekenis. Mensen die ver rijden voor een kwartier inhoud en een borrel, vragen zich terecht af of dit nodig was. Zorg dat het méér is dan dat.
+In het vroege januari helpt een warme binnenlocatie meer dan een hip zolderpand met hoge plafonds. Een paar vuistregels zijn handig: reserveer een locatie op maximaal 30 minuten van kantoor, zorg voor garderobe en een zittende optie voor een deel van het gezelschap, en reken met 1,5 m² per gast, want iedereen op elkaars lip voelt niet als borrel maar als drukke trein.
 
-## Wanneer organiseer je een nieuwjaarsborrel?
+## Het programma: meer dan een toast
 
-De timing van je nieuwjaarsbijeenkomst bepaalt mede de impact. Te vroeg en mensen zijn nog met hun hoofd in de vakantie. Te laat en het jaar is al volop op stoom — het momentum is weg.
+Een programma van een nieuwjaarsborrel hoeft geen uurschema te zijn, maar zonder moment gebeurt er niks. De kern van een goede nieuwjaarsborrel is één centraal ritueel. Dat kan een toast zijn, maar hij moet onderdeel zijn van iets groters. Hieronder drie routes die werken.
 
-De eerste werkweek van januari voelt fris en direct, maar is logistiek lastig. Mensen zijn net terug, e-mailboxen puilen uit, agenda’s zijn nog half leeg van de vakantie. Wie er tóch voor kiest, profiteert van de energie van een echte frisse start — maar moet rekening houden met uitval en een groep die nog op halve kracht is.
+De eerste route is de belofte aan elkaar. Iedereen schrijft één voornemen voor het team op een kaart. De kaarten gaan in een doos. Volgend jaar open je de doos weer. Dat geeft ritme en herinnering.
 
-De tweede of derde week van januari is voor de meeste organisaties het ideale moment. Iedereen is terug, de werkroutine begint op te starten, maar het jaar is nog jong genoeg om richting te geven. Dit is het moment waarop een gezamenlijk startmoment het meeste effect heeft.
+Een tweede optie is de gast-verrassing. Laat een oud-collega, een oud-klant of een onverwachte spreker 7 minuten spreken. Geen jaarrede. Een verhaal over wat zij leerden. Dat kantelt de energie direct.
 
-Sommige organisaties combineren de nieuwjaarsborrel met een [kick-off](https://live-impact.nl/blog/kick-off-organiseren): een inhoudelijk programma overdag en een borrel ’s avonds. Dat werkt goed als er ook écht inhoud is om te delen — een nieuw jaarplan, een strategische koerswijziging, de resultaten van het vorige jaar. Zonder die inhoud is het overkill.
+Tot slot de mini-activatie. Denk aan een live proeverij met regionale producten, een quiz over het afgelopen jaar, of een fotomoment met een thema. Kies er één, doe hem goed.
 
-Wat je ook kiest: begin op tijd met de voorbereiding. Populaire [locaties](https://live-impact.nl/blog/evenementenlocatie-vinden) in januari zijn al in november vergeven. Start in september of oktober als je in de eerste twee weken van januari wil zitten, of in november als je meer flexibel bent.
+Muziek kies je zorgvuldig: geen dj die de ruimte probeert op te stoken, maar een akoestisch duo of een kleine liveband die tussen 18:00 en 19:30 speelt. [Over entertainment boeken schreven we eerder een uitgebreid artikel.](/blog/evenement-entertainment-boeken)
 
-## Nieuwjaarsborrel op eigen locatie of extern?
+## Budget en planning: 6 tot 8 weken vooruit
 
-Beide opties hebben voordelen. Een nieuwjaarsborrel op de [eigen werklocatie](https://live-impact.nl/blog/evenement-op-eigen-locatie-organiseren) is praktisch en kostenefficiënt. Je eigen ruimte transformeer je met sfeerverlichting, een goed geluidssysteem en wat decoratie tot iets dat heel anders aanvoelt dan de dagelijkse werkplek. Fiscaal kan het ook voordelig zijn via de [werkkostenregeling](https://live-impact.nl/blog/werkkostenregeling-evenement-wkr).
+Een nieuwjaarsborrel of -receptie kost ongeveer €125 tot €175+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €110 tot €160+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €100 tot €150+ per persoon. Voor meer dan 2.000 gasten op ongeveer €75 tot €100+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Een externe locatie geeft een gevoel van bijzonderheid dat op de eigen locatie lastig te creëren is. Het scheidt het moment van de dagelijkse werksfeer en signaleert: dit is geen gewone vergadering. Dit is een moment. Dat werkt vooral goed als je de nieuwjaarsbijeenkomst combineert met een inhoudelijke kick-off, of als je een groter gezelschap verwacht dat niet in de eigen ruimte past.
+Een nieuwjaarsborrel is informeel en relatief kort. Plan ruim van tevoren: in januari is de agenda van veel cateraars en locaties al overspoeld.
 
-De beslissing hangt ook af van je bedrijfscultuur. Een startup die gewend is om informeel samen te werken, kiest anders dan een gevestigd bedrijf met een formele uitstraling. Laat die cultuur leidend zijn — een locatie die niet past bij wie je bent, voelt gedwongen en dat merken gasten meteen.
+## Waarom een evenementenbureau inschakelen?
 
-Nederland heeft een goed aanbod van locaties die geschikt zijn voor nieuwjaarsbijeenkomsten: van representatieve kantoorlocaties in de binnenstad tot landgoederen en evenementenruimtes met een uitgesproken karakter. Van [Amsterdam](https://live-impact.nl/blog/evenementenbureau-amsterdam) tot [’s-Hertogenbosch](https://live-impact.nl/blog/evenementenbureau-s-hertogenbosch) — er zijn verborgen parels die je gasten verrassen.
+Een nieuwjaarsborrel lijkt simpel. Een datum, een locatie, wat snacks, klaar. Toch is het precies die schijnbare eenvoud die 'm saai maakt. Bedrijven die een bureau inschakelen, doen dat niet omdat ze het zelf niet kunnen. Ze willen dat hun nieuwjaarsborrel iets achterlaat. Geen moment dat verdwijnt in de agenda.
 
-## Programma-idîeën voor een nieuwjaarsbijeenkomst
+Bij Live Impact werken we aan één ding: een concept dat past bij jouw bedrijf. Wij zijn geen uitvoerend bureau dat alleen een draaiboek levert. We denken mee over de betekenis van jouw nieuwjaarsborrel en over het mechanisme dat die betekenis voelbaar maakt. Daarna regelen we de uitvoering.
 
-Een nieuwjaarsborrel hoeft geen strak geprogrammeerd evenement te zijn. Maar een paar doordachte elementen maken het verschil tussen een bijeenkomst die mensen onthouden en eentje die ze de week erna alweer vergeten zijn.
+Drie dingen maken het verschil: een scherp concept waar de hele avond aan hangt, een locatie die dat concept versterkt en een programma dat ruimte geeft aan verbinding. Dat is wat een bureau toevoegt.
 
-Begin met een korte welkomstspeech met visie. Persoonlijk, maximaal tien minuten, met een terugblik én een concrete vooruitblik. Geen financieel jaarverslag en geen opsomming van projecten, maar een verhaal dat mensen het gevoel geeft dat ze weten wat de richting is. Dat is de kern van een nieuwjaarsbijeenkomst. Alles eromheen is de verpakking.
+## Klaar om je nieuwjaarsborrel te boeken?
 
-Voeg een interactief moment toe waarop medewerkers hun wens of ambitie voor het jaar kunnen delen. Digitaal via een live poll of fysiek via een wensboom, een postkaart of een gezamenlijke installatie. Zo betrek je iedereen bij het moment en maak je het minder eenrichtingsverkeer.
+2026 begint maar één keer. Gebruik dat moment om je team, je klanten of je relaties scherp aan te laten haken. Geen toost om de toost. Een borrel die het jaar opent met energie.
 
-Entertainment zet de sfeer. Een akoestisch duo tijdens de borrel, een saxofonist bij binnenkomst, een DJ die de avond afsluit — kies iets dat past bij het thema en de sfeer die je wilt neerzetten. [Entertainment boeken](https://live-impact.nl/blog/evenement-entertainment-boeken) voor een nieuwjaarsbijeenkomst vraagt om een gerichte keuze, niet de eerste optie die vrij is.
+Wij maken nieuwjaarsborrels voor bedrijven tussen de 100 en 10.000 medewerkers. Van Heijmans tot Carglass tot SAP. Wij leveren het concept. Met ons productieteam regisseren we de uitvoering. Zo klopt de beleving van eerste handdruk tot laatste toast.
 
-Kies voor een walking dinner of eetstations in plaats van een zittend diner als je mensen wilt laten bewegen en mengen. Aan een vaste tafel praat je met de twee mensen naast je. Rondlopend praat je met iedereen. Dat verschil is groter dan het klinkt.
-
-Sluit af met een verrassing. Een onverwacht element dat het jaar symbolisch opent. Een gezamenlijke toast. Een moment dat mensen pakken en dat ze de dag erna nog navertellen.
-
-## Wat kost een nieuwjaarsborrel organiseren?
-
-De [kosten](https://live-impact.nl/blog/kosten-evenementenbureau) van een nieuwjaarsborrel variëren sterk, afhankelijk van de omvang, de locatie en de invulling.
-
-Een eenvoudige borrel op de eigen locatie met drankjes, hapjes en achtergrondmuziek kost al snel 20 tot 40 euro per persoon. Dat is de meest budgetvriendelijke variant — haalbaar voor bijna elke organisatie, en met een goed concept toch verrassend effectief.
-
-Een nieuwjaarsbijeenkomst op een externe locatie met entertainment en een walking dinner of eetstations zit al snel op 75 tot 150 euro per persoon. In dat budget heb je ruimte voor locatiehuur, catering, een entertainer en basisproductie (geluid en licht). Voor de meeste middelgrote bedrijven is dat het realistische budget voor een bijeenkomst die écht iets doet.
-
-Een volledige nieuwjaars-kick-off met dag- en avondprogramma, meerdere sprekers, entertainment en een externe locatie begint bij 150 euro per persoon en loopt op afhankelijk van de ambities.
-
-De factoren die het meeste verschil maken in kosten zijn: het aantal gasten (locatiekosten schalen snel), de locatiekeuze, het type catering, de inzet van entertainment en audiovisuele techniek, en de mate van styling en decoratie.
-
-Bij een nieuwjaarsborrel op de eigen werkplek kun je mogelijk gebruikmaken van de [werkkostenregeling](https://live-impact.nl/blog/werkkostenregeling-evenement-wkr), wat de netto kosten een stuk gunstiger maakt. Check met je boekhouder welke ruimte er in jullie budget zit.
-
-## Live Impact organiseert jouw nieuwjaarsborrel
-
-Wij organiseren nieuwjaarsbijeenkomsten voor bedrijven van twintig tot vijfhonderd medewerkers. Van een compacte borrel op de eigen locatie tot een volledige kick-off met dag- en avondprogramma. Als [IDEA-gecertificeerd](https://live-impact.nl/blog/idea-keurmerk-evenementenbureau) [evenementenbureau](https://live-impact.nl/blog/evenementenbureau-inhuren) bieden we volledige ontzorging: van [concept](https://live-impact.nl/blog/evenement-concept-ontwikkelen) tot uitvoering.
-
-Elk traject begint bij de juiste vragen. Wat wil je dat medewerkers voelen als ze naar huis rijden? Welke boodschap wil je meegeven voor het jaar? Hoe past de bijeenkomst bij wie jullie zijn?
-
-Vanuit die antwoorden bouwen wij het moment op. Concept, locatie, entertainment, catering, draaiboek — wij regelen het. Zodat jij op de bijeenkomst zelf aanwezig kunt zijn als collega, niet als organisator.
-
-Bel ons op **085 401 40 14** of stuur een mail naar **hello@live-impact.nl**. We plannen een gesprek, stellen de juiste vragen en komen terug met een voorstel dat klopt.
-
-Serieus Leuk.
+Bel [085 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:hello@live-impact.nl) voor een kennismaking. *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
-Kan Live Impact een kerstborrel organiseren?
+Wat kost een zakelijke nieuwjaarsborrel?
 
-Ja. Wij organiseren kerstborrels van 30 tot 500 personen. Van locatieboeking en leverancierscontracten tot aankleding en muziek — concept en uitvoering in één hand. Zo sta jij op de avond zelf bij je team en niet achter de bar.
+Een nieuwjaarsborrel of -receptie kost ongeveer €125 tot €175+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €110 tot €160+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €100 tot €150+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €75 tot €100+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-**[Lees meer over de kerstborrel organiseren →](/blog/kerstborrel-organiseren)**
+Een nieuwjaarsborrel is informeel en relatief kort. Plan ruim van tevoren: in januari is de agenda van veel cateraars en locaties al overspoeld.
 
-Valt een kerstborrel onder de WKR?
+**[Meer weten over een nieuwjaarsborrel organiseren? Lees ons complete artikel →](/blog/nieuwjaarsborrel-organiseren)**
 
-Ja. Een kerstborrel valt onder de werkkostenregeling (WKR). In 2026 is de vrije ruimte 1,7% van de totale loonsom. Een kerstborrel voor medewerkers valt hier onder, net als andere personeelsevenementen. Let op: als je eerder in het jaar ook al evenementen hebt gehad, kan de vrije ruimte al gebruikt zijn.
+Wat is het verschil tussen een nieuwjaarsborrel en een kerstborrel?
 
-**[Meer over de kerstborrel →](/blog/kerstborrel-organiseren)**
+Een kerstborrel sluit het jaar af. Een nieuwjaarsborrel opent het jaar. Dat verschil in moment zorgt voor een ander type borrel.
 
-Wanneer moet je een kerstborrel-locatie boeken?
+De kerstborrel is emotioneel en terugkijkend. Je dankt mensen, je viert wat er is gedaan. Eten speelt vaak een grote rol. De nieuwjaarsborrel is lichter en vooruitkijkend. Je benoemt wat 2026 gaat worden, wat het team dit jaar wil. Drinken en sociaal praten staan centraal.
 
-Zo vroeg mogelijk, bij voorkeur in augustus of september. November en december zijn de drukste maanden voor locaties in Nederland. De beste plekken zijn in oktober al volgeboekt voor de kerstperiode. Wie in november nog belt, krijgt wat overblijft.
+Praktisch: kerstborrel is meestal december, duurt vaak 3 tot 5 uur, kost €8.000 tot €20.000. Nieuwjaarsborrel valt tussen 2 en 20 januari, duurt 2 tot 3 uur, kost €3.500 tot €12.000.
 
-**[Lees meer over kerstborrel organiseren →](/blog/kerstborrel-organiseren)**
+**[Meer weten over een nieuwjaarsborrel organiseren? Lees ons complete artikel →](/blog/nieuwjaarsborrel-organiseren)**
 
-Wat kost een kerstborrel organiseren?
+Hoe maak je een nieuwjaarsborrel meer dan een toost?
 
-Een kerstborrel voor 50 personen — locatiehuur inbegrepen, drankjes en hapjes, lichte muziek — kost realistisch tussen de €3.000 en €6.000. Voor 100 personen reken je op €6.000 tot €12.000. Hoe groter de locatiehuur, hoe meer entertainment en hoe uitgebreider de catering, hoe meer het loopt.
+Een toost alleen is geen borrel. Een nieuwjaarsborrel wordt bijzonder zodra er één centraal ritueel is dat ergens naartoe werkt.
 
-**[Meer over de kerstborrel organiseren →](/blog/kerstborrel-organiseren)**
+Drie routes werken goed. **De belofte aan elkaar:** iedereen schrijft één voornemen voor het team op een kaart. Die kaarten gaan in een doos die je volgend jaar weer opent. **De gast-verrassing:** een oud-collega of onverwachte spreker vertelt in zeven minuten wat zij leerden. **De mini-activatie:** een live proeverij, een jaarquiz of een fotomoment met thema.
 
-Wat is het verschil tussen een kerstborrel en een kerstfeest?
+Kies één richting. Bouw de hele avond eromheen. De rest is sfeer en drank.
 
-Een kerstborrel is informeel, staand, kort (2-3 uur) en laagdrempelig. Budget: €30 tot €75 per persoon. Een kerstfeest is een avond met diner of buffet, programma of entertainment, een duidelijk begin en einde. Budget: €75 tot €200 per persoon. De fout: een borrel plannen maar de beleving van een feest verwachten.
+**[Meer weten over een nieuwjaarsborrel organiseren? Lees ons complete artikel →](/blog/nieuwjaarsborrel-organiseren)**
 
-**[Lees ons complete artikel over de kerstborrel →](/blog/kerstborrel-organiseren)**
+Wanneer organiseer je een nieuwjaarsborrel het best?
 
-Staat je vraag er niet bij?
+De sweet spot voor een zakelijke nieuwjaarsborrel ligt tussen maandag 12 en donderdag 22 januari. Voor die periode zit iedereen nog in vakantie-modus of in de detox-week na kerst.
 
-[Bekijk onze complete FAQ →](/faq)
+Na 22 januari raakt de aandacht bij de jaarplannen. Kies bij voorkeur een dinsdag, woensdag of donderdag. Maandag is te vroeg in de werkweek, vrijdag concurreert met de vrijdagmiddagborrel.
+
+Start de borrel om 16:00 of 17:00 uur en houd hem compact: drie uur is genoeg. Na 20:00 wordt het een feest en dat is niet wat een nieuwjaarsborrel moet zijn. Korter is scherper.
+
+**[Meer weten over een nieuwjaarsborrel organiseren? Lees ons complete artikel →](/blog/nieuwjaarsborrel-organiseren)**
+
+Kan Live Impact onze nieuwjaarsborrel organiseren?
+
+Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen, en de nieuwjaarsborrel zit elk jaar in onze top vijf.
+
+We werken voor bedrijven tussen de 100 en 10.000 medewerkers, van Heijmans tot Carglass tot SAP. Wij leveren het concept. Met ons productieteam regisseren we de uitvoering. Zo klopt de beleving van eerste handdruk tot laatste toast.
+
+Bel [+31 85 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:hello@live-impact.nl) voor een kennismaking. **Serieus Leuk.**
+
+**[Meer weten over een nieuwjaarsborrel organiseren? Lees ons complete artikel →](/blog/nieuwjaarsborrel-organiseren)**
 
 ## Geïnspireerd geraakt?
 
