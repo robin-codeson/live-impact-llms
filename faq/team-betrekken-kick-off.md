@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/team-betrekken-kick-off"
 title: "Hoe betrek je je team bij een kick-off?"
 description: "Betrokkenheid begint bij het programma: bouw interactie in vanaf het begin. Break-outsessies in kleine groepen geven iedereen een stem. Polls en live stemrondes zorgen dat deelnemers actief meedoen in plaats van passief te luisteren. Geef teams ruimte voor hun eigen inbreng, een presentatie, een ide"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:34+00:00"
+last_updated: "2026-05-08T21:24:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
