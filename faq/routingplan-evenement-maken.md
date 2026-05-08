@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/routingplan-evenement-maken"
 title: "Hoe maak ik een routingplan voor mijn evenement?"
 description: "Begin met een vloerplattegrond van de locatie. Teken de looproutes in voor de drie hoofdmomenten: aankomst, pauze en vertrek. Markeer flessenhalzen: smalle gangen, trappen, deuren die maar één kant op opengaan. Bekijk waar grote groepen tegelijk samenkomen: na de plenaire zaal, bij het buffet, bij d"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:49+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
