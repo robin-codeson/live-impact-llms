@@ -8,7 +8,7 @@
 <!-- canonical: https://live-impact.nl/blog/personeelsfeest-thema-ideeen-2026 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/personeelsfeest-thema-ideeen-2026.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Circustent met feestelijke dinersfeer en confetti tijdens een thema-personeelsfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1b0e8dffa7153f60d92_69c06992273121e5d58ec759_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520Circustent%2520DIner%2520Tafel%252013%2520Confetti%25202.webp)
 
@@ -149,7 +149,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/personeelsreis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/personeelsreis-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Volle zaal lacht en viert tijdens een personeelsfeest met live entertainment](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
@@ -276,7 +276,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/personeelsuitje-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/personeelsuitje-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Publiek lacht en geniet bij Kemkens 175 jaar personeelsfeest georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
@@ -431,7 +431,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/pitchcode-idea-evenementenbranche -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/pitchcode-idea-evenementenbranche.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -582,7 +582,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/pitchdocument-evenementenbureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/pitchdocument-evenementenbureau.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -699,7 +699,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/privacy-gdpr-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/privacy-gdpr-evenementen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Gasten lopen binnen bij feestelijk versierde ingang van een jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1afe8dffa7153f60d78_69c06767a0510112846f94c9_Jubileumfeest%2520MUMC%252B%2520Inloop%2520gasten.webp)
 
@@ -822,7 +822,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/product-launch-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/product-launch-evenementen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:19+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Robot-act tijdens openingsshow van een innovatief bedrijfsevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2b3b46221b3218c7985_69c061593eeeb38dec9720b0_Hendriks%2520jubileum%2520100%2520robot-act%2520openingsshow-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -939,7 +939,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/productlancering-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/productlancering-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Robot-act tijdens openingsshow van een innovatief bedrijfsevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2b3b46221b3218c7985_69c061593eeeb38dec9720b0_Hendriks%2520jubileum%2520100%2520robot-act%2520openingsshow-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -1064,7 +1064,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/productpresentatie-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/productpresentatie-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Robot-act tijdens openingsshow van een innovatief bedrijfsevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2b3b46221b3218c7985_69c061593eeeb38dec9720b0_Hendriks%2520jubileum%2520100%2520robot-act%2520openingsshow-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -1191,7 +1191,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/programmering-voor-betrokkenheid -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/programmering-voor-betrokkenheid.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:46+00:00 -->
 
 ![Luchtfoto van coverband op catwalk met groot publiek bij een personeelsfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5900a96eae44ba4f8e0_69c0696900fa33741dc8db55_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520lucht%2520entertainment%2520Discophonic%2520Pety%2520catwalk.webp)
 
@@ -1298,7 +1298,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/projectafronding-vieren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/projectafronding-vieren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Dinertafel met confetti tijdens een feestelijk zakelijk diner](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1b0e8dffa7153f60d92_69c06992273121e5d58ec759_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520Circustent%2520DIner%2520Tafel%252013%2520Confetti%25202.webp)
 
@@ -1433,7 +1433,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/projectkick-off-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/projectkick-off-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Plenaire sessie met sprekers op podium tijdens een zakelijk congres](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1776ed71e373c2fec65_69c069be6843e2faf10f2bcc_Podiumsettin%2520plenair%2520directie.jpeg)
 
@@ -1548,7 +1548,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/publieksfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/publieksfeest-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Luchtoverzicht van een festivalterrein aan het water bij een publieksfeest van Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1e5590229479a2c25ef_69c06936c33d4229eedfe394_Overzicht%2520festival%2520vanaf%2520water.jpeg)
 
@@ -1689,7 +1689,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/rebranding-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/rebranding-evenement-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Gala-zaal met podium en scherm voor een merkactivatie-evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce8c_KEYVISUAL-Zaal-overzicht-ronding-podium-scherm-1.webp)
 
@@ -1814,7 +1814,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/registratie-inchecken-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/registratie-inchecken-evenement.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Gasten lopen binnen bij feestelijk versierde ingang van een jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1afe8dffa7153f60d78_69c06767a0510112846f94c9_Jubileumfeest%2520MUMC%252B%2520Inloop%2520gasten.webp)
 
@@ -1965,7 +1965,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/reisbureauregeling-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/reisbureauregeling-zakelijk-evenement.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Overzicht van een grote feestzaal met podium en sfeerverlichting bij een bedrijfsevenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca3707bc3028ce0bd6143c_697621f2b722b7201ff430e9_Huisman%2520Schiedam%252090%2520jaar%2520Overzicht%2520zaal%25205.webp)
 
@@ -2126,7 +2126,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/reiskostenregeling-zakelijke-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/reiskostenregeling-zakelijke-evenementen.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
@@ -2255,7 +2255,7 @@ Oops! Something went wrong while submitting the form.
 <!-- canonical: https://live-impact.nl/blog/relatie-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/blog/relatie-evenement-organiseren.md -->
 <!-- section: Blog -->
-<!-- last_updated: 2026-05-08T16:52:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:26:47+00:00 -->
 
 ![Formele dinertafel met bloemstukken bij een zakelijk galadiner](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda1a47139d50e3c937b17_69c0615c7fa7531f9470c9ec_Huisman%2520diner%2520Joop%2520Erni%2520tafel%2520bloemstukken-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
