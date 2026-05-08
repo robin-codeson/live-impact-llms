@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/groepsgrootte-zakelijk-evenement-live
 title: "Voor hoeveel mensen organiseert Live Impact zakelijke evenementen?"
 description: "Live Impact organiseert zakelijke evenementen voor groepen van 30 tot 5.000 personen. De ideale schaal ligt tussen 50 en 500 deelnemers. Kleinere groepen (30–50 personen) verdienen net zoveel aandacht als grote. Soms zijn de kleinste evenementen het meest impactvol."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:24+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
