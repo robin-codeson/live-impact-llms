@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-klantendag-organisere
 title: "Kan Live Impact een klantendag voor ons organiseren?"
 description: "Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen, waarvan klantendagen voor technische en zakelijke dienstverleners in onze vaste top zitten. We werken voor bedrijven tussen de "
 section: "FAQ"
-last_updated: "2026-05-08T17:04:12+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
