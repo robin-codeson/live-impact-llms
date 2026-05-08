@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/digitale-versus-fysieke-uitnodiging-e
 title: "Wat is het verschil tussen een digitale en een fysieke uitnodiging voor een evenement?"
 description: "Digitale uitnodigingen zijn snel, kostenefficiënt en geschikt voor grote groepen en interne evenementen. Fysieke uitnodigingen voegen iets toe wat digitaal niet kan: status, beleving en de tactiele herinnering aan iets bijzonders. Een mooie envelop met een handgeschreven naam ligt op het bureau en w"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:20+00:00"
+last_updated: "2026-05-08T21:22:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
