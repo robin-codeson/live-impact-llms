@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/controleren-keurmerk-evenementenburea
 title: "Hoe controleer je of een evenementenbureau een keurmerk heeft?"
 description: "Je controleert of een bureau het IDEA-keurmerk heeft op verschillende manieren. 1) Vraag het rechtstreeks: serieuze bureaus vermelden dit op de website. 2) Controleer de IDEA-website (idea.nl) en de aangesloten-ledenlijst. 3) Vraag om het certificaat: echte keurmerkhouders hebben een fysiek certific"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:01+00:00"
+last_updated: "2026-05-08T21:22:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
