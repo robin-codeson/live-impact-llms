@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/populaire-activaties-zakelijk"
 title: "Welke soorten activaties zijn populair op zakelijke evenementen?"
 description: "Populaire activaties op zakelijke evenementen zijn merkbeleving-installaties waarbij bezoekers het merk fysiek ervaren. Daarnaast: interactieve spelconcepten zoals pubquizzen of escape-achtige uitdagingen, en co-creatiesessies waarbij deelnemers zelf iets maken. Daarnaast zijn productdemonstraties m"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:01+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
