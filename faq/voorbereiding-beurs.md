@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voorbereiding-beurs"
 title: "Hoe bereid je je voor op een succesvolle beursdeelname?"
 description: "Een opvallende beursstand onderscheidt zich op verschillende manieren. Eerst, het visueel ontwerp. Gebruik kleur, hoogteverschil en verlichting. Vermijd een vlakke opstelling. Zet elementen op verschillende niveaus. Tweede, menselijk contact. Zet je beste mensen vooraan. Een warme glimlach en oogcon"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:02+00:00"
+last_updated: "2026-05-08T21:24:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
