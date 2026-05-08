@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-bedrijfsopening-jubileum"
 title: "Wat is het verschil tussen een bedrijfsopening en een bedrijfsjubileum?"
 description: "Een bedrijfsopening viert een nieuwe start, zoals een nieuw pand of een volgende fase. De blik is vooruit. Het publiek bestaat vaak uit potentiële klanten, pers en partners die je wil imponeren. Een bedrijfsjubileum viert een mijlpaal in het verleden, zoals 10, 25 of 50 jaar bestaan. De blik is teru"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:39+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
