@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-rotterdam-den-haag
 title: "Wat is het verschil tussen evenement organiseren in Rotterdam en Den Haag?"
 description: "Rotterdam is stedelijk, industrieel en architectonisch gedurfd: perfect voor progressieve organisaties die willen opvallen. Den Haag is klassiek, prestigieus en straalt politieke autoriteit uit: ideaal voor formele evenementen en representatieve gelegenheden. Rotterdam past bij een team dat wil vier"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:18+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
