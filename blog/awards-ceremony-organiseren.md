@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/awards-ceremony-organiseren"
 title: ""
 description: "Awards ceremony organiseren die winnaars en publiek raakt? Hoe je het nominatietraject als maandenlange buzz inzet én van de avond zelf een echte show maakt."
 section: "Blog"
-last_updated: "2026-05-08T16:49:21+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
