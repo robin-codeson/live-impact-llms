@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/eventlogo-ontwerpen"
 title: "Waarom een eventlogo niet hetzelfde is als je bedrijfslogo"
 description: "Een eventlogo is de visuele vertaling van je concept. Zo ontwerp je een logo dat het evenement draagt zonder het merk te overschreeuwen."
 section: "Blog"
-last_updated: "2026-05-08T16:51:07+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
