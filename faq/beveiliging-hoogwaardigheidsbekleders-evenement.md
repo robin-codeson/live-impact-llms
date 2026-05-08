@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beveiliging-hoogwaardigheidsbekleders
 title: "Hoe organiseer je beveiliging voor hoogwaardigheidsbekleders?"
 description: "Beveiliging voor hoogwaardigheidsbekleders vereist expertise en voorbereiding. De stappen volgen hieronder. Eén: bepaal het vereiste beveiligingsniveau, waarbij AIVD en Koninklijke Marechaussee kunnen meedenken. Twee: huur professionele beveiligingsbedrijven in die ervaring hebben. Drie: voer toegan"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:49+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
