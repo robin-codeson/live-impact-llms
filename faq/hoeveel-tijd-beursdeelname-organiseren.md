@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-beursdeelname-organisere
 title: "Hoeveel tijd heb je nodig om een beursdeelname te organiseren?"
 description: "Reken op minimaal 12 weken doorlooptijd voor een professionele beursdeelname. De eerste vier weken gebruik je voor strategie en conceptontwikkeling. Bepaal je doel, het verhaal en de inrichting van je stand. Week 5 tot 8 staan in het teken van standontwerp, productie en leverancierscoördinatie. De l"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:55+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
