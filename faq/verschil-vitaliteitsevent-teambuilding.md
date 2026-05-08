@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-vitaliteitsevent-teambuildin
 title: "Wat is het verschil tussen een vitaliteitsevent en teambuilding?"
 description: "Teambuilding richt zich op samenwerking en groepsdynamiek: het doel is dat teams beter functioneren. Een vitaliteitsevent richt zich op het welzijn en de gezondheid van individuele medewerkers: fysiek, mentaal en energetisch. Bij teambuilding doe je samen een activiteit. Bij een vitaliteitsevent lee"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:42+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
