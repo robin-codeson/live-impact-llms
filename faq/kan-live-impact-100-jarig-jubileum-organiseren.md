@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-100-jarig-jubileum-or
 title: "Kan Live Impact een 100-jarig jubileum organiseren?"
 description: "Ja. Live Impact begeleidt organisaties bij jubilea van elke omvang, inclusief jubileumjaren met meerdere evenementen. Wij verzorgen conceptontwikkeling, protocolcoördinatie, technische productie, gastenmanagement en communicatie. Van het ceremoniële openingsevenement tot het slotfestival. Wij starte"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:52+00:00"
+last_updated: "2026-05-08T21:23:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
