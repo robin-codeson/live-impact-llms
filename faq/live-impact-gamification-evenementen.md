@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-gamification-evenementen"
 title: "Verwerkt Live Impact gamification in evenementconcepten?"
 description: "Ja, gamification is een kernonderdeel van hoe Live Impact evenementen ontwerpt. Wij analyseren je evenementdoelen en bepalen welke spelelementen de meeste impact opleveren. Wij bouwen de koppeling met je evenementenapp en beheren de directe data. Zo sluit de hele ervaring soepel aan bij de merkbelev"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:16+00:00"
+last_updated: "2026-05-08T21:24:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
