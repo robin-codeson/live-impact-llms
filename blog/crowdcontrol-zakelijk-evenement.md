@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/crowdcontrol-zakelijk-evenement"
 title: "Waarom crowdcontrol meer is dan beveiliging"
 description: "Crowdcontrol op je evenement? Van entree tot nooduitgang. Zo voorkom je chaos en verhoog je de beleving."
 section: "Blog"
-last_updated: "2026-05-08T16:49:50+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
