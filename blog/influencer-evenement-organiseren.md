@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/influencer-evenement-organiseren"
 title: "Waarom een influencer evenement anders werkt dan een persuitnodiging"
 description: "Influencer evenement organiseren dat bereik en content oplevert? Lees hoe je een beleving bouwt die social sharing uitlokt. Tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:51:26+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
