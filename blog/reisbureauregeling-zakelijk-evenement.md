@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/reisbureauregeling-zakelijk-evenemen
 title: "Wat is de reisbureauregeling?"
 description: "Reisbureauregeling bij zakelijke evenementen? BTW-marge, factuurvereisten en wanneer het van toepassing is."
 section: "Blog"
-last_updated: "2026-05-08T16:52:27+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
