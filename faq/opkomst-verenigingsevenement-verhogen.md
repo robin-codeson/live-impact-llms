@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/opkomst-verenigingsevenement-verhogen
 title: "Hoe zorg je voor voldoende opkomst bij een verenigingsevenement?"
 description: "Opkomst bij een verenigingsevenement vraagt een actieve uitnodigingsstrategie. Leden kiezen zelf of ze komen. Ze zijn geen medewerkers die verplicht aanwezig zijn. Drie dingen maken het verschil. Ten eerste: een duidelijke waardepropositie in de uitnodiging. Waarom is dit evenement de moeite waard? "
 section: "FAQ"
-last_updated: "2026-05-08T17:12:19+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
