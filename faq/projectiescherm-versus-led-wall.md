@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/projectiescherm-versus-led-wall"
 title: "Wat is het verschil tussen een projectiescherm en een LED-wall bij een evenement?"
 description: "Een projectiescherm werkt met een beamer en is geschikt voor donkere ruimtes. Het is flexibel en relatief betaalbaar. Een LED-wall is een zelfverlichtend scherm dat ook in heldere ruimtes helder en scherp blijft. De beeldkwaliteit is hoger en de uitstraling professioneler. Live Impact adviseert welk"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:29+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
