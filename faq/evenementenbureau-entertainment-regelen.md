@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-entertainment-regel
 title: "Kan een evenementenbureau entertainment voor me regelen?"
 description: "Ja, en dat doen wij dagelijks. Live Impact beschikt over een uitgebreid netwerk van artiesten, bands, DJ's, entertainers en showacts. We adviseren welke acts passen bij jouw concept, doelgroep en programma. We boeken ze in en regelen de volledige productie en technische begeleiding. Je hoeft geen ti"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:34+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
