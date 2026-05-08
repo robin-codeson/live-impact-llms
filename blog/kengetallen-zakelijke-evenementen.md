@@ -1,48 +1,25 @@
-[< Back](kengetallen-zakelijke-evenementen.html#)[< Work](kengetallen-zakelijke-evenementen.html#)
-
-[Next >](kengetallen-zakelijke-evenementen.html#)
+---
+canonical_url: "https://live-impact.nl/blog/kengetallen-zakelijke-evenementen"
+title: "Kengetallen: je startpunt, niet je eindpunt"
+description: "Kengetallen voor zakelijke evenementen: kosten per persoon, m² per gast en doorlooptijden op een rij."
+section: "Blog"
+last_updated: "2026-05-08T16:51:37+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Volle zaal lacht en viert tijdens een personeelsfeest met live entertainment](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
 # Kengetallen: je startpunt, niet je eindpunt
 
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3180ae4de799a3fb37248_6981ff4304c35e55a8a7c41a_Jim.webp)
-
-Geschreven door
-
-Jim
-
-Publicatiedatum
-
-10 maart 2026
-
-Stel: je organiseert een kick-off voor 150 mensen. Je hebt een datum, een ruw idee van het programma en de goedkeuring van je directeur. Dan begint het bellen. Locaties vragen je naar capaciteit. Cateraars willen een budgetindicatie. En jij staat met lege handen.
-
-Kengetallen vullen dat gat. Ze zijn de referentiecijfers die je nodig hebt vóórdat je ook maar één offerte opvraagt. Geen garanties, geen exacte bedragen — maar een kader waarbinnen je werkt. Een startpunt dat je bespaart van late verassingen en budgetoverschrijdingen die achteraf vermijdbaar bleken.
-
-Voor zakelijke evenementen zijn er vijf categorieën die ertoe doen: budget per persoon, ruimte per bezoeker, catering-ratio's, planningshorizonten en bezettingsnormen. Elk behandelen we concreet in dit artikel.
-
-Drie vuistregels bij het gebruik van kengetallen: ten eerste zijn het richtlijnen, geen regels. Een congres in een luxe Amsterdam-locatie kost per persoon het dubbele van hetzelfde congres in een zalencentrum buiten de Randstad. Ten tweede combineer je ze altijd met context — een evenement voor 500 mensen op een festivalterrein heeft andere ruimtenormen dan een diner voor 50 in een restaurant. Ten derde gebruik je ze als gespreksopener: als een locatie of leverancier ver buiten de gangbare kengetallen zit, vraag je waarom. Soms is er een goede reden. Soms is het een waarschuwingssignaal.
+Den Haag is een stad van grote budgetten en kritische opdrachtgevers. Maar ook de meest ervaren eventmanager werkt beter met de juiste kengetallen in zijn achterzak.
+Er zijn vijf categorieën die ertoe doen: budget per persoon, ruimte per bezoeker, cateringratio's, planningshorizonten en bezettingsnormen.
+Bij het gebruik van kengetallen gelden drie vuistregels: gebruik ze als vertrekpunt, niet als eindoordeel, combineer ze altijd met locatiespecifieke informatie, en controleer ze op actualiteit, want de markt beweegt.
+Een startpunt dat je late verrassingen en vermijdbare budgetoverschrijdingen bespaart.
 
 ## Budget per persoon: wat mag je rekenen?
 
-De eerste vraag bij elk evenement: hoeveel kost dit? Het eerlijke antwoord is dat het afhangt van wat je wil. Maar er zijn bandbreedtes die kloppen voor de Nederlandse markt.
-
-**Richtbedragen per persoon per eventtype:**
-
-- Bedrijfsborrel (2-3 uur, staand): €25-75 p.p.
-- Teamdag of teambuilding (halve dag): €75-150 p.p.
-- Personeelsfeest of bedrijfsfeest (avond): €100-250 p.p.
-- Kick-off of seminar (volledige dag): €150-350 p.p.
-- Congres met catering (volledige dag): €200-450 p.p.
-- Gala of awards ceremony: €250-600 p.p.
-- Incentive of relatie-evenement: €350-1.500 p.p.
-
-Binnen het totaalbudget geldt een vaste verdeling als richtlijn: locatie en techniek nemen 30-40% in beslag, catering en F&B 20-30%, entertainment en programma 15-25%, communicatie en uitnodigingen 5-10%, en projectmanagement en coördinatie 5-10%.
-
-Let op de posten die vergeten worden: BTW (21%) zit zelden in de eerste offerte van een locatie. Parkeerfaciliteiten, cloakroom, beveiliging en schoonmaak na afloop voegen samen snel 10-15% toe. Bouw altijd een onvoorzienreserve in van minimaal 10%.
-
-[Meer over het bouwen van een solide evenementenbegroting →](begroting-evenementen.html)
+Budgetkengetallen geven richting. Ze zijn geen garantie, maar ze voorkomen dat je halverwege een project ontdekt dat de begroting niet klopt.
+Binnen het totaalbudget geldt een vaste verdeling als richtlijn: locatie en techniek nemen 30-40% in beslag, catering 20-30%, entertainment en programma 15-25%, communicatie en uitnodigingen 5-10%, en projectmanagement en coördinatie nog eens 5-10%.
 
 ## Ruimte en capaciteit: hoeveel m² per bezoeker?
 
@@ -50,45 +27,45 @@ Ruimte is een van de meest onderschatte kengetallen. Te weinig m² en gasten voe
 
 **Normen per opstellingsvorm:**
 
-- Theateropstelling (rijen stoelen, geen tafels): 0,75-1 m² p.p.
-- Schoolopstelling (tafels met stoelen op rijen): 1,5-2 m² p.p.
-- Ronde tafels of cabaretopstelling: 2-2,5 m² p.p.
-- Staande receptie of borrel: 0,5-0,75 m² p.p.
-- Diner aan lange tafels: 1,5-2 m² p.p.
-- Diner met ronde tafels: 2-2,5 m² p.p.
-- Cocktailformat met losse zithoeken: 1-1,5 m² p.p.
-- Programma met podium en dansruimte: 2,5-3 m² p.p.
+* Theateropstelling (rijen stoelen, geen tafels): 0,75-1 m² p.p.
+* Schoolopstelling (tafels met stoelen op rijen): 1,5-2 m² p.p.
+* Ronde tafels of cabaretopstelling: 2-2,5 m² p.p.
+* Staande receptie of borrel: 0,5-0,75 m² p.p.
+* Diner aan lange tafels: 1,5-2 m² p.p.
+* Diner met ronde tafels: 2-2,5 m² p.p.
+* Cocktailopstelling met losse zithoeken: 1-1,5 m² p.p.
+* Programma met podium en dansruimte: 2,5-3 m² p.p.
 
 Voeg altijd 15-20% toe voor looproutes, nooduitgangen, garderobe, techniekopstelling, podia en registratiebalie. Een praktisch voorbeeld: 200 gasten voor een diner aan ronde tafels. Norm 2-2,5 m² × 200 = 400-500 m². Plus 20% buffer = minimaal 480-600 m² bruto zaaloppervlak.
 
 Belangrijk: de capaciteit in locatiebrochures is bijna altijd de maximale staande bezetting. Vraag altijd expliciet naar de capaciteit bij jóuw opstellingsvorm.
 
-[Meer over ruimtelijke opstellingen en indeling →](ruimte-indelen-evenement.html)
+[Meer over ruimtelijke opstellingen en indeling →](/blog/ruimte-indelen-evenement)
 
-## Catering en F&B: ratio's die je kunt vertrouwen
+## Catering en drank: ratio's die je kunt vertrouwen
 
-Catering bepaalt een groot deel van de beleving. De juiste ratio's voorkomen zowel tekort als verspilling — en beschermen je ook juridisch op het gebied van voedselveiligheid.
+Catering bepaalt een groot deel van de beleving. De juiste ratio's voorkomen zowel tekort als verspilling. Ze beschermen je ook juridisch op het gebied van voedselveiligheid.
 
 **Hapjes en dranken bij borrel of receptie:**
 
-- Warme en koude hapjes: 8-12 stuks per persoon per uur
-- Frisdrank en water: 2-3 glazen per persoon per uur
-- Alcoholische dranken: 2-3 eenheden per persoon per uur (eerste uur ligt hoger)
-- Totale drankconsumptie bij een receptie van 2 uur: reken op 5-7 glazen per persoon
+* Warme en koude hapjes: 8-12 stuks per persoon per uur
+* Frisdrank en water: 2-3 glazen per persoon per uur
+* Alcoholische dranken: 2-3 eenheden per persoon per uur (eerste uur ligt hoger)
+* Totale drankconsumptie bij een receptie van 2 uur: reken op 5-7 glazen per persoon
 
 **Personeel bij catering:**
 
-- Serveermedewerkers bij bediend diner: 1 per 10-15 gasten
-- Barmedewerkers bij open bar: 1 per 40-50 gasten
-- Koks bij live cooking station: 1 per 30-50 gasten, afhankelijk van gerecht
+* Serveermedewerkers bij bediend diner: 1 per 10-15 gasten
+* Barmedewerkers bij open bar: 1 per 40-50 gasten
+* Koks bij live-kookstation: 1 per 30-50 gasten, afhankelijk van gerecht
 
 **Veiligheid en regelgeving:**
 
-- Altijd minimaal 30% alcoholvrij aanbod in het totale drankenpakket
-- Warme gerechten maximaal 20-25 minuten na bereiding serveren
-- Koud buffet maximaal 2 uur uitstallen (voedselveiligheid)
-- 14 verplichte allergenen communiceren op basis van EU-verordening 1169/2011
-- Buffer in aantallen: bestel altijd 10% meer dan het bevestigde deelnemersaantal
+* Altijd minimaal 30% alcoholvrij aanbod in het totale drankenpakket
+* Warme gerechten maximaal 20-25 minuten na bereiding serveren
+* Koud buffet maximaal 2 uur uitstallen (voedselveiligheid)
+* 14 verplichte allergenen communiceren op basis van EU-verordening 1169/2011
+* Buffer in aantallen: bestel altijd 10% meer dan het bevestigde deelnemersaantal
 
 Praktische tip: geef cateraars de definitieve aantallen 5-7 werkdagen van tevoren. Eerder vastleggen vergroot de kans op overschot zonder de flexibiliteit die je nodig hebt als aanmeldingen fluctueren.
 
@@ -98,58 +75,94 @@ De vuistregel is simpel: hoe groter en complexer het evenement, hoe eerder je be
 
 **Doorlooptijden per eventtype:**
 
-- Bedrijfsborrel tot 50 personen: 4-6 weken
-- Teamdag of teambuilding 30-100 personen: 6-10 weken
-- Personeelsfeest of kick-off 50-150 personen: 8-12 weken
-- Congres of seminar 100-300 personen: 3-6 maanden
-- Groot gala of awards ceremony 200-500 personen: 6-12 maanden
-- Internationale incentive of meerdaags evenement: 12-18 maanden
+* Bedrijfsborrel tot 50 personen: 4-6 weken
+* Teamdag of teambuilding 30-100 personen: 6-10 weken
+* Personeelsfeest of kick-off 50-150 personen: 8-12 weken
+* Congres of seminar 100-300 personen: 3-6 maanden
+* Groot gala of awards ceremony 200-500 personen: 6-12 maanden
+* Internationale incentive of meerdaags evenement: 12-18 maanden
 
-In populaire periodes — december, juni, september — reken op 30-50% langere doorlooptijden. Locaties en entertainers worden dan maanden eerder vastgelegd dan je zou verwachten.
+In populaire periodes (december, juni, september) reken je op 30-50% langere doorlooptijden. Locaties en entertainers worden dan maanden eerder vastgelegd dan je zou verwachten.
 
 **Tijdlijn-mijlpalen bij 12 weken voorbereiding:**
 
-- Week 12: datum vastleggen, locatie reserveren, budget goedkeuren
-- Week 10: concept finaliseren, leveranciers selecteren en uitvragen
-- Week 8: entertainers en sprekers bevestigen, uitnodigingen versturen
-- Week 6: catering bestellen, technische behoeften vastleggen
-- Week 4: programma definitief, draaiboek eerste versie
-- Week 2: definitieve aantallen doorgeven, technische repetitie inplannen
-- Week 1: draaiboek definitief, team briefen, materialen gereed
-- Dag zelf: opbouw, briefing uitvoerend team, uitvoering, afbouw en directe evaluatie
+* Week 12: datum vastleggen, locatie reserveren, budget goedkeuren
+* Week 10: concept finaliseren, leveranciers selecteren en uitvragen
+* Week 8: entertainers en sprekers bevestigen, uitnodigingen versturen
+* Week 6: catering bestellen, technische behoeften vastleggen
+* Week 4: programma definitief, draaiboek eerste versie
+* Week 2: definitieve aantallen doorgeven, technische repetitie inplannen
+* Week 1: draaiboek definitief, team briefen, materialen gereed
+* Dag zelf: opbouw, briefing uitvoerend team, uitvoering, afbouw en directe evaluatie
 
-De nazorg is een kengetal op zich: een goede evaluatie direct na het evenement kost 1-2 uur en levert meer op dan een evaluatie die twee weken later plaatsvindt als de details zijn vervaagd.
+De nazorg is een kengetal op zich. Een goede evaluatie direct na het evenement kost 1-2 uur. Dat levert meer op dan een evaluatie twee weken later, als de details zijn vervaagd.
 
 ## Hoe Live Impact kengetallen vertaalt naar maatwerk
 
-Kengetallen geven je het startpunt. Wat er daarna moet gebeuren is vertaling: van bandbreedtes naar jóuw situatie, jóuw groep, jóuw locatie en jóuw concept.
-
-Wij weten welke locaties in Nederland ruim zitten in hun m²-normen — en welke krap zijn, ongeacht wat de brochure beweert. Wij weten welke cateraars de F&B-ratio's serieus nemen en welke er creatief mee omspringen. Wij weten in welke periodes locaties en entertainers al vroeg volgeboekt zijn, zodat jij niet wordt verrast.
-
-En wij bouwen planningen die stand houden. Niet op papier, maar in de uitvoering. Met buffers op de plekken waar het mis kan gaan, en strakke lijnen waar dat moet. We nemen het hele traject voor onze rekening — van het eerste gesprek tot de laatste leverancier is weggereden. Zo houd jij tijd en energie over voor wat echt telt: aanwezig zijn op je eigen evenement.
-
-[Meer over wat het betekent om met een evenementenbureau samen te werken →](evenementenbureau-inhuren.html)
+Live Impact werkt met kengetallen die gebaseerd zijn op honderden evenementen in heel Nederland. We weten wat een realistische begroting is voor een congres van 200 personen in Rotterdam, een gala van 400 gasten in Amsterdam of een kick-off van 80 medewerkers in Den Haag.
+Dat betekent dat we snel een eerlijk beeld kunnen geven van wat jouw evenement gaat kosten. Niet na een week offertes ophalen, maar in het eerste gesprek.
+En wij bouwen planningen die stand houden, niet op papier maar in de uitvoering, met buffers op de plekken waar het mis kan gaan en strakke lijnen waar dat moet.
 
 ## Klaar om van kengetallen naar een concreet plan te gaan?
 
-Heb je een evenement in de planning? Of staat er een idee in je hoofd dat je wil vertalen naar een realistische aanpak? Wij denken graag mee — vrijblijvend, in een goed gesprek.
+Heb je een evenement in de planning, of een idee dat je wil vertalen naar een realistische aanpak? Wij denken graag mee, vrijblijvend, in een goed gesprek.
 
-Stuur een briefing via **[live-impact.nl/briefing](../briefing.html)** of neem contact op via **[live-impact.nl/contact](../contact.html)**. Of bel ons direct: +31 85 401 40 14.
+Stuur een briefing via **[live-impact.nl/briefing](/briefing)** of neem contact op via **[live-impact.nl/contact](/contact)**. Of bel ons direct: 085 401 40 14.
 
-**Serieus Leuk.**
+*Serieus Leuk.*
 
 ---
 
-🧮 **Bereken direct wat jouw evenement vraagt**
-Gebruik het [Live Impact Event Orakel](../event-orakel.html) en zie in één klik hoeveel m², dranken, barren, personeel en toiletten jouw situatie vraagt — afgestemd op event-type, groepsgrootte, leeftijd en geslachtsverdeling.
+🧲 **Bereken direct wat jouw evenement vraagt**  
+Gebruik het [Live Impact Evenement Orakel](/evenement-orakel). Je ziet in één klik hoeveel m², dranken, barren, personeel en toiletten jouw situatie vraagt. Afgestemd op evenement-type, groepsgrootte, leeftijd en geslachtsverdeling.
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Welke kengetallen gebruik je bij zakelijke evenementen?
+
+Vijf kengetallen tellen bij zakelijke evenementen. Eerst het opkomstpercentage: 40 tot 80 procent van de uitgenodigden. Dan de betrokkenheidsgraad: het deel van de deelnemers dat actief meedoet. Derde is de NPS van sprekers en programma, met zeven als streefwaarde. Vierde is het aantal nieuwe contacten per deelnemer: vijf tot tien is gezond. Vijfde is conversie in leads of omzet.
+
+Daarnaast meet je merkwaardering via vermeldingen op sociale media. En retentie via het aandeel sprekers of deelnemers dat terugkomt. Niet alle kengetallen zijn voor elk evenement relevant. Bepaal vooraf wat je wilt meten. Live Impact helpt je het meetkader opzetten en bewaken.
+
+**[Meer weten? Lees ons complete artikel →](/blog/kengetallen-zakelijke-evenementen)**
+
+Hoe meet je het ROI van een zakelijk evenement?
+
+De ROI van een zakelijk evenement bestaat uit meetbare opbrengsten afgezet tegen de investering. Harde posten zijn leads, gesloten deals, verlengingen van klantcontracten en verkoop tijdens of na het evenement. Zachtere posten zijn merkbekendheid, medewerkersbinding en retentie.
+
+Meet dit door leads per bezoeker te tellen. Volg conversies binnen drie tot zes maanden. Vergelijk de tijd van lead naar klant met koude acquisitie. Als vuistregel levert een evenement binnen twaalf maanden minimaal drie keer de investering op.
+
+Live Impact stelt vooraf meetpunten op en levert achteraf een ROI-overzicht met concrete cijfers.
+
+Wat is een goed opkomstpercentage voor zakelijke evenementen?
+
+Bij een gerichte uitnodiging mag je rekenen op een opkomst van 40 tot 60 procent van je genodigden. Nodig je toprelaties persoonlijk uit, dan ligt dat dichter bij 70 tot 80 procent.
+
+Stuur altijd 40 procent meer uitnodigingen dan het aantal plekken dat je wilt vullen. Bel genodigden die niet reageerden persoonlijk op. Dat scheelt doorgaans 5 tot 10 procent lege plekken op de dag zelf.
+
+Hoe track je deelnemerstevredenheid via metriek?
+
+Deelnemerstevredenheid meet je het beste direct na het evenement. De meest gebruikte maat is de aanbevelingsvraag: zou je dit aanraden aan een collega? Antwoorden gaan op een schaal van 0 tot 10. Daarnaast vraag je naar inhoud, locatie, catering en organisatie op een 5-puntsschaal.
+
+Stuur de enquête binnen 48 uur, dan is het geheugen vers en ligt de respons vaak boven 40 procent. Kwantitatieve scores vertellen maar de helft. Vraag ook naar één ding dat goed ging en één ding dat beter kan. Vergelijk resultaten met vorige edities, zo zie je een trend.
+
+Live Impact levert na elk evenement een compleet meetrapport met aanbevelingen.
+
+Welke KPI's zijn belangrijk voor eventplanning?
+
+De belangrijkste KPI's voor eventplanning zijn aanwezigheidspercentage, deelnemerstevredenheid (NPS of rapportcijfer), betrokkenheid tijdens het programma en nazorg-conversie. Stel ze vooraf vast, zodat je weet waarop je stuurt.
+
+Voor commerciële evenementen voeg je leadgeneratie en conversie toe. Voor interne evenementen zijn draagvlak en cultuurimpact de meest waardevolle indicatoren. Kies drie tot vijf KPI's die direct aansluiten bij je doelstelling. Live Impact helpt je dat kader vóór aanvang te bepalen.
+
+**[Meer weten? Lees ons complete artikel →](/blog/kengetallen-zakelijke-evenementen)**
 
 ## Geïnspireerd geraakt?
 
