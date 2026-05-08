@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/congres-organiseren"
 title: "Congres organiseren: van sprekers naar een dag die bijblijft"
 description: "Congres organiseren? Lees alles over concept, programma, locatie en techniek. Van 50 tot 1.500 deelnemers: zo bouw je een congres dat echt impact maakt."
 section: "Blog"
-last_updated: "2026-05-08T16:49:46+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
