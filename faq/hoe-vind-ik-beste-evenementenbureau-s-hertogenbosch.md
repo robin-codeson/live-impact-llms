@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-vind-ik-beste-evenementenbureau-s
 title: "Hoe vind ik het beste evenementenbureau in 's-Hertogenbosch?"
 description: "Let bij het kiezen van een evenementenbureau in 's-Hertogenbosch op ervaring, referenties en of het bureau een IDEA-keurmerk heeft. Live Impact is een IDEA-gecertificeerd bureau met ruime ervaring in Brabant. Wij bieden een volledig ontzorgend concept, van strategie en creatie tot uitvoering."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:08+00:00"
+last_updated: "2026-05-08T21:23:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
