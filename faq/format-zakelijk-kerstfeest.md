@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/format-zakelijk-kerstfeest"
 title: "Welk format past het beste bij een zakelijk kerstfeest?"
 description: "Het beste kerstfeestformat hangt af van je teamgrootte en cultuur. Populaire formats: diners met entertainment, themafeesten, actieve teamavonden, of een combinatie van workshop en borrel."
 section: "FAQ"
-last_updated: "2026-05-08T16:59:41+00:00"
+last_updated: "2026-05-08T21:23:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
