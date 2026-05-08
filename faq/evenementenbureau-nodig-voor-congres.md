@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-nodig-voor-congres"
 title: "Heb je een evenementenbureau nodig voor een congres?"
 description: "Voor een professioneel congres is een evenementenbureau sterk aan te bevelen. De organisatie van een congres is complexer dan het lijkt. Denk aan 200 tot 300 uur voorbereiding, sprekersbegeleiding, registratiebeheer, technische productie, catering en dagcoördinatie. Een bureau neemt dit volledig uit"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:38+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
