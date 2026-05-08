@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-bbq-evenement-bedrijf"
 title: "Wat kost een BBQ evenement voor een bedrijf gemiddeld?"
 description: "Een zakelijke BBQ of zomerborrel kost ongeveer €75 tot €125+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €60 tot €110+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €50 tot €100+ per persoon. Voor meer dan 2.000 gasten reken je op ongeve"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:44+00:00"
+last_updated: "2026-05-08T21:23:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
