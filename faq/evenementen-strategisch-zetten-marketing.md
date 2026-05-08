@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementen-strategisch-zetten-market
 title: "Hoe zet je evenementen strategisch in voor je marketingdoelen?"
 description: "Maak eerst helder: wat is je bedrijfsdoel dit kwartaal? Klanten binnenhalen, klanten behouden, naamsbekendheid of dataverzameling? Kies dan evenementsoorten die daarbij passen. Werving: open evenementen met contactregistratie. Behoud: exclusieve klantenevenementen. Naamsbekendheid: grote publieke be"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:30+00:00"
+last_updated: "2026-05-08T21:23:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
