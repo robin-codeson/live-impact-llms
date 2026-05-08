@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-brand-activation"
 title: "Kan Live Impact een brand activation organiseren?"
 description: "Ja. Wij bedenken en produceren brand activations van begin tot eind. Zo hoef je niet tussen een creatief bureau en een productiepartij heen en weer. Wij starten met je merkbelofte en doelgroep. Daarna bouwen we een concept dat daar precies op aansluit. We regelen locatie, vergunningen, bouw, gasther"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:30+00:00"
+last_updated: "2026-05-08T21:23:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
