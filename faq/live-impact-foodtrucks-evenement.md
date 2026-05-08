@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-foodtrucks-evenement"
 title: "Regelt Live Impact ook foodtrucks bij evenementen?"
 description: "Ja, we hebben een netwerk van gevestigde, gecontroleerde foodtrucks en kunnen complete catering (mobiel of traditioneel) regelen. We kiezen de foodtrucks op basis van jouw evenementstijl en doelgroep. Coördinatie: tijdplanning, plaatsing, infrastructuur en afval. Alles is geregeld. Laten we van jouw"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:14+00:00"
+last_updated: "2026-05-08T21:24:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
