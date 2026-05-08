@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/etiquette-zakelijk-evenement"
 title: "Etiquette: waarom het er echt toe doet"
 description: "Zakelijke evenement-etiquette: van netwerken tot tafel. Zo gedragen gasten zich goed. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:06+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
