@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kpis-essentieel-eventplanning"
 title: "Welke KPI's zijn belangrijk voor eventplanning?"
 description: "De belangrijkste KPI's voor eventplanning zijn aanwezigheidspercentage, deelnemerstevredenheid (NPS of rapportcijfer), betrokkenheid tijdens het programma en nazorg-conversie. Stel ze vooraf vast, zodat je weet waarop je stuurt. Voor commerciële evenementen voeg je leadgeneratie en conversie toe. Vo"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:52+00:00"
+last_updated: "2026-05-08T21:23:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
