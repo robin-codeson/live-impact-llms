@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/nieuwjaarsborrel-meer-dan-toost"
 title: "Hoe maak je een nieuwjaarsborrel meer dan een toost?"
 description: "Een toost alleen is geen borrel. Een nieuwjaarsborrel wordt bijzonder zodra er één centraal ritueel is dat ergens naartoe werkt. Drie routes werken goed. De belofte aan elkaar: iedereen schrijft één voornemen voor het team op een kaart. Die kaarten gaan in een doos die je volgend jaar weer opent. De"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:43+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
