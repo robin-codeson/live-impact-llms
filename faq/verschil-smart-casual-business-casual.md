@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-smart-casual-business-casual
 title: "Wat is het verschil tussen smart casual en business casual?"
 description: "Smart casual en business casual worden veel door elkaar gebruikt, maar er is een duidelijk verschil. Smart casual is informeler: een chino met trui of blazer is voldoende, en sneakers zijn soms acceptabel. Business casual is netter: een pantalon met overhemd (zonder das), een blazer en nette schoene"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:28+00:00"
+last_updated: "2026-05-08T21:24:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
