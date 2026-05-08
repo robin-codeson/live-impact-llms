@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/feedback-verwerken-na-evenement"
 title: "Hoe verwerk je feedback van deelnemers na een evenement?"
 description: "Feedback van deelnemers is goud: het toont welke waarde je hebt toegevoegd en waar het beter kan. Verzamel feedback op drie momenten. Tijdens het evenement via een QR-code. Een paar dagen later via een e-mailenquête. En in een direct gesprek met belangrijke deelnemers. Categoriseer feedback in thema"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:32+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
