@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/locatie-decoratie"
 title: ""
 description: "Locatiedecoratie die je ruimte omtovert? Zo zet je sfeer in als strategisch middel. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:50+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
