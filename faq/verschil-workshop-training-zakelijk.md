@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-workshop-training-zakelijk"
 title: "Wat is het verschil tussen een workshop en een training?"
 description: "Het belangrijkste verschil tussen een workshop en een training is de rolverdeling en het doel. Bij een training staat de overdracht van kennis of vaardigheden centraal. De trainer heeft expertise en brengt die over op de deelnemers. Bij een workshop staat het gezamenlijke werkproces centraal. De dee"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:45+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
