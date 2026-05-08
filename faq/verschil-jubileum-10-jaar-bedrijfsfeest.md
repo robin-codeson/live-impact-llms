@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-jubileum-10-jaar-bedrijfsfee
 title: "Wat is het verschil tussen een jubileum van 10 jaar en een regulier bedrijfsfeest?"
 description: "Een regulier bedrijfsfeest viert het moment, de jaarwisseling, een succes, het einde van een project. Een jubileum van 10 jaar viert een verhaal: tien jaar groeien, bouwen, mislukken en slagen. Dat vraagt om een andere aanpak. Een jubileumfeest heeft altijd een narratief: hoe zijn we begonnen, wat h"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:46+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
