@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/techniek-av-evenementen"
 title: "Waarom goede techniek onzichtbaar moet zijn"
 description: "AV-techniek voor evenementen: geluid, licht, beeld en livestreaming. Hoe kies je de juiste producent?"
 section: "Blog"
-last_updated: "2026-05-08T16:52:46+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
