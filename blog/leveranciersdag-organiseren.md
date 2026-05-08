@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/leveranciersdag-organiseren"
 title: "Een leveranciersdag is geen relatie-evenement"
 description: "Leveranciersdag organiseren? Van gewone bijeenkomst naar strategisch partnerevenement. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:49+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
