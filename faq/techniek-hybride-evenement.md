@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/techniek-hybride-evenement"
 title: "Welke techniek heb je nodig voor een hybride evenement?"
 description: "Voor een solide hybride evenement heb je minimaal nodig: twee tot vier camera's met een dedicated regisseur. Daarnaast professionele audio met aparte mixen voor zaal en stream. Ook nodig: een stabiele internetverbinding van minimaal 50 Mbps upload via een dedicated lijn, niet het locatie-wifi. Verde"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:38+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
