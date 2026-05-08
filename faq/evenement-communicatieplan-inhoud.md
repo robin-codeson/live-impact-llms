@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-communicatieplan-inhoud"
 title: "Wat staat er in een goed evenementcommunicatieplan?"
 description: "Een goed evenementcommunicatieplan bevat acht onderdelen. Eén: een communicatiedoel. Twee: een doelgroepanalyse. Drie: de kernboodschap in één zin. Vier: een kanaalstrategie per doelgroep. Vijf: een tijdlijn die minimaal twaalf weken vóór het evenement start. Zes: de creatieve uitvoering in toon en "
 section: "FAQ"
-last_updated: "2026-05-08T16:58:09+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
