@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-themafeest-personeelsfeest"
 title: "Wat is het verschil tussen een themafeest en een gewoon personeelsfeest?"
 description: "Bij een themafeest is de complete avond ontworpen rondom één idee: decor, catering, entertainment, dresscode en uitnodiging sluiten allemaal op elkaar aan. Bij een gewoon personeelsfeest ontbreekt die rode draad — het is een feest met een locatie, eten en muziek, maar geen overkoepelend concept. The"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:40+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
