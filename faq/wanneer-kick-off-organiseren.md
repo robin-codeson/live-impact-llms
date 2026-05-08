@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-kick-off-organiseren"
 title: "Wanneer organiseer je een kick-off?"
 description: "De meeste kick-offs vinden plaats in januari of februari, als start van het nieuwe jaar. Ook het begin van een nieuw kwartaal of project is een goed moment. Plan minimaal drie tot zes maanden vooruit. Populaire locaties en goede artiesten zijn in het najaar (de drukste periode) soms al een jaar van "
 section: "FAQ"
-last_updated: "2026-05-08T17:18:57+00:00"
+last_updated: "2026-05-08T21:24:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
