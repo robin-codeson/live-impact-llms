@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/techniek-uitvalt-productpresentatie"
 title: "Wat doe ik als de techniek tijdens de productpresentatie uitvalt?"
 description: "Zorg altijd voor een plan B. Maak een screenrecording van de demo en zet een reservelaptop klaar. Iemand achter de schermen bewaakt de techniek. Oefen ook hoe je de situatie rustig communiceert."
 section: "FAQ"
-last_updated: "2026-05-08T17:14:40+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
