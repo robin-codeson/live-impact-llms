@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-crowdcontrol-beveiliging-eve
 title: "Wat is het verschil tussen crowdcontrol en beveiliging op een evenement?"
 description: "Beveiliging gaat over het voorkomen van ongewenste situaties: toegangscontrole, incidentbeheer, bescherming van personen en eigendommen. Crowdcontrol gaat over het sturen van de mensenstroom. Het bepaalt hoe gasten zich bewegen en waar opstoppingen ontstaan. Beide disciplines overlappen bij noodscen"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:50+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
