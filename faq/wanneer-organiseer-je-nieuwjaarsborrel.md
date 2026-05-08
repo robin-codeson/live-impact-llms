@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-organiseer-je-nieuwjaarsborre
 title: "Wanneer organiseer je het beste een nieuwjaarsborrel?"
 description: "De ideale timing voor een nieuwjaarsborrel is de tweede of derde week van januari, wanneer iedereen terug is van vakantie. Je kunt het ook combineren met een kick-off. Plan de organisatie in november om voldoende keuze in locaties en entertainment te hebben."
 section: "FAQ"
-last_updated: "2026-05-08T17:19:03+00:00"
+last_updated: "2026-05-08T21:24:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
