@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-innovatieve-technologie"
 title: "Gebruikt Live Impact innovatieve technologie bij evenementen?"
 description: "Ja, Live Impact gebruikt innovatieve technologie strategisch. We beoordelen jouw doelen en selecteren technologie die werkelijk impact oplevert. We ontwerpen apps op maat, implementeren de livestreamopzet, integreren AR/VR waar relevant en zetten peilingstools in voor betrokkenheid. We testen alles "
 section: "FAQ"
-last_updated: "2026-05-08T17:09:29+00:00"
+last_updated: "2026-05-08T21:24:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
