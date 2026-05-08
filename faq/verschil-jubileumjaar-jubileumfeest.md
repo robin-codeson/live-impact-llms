@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-jubileumjaar-jubileumfeest"
 title: "Wat is het verschil tussen een jubileumjaar en een jubileumfeest?"
 description: "Een jubileumfeest is één evenement op één avond. Een jubileumjaar is een strategie waarbij je je jubileum spreidt over twaalf maanden. Je organiseert meerdere momenten, intern en extern, verdeeld over vier kwartalen. Denk aan een kick-off in januari en een terugblikevent in het voorjaar. Daarna een "
 section: "FAQ"
-last_updated: "2026-05-08T17:16:50+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
