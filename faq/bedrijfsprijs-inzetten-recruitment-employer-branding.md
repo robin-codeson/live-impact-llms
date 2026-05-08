@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bedrijfsprijs-inzetten-recruitment-em
 title: "Hoe gebruik je een gewonnen bedrijfsprijs voor recruitment en employer branding?"
 description: "Een gewonnen bedrijfsprijs zet je actief in op je vacaturepagina, LinkedIn-bedrijfsprofiel en in je wervingscampagnes. \"FD Gazelle-winnaar\" of \"Best Employer\" trekt kandidaten aan die bij een erkend en groeiend bedrijf willen werken. Communiceer de award intern óók: je team heeft eraan bijgedragen e"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:20+00:00"
+last_updated: "2026-05-08T21:22:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
