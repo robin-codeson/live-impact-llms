@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/speech-schrijven-afscheidsfeest"
 title: "Hoe schrijf ik een goede speech voor een afscheidsfeest?"
 description: "Een goede afscheidsspeech is persoonlijk, bevat een echte anekdote en duurt niet langer dan vijf minuten. Hij eindigt met een oprechte wens voor de toekomst."
 section: "FAQ"
-last_updated: "2026-05-08T17:14:08+00:00"
+last_updated: "2026-05-08T21:24:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
