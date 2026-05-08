@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/impact-bedrijfsopening"
 title: "Hoe organiseer ik een bedrijfsopening die impact maakt?"
 description: "Een openingsceremonie duurt meestal 45 tot 90 minuten. De structuur: 1) Ontvangst en borrel (15 min): gasten arriveren en netwerken. 2) Formeel gedeelte (15-20 min): welkomstwoord, speeches en lint doorknippen. 3) Rondleiding (15-20 min): geleide tour door het pand. 4) Uitgebreide borrel of lunch (2"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:12+00:00"
+last_updated: "2026-05-08T21:23:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
