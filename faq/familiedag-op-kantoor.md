@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/familiedag-op-kantoor"
 title: "Hoe organiseer je een familiedag op eigen terrein of kantoor?"
 description: "Een familiedag op eigen terrein of kantoor is een goede optie als je locatiekosten wilt besparen. Ook als de sfeer van de eigen werkplek onderdeel is van de beleving, werkt dit format goed. Denk aan springkussens en attracties op het parkeerterrein of de binnentuin en een barbecue op het bedrijfster"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:32+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
