@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-kick-off"
 title: "Hoe lang duurt een kick-off?"
 description: "De ideale kick-off duurt een halve tot een hele dag, afhankelijk van de boodschap en het programma. Een halve dag van vier uur werkt goed voor een compacte strategische update met een activerende afsluiting. Een volledige dag geeft ruimte voor meer diepgang, teamactiviteiten en een gezamenlijk diner"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:47+00:00"
+last_updated: "2026-05-08T21:23:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
