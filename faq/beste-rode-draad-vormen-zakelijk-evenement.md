@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-rode-draad-vormen-zakelijk-even
 title: "Welke rode-draad-vormen werken het beste voor zakelijke evenementen?"
 description: "Vijf vormen werken bijzonder goed. Chronologie: verleden, heden, toekomst, ideaal voor jubilea en transities. Reis: elk programmaonderdeel is een halte, goed voor kick-offs. Vraag en antwoord: de dag begint met een centrale vraag en elk onderdeel helpt hem beantwoorden, sterk voor strategie-evenemen"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:38+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
