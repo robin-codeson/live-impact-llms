@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/concept-vertalen-naar-programma"
 title: "Hoe vertaal je een concept naar het programma?"
 description: "Het concept is de bril waarmee je elke programmakeuze maakt. De sprekers die je kiest, het type entertainment en de indeling van de dag vloeien allemaal voort uit het concept. Ook de opbouw van spanningsbogen en de communicatiestijl komen eruit voort. Een kick-off met het thema 'Nieuwe energie' vraa"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:55+00:00"
+last_updated: "2026-05-08T21:22:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
