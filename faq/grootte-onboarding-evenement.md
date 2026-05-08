@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/grootte-onboarding-evenement"
 title: "Hoe groot moet een onboarding evenement zijn?"
 description: "Een groepsgrootte van 10 tot 40 personen werkt het beste voor onboarding evenementen. Kleiner dan 10 mist de groepsdynamiek die verbinding stimuleert. Groter dan 50 maakt individuele aandacht en persoonlijke verbinding moeilijker."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:27+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
