@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-werkt-evenementenbureau-utrecht"
 title: "Hoe werkt een evenementenbureau in Utrecht?"
 description: "Een goed evenementenbureau werkt in vijf stappen: briefing, concept, presentatie, productie en uitvoering met nazorg. Eén aanspreekpunt van begin tot eind."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:16+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
