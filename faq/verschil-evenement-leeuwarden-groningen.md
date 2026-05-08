@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-leeuwarden-groning
 title: "Wat is het verschil tussen een evenement in Leeuwarden en Groningen?"
 description: "Leeuwarden en Groningen zijn allebei noordelijke steden, maar ze voelen heel anders als evenementenlocatie. Leeuwarden is compacter en intiemer. Ideaal voor evenementen waarbij authenticiteit en rust centraal staan. De historische binnenstad en culturele erfenis (denk aan Fries Museum en Oldehove) g"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:14+00:00"
+last_updated: "2026-05-08T21:24:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
