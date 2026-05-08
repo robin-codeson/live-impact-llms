@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-bedrijfsreis-organiser
 title: "Wat zijn best practices voor Bedrijfsreis Organiseren?"
 description: "Een succesvolle bedrijfsreis begint met een helder doel. Is het een teambuilding, een relatie-trip of een combinatie van werk en ontspanning? Kies de bestemming op basis van dat doel. Plan ver genoeg van tevoren, zeker voor internationale reizen: reken op drie tot zes maanden. Communiceer duidelijk "
 section: "FAQ"
-last_updated: "2026-05-08T16:55:04+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
