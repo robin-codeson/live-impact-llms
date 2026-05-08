@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/viral-brand-activation"
 title: "Hoe zorg je dat je merkactivatie viral gaat?"
 description: "Ja, Live Impact ontwerpt merkactivaties die merken tot leven brengen. Ons proces verloopt in zes stappen. 1) Briefinganalyse: we begrijpen wie je doelgroep is en wat je merk uitstraalt. 2) Conceptontwikkeling: we brainstormen over creatieve werkvormen die authentiek zijn. 3) Locatieselectie: wij vin"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:54+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
