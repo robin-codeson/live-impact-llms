@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-eventmanagement-eventcoordin
 title: "Wat is het verschil tussen eventmanagement en eventcoordinatie?"
 description: "Het onderscheid zit in de breedte van de betrokkenheid. Eventmanagement omvat het volledige traject van strategie en conceptontwikkeling tot projectplanning, leveranciersmanagement en uitvoering. Eventcoördinatie richt zich specifieker op de logistieke aansturing: het draaiboek bewaken, leveranciers"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:31+00:00"
+last_updated: "2026-05-08T21:24:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
