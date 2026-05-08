@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau"
 title: "Wat doet een evenementenbureau precies?"
 description: "Wat doet een evenementenbureau precies? En wanneer heeft het toegevoegde waarde? Alles over werkwijze, kosten en samenwerking met een professioneel bureau."
 section: "Blog"
-last_updated: "2026-05-08T16:50:51+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
