@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/storytelling-voor-impact"
 title: "Evenementen zijn niet gratis — en hun ROI is niet onmeetbaar"
 description: "Storytelling op je evenement? Zo vertel je een verhaal dat je boodschap laat landen — en blijft hangen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:40+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
