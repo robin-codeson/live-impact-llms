@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenementenvergunning-nederlan
 title: "Wat kost een evenementenvergunning in Nederland?"
 description: "<p>De kosten voor een evenementenvergunning variëren per gemeente en categorie. Kleine evenementen: €0 tot €200. Middelgrote evenementen: €200 tot €1.000. Grote evenementen met 500 of meer bezoekers: €1.000 tot €5.000 of meer. Sommige gemeenten rekenen ook kosten voor behandeling en bezwaar. Live Im"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:03+00:00"
+last_updated: "2026-05-08T21:23:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
