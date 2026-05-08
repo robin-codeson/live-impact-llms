@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-kleine-evenementen"
 title: "Kan een evenementenbureau ook kleine evenementen organiseren?"
 description: "Ja, kleinere evenementen zijn zeker ons werk. Live Impact begeleidt evenementen vanaf 15 gasten, van een intieme borrel of teamworkshop tot een volledig geproduceerd personeelsfeest. Professionele ondersteuning is ook bij een kleine groep waardevol. Je wilt dat het concept klopt, de locatie past en "
 section: "FAQ"
-last_updated: "2026-05-08T16:58:36+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
