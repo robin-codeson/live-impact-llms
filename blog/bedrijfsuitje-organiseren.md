@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsuitje-organiseren"
 title: "Bedrijfsuitje, teamdag of teambuilding: wat is het verschil?"
 description: "Bedrijfsuitje organiseren dat meer is dan een dagje uit? Zo kies je wat bij je team past. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:49:32+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
