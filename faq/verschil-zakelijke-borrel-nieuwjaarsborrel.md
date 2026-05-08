@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-zakelijke-borrel-nieuwjaarsb
 title: "Wat is het verschil tussen een zakelijke borrel en een nieuwjaarsborrel?"
 description: "Een zakelijke borrel is een terugkerend, informeel moment dat je regelmatig inzet als cultuurinstrument. Het draait om laagdrempelig netwerken, teamverbinding en het vieren van kleine mijlpalen. Een nieuwjaarsborrel is een eenmalig seizoensgebonden evenement met een strategischer karakter. Je blikt "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:46+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
