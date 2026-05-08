@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-incentive-reis-organi
 title: "Kan Live Impact een incentive reis organiseren?"
 description: "Ja. Wij organiseren incentive reizen van concept tot uitvoering. Van de eerste bestemmingssuggestie tot de afscheidslunch op de laatste dag. Wij regelen vluchten, vervoer ter plaatse, accommodatie, het complete programma en alle verrassingsmomenten. Elke incentive reis is op maat, afgestemd op jouw "
 section: "FAQ"
-last_updated: "2026-05-08T17:04:07+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
