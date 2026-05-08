@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-alkmaar"
 title: "Alkmaar: de kaasstad als zakelijke evenementenbestemming"
 description: "Evenement organiseren in Alkmaar? Historische kaasstad in Noord-Holland met centrale ligging."
 section: "Blog"
-last_updated: "2026-05-08T16:50:17+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
