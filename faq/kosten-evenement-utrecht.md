@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-utrecht"
 title: "Wat kost een zakelijk evenement organiseren in Utrecht?"
 description: "Utrecht is competitief geprijsd voor een grote Randstad-stad. Reken op €100 tot €300 per persoon voor een volledige dag inclusief locatie, catering en entertainment. Een halfdag kost €75 tot €160 per persoon. Populaire locaties als TivoliVredenburg of historische panden aan de Oudegracht liggen aan "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:52+00:00"
+last_updated: "2026-05-08T21:23:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
