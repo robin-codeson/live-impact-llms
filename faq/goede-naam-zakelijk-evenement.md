@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/goede-naam-zakelijk-evenement"
 title: "Hoe bedenk je een goede naam voor een zakelijk evenement?"
 description: "Een goede naam vat het concept samen en blijft hangen. Begin met de essentie van het evenement: doel, toon en doelgroep. Brainstorm 20 namen zonder filter. Test daarna op uitspreekbaarheid, uniekheid en zoekvolume. Een sterke naam heeft 1 tot 3 woorden, klinkt fijn op een uitnodiging en is googelbaa"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:13+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
