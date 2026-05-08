@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-bedrijfsweekend-organ
 title: "Kan Live Impact een bedrijfsweekend voor ons organiseren?"
 description: "Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke evenementen organiseert door heel Nederland. Per jaar bouwen we 150 of meer evenementen. Meerdaagse evenementen zijn een van onze vaste vormen. We werken voor bedrijven tussen de 100 en 10.000 medewerkers"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:54+00:00"
+last_updated: "2026-05-08T21:23:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
