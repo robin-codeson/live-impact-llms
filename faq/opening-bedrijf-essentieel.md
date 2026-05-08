@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/opening-bedrijf-essentieel"
 title: "Wat mag niet ontbreken bij de opening van een bedrijf?"
 description: "Een professionele bedrijfsopening vereist: (1) formele ceremonie met lint-doorsnijding/sleuteluitreiking als highlight; (2) beknopt welkomstwoord van eigenaar/burgemeester met dank aan betrokken partijen; (3) symbolische eerste handeling (eerste klant ontvangen, eerste product doen, eerste patiënt b"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:13+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
