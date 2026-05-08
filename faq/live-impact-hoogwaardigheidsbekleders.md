@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-hoogwaardigheidsbekleders
 title: "Heeft Live Impact ervaring met evenementen voor hoogwaardigheidsbekleders?"
 description: "Ja, Live Impact heeft uitgebreide ervaring met evenementen voor hoogwaardigheidsbekleders. We hebben internationale conferenties, staatsbezoeken en zakelijke evenementen met VIP-gasten georganiseerd. Ons netwerk omvat beveiligingsprofessionals, protocoladviseurs en evenementmanagers die gespecialise"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:19+00:00"
+last_updated: "2026-05-08T21:24:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
