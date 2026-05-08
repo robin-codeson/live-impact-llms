@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementen-grote-verenigingen"
 title: "Grote verenigingen zijn geen gewone opdrachtgevers"
 description: "Evenementen voor grote verenigingen? Ledenbelang, draagvlak en schaal: zo pak je het aan."
 section: "Blog"
-last_updated: "2026-05-08T16:50:51+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
