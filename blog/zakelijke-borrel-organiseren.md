@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/zakelijke-borrel-organiseren"
 title: "Waarom de zakelijke borrel onderschat wordt"
 description: "Zakelijke borrel organiseren die meer doet dan drankjes schenken? Lees hoe je informeel netwerken omzet in verbinding. Tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:53:13+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
