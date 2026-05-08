@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-jubileumfeest"
 title: "Kan Live Impact mijn jubileumfeest organiseren?"
 description: "Ja! Live Impact heeft jarenlange ervaring met het organiseren van jubileumfeesten voor verschillende grootten en sectoren. We helpen je met strategische adviezen, creatief design, entertainmentselectie, logistiek en volledig projectmanagement. Van concept tot uitvoering: wij zorgen dat jouw jubileum"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:34+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
