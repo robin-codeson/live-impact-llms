@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/duurzaam-evenement-organiseren"
 title: "Waarom duurzaamheid bij evenementen nu aan de orde is"
 description: "Duurzaam evenement organiseren? Praktische gids over groene locaties, catering, transport en CO2-reductie voor zakelijke events. Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:59+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
