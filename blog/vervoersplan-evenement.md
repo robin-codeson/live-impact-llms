@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/vervoersplan-evenement"
 title: "Mobiliteit: de vergeten pijler van je evenement"
 description: "Hoe organiseer je het vervoer voor je evenement? Van shuttle tot parkeerplan: zo maak je een vervoersplan dat voor iedereen werkt."
 section: "Blog"
-last_updated: "2026-05-08T16:53:05+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
