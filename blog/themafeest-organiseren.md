@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/themafeest-organiseren"
 title: "Wat is een themafeest en waarom telt een goed thema?"
 description: "Themafeest organiseren dat past bij je bedrijfs-DNA? Zo kies je een thema dat echt bijblijft."
 section: "Blog"
-last_updated: "2026-05-08T16:52:51+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
