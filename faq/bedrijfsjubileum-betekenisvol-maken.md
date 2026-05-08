@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bedrijfsjubileum-betekenisvol-maken"
 title: "Hoe maak je een bedrijfsjubileum betekenisvol?"
 description: "Betekenis ontstaat als je het verhaal van je bedrijf centraal zet, niet het aantal jaren. Drie elementen werken. Één: interview vooraf met oprichter, directie en 3 tot 5 langstzittende medewerkers om keerpunten en verhalen te verzamelen. Twee: bouw rond dat verhaal één centraal moment (een ritueel, "
 section: "FAQ"
-last_updated: "2026-05-08T16:54:18+00:00"
+last_updated: "2026-05-08T21:22:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
