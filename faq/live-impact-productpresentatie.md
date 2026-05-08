@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-productpresentatie"
 title: "Kan Live Impact een productpresentatie voor ons organiseren?"
 description: "Ja, Live Impact specialiseert zich in productpresentaties die verkopen sluiten en merken bouwen. Onze aanpak begint met format-keuze op basis van product, publiek en doelstelling. Daarna richten we de pre-launchcampagne, het podiumdesign, A/V, expertmoderatie, hands-on demo's en media-aandacht in. W"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:02+00:00"
+last_updated: "2026-05-08T21:24:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
