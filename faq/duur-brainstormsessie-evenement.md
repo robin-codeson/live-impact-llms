@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/duur-brainstormsessie-evenement"
 title: "Hoe lang duurt een goede brainstormsessie voor een evenement?"
 description: "Reken op twee tot drie uur voor een effectieve sessie. Korter werkt niet: je brein heeft tijd nodig om voorbij de voor-de-hand-liggende ideeën te komen. Langer werkt ook niet: na drie uur zakt de scherpte en ga je herhalen wat er al ligt. Bij Live Impact werken wij in drie rondes van 25 minuten met "
 section: "FAQ"
-last_updated: "2026-05-08T16:57:39+00:00"
+last_updated: "2026-05-08T21:22:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
