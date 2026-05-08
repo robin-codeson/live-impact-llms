@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/protocolvereisten-hoogwaardigheidsbek
 title: "Wat zijn de protocolvereisten bij een evenement met hoogwaardigheidsbekleders?"
 description: "De protocolvereisten bij evenementen met hoogwaardigheidsbekleders hangen af van hun functie en het beveiligingsniveau. De basiseisen volgen hieronder. Eén: sterke identificatie en controle van alle gasten en medewerkers vooraf. Twee: beveiligingscontrole op locatie waar mogelijk. Drie: een VIP-ruim"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:30+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
