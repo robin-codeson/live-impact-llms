@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-coordinatie-verzorgen
 title: "Kan Live Impact de coördinatie van ons event verzorgen?"
 description: "Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen. In elk team zit minimaal één coördinator, vaak twee. We werken voor bedrijven tussen de 100 en 10.000 medewerkers, van Heijmans"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:57+00:00"
+last_updated: "2026-05-08T21:23:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
