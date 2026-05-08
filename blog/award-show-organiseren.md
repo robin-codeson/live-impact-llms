@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/award-show-organiseren"
 title: "Waarom een award show meer is dan een prijsuitreiking"
 description: "Een award show organiseren voor je bedrijf? Live Impact organiseert uitreikingen voor 50 tot 1.500 gasten. Van concept en spanning tot uitreiking en feest."
 section: "Blog"
-last_updated: "2026-05-08T16:49:20+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
