@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-feest-op-maat-7b5ee"
 title: "Maakt Live Impact feesten volledig op maat?"
 description: "Ja, volledig op maat is ons specialisme. We beginnen met jouw unieke brief en brainstormen uitbundig. Daarna schetsen we voorstellen en verfijnen tot het klopt. Van conceptueel idee tot eindresultaat: alles is op jou afgestemd. Geen sjablonen, geen 'dat doen we altijd'. Jouw feest is uniek en verdie"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:13+00:00"
+last_updated: "2026-05-08T21:24:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
