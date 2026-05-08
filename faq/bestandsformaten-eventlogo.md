@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bestandsformaten-eventlogo"
 title: "Welke bestandsformaten heb je nodig voor een evenementlogo?"
 description: "Minimaal deze vier formaten heb je nodig. SVG is een vectorbestand dat oneindig schaalbaar is en werkt voor print en signage. PNG heeft een transparante achtergrond voor digitale toepassingen. PDF is voor drukwerk. JPG is voor social media en e-mail. Vraag ook altijd om varianten: volledig kleur, zw"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:12+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
