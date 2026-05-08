@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/briefing-schrijven-bedrijfsevenement"
 title: "Hoe schrijf je een goede briefing voor een bedrijfsevenement?"
 description: "Een goede briefing voor een bedrijfsevenement bevat minimaal zes elementen. Dat zijn: het doel, de doelgroep, het aantal gasten, de gewenste datum of periode, het budget en randvoorwaarden. Geef bij het doel aan wat er na afloop anders moet zijn. Denk bij randvoorwaarden aan een eigen locatie, dieet"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:30+00:00"
+last_updated: "2026-05-08T21:22:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
