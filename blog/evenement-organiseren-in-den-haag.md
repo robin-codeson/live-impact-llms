@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-den-haag"
 title: "Waarom Den Haag de ideale setting is voor zakelijke evenementen"
 description: "Evenement organiseren in Den Haag? Statige locaties, internationale sfeer. Zo maak je het bijzonder."
 section: "Blog"
-last_updated: "2026-05-08T16:50:26+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
