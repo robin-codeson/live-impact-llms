@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/fouten-zakelijk-evenement"
 title: "Waarom goede intenties niet genoeg zijn"
 description: "Welke fouten worden het vaakst gemaakt bij zakelijke evenementen? Live Impact deelt de 7 meest voorkomende valkuilen en hoe je ze voorkomt."
 section: "Blog"
-last_updated: "2026-05-08T16:51:17+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
