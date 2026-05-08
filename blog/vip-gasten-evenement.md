@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/vip-gasten-evenement"
 title: "Waarom VIP-gasten een andere aanpak verdienen"
 description: "Hoe ontvang je VIP-gasten bij een zakelijk evenement? Van exclusieve ontvangst en begeleiding tot speciale ervaringen. Praktisch advies van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:53:05+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
