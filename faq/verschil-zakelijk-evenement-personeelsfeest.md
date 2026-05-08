@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-zakelijk-evenement-personeel
 title: "Wat is het verschil tussen een zakelijk evenement en een personeelsfeest?"
 description: "Een personeelsfeest is een type zakelijk evenement, gericht op verbinding en waardering voor medewerkers. Een zakelijk evenement is de overkoepelende term voor alle evenementen die een bedrijf organiseert met een zakelijk doel. Kick-offs, jubilea, relatie-evenementen, congressen en incentives vallen"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:45+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
