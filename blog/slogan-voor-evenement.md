@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/slogan-voor-evenement"
 title: "Waarom een slogan meer is dan een zin"
 description: "Een goede slogan voor je evenement is geen leuke zin maar de spil van je concept. Zo bouw je een slogan die een jaar later nog meedoet."
 section: "Blog"
-last_updated: "2026-05-08T16:52:34+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
