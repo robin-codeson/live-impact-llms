@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bestemmingen-personeelsreis"
 title: "Welke bestemmingen zijn geschikt voor een personeelsreis?"
 description: "Voor een tweedaagse personeelsreis werken Europese steden als Barcelona, Berlijn, Lissabon, Kopenhagen en Wenen goed. Ze zijn binnen twee uur vliegen bereikbaar en bieden voldoende hotelcapaciteit en activiteiten voor grote groepen. Bij grotere groepen (100+) zijn bestemmingen met professionele DMC'"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:44+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
