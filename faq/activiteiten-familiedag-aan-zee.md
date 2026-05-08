@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activiteiten-familiedag-aan-zee"
 title: "Welke activiteiten passen bij een familiedag aan zee?"
 description: "Een familiedag aan zee biedt veel activiteitenopties voor gezinnen. Voor kinderen: strandbouw, vliegeren, een kabouterparcours, snoepvissen, een kinderdisco op het strand, ponyrijden (op sommige locaties). Voor ouders en oudere kinderen: strandvolleybal, beachsoccer, een bootcamp, zeilen of een fami"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:41+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
