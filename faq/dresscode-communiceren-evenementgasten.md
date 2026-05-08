@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/dresscode-communiceren-evenementgaste
 title: "Hoe communiceer je een dresscode duidelijk aan je evenementgasten?"
 description: "Communiceer je dresscode altijd met een toelichting en concrete voorbeelden. Niet alleen \"smart casual\", maar: \"Dresscode: smart casual. Denk aan chino en blazer, geen spijkerbroek of sportschoenen.\" Vermeld ook een voorbeeld van wat er NIET past. Herhaal de dresscode op de uitnodiging, de bevestigi"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:33+00:00"
+last_updated: "2026-05-08T21:22:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
