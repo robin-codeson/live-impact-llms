@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-themafeest-organiseren"
 title: "Hoeveel tijd kost het organiseren van een themafeest?"
 description: "Reken op 10 tot 14 weken vooruit plannen voor een themafeest van 100+ personen. Dat is langer dan een bedrijfsfeest. De reden: concept-ontwikkeling duurt twee tot drie weken. Locatie-scouting vraagt drie tot vier weken omdat je een plek zoekt die past bij het thema. Entertainment met thema-binding b"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:03+00:00"
+last_updated: "2026-05-08T21:23:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
