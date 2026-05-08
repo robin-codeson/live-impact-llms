@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waar-letten-bij-kiezen-evenement-coor
 title: "Waar let ik op bij het kiezen van een evenementcoördinator?"
 description: "Let op ervaring met vergelijkbare evenementen, referenties van eerdere opdrachtgevers, communicatieve vaardigheden en of het bureau gecertificeerd is. Een IDEA-gecertificeerd bureau als Live Impact biedt extra zekerheid op het gebied van kwaliteit, verzekering en transparantie."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:18+00:00"
+last_updated: "2026-05-08T21:24:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
