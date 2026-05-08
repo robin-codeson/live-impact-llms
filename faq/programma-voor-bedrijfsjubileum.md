@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programma-voor-bedrijfsjubileum"
 title: "Welk programma past bij een bedrijfsjubileum?"
 description: "Een jubileumprogramma heeft drie lagen: terugkijken, vieren en vooruitblikken. Combineer een inhoudelijk moment (een film, expositie of terugblik op de geschiedenis) met een feestelijk deel. Voeg een entertainmentmoment toe dat past bij de cultuur van het bedrijf. Sluit af met een toekomstgericht wo"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:26+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
