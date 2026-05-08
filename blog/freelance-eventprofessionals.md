@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/freelance-eventprofessionals"
 title: ""
 description: "Freelance eventprofessionals inzetten? Wanneer slim, wanneer risico — en hoe je kwaliteit borgt."
 section: "Blog"
-last_updated: "2026-05-08T16:51:18+00:00"
+last_updated: "2026-05-08T21:22:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
