@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/aspecten-goede-evenement-locatie"
 title: "Wat zijn belangrijke aspecten van een goede evenementenlocatie?"
 description: "Een goede evenementenlocatie scoort op vijf punten: bereikbaarheid, capaciteit, technische infrastructuur, cateringmogelijkheden en sfeer. Kijk of de locatie goed te bereiken is per auto en OV. Controleer of de capaciteit past bij je groepsgrootte. Let op technische infrastructuur zoals stroom en wi"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:05+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
