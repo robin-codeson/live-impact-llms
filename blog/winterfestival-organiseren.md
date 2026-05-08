@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/winterfestival-organiseren"
 title: "Waarom een winterfestival meer is dan een kerstfeest"
 description: "Winterfestival organiseren? Concept, locatie en entertainment voor een spectaculair winter-evenement."
 section: "Blog"
-last_updated: "2026-05-08T16:53:10+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
