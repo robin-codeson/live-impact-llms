@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-klantenbinding-bijdrage"
 title: "Hoe draagt een evenement bij aan klantenbinding?"
 description: "Een evenement draagt bij aan klantenbinding door directe relatieversterking. Emotionele verbinding: deelnemers voelen zich gewaardeerd en exclusief. Inzicht in klantdoelstellingen: via gesprekken begrijp je beter wat klanten echt willen. Gemeenschapsgevoel: klanten voelen zich deel van een groter ge"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:15+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
