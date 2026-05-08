@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eisen-idea-keurmerk-bureau"
 title: "Waar moet een bureau aan voldoen om het IDEA-keurmerk te krijgen?"
 description: "IDEA toetst bureaus op vier concrete vlakken. Eerste eis: financiële stabiliteit. Het bureau overlegt de jaarcijfers en voldoet aan solvabiliteits- en liquiditeitsnormen. Tweede eis: professionele bedrijfsvoering. Heldere offertes, vaste contractvormen, documenteerbare projectprocessen en transparan"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:54+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
