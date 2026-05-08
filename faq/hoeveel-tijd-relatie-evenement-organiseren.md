@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-relatie-evenement-organi
 title: "Hoeveel tijd heb je nodig om een relatie-evenement te organiseren?"
 description: "Begin minimaal twee tot drie maanden van tevoren met een klein relatie-evenement van 30 tot 50 gasten. Voor een groter evenement van 100 gasten of meer reken je op vier tot zes maanden voorbereiding. Die tijd heb je nodig voor de locatieselectie, het concept, de uitnodigingsprocedure en de leveranci"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:02+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
