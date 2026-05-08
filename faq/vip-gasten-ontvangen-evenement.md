@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vip-gasten-ontvangen-evenement"
 title: "Hoe ontvang ik VIP-gasten op de juiste manier bij een evenement?"
 description: "Zorg voor een persoonlijke begeleider, een aparte ontvangstruimte en een profiel van elke VIP-gast. Zo kent je team hen bij naam en weet wat er speelt."
 section: "FAQ"
-last_updated: "2026-05-08T17:17:54+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
