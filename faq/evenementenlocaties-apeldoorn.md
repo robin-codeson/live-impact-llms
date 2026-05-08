@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-apeldoorn"
 title: "Welke evenementenlocaties zijn er in Apeldoorn?"
 description: "Apeldoorn heeft diverse geschikte locaties voor zakelijke evenementen. Van moderne congrescentra en stijlvolle hotels tot industriële panden en unieke buitenlocaties. De juiste keuze hangt af van je groepsgrootte (20 tot 500+ personen), gewenste sfeer en bereikbaarheid per OV en auto. Live Impact ke"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:53+00:00"
+last_updated: "2026-05-08T21:23:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
