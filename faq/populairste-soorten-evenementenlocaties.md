@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/populairste-soorten-evenementenlocati
 title: "Wat zijn de populairste soorten evenementenlocaties?"
 description: "In Nederland zijn er veel soorten evenementenlocaties, elk met een eigen karakter. Congrescentra en hotels zijn veelzijdig en goed uitgerust voor zakelijke evenementen. Kastelen en landgoederen stralen allure uit: ideaal voor gala's en jubilea. Industriële locaties zoals oude fabrieken en pakhuizen "
 section: "FAQ"
-last_updated: "2026-05-08T17:13:06+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
