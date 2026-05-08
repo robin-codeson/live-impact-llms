@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/uitnodigen-productpresentatie"
 title: "Hoe nodig ik de juiste mensen uit voor een productpresentatie?"
 description: "Nodig mensen uit op basis van hun beslissingsbevoegdheid, niet hun functietitel. Stuur een persoonlijke uitnodiging met een heldere belofte van wat ze meenemen."
 section: "FAQ"
-last_updated: "2026-05-08T17:15:06+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
