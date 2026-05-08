@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-marketing-bureau"
 title: "Evenement marketing is geen feestje plannen"
 description: "Op zoek naar een evenement marketing bureau? Live Impact zet live evenementen in als marketinginstrument om je merkdoelstellingen te realiseren."
 section: "Blog"
-last_updated: "2026-05-08T16:50:15+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
