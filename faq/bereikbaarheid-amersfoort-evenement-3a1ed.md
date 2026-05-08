@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-amersfoort-evenement-3
 title: "Hoe bereikbaar is Amersfoort voor zakelijke gasten?"
 description: "Amersfoort is goed bereikbaar per auto en openbaar vervoer. Bij locatieselectie houden wij rekening met parkeergelegenheid en treinverbindingen. Voor gasten van buiten de regio is een locatie dicht bij het station of met eigen parkeerterrein ideaal. Live Impact adviseert proactief over bereikbaarhei"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:34+00:00"
+last_updated: "2026-05-08T21:22:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
