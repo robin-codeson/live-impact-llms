@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/incentive-organiseren"
 title: "Waarom een incentive anders is dan een reis"
 description: "Incentive organiseren voor je beste mensen? Exclusief, belevenisrijk en met een zakelijke boodschap."
 section: "Blog"
-last_updated: "2026-05-08T16:51:22+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
