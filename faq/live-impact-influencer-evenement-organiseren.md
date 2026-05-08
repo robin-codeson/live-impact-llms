@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-influencer-evenement-orga
 title: "Kan Live Impact een influencer evenement organiseren?"
 description: "Ja, Live Impact organiseert influencer evenementen die bereik en impact opleveren. Wij combineren evenementexpertise met een scherp oog voor merkactivatie en social media strategie. We ontwerpen een beleving die werkt voor twee groepen. De gasten in de ruimte en het publiek dat meekijkt op social me"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:29+00:00"
+last_updated: "2026-05-08T21:24:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
