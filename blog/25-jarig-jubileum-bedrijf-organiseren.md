@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/25-jarig-jubileum-bedrijf-organisere
 title: "Waarom 25 jaar een andere aanpak vraagt"
 description: "25 jaar jubileum organiseren? Praktische gids met concept, locatie, programma en budget voor een onvergetelijk zilveren jubileum. Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:13+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
