@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-mechanisme-valkuilen"
 title: "Wanneer werkt een evenement mechanisme niet?"
 description: "Mechanismen werken niet als ze mensen in verlegenheid brengen. Iemand onverwachts voor 400 man iets laten doen is bijna altijd een slecht idee. Mechanismen werken ook niet als ze te ingewikkeld zijn: als je het moet uitleggen, is het te veel. Ze werken niet als ze te lang duren. Een mechanisme pakt "
 section: "FAQ"
-last_updated: "2026-05-08T16:58:17+00:00"
+last_updated: "2026-05-08T21:23:00+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
