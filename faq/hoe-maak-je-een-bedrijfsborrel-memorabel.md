@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-een-bedrijfsborrel-memora
 title: "Hoe maak je een bedrijfsborrel memorabel?"
 description: "Memorabele borrels hebben één ding gemeen: er is iets te beleven naast het gesprek. Dat hoeft niet groot te zijn. Denk aan een cocktailworkshop van 45 minuten of een livemuzikant op de achtergrond. Of een borrelquiz met grappige stellingen over de week. Het zijn kleine formaten die de borrel een gez"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:06+00:00"
+last_updated: "2026-05-08T21:23:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
