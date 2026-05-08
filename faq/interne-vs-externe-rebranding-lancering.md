@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/interne-vs-externe-rebranding-lanceri
 title: "Wat is het verschil tussen een interne en externe rebranding-lancering?"
 description: "De interne lancering richt zich op medewerkers: zij moeten het nieuwe merk begrijpen, voelen en kunnen uitleggen vóór het naar buiten gaat. De externe lancering richt zich op klanten, pers en stakeholders. De volgorde is altijd intern eerst. Een medewerker die zijn eigen rebranding via de krant ontd"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:26+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
