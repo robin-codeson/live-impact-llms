@@ -1,14 +1,17 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/faq/wat-kost-bedrijfsevenement-organiseren"
+title: "Wat kost het om een bedrijfsevenement te organiseren?"
+description: "Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100"
+section: "FAQ"
+last_updated: "2026-05-08T22:29:47+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Wat kost het om een bedrijfsevenement te organiseren?
 
-De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100 tot €300+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
-
-De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaande brackets geven de breedte aan voor een gemiddeld zakelijk evenement.
 
 **[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
 
