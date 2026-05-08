@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenorganisatie"
 title: "Wat is evenementenorganisatie?"
 description: "Wat is evenementenorganisatie en hoe werkt het als professioneel vak? Van intake tot uitvoering: zo onderscheid je goede van middelmatige organisatie."
 section: "Blog"
-last_updated: "2026-05-08T16:51:04+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
