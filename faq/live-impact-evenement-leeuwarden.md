@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-leeuwarden"
 title: "Kan Live Impact een evenement in Leeuwarden verzorgen?"
 description: "Ja, Live Impact organiseert zakelijke evenementen door heel Nederland, inclusief Leeuwarden en de rest van Friesland. Wij kennen de regio, de locaties en de lokale leveranciers. Of je nu een teamdag, een personeelsfeest of een congres wilt: wij regelen het van concept tot uitvoering. Je hoeft zelf n"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:34+00:00"
+last_updated: "2026-05-08T21:23:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
