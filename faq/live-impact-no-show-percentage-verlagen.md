@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-no-show-percentage-verlag
 title: "Helpt Live Impact je no-show percentage te verlagen?"
 description: "Ja. Wij verlagen no-shows door slimme communicatie en lichte verplichting. Concreet: persoonlijke uitnodigingen, RSVP-bevestiging met agendalink en drie reminders. Die reminders sturen we twee weken, drie dagen en op de ochtend van het evenement. Op locatie werken we met een eenvoudige check-in. Voo"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:51+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
