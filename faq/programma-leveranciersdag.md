@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programma-leveranciersdag"
 title: "Wat hoort er in een programma voor een leveranciersdag?"
 description: "Een sterk programma combineert inhoud met verbinding: een strategische update, werksessies per segment, netwerkruimte en een gezamenlijk slotmoment. Geen congres, maar een co-creatiemoment."
 section: "FAQ"
-last_updated: "2026-05-08T17:13:21+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
