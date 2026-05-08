@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/side-acts-evenement"
 title: "Welke side-acts passen bij een evenement?"
 description: "Side-acts zijn de entertainmentlaag die een evenement van goed naar onvergetelijk tilt. Ze vullen de momenten tussen het hoofdprogramma en zorgen dat gasten niet even 'uit' schakelen. Populaire keuzes zijn close-up magie tussen de gasten en karikatuuristen die live portretten maken. Andere opties: f"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:57+00:00"
+last_updated: "2026-05-08T21:24:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
