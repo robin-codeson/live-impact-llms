@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-westland"
 title: "Westland: de meest bijzondere industrieel-groene evenementenomgeving van Nederland"
 description: "Evenement organiseren in Westland? Innovatieve kassenregio bij Den Haag — een verrassende setting."
 section: "Blog"
-last_updated: "2026-05-08T16:50:44+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
