@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-naming"
 title: "Helpt Live Impact bij het bedenken van evenementnamen?"
 description: "Ja, Live Impact helpt je een krachtige evenementnaam bedenken. Dit klinkt eenvoudig, maar een goede naam geven is strategisch werk. De naam bepaalt de indruk, de merkpositionering en de verwachtingen van bezoekers. Ons proces: je vertelt ons het evenementdoel, de doelgroep en de gewenste merktoon. W"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:41+00:00"
+last_updated: "2026-05-08T21:23:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
