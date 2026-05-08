@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/belang-van-interactie-evenementen"
 title: "Interactie is geen leuke extra: het is de kern"
 description: "Waarom interactie bij evenementen het verschil maakt, en hoe je publiek omzet van passief naar actief."
 section: "Blog"
-last_updated: "2026-05-08T16:49:34+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
