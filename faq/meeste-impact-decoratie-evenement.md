@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/meeste-impact-decoratie-evenement"
 title: "Welk decoratie-element heeft de meeste impact op een evenement?"
 description: "Licht is het element met de meeste impact per euro. Licht bepaalt de sfeer van een ruimte meer dan enig ander element. Warm amber licht maakt een ruimte intiem. Koud blauw-wit licht maakt het zakelijk. Gekleurde washes op wanden transformeren een neutrale locatie volledig. De entree is qua decoratie"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:26+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
