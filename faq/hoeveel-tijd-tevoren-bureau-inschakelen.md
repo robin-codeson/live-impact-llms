@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-tevoren-bureau-inschakel
 title: "Hoeveel tijd van tevoren moet je een evenementenbureau inschakelen?"
 description: "Hoe eerder, hoe beter, maar minimaal 2 tot 3 maanden voor het evenement. Voor grotere evenementen vanaf 200 gasten, complexe producties of speciale locaties is 6 tot 12 maanden aan te bevelen. Vroeg beginnen geeft je de beste keuze in locaties, artiesten en leveranciers. Het voorkomt ook stress en l"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:02+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
