@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/inclusiviteit-bedrijfssportevenement"
 title: "Kan iedereen meedoen aan een bedrijfssportevenement?"
 description: "Ja, mits het format inclusief is ontworpen. Combineer sportieve activiteiten met andere rollen: scheidsrechter, aanmoediger, organisator. Zo kunnen ook mensen met beperkingen of blessures volwaardig deelnemen."
 section: "FAQ"
-last_updated: "2026-05-08T17:03:16+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
