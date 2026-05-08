@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/brainstorm-vastlopen-oude-ideeen"
 title: "Hoe voorkom je dat een brainstorm vastloopt in oude ideeën?"
 description: "Oude ideeën duiken altijd op. 'Weet je nog die goochelaar van drie jaar terug?' Dat is niet erg, dat is normaal. Wat wel erg is: toestaan dat ze de sessie domineren. Drie dingen helpen. Eén: schrijf bovenaan het bord de oude ideeën op die iedereen al kent, en streep ze door. Ze mogen niet terugkomen"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:22+00:00"
+last_updated: "2026-05-08T21:22:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
