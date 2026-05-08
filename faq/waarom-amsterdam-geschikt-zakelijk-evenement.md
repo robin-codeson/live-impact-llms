@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-amsterdam-geschikt-zakelijk-ev
 title: "Waarom is Amsterdam geschikt voor een zakelijk evenement?"
 description: "Amsterdam is internationaal, goed bereikbaar via Schiphol, heeft hotels genoeg en voelt premium. Je gasten hebben zin om te komen."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:29+00:00"
+last_updated: "2026-05-08T21:24:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
