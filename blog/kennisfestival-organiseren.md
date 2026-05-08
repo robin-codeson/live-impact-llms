@@ -1,58 +1,43 @@
-[< Back](kennisfestival-organiseren.html#)[< Work](kennisfestival-organiseren.html#)
-
-[Next >](kennisfestival-organiseren.html#)
+---
+canonical_url: "https://live-impact.nl/blog/kennisfestival-organiseren"
+title: "Wat een kennisfestival is en waarom het werkt"
+description: "Een kennisfestival organiseren dat wél blijft hangen? Live Impact bouwt de opzet waar deelnemers zelf hun programma kiezen. Van concept tot locatie."
+section: "Blog"
+last_updated: "2026-05-08T16:51:38+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Luchtfoto van een buitenfestival met tenten en groene omgeving georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
 
 # Wat een kennisfestival is en waarom het werkt
 
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31807e4de799a3fb37214_6981fedb1761a73a0ca055c4_Joyce.webp)
-
-Geschreven door
-
-Joyce
-
-Publicatiedatum
-
-8 april 2026
-
-Een congres heeft een programma, een podium en een publiek. Een kennisfestival heeft tracks, paviljoens en deelnemers. Dat klinkt als een semantisch verschil. Het is een fundamenteel ander format.
-
-Bij een congres kijk je. Bij een kennisfestival doe je mee. Er zijn meerdere sessies tegelijk. Deelnemers kiezen zelf wat ze volgen. Ze lopen van ruimte naar ruimte. Ze struikelen over een interessant gesprek. Ze ontdekken iets wat ze niet verwachtten te ontdekken.
-
-Dat is de kracht van het kennisfestival: serendipiteit by design. Je bouwt een omgeving waarin toeval kan gebeuren. En dat toeval is precies waar de beste inzichten vandaan komen.
-
-Het format werkt voor organisaties die kennis willen delen op een manier die blijft hangen. Niet een dag PowerPoints, maar een dag ervaringen. Niet één spreker die zegt hoe het is, maar twintig sprekers die elk een stukje tonen van hoe het kan.
-
-Het kennisfestival als format groeit. Bedrijven en sectoren die willen dat kennis écht circuleert — in plaats van netjes wordt gepresenteerd en daarna vergeten — kiezen steeds vaker voor dit format. En wij helpen ze daarbij, van concept tot confetti.
+Bedrijven en sectoren willen dat kennis écht circuleert, niet netjes gepresenteerd en daarna vergeten.
+Het gaat niet om een dag PowerPoints maar om een dag ervaringen, niet om één spreker die zegt hoe het is maar om twintig sprekers die elk een stukje tonen van hoe het kan.
+Een kennisfestival is de meest levende vorm van kennisdeling die er bestaat.
 
 ## Kennisfestival vs. congres: wat is het verschil?
 
-Het lijkt misschien alsof een kennisfestival gewoon een congres met een leukere naam is. Maar de verschillen zijn concreet.
+Het lijkt misschien alsof een kennisfestival een congres met een leukere naam is. Maar de verschillen zijn concreet.
 
 Bij een congres is er doorgaans één hoofdprogramma. Iedereen is op hetzelfde moment in dezelfde zaal. De spreker staat op het podium, de zaal luistert. Interactie is beperkt tot een vragenronde. Netwerken gebeurt in de pauzes.
 
-Bij een kennisfestival zijn er meerdere tracks tegelijk. Deelnemers kiezen hun eigen programma. Sessies zijn korter — twintig tot veertig minuten. Formats zijn gevarieerd: workshop, talk, demo, debat, roundtable. De locatie is verdeeld over meerdere ruimtes, elk met een eigen sfeer.
+Bij een kennisfestival zijn er meerdere programmalijnen tegelijk. Deelnemers kiezen hun eigen programma. Sessies zijn korter: twintig tot veertig minuten. De opzet varieert: workshop, lezing, demo, debat en rondetafel. De locatie is verdeeld over meerdere ruimtes, elk met een eigen sfeer.
 
-Verschil in uitkomst: congresdeelnemers herinneren zich na een week de keynote. Kennisfestivaldeelnemers herinneren zich het gesprek bij de koffiemachine én de workshop én het debat waar ze hun mening herzagen.
+Verschil in uitkomst: congresdeelnemers herinneren zich na een week de hoofdlezing. Kennisfestivaldeelnemers herinneren zich het gesprek bij de koffiemachine én de workshop én het debat waar ze hun mening herzagen.
 
-Kennisfestival organiseren vraagt dan ook een andere aanpak dan een congres organiseren. Minder centrale regie, meer curatie. Niet één draaiboek, maar vijftig kleine. De kunst is ruimte creëren — en die ruimte goed begeleiden.
+Kennisfestival organiseren vraagt dan ook een andere aanpak dan een congres organiseren. Minder centrale regie, meer curatie. Niet één draaiboek, maar vijftig kleine. De kunst is ruimte creëren, en die ruimte goed begeleiden.
 
-Meer weten over het congresformat? Lees ons artikel over [een congres organiseren →](congres-organiseren.html) voor de vergelijking.
+Meer weten over de congresopzet? Lees ons artikel over [een congres organiseren →](/blog/congres-organiseren) voor de vergelijking.
 
 ## Het programma: hoe bouw je een kennisfestival op?
 
-Een kennisfestival bouwen begint met curatie, niet programmering. Jij bepaalt niet wat er allemaal gezegd wordt — jij bepaalt welke thema's, welke stemmen en welke formats er zijn. De deelnemers vullen de rest in.
-
-Stap 1: kies een overkoepelend thema. Breed genoeg voor diversiteit, smal genoeg voor samenhang. 'De toekomst van werken' is te breed. 'Hoe AI onze manier van samenwerken verandert' is een thema.
-
-Stap 2: verdeel in tracks. Drie tot vijf thematische tracks werken goed. Elke track heeft drie tot vijf sessies van twintig tot veertig minuten. Deelnemers plannen hun eigen programma via een app of een eenvoudig keuzeformulier.
-
-Stap 3: varieer de formats per track. Niet alle sessies zijn talks. Mix: een ignite-talk van vijf minuten, een werkende demo, een rondetafeldiscussie, een fishbowl-debat. De variatie houdt de energie hoog.
-
-Stap 4: bouw serendipiteitsmomenten in. Open ruimtes zonder agenda. Een muur waar mensen ideeën ophangen. Een pop-up sessie door een deelnemer die spontaan iets wil delen. Die onverwachte momenten zijn de parels van een kennisfestival.
-
-Stap 5: sluit plenair af. Na alle parallelle tracks, kom je samen. Kort — twintig minuten. Wat hebben we vandaag geleerd? Wat nemen we mee? Dat moment geeft het festival een gezamenlijk eindpunt.
+Hoe organiseer je een kennisfestival dat mensen bijblijft? Zo pakt Live Impact het aan.
+Stap 1: kies een overkoepelend thema dat breed genoeg is voor diversiteit maar smal genoeg voor samenhang.
+Stap 2: werk met meerdere formats door elkaar. Gebruik een mix van formats: een ignite-lezing (vijf minuten, twintig slides, automatisch), een workshop, een paneldiscussie, een demo.
+Stap 3: bouw informele ruimtes in. Denk aan open ruimtes zonder agenda, een muur waar mensen ideën ophangen of een pop-up sessie door een deelnemer die spontaan iets wil delen.
+Stap 4: houd het compact. Houd het kort: twintig minuten per sessie is de absolute bovenkant. Twaalf tot vijftien minuten werkt beter.
+Stap 5: zorg voor een sterke dramaturgie. Wissel inhoud af met ontmoeting, energie en rust. Een goed kennisfestival heeft een ritme.
+Stap 6: denk aan logistiek. Goede bewegwijzering, duidelijke tijdschema's en voldoende pauzetijd zijn geen details, ze bepalen de beleving.
 
 ## De locatie: een omgeving die uitnodigt tot ontdekking
 
@@ -60,56 +45,85 @@ Een kennisfestival heeft een andere locatie nodig dan een congres. Geen auditori
 
 Wat een goede kennisfestivallocatie kenmerkt:
 
-- **Meerdere ruimtes op één niveau** — Liefst op loopafstand van elkaar. Deelnemers die moeten kiezen tussen een trap op of een leuke sessie, kiezen de trap niet.
-- **Karakter** — Een vernieuwde fabriek, een creatief pand, een museum, een mediagebouw. De locatie zelf communiceert iets over het thema. Een steriele vergaderlocatie haalt de festivalsfeer er meteen uit.
-- **Centrale 'marktplaats'** — Een ruimte waar iedereen doorheen loopt. Waar exposanten, partners of deelnemersprojecten staan. Waar de informele kennisdeling plaatsvindt.
-- **Flexibele catering** — Niet één lunchmoment, maar eten dat de hele dag beschikbaar is. Mensen eten wanneer ze een sessie-break hebben, niet allemaal tegelijk.
+* **Meerdere ruimtes op één niveau**: Liefst op loopafstand van elkaar. Deelnemers die moeten kiezen tussen een trap op of een leuke sessie, kiezen de trap niet.
+* **Karakter**: Een vernieuwde fabriek, een creatief pand, een museum, een mediagebouw. De locatie zelf communiceert iets over het thema. Een steriele vergaderlocatie haalt de festivalsfeer er meteen uit.
+* **Centrale 'marktplaats'**: Een ruimte waar iedereen doorheen loopt. Waar exposanten, partners of deelnemersprojecten staan. Waar de informele kennisdeling plaatsvindt.
+* **Flexibele catering**: Niet één lunchmoment, maar eten dat de hele dag beschikbaar is. Mensen eten wanneer ze een sessiepauze hebben, niet allemaal tegelijk.
 
-Wij kennen locaties in heel Nederland die geschikt zijn voor dit format. Sommige zijn voor de hand liggend, de meeste niet. Wij zoeken voor jou — op basis van thema, doelgroep en budget.
+Wij kennen locaties in heel Nederland die geschikt zijn voor deze opzet. Sommige zijn voor de hand liggend, de meeste niet. Wij zoeken voor jou, op basis van thema, doelgroep en budget.
 
 ## Budget, schaal en planning
 
-Een kennisfestival voor honderd deelnemers kost gemiddeld 15.000 tot 35.000 euro, afhankelijk van de locatie, het aantal sprekers en de productie. Daarin zitten grote verschillen:
-
-- Intern kennisfestival op eigen locatie (50-150 mensen): 8.000 tot 20.000 euro
-- Extern kennisfestival met externe sprekers en productie (100-300 mensen): 20.000 tot 50.000 euro
-- Groot sectorbreed kennisfestival (300+ deelnemers): 50.000 euro en hoger
-
-Qua schaal: een kennisfestival werkt al goed vanaf vijftig deelnemers, maar de festivalsfeer komt pas goed los bij honderd mensen of meer. Met minder dan vijftig deelnemers kies je beter voor een intensieve werkconferentie of een workshop-dag.
-
-Planning: begin vier tot zes maanden van tevoren voor een extern kennisfestival. Sprekers moeten worden geworven, een programmacommissie moet worden samengesteld en communicatie moet tijdig starten. Voor een intern festival ben je met acht tot twaalf weken klaar.
-
-Wil je meer grip op je budget? Lees ons artikel over [begroting voor evenementen →](begroting-evenementen.html) voor een volledig overzicht van wat er allemaal in gaat.
+Wanneer start je met de voorbereiding?
+Begin voor een extern kennisfestival vier tot zes maanden van tevoren. Intern gaat dat sneller, maar reken ook hier op minimaal zes weken. De grootste valkuil is sprekers te laat benaderen. Goede sprekers zijn eerder geboekt dan je denkt.
 
 ## Waarom een bureau inschakelen voor jouw kennisfestival?
 
-Een kennisfestival organiseren is complexer dan een congres. Niet omdat de productie ingewikkelder is, maar omdat de curatie meer vraagt. Je programmeert geen dag — je bouwt een ecosysteem van kennis en ontmoeting.
+Een kennisfestival organiseren is complexer dan een congres. Niet omdat de productie ingewikkelder is, maar omdat de curatie meer vraagt. Je programmeert geen dag. Je bouwt een ecosysteem van kennis en ontmoeting.
 
-Wij helpen bij de conceptontwikkeling: welk thema? Welke tracks? Welke formats? Wie zijn de sprekers die de juiste diversiteit brengen? En hoe zorg je dat de parallelle programma's samen een coherent geheel vormen?
+Wij helpen bij de conceptontwikkeling. Het overkoepelende thema, de programmalijnen, de opzet per sessie. De selectie van sprekers met de juiste diversiteit en de samenhang tussen de parallelle programma's.
 
 Wij regelen de productie: locatie, techniek, catering, bewegwijzering, app of programmakaart, fotografie en video. Alles wat een kennisfestival tot een professionele ervaring maakt.
 
-En wij zijn op de dag zelf aanwezig — niet als toeschouwer maar als regisseur. Wij houden het overzicht, zodat jij kunt netwerken, bijwonen en genieten van wat je hebt gebouwd.
+En wij zijn op de dag zelf aanwezig, niet als toeschouwer maar als regisseur. Wij houden het overzicht, zodat jij kunt netwerken, bijwonen en genieten van wat je hebt gebouwd.
 
-Wil je de festivalsfeer maar met minder parallelle programma's? Lees ook ons artikel over [een bedrijfsfestival organiseren →](bedrijfsfestival-organiseren.html).
+Wil je de festivalsfeer maar met minder parallelle programma's? Lees ook ons artikel over [een bedrijfsfestival organiseren →](/blog/bedrijfsfestival-organiseren).
 
 ## Klaar om kennis te laten feesten?
 
-Een kennisfestival organiseren is een investering in hoe jouw organisatie of sector kennis deelt. Niet als plicht, maar als belevenis. Niet eenmalig, maar als format dat terugkomt.
+Een kennisfestival organiseren is een investering in hoe jouw organisatie of sector kennis deelt. Niet als plicht, maar als belevenis. Niet eenmalig, maar als opzet die terugkomt.
 
 Wij denken graag mee over jouw kennisfestival. Van het eerste idee tot de evaluatie na afloop.
 
-Neem contact op via het contactformulier op onze website, of vul de briefing in — dan weten wij direct wat er nodig is voor een goed eerste gesprek.
+Neem contact op via het contactformulier op onze website. Of vul de briefing in. Dan weten wij direct wat er nodig is voor een goed eerste gesprek.
 
-Serieus leuk.
+*Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Wat is een kennisfestival en voor wie is het geschikt?
+
+Een kennisfestival combineert kennisoverdracht met festivalbeleving. In plaats van een strak conferentieprogramma bieden we een dynamische mix van sessies, workshops, demonstraties en netwerkruimte.
+
+Het format werkt goed voor bedrijven die professionals, klanten of een gemeenschap willen inspireren en verbinden. Live Impact helpt bij het uitbouwen van het concept en de logistiek, van programmaopbouw tot locatiekeuze en deelnemersbeleving.
+
+Hoe organiseer je een kennisfestival?
+
+Combineer kennisoverdracht met festivalbeleving via zeven principes. Hou presentaties en workshops kort. Geen lezingen van twee uur, maar sessies van 45 tot 60 minuten. Volg elke sessie op met netwerktijd of pauze. Mix formats: naast presentaties ook demonstraties, werkwinkels, paneldiscussies en posters. Zorg voor fysieke schoonheid: een mooie locatie, inspirerend decor en goed design. Deelnemers onthouden het gevoel beter dan de feiten. Integreer sociale momenten: borrels, groepsdiners en informele ontmoetingsruimtes. Werk met spelelementen waar relevant: badges, uitdagingen en ranglijsten. Leg het accent op gemeenschap: dit is de plek waar gelijkgestemde mensen samenkomen. Bied flexibiliteit: deelnemers kiezen zelf welke sessies zij volgen. Live Impact ontwerpt die balans.
+
+**[Meer weten? Lees ons complete artikel →](/blog/kennisfestival-organiseren)**
+
+Wat zijn de kenmerken van een goed kennisfestival?
+
+Een goed kennisfestival heeft vier kenmerken. Ten eerste een meerstemmig programma: meerdere sprekers en perspectieven op één thema, niet op één podium maar op meerdere podia. Ten tweede participatie: deelnemers dragen actief bij aan sessies in plaats van alleen te luisteren.
+
+Ten derde een festivalsfeer in de gastvrijheid: catering, ontmoetingsplekken en een rustige lounge zijn net zo belangrijk als de inhoud. En ten vierde: een doelgroep die samenhoort. Een goed kennisfestival brengt mensen samen die elkaar buiten dit format niet zouden ontmoeten. Live Impact helpt kennisfestivals van 100 tot 2.000 deelnemers organiseren.
+
+Hoe trek je sprekers aan voor een kennisfestival?
+
+Sprekers aantrekken begint bij een scherp thema waar zij iets aan willen toevoegen. Bied een duidelijk podium: doelgroepgrootte, inhoudelijk kader en wat hun verhaal losmaakt.
+
+Benader sprekers ruim op tijd, minimaal drie maanden vooruit. Werk met een mix: één gezichtsbepalende hoofdspreker, vakinhoudelijke experts en verrassende buitenstaanders.
+
+Betaal redelijk of bied een waardevolle tegenprestatie zoals bekendheid, netwerk of bijzondere beleving. Gebruik bestaande sprekersbureaus voor bekende namen, maar zoek ook direct via LinkedIn of vakmedia. Zorg voor een goed sprekersdossier met technische details, tijdslot en publieksprofiel.
+
+Live Impact boekt sprekers binnen elke propositie en elk budget, en zorgt voor perfecte aansluiting op jouw verhaallijn.
+
+Wat zijn tips voor een succesvol kennisfestival?
+
+Een goed kennisfestival deelt kennis én creëert verbinding. Zorg voor een sterk thema dat richting geeft aan alle sessies. Kies sprekers die prikkelen en praktisch zijn, met bruikbare inzichten in plaats van theoretische verhalen.
+
+Maak ruimte voor informeel contact: korte pauzes werken beter dan één lange lunchpauze. Gebruik interactieve formats zoals rondetafelgesprekken of workshops naast plenaire presentaties. En vergeet de nazorg niet: deel een samenvatting en maak connecties mogelijk. Live Impact organiseert kennisfestivals waarbij de beleving de inhoud versterkt.
+
+**[Meer weten? Lees ons complete artikel →](/blog/kennisfestival-organiseren)**
 
 ## Geïnspireerd geraakt?
 
