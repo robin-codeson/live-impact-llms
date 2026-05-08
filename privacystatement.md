@@ -1,8 +1,13 @@
-[< Back](privacystatement.html#)[< Work](privacystatement.html#)
+---
+canonical_url: "https://live-impact.nl/privacystatement"
+title: "Privacyverklaring | Live Impact Evenementenbureau"
+description: "Lees hoe Live Impact omgaat met je persoonsgegevens en welke rechten je hebt. Ons privacybeleid is AVG-conform, transparant en altijd actueel."
+section: "Hoofdpagina's"
+last_updated: "2026-05-08T22:30:09+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](privacystatement.html#)
-
-# Privacystatement
+## Privacystatement
 
 ## **Inleiding**
 
@@ -91,9 +96,9 @@ De Privacy Statement kan van tijd tot tijd door ons aangepast worden. Op deze Pr
 
 ## Contactgegevens
 
-Live Impact | Eventmarketing
-De heer R. Hensen
-Veemarktkade 8
+Live Impact | Eventmarketing  
+De heer R. Hensen  
+Veemarktkade 8  
 5222 AE ‘s-Hertogenbosch
 
 ‍
