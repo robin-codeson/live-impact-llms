@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-he
 title: "Hoe organiseer ik een evenement in Helmond?"
 description: "Helmond biedt goede bereikbaarheid en diverse evenementlocaties in Brabant."
 section: "FAQ"
-last_updated: "2026-05-08T17:01:33+00:00"
+last_updated: "2026-05-08T21:23:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
