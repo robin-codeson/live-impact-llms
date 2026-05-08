@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/ugc-op-evenementen"
 title: "Waarom UGC op evenementen zo waardevol is"
 description: "User generated content (UGC) op evenementen stimuleren? Ontdek hoe bezoekers jouw beste contentmakers worden. Strategieën, tools en tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:58+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
