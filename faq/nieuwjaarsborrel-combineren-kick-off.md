@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/nieuwjaarsborrel-combineren-kick-off"
 title: "Kun je een nieuwjaarsborrel combineren met een kick-off?"
 description: "Ja, dat is een slimme combinatie. Organiseer overdag een inhoudelijke kick-off met strategie en doelen, en sluit af met een feestelijke nieuwjaarsborrel. Zo combineer je inhoud met beleving en krijg je meer impact uit één moment."
 section: "FAQ"
-last_updated: "2026-05-08T17:11:42+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
