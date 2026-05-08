@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/technologie-deelnemerservaring-evenem
 title: "Welke evenementtechnologie verbetert de deelnemerservaring?"
 description: "Evenementtechnologie kan de beleving van deelnemers sterk verbeteren, maar alleen als je het slim inzet. Wij adviseren over toepassingen die écht iets toevoegen. Denk aan live-peilingen voor interactie, digitale programmagidsen, hybride streamingoplossingen en registratiesystemen die soepel werken. "
 section: "FAQ"
-last_updated: "2026-05-08T17:14:42+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
