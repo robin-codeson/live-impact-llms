@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/employee-engagement-via-evenementen"
 title: "Medewerkersbetrokkenheid via evenementen: wat werkt echt"
 description: "Evenementen voor medewerkersbetrokkenheid? De rol van live evenementen in de employee journey. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:02+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
