@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/cultuurverandering-event-organiseren
 title: "Waarom cultuurverandering een live moment nodig heeft"
 description: "Cultuurverandering organiseren via een live event? Live Impact ontwerpt dagen die gedrag veranderen — van start tot opvolging. Zo werkt het."
 section: "Blog"
-last_updated: "2026-05-08T16:49:54+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
