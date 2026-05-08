@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gamification-tools-zakelijke-evenemen
 title: "Welke gamification tools zijn geschikt voor zakelijke evenementen?"
 description: "De populairste tools zijn Mentimeter, Kahoot en Slido. Mentimeter werkt met live polls en quizzen zonder dat deelnemers iets hoeven te downloaden. Kahoot biedt competitieve quizzen met een leaderboard. Slido integreert Q&A, polls en quizzen direct in PowerPoint. Voor uitgebreidere gamification biede"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:59+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
