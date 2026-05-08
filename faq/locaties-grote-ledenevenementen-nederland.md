@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locaties-grote-ledenevenementen-neder
 title: "Welke locaties zijn geschikt voor grote ledenevenementen in Nederland?"
 description: "Voor landelijke verenigingen is een centrale ligging in de Randstad of de Brabantse corridor het handigst. Deelnemers komen uit heel Nederland. Utrecht, 's-Hertogenbosch, Amersfoort en Rotterdam zijn populair vanwege hun OV-bereikbaarheid. Geschikte locatietypes zijn congrescentra, theaters, schouwb"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:08+00:00"
+last_updated: "2026-05-08T21:24:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
