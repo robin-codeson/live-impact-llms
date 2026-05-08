@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kpis-evenementenevaluatie"
 title: "Welke KPI's gebruik je voor evenementenevaluatie?"
 description: "KPI's voor evenementenevaluatie zijn meetbaar en relevant voor je doelstellingen. Standaard KPI's: deelnemersaantal en aanmeldpercentage, opkomstpercentage, gemiddelde NPS-score (0-10), feedback-sentimentanalyse (positief/neutraal/negatief), gerealiseerde netwerkmomenten, media-impressies en bereik."
 section: "FAQ"
-last_updated: "2026-05-08T17:06:54+00:00"
+last_updated: "2026-05-08T21:23:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
