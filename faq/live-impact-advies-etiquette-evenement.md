@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-advies-etiquette-evenemen
 title: "Kan Live Impact adviseren over etiquette op ons evenement?"
 description: "Ja. Wij begeleiden evenementen van begin tot eind en adviseren over alle aspecten van gastbeleving, waaronder etiquette. Wij trainen hostteams op ontvangst en aanspreekvorm. Wij ontwerpen programmaflows die gasten vanzelf de juiste kant op sturen. En wij denken mee over uitnodiging, tafelschikking e"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:12+00:00"
+last_updated: "2026-05-08T21:23:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
