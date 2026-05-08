@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-alkmaar-7f26f"
 title: "Wat kost een zakelijk evenement in Alkmaar?"
 description: "De kosten voor een zakelijk evenement in Alkmaar hangen af van groepsgrootte, locatie en programma. Een bijeenkomst voor 30 personen begint rond de 3.000 euro. Een volledig geproduceerd evenement voor 200 personen inclusief catering, techniek en entertainment zit op 25.000 tot 60.000 euro. Locaties "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:10+00:00"
+last_updated: "2026-05-08T21:23:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
