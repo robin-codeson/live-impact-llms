@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-jubileum-speech-organiser
 title: "Kan Live Impact helpen bij het organiseren van een jubileum?"
 description: "Ja. Live Impact organiseert bedrijfsjubilea van begin tot eind. We helpen met de praktische organisatie (locatie, entertainment, catering, techniek) en denken mee over het programma. We kijken waar de speech valt in de avond, hoe je de energie opbouwt en wat ervoor en erna komt. Een goede speech ver"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:33+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
