@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vervoer-grote-groep-evenement"
 title: "Hoe organiseer je vervoer voor een groep van 100+ personen?"
 description: "Voor 100+ personen boek je twee tot vier bussen van 50 zitplaatsen, afhankelijk van het exacte aantal. Zorg dat je drie weken van tevoren al contact opneemt met vervoerders, want een goed moment vinden is lastig. Communiceer duidelijk waar de tocht start, hoe laat, waar je eindigt en hoe de terugrit"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:49+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
