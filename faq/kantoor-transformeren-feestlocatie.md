@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kantoor-transformeren-feestlocatie"
 title: "Hoe transformeer ik mijn kantoor naar een feestlocatie?"
 description: "Investeer in sfeerverlichting, decoratie en het verstoppen of verwijderen van kantoorinrichting. Huur professionele partijen in voor catering, geluid en licht. De transformatie is het verschil tussen een feest en een kantoorborrel."
 section: "FAQ"
-last_updated: "2026-05-08T17:04:21+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
