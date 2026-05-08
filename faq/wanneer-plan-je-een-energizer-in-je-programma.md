@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-plan-je-een-energizer-in-je-p
 title: "Wanneer plan je een energizer in je programma?"
 description: "Plan energizers op voorspelbare energiedip-momenten. Vier momenten werken het beste. Direct na de lunch, oftewel het beruchte lunchdip-moment. Tussen twee lange programmaonderdelen in. Na een intensieve brainstormsessie. En als overgang van het formele naar het informele deel van de dag. Plan ze als"
 section: "FAQ"
-last_updated: "2026-05-08T17:19:07+00:00"
+last_updated: "2026-05-08T21:24:57+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
