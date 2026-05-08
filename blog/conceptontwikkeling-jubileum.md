@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/conceptontwikkeling-jubileum"
 title: "Waarom de meeste jubilea vergeten worden"
 description: "Conceptontwikkeling voor een jubileum: hoe je van een bedrijfsjubileum een verhaal maakt dat medewerkers, klanten en relaties nog jaren bijblijft."
 section: "Blog"
-last_updated: "2026-05-08T16:49:44+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
