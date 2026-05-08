@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-marketing-strategie"
 title: "Eventmarketing: van extraatje naar strategisch instrument"
 description: "Evenementen als marketingkanaal? Zo zet je evenementen strategisch in voor merkgroei en meetbare ROI."
 section: "Blog"
-last_updated: "2026-05-08T16:50:15+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
