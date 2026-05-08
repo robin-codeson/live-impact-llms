@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsprijzen-winnen"
 title: "Moeten wij een prijs winnen? De vraag die niemand durft te stellen"
 description: "Heeft het zin om bedrijfsprijzen na te jagen? De eerlijke afweging, en wat de FD Gazelle ons opleverde."
 section: "Blog"
-last_updated: "2026-05-08T16:49:30+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
