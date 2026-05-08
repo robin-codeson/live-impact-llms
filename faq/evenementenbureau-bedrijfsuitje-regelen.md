@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-bedrijfsuitje-regel
 title: "Kan een evenementenbureau een bedrijfsuitje regelen?"
 description: "Ja, een evenementenbureau kan je bedrijfsuitje van A tot Z organiseren. Van concept en locatiekeuze tot activiteiten en catering. Het voordeel: jij kunt gewoon meedoen in plaats van achter de schermen te regelen."
 section: "FAQ"
-last_updated: "2026-05-08T16:58:31+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
