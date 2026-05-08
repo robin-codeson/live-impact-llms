@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunningen-foodtrucks-evenement"
 title: "Welke vergunningen heb ik nodig voor foodtrucks op mijn evenement?"
 description: "De foodtruck zelf moet beschikken over HACCP-certificering en KvK-inschrijving. Als organisator heb je mogelijk een evenementenvergunning nodig als de trucks op openbaar terrein staan. Op privéterrein gelden minder strenge regels. Voor alcohol schenken is een Drank- en Horecawet-ontheffing verplicht"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:24+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
