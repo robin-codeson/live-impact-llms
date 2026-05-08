@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-arnhem"
 title: "Waarom Arnhem een unieke evenementenstad is"
 description: "Evenement organiseren in Arnhem? Stad, Veluwe-natuur en bijzondere locaties in Gelderland."
 section: "Blog"
-last_updated: "2026-05-08T16:50:24+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
