@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-bestemming-incentive-reis"
 title: "Hoe kies je de juiste bestemming voor een incentive reis?"
 description: "De juiste bestemming hangt af van drie factoren. Welke incentive-doelstelling heb je: teambuilding, belonen van prestaties of cultuur delen? Verder tellen de interesses van je team en je budget. Europese bestemmingen (Barcelona, Lissabon) zijn logistiek gemakkelijk. Warme landen (Marokko, Spanje) bi"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:40+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
