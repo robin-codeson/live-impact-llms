@@ -1,145 +1,141 @@
-[< Back](bedrijfsfeest.html#)[< Work](bedrijfsfeest.html#)
+---
+canonical_url: "https://live-impact.nl/categories/bedrijfsfeest"
+title: "Bedrijfsfeest vs. personeelsfeest: een onderscheid dat ertoe doet"
+description: "Bedrijfsfeest organiseren voor medewerkers én relaties? Lees alles over concept, locatie, programma en budget. Van 50 tot 1.400 gasten: zo doe je het goed."
+section: "Categorieën"
+last_updated: "2026-05-08T16:53:17+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](bedrijfsfeest.html#)
+![Volle zaal lacht en viert tijdens een personeelsfeest met live entertainment](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
-[
+# Bedrijfsfeest vs. personeelsfeest: een onderscheid dat ertoe doet
 
-](https://s3.amazonaws.com/webflow-prod-assets/695b829c457806268234cdfa/6973b5a2af4fd91ed00a60e5_SGS%20100%20jaar%20-%20Live%20Impact%20Eventmarketing.mp4)
+Er is een onderscheid dat de meeste mensen niet bewust maken, tot ze het fout doen. Een personeelsfeest is voor je mensen. Intern. Vertrouwd. De sfeer is losser, de speech mag persoonlijker zijn, de inside joke over de directeur die altijd te laat komt, landt.
 
-![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
-![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+Een bedrijfsfeest is groter. Het kan medewerkers én externe relaties samenbrengen (klanten, leveranciers, partners, soms pers). Of het is een intern feest van zo'n schaal dat het zijn eigen statement maakt: dit bedrijf weet hoe je viert.
 
-# Bedrijfsfeest organiseren?
+Dat verschil heeft gevolgen voor alles. De locatiekeuze, het programma, de communicatie, de dresscode, de catering, het speechformat. Op een intern personeelsfeest kan een roast van de directeur prima werken. Met externe gasten erbij klinkt diezelfde inside joke al snel vreemd of exclusief.
 
-We bedenken en organiseren de allerleukste bedrijfsfeesten. Sinds 1998.
+Weet welk feest je geeft voordat je ook maar één leverancier belt. Weet wie er komt en wat je wilt bereiken: de helft is dan al gedaan.
 
-[Bedrijfsfeest](bedrijfsfeest.html#)
+Het tweede onderscheid dat mensen overslaan: een bedrijfsfeest is geen informele avond. Het is een moment waarop je bedrijfscultuur zichtbaar wordt. Hoe je gasten ontvangt en hoe het entertainment aanvoelt: het is allemaal merkcommunicatie. Mensen lezen het zo, of je dat wilt of niet.
 
-## Hard werken, lekker feesten!
+## De publieksmix bepaalt het concept
 
-Op de werkvloer zit het goed: talent, humor, tempo, teamgevoel. Alleen zie je dat niet altijd terug op het feest. Dan krijg je een keurige avond die prima verloopt, maar weinig zegt. Terwijl een bedrijfsfeest juist dé kans is om jullie cultuur voelbaar te maken.
+Het succes van een bedrijfsfeest staat of valt met de publieksmix. Want wie je uitnodigt, bepaalt wat je kunt doen. En wie je uitsluit, ook.
 
-Goede interne aanjagers snappen dat. Niet door zelf te verdwalen in catering, licht en techniek, maar door iemand in te schakelen die dit vak beheerst en keuzes durft te maken. Dan wordt het geen “leuk uitje”, maar een avond die mensen herkennen als jullie. En waar maandag nog over wordt gepraat, omdat het klopte.
+Een puur intern feest geeft je meer vrijheid. Je kunt dieper gaan, persoonlijker zijn en refereren aan interne gebeurtenissen. De sfeer is informeel en vertrouwd. Dit is het format waarbij een comedian of roast het beste landt. Een interactief spel werkt hier ook goed.
 
-### Waarom een gedurfd concept vaak de verstandigste keuze is
+Mix je intern en extern publiek, dan moet je balanceren. Interne grappen werken niet meer. Een te formeel programma vervreemdt je medewerkers. De kunst: een thema en programma dat beide groepen verbindt. Let op dat de speech geen inside-informatie bevat. Entertainment moet universeel aanspreken. En de catering past bij het moment: eten is ook een signaal.
 
-“Veilig” klinkt prettig, maar voorspelbaar werkt tegen je. Als het voelt als vorig jaar met een ander logo, blijft er weinig hangen. Serious Fun betekent: verrassend aan de voorkant, strak geregeld aan de achterkant. En we bouwen het niet als één avond, maar als een route: vóór, tijdens en na.
+Nodig je ook pers uit, dan geef je een merkevenement in feestformat. Elk element van de avond communiceert iets over wie je bent als bedrijf. De locatiekeuze, de aankleding, de bandbezetting, de toespraak: alles wordt gelezen. Definieer de publieksmix vroeg in het proces. Dan volgt de rest logisch.
 
-We werken vanuit drie onderdelen:
+Stel jezelf vroeg deze vraag: zijn er doelgroepen in de zaal die elkaar niet opzoeken? Dan heb je een programma-element nodig dat die verbinding actief faciliteert.
 
-Identiteit: wat willen jullie dat mensen over jullie voelen en vertellen? Dat vertalen we naar één duidelijke lijn, geen standaard thema.
-Concept: we maken er één verhaal van. Denk aan een save-the-date die nieuwsgierig maakt, een programma met vaart, en een aftermovie die het gesprek doorzet.
-Productie: we regelen planning, leveranciers, techniek, veiligheid en timing. Zodat de avond loopt en niemand hoeft te redden.
+## Locatie: groter dan normaal, beter dan vanzelf
 
-Zo wordt het feest geen los ding, maar iets waar alle honderd maandagen erna over gepraat wordt.
+Een bedrijfsfeest vraagt een locatie die zowel indruk maakt als functioneel is. Het mag ambitieuzer zijn dan een personeelsfeest: de schaal is groter, de belangen zijn hoger, de gasten vormen een bredere groep.
 
-‍
+Bijzondere locaties werken goed voor bedrijfsfeesten. Industriële panden, historische gebouwen, theaters, openluchtlocaties met een sterk karakter, havens, museumhallen, stadions. Ze zijn een statement op zichzelf. De locatiekeuze vertelt al iets over wie je bent als bedrijf, nog voordat de avond begint.
 
-[![Kemkens 175 jaar — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb72_6973e2961f7bd36c202b56d7_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Koning%2520Henri%2520op%2520troon%2520bij%2520podium%2520kijkt%2520in%2520camera.webp)
+Let op schaal. Grotere locaties vragen grotere productie. Licht en geluid die niet kloppen op een groot oppervlak zijn erger dan op een kleine locatie. Zorg dat de technische productie schaalt met de ruimte. Een locatie van 1.500 vierkante meter zonder professioneel geluid is een locatie die de avond kapot maakt.
 
-### Kemkens 175 jaar
+Checklist voor de locatiekeuze: capaciteit voor alle genodigden inclusief dansruimte, cateringzone en eventuele stoelplaatsen. Goede akoestiek of akoestische aanpassingsmogelijkheden. De vereiste vergunningen voor het geplande tijdstip en decibelniveau. Bereikbaarheid per OV en auto. Voldoende parkeergelegenheid of een shuttle-arrangement.
 
-Jubileumfeest
+Boek vroeg. Grote locaties voor bedrijfsfeesten in oktober, november en december (het populairste seizoen) zijn in juni of juli al volgeboekt. Wie in september belt, pakt wat overblijft.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/kemkens-175-jaar.html)
+## Programma: van ontvangst tot afterparty
 
-[![25 jaar Amphia — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727cd9_69727268d49be806bfa4dfeb_AMPHIA_25jaar-07Nov25-152.webp)
+Een bedrijfsfeest heeft altijd een programmaopbouw, ook als het 'een feest' is. Juist als het 'een feest' is. Een avond zonder structuur is een avond zonder richting. En een avond zonder richting eindigt te vroeg of te laat of met het verkeerde gevoel.
 
-### 25 jaar Amphia
+Ontvangst met muziek en catering (45-60 minuten). Gasten landen. Drinks en lichte hapjes. Zachte muziek op de achtergrond. Geen speeches, geen formeel programma. Mensen moeten de kans krijgen om bij te praten en te acclimatiseren.
 
-Jubileumfeest
+Opening (15-20 minuten). Een speech van de directeur of een presentator die de avond lanceert. Krachtig en persoonlijk, en liefst kort. Drie minuten die gemeend klinken is beter dan tien minuten met slides. Gebruik dit moment om de aanleiding te benoemen en het gevoel van de avond neer te zetten.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/25-jaar-amphia.html)
+Diner of bites. Afhankelijk van het format: een zitdiner voor een galavond, of staande bites voor een informeler feest. Catering is geen bijzaak: het is de helft van de beleving.
 
-[![Alrijne Ziekenhuis — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
+Entertainment. Een liveband, een dj of een bijzondere act. Of een combinatie. Dit is het moment dat mensen onthouden en de volgende dag aan collega's beschrijven. Investeer hier proportioneel in. Goedkoop entertainment op een duur bedrijfsfeest is een mismatch die iedereen ziet.
 
-### Alrijne Ziekenhuis
+Afterparty. Voor wie wil blijven. De dj draait door, de bar blijft open. Geef mensen de vrijheid om te kiezen. Niet iedereen hoeft te blijven, maar wie blijft, moet het gevoel hebben dat dit de beste plek is.
 
-Jubileumfeest
+Valkuil: een te lang formeel programmaonderdeel. Alles boven 45 minuten gestructureerd programma tijdens een feest is te veel. Mensen willen feestvieren. Help ze dat snel doen.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfestival-alrijne-ziekenhuis.html)
+## Budget: wat kost een bedrijfsfeest organiseren?
 
-[![AFAS Loveboat — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce9e_AFAS-Loveboat-5.webp)
+en catering die meer gasten bedient dan aangemeld: reken altijd 10 tot 15% buffer voor last-minute aanmeldingen of uitval.
 
-### AFAS Loveboat
+## Waarom een eventbureau inschakelen voor je bedrijfsfeest?
 
-Personeelsfeest
+Een bedrijfsfeest is te groot en te zichtbaar om te experimenteren. Elke keuze, van de locatiekeuze tot de catering, is een communicatiemoment. Medewerkers, klanten en relaties beoordelen elke keuze, bewust en onbewust. Een avond die vlak aanvoelt, is moeilijker te vergeten dan een avond die bijzonder was.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/personeelsfeest-afas-loveboat.html)
+Een intern team kan veel. Maar de coördinatie van tientallen leveranciers en de creatieve sturing van een compleet avondprogramma: dat is al een professionele uitdaging. Tel daar de bemensing op de dag zelf bij op, en het wordt bijna onmogelijk naast een bestaande baan.
 
-[![100 jaar Hendriks Bouw — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce98_Foto-Wim-Roefs-5749_1200_.webp)
+Wat er mis kan gaan als je het zelf doet zonder ervaring: een locatie die pas ter plekke tegenvalt, of entertainment dat qua niveau niet past bij de avond. En een catering die halverwege op is, of een speech die de energie uit de zaal haalt. Elk van die dingen is vermijdbaar met de juiste begeleiding.
 
-### 100 jaar Hendriks Bouw
+Bij Live Impact nemen we een bedrijfsfeest volledig uit handen. Van het eerste conceptgesprek tot de evaluatie de week erna. We bouwen het creatieve concept, kiezen de locatie en regelen het entertainment. We coördineren alle leveranciers en staan op de avond zelf aan het roer. Zodat jij als gastheer aanwezig kunt zijn voor je mensen, zonder te kijken of de catering al is opgesteld.
 
-Jubileumfeest
+## Zo organiseer je een bedrijfsfeest dat indruk maakt
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileum-100-jaar-hendriks-bouw.html)
+Een bedrijfsfeest dat echt indruk maakt, vergt meer dan een locatie en een band. Het vraagt een goed concept en de uitvoering die dat alles waarmaakt.
 
-[![15 jaar MUMC+ — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce97_VIP-Entree-borden-close-2023-06-30MRF-2297-scaled.webp)
+Het begint met één vraag: wat wil je dat mensen de volgende ochtend zeggen? Die vraag stellen we altijd als eerste. Daarna bouwen we de avond die dat gevoel realiseert.
 
-### 15 jaar MUMC+
+Bel ons op [085 401 40 14](tel:+31854014014) of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
-Jubileumfeest
+*Serieus Leuk.*
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfeest-15-jaar.html)
+## Lees ook
 
-[![Huisman 90 jaar — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb69_697621e3a82e8e95279a15f6_Huisman%2520Schiedam%252090%2520jaar%2520Overzicht%2520zaal.webp)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-### Huisman 90 jaar
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-Jubileumfeest
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfeest-90-jaar.html)
+## Veelgestelde vragen
 
-[![Spaarne Gasthuis — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce91_Spaarne-Gasthuis-Festival-Originals-in-publiek-2-scaled.webp)
+Wat kost een bedrijfsfeest organiseren?
 
-### Spaarne Gasthuis
+Een bedrijfsfeest kost ongeveer €250 tot €350+ per persoon ex. btw bij 250 tot 500 gasten — totaal ongeveer €95.000 tot €175.000+. Voor 500 tot 1.000 gasten reken je op ongeveer €225 tot €325+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €200 tot €300+ per persoon. Boven de 2.000 gasten op ongeveer €150 tot €200+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Personeelsfeest
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsfeest-organiseren)**
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/personeelsfeest-spaarne-gasthuis.html)
+Hoe kies ik de perfecte locatie voor een bedrijfsfeest?
 
-[![90 jaar SGS — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727cdc_69762d8bae2b33ea3002c618_SGS%2520100%2520jaar%2520Jubileumfeest%2520-%2520Tableau%2520entree%25202.webp)
+De perfecte locatie voor een bedrijfsfeest kies je op basis van vijf factoren:
 
-### Redders in Nood
+1. **Doelgroep en sfeer**: past de locatie bij het karakter van je gasten?
+2. **Capaciteit**: ruimte voor netwerken, eten en een programma.
+3. **Bereikbaarheid** met openbaar vervoer en voldoende parkeergelegenheid.
+4. **Uitstraling** die aansluit bij je merk, van industrieel tot klassiek.
+5. **Flexibiliteit** in catering, techniek en aankleding.
 
-Jubileumfeest
+Bezoek elke locatie van je voorselectie vooraf en toets ze aan je scenario. Let op akoestiek, daglicht en beschikbaarheid in jouw gewenste periode. Kies bij voorkeur een locatie met een vaste coördinator die meedenkt. Live Impact heeft een netwerk van ruim 150 bewezen locaties. Wij adviseren op basis van jouw doelgroep, budget en datum.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfeest-the-green-party.html)
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsfeest-organiseren)**
 
-[![Digital Playground — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31797208d6cb7f1727cff_697649e2d50cc16bbb1108b9_Handpicked%2520Festival%2520-%2520Entree%2520dame%2520gele%2520jas%252033770851_2041867009387694_851354778259685376_o%2520(1).webp)
+Welke cateringtips zijn essentieel voor een succesvol feest?
 
-### Digital Playground
+Goede catering op een feest is meer dan eten en drinken. Het tempo bepaalt de sfeer. Zorg dat er altijd iets te halen is: een lege bar of een leeg buffet haalt de energie onderuit. Kies een mix van vertrouwde en verrassende gerechten.
 
-Relatie-evenement
+Houd standaard rekening met dieetwensen: vegetarisch, vegan en glutenvrij zijn allang geen uitzonderingen meer. Zorg voor voldoende alcoholvrije opties. En sluit af met een memorabel moment: een dessertbar, een speciale afsluiter of iets zelfgemaakts. Live Impact werkt met cateraars die sfeer begrijpen.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/relatie-event-handpicked-digital-playground-festival.html)
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsfeest-organiseren)**
 
-[![Wicked Wonderland — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb5f_69764f2817f8c645fe574ef9_SAP%2520Crazyland%2520incentive%2520-Thuishaven%2520Loods%2520Loco%2520Bladblazer%2520vrouw%2520haar.webp)
+Wat voor entertainment past bij een bedrijfsfeest?
 
-### Wicked Wonderland
+De beste keuze hangt af van je doelgroep en de sfeer die je wilt neerzetten. Een live band brengt energie en feestgevoel. Voor gedeeld plezier werkt een comedian of cabaretier goed. En als het feest moet doorslaan, is een dj ideaal.
 
-Personeelsfeest
+Interactief entertainment zoals een quiz, escape room of kookworkshop bouwt verbinding. Bij een gemengd publiek met verschillende leeftijden is een combinatie van twee vormen verstandig. Live Impact heeft een breed netwerk van entertainers en helpt je de juiste keuze maken voor jouw feest.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/wicked-wonderland.html)
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsfeest-organiseren)**
 
-[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](bedrijfsfeest.html#)
+Hoe zorg ik dat alle medewerkers zich welkom voelen op het feest?
 
-## Rust in je hoofd, grip op de avond, sterk verhaal naar het MT
+Ja! Live Impact organiseert bedrijfsfeesten die je team echt verbinden. We regelen alles: conceptontwikkeling, locatieverkenning, samenwerking met cateraars, keuze van het entertainment en de dagplanning. Of je nu 30 personen meeneemt naar een borrel of 300 naar een galafeest: we maken het speciaal en blijvend. We luisteren naar je bedrijfscultuur en vertalen die in een feest dat past. Onze aandacht ligt bij teamvreugde en teambinding, waarbij iedereen zich welkom voelt. Klaar voor een bedrijfsfeest waar je team nog weken over praat?
 
-Als jij verantwoordelijk bent, wil je zekerheid. Geen stress over logistiek, geen gaten in het programma, geen ongemakkelijke stiltes. Je wilt een plan dat klopt, duidelijke rollen en een team dat het uitvoert terwijl jij gewoon tussen je collega’s staat.
-
-We maken het intern ook simpel. Met een heldere begroting, risico-overzicht en afspraken over wat we meten, kun jij het besluit goed neerzetten bij MT of directie. En na afloop heb je niet alleen een geslaagde vernieuwende avond, maar ook bewijs van wat het opleverde: meer binding, meer trots, meer energie.
-
-Klaar om dit goed aan te pakken? Plan een kennismaking in met Jim en Robin.
-
-‍
-
-## Meer lezen
-
-Lees ook: [Bedrijfsfeest organiseren](../blog/bedrijfsfeest-organiseren.html) — of bekijk de mogelijkheden voor een [personeelsfeest](personeelsfeest.html). Antwoord op veelgestelde vragen vind je op onze [FAQ-pagina](../faq.html).
-
-![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+**[Meer weten? Lees ons complete artikel →](/blog/bedrijfsfeest-organiseren)**
 
 ## Geïnspireerd geraakt?
 
