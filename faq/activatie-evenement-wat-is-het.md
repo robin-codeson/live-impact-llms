@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activatie-evenement-wat-is-het"
 title: "Wat is een activatie in de context van een evenement?"
 description: "Een activatie richt zich op merkbeleving en directe consumenteninteractie met een specifiek doel. Denk aan: bekendheid creëren, producten promoten of merkloyaliteit vergroten. Een regulier evenement is breder van opzet, zoals een gala, conferentie of personeelsfeest. Het richt zich op entertainment,"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:37+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
