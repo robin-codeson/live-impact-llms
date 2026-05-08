@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-toegankelijk-dove-slechthor
 title: "Hoe maak ik mijn evenement toegankelijk voor dove en slechthorende gasten?"
 description: "Begin met een ringleiding of inductielus voor hoorapparaatgebruikers. Veel locaties hebben dit ingebouwd. Overweeg schrijftolken (tekst op scherm naast podium) of gebarentolken voor dove gasten. Boek tolken minimaal vier weken van tevoren. AI-gedreven real-time ondertiteling op schermen wordt steeds"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:21+00:00"
+last_updated: "2026-05-08T21:23:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
