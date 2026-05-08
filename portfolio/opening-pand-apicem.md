@@ -1,6 +1,11 @@
-[< Back](opening-pand-apicem.html#)[< Work](opening-pand-apicem.html#)
-
-[Next >](opening-pand-apicem.html#)
+---
+canonical_url: "https://live-impact.nl/portfolio/opening-pand-apicem"
+title: "Power in het Park"
+description: "Opening van je pand vieren? Vergeet de schaar en het lintje! Ontdek hoe wij met een lichtshow in Vught een merk onvergetelijk maakten. Ga voor Serieus Leuk."
+section: "Portfolio"
+last_updated: "2026-05-08T22:30:09+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 [
 
@@ -11,7 +16,7 @@
 
 ![Opening pand Apicem — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb75_697283785bff17df628679e4_251211PZ58632.webp)
 
-[Opening bedrijf](opening-pand-apicem.html#)
+[Opening bedrijf](#)
 
 ## Opening pand Apicem
 
@@ -27,23 +32,31 @@ Dat is de kracht van 'Serieus Leuk': je merk niet alleen zichtbaar, maar ook voe
 
 ‍
 
-Meer weten over openingsevenementen? Bekijk onze aanpak op de [opening pagina](../categories/opening.html).
+Meer weten over openingsevenementen? Bekijk onze aanpak op de [opening pagina](/categories/opening).
 
-Wil je ook zo'n event? [Start hier met het maken van je briefing.](../briefing.html)
+Wil je ook zo'n evenement? [Start hier met het maken van je briefing.](/briefing)
 
-[![Opening pand Apicem — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fe1_69728378f6708632f8f1f8aa_251211PZ58582.webp)](opening-pand-apicem.html#)
+##
 
-[![Opening pand Apicem — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fdb_6972837859ff7b97b299bd43_251211PZ58540.webp)](opening-pand-apicem.html#)
+##
 
-[![Opening pand Apicem — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fcf_69728378ca3b6c137693788d_251211PZ49651.webp)](opening-pand-apicem.html#)
+[![Opening pand Apicem — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fe1_69728378f6708632f8f1f8aa_251211PZ58582.webp)](#)
 
-[![Opening pand Apicem — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fe4_69728378baaa364c463107b6_251211PZ20266.webp)](opening-pand-apicem.html#)
+[![Opening pand Apicem — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fdb_6972837859ff7b97b299bd43_251211PZ58540.webp)](#)
 
-[![Opening pand Apicem — sfeerbeeld 5 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fd4_697283780cd452f6b1c48f45_DJI251211202512111722502512110517251211D.webp)](opening-pand-apicem.html#)
+[![Opening pand Apicem — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fcf_69728378ca3b6c137693788d_251211PZ49651.webp)](#)
 
-[![Opening pand Apicem — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb75_697283785bff17df628679e4_251211PZ58632.webp)](opening-pand-apicem.html#)
+[![Opening pand Apicem — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fe4_69728378baaa364c463107b6_251211PZ20266.webp)](#)
+
+[![Opening pand Apicem — sfeerbeeld 5 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69ca365dbe4c464599c00fd4_697283780cd452f6b1c48f45_DJI251211202512111722502512110517251211D.webp)](#)
+
+[![Opening pand Apicem — sfeerbeeld 6 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb75_697283785bff17df628679e4_251211PZ58632.webp)](#)
 
 No items found.
+
+##
+
+##
 
 ## Geïnspireerd geraakt?
 
