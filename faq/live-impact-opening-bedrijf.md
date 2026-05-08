@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-opening-bedrijf"
 title: "Kan Live Impact een bedrijfsopening organiseren?"
 description: "Ja, Live Impact organiseert professionele bedrijfsopeningen volledig. Wij regelen alles: de locatie, het gastenlijstbeheer, het ceremoniële ontwerp, catering, merkdecoratie, mediabenadering, fotografie en video. Ook een foutloze dagplanning hoort daarbij. Onze ervaring omvat retailopeningen, kantoor"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:54+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
