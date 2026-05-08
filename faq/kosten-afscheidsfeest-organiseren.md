@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-afscheidsfeest-organiseren"
 title: "Wat kost een afscheidsfeest organiseren gemiddeld?"
 description: "<p>Een afscheidsfeest kost gemiddeld tussen de €500 en €3.000 voor een team van 10 tot 30 mensen. Het exacte bedrag hangt af van locatie, catering en cadeau. Een eenvoudige borrel in een horecagelegenheid is al te regelen voor €500. Een volledig georganiseerd feest met diner, entertainment en een pe"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:39+00:00"
+last_updated: "2026-05-08T21:23:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
