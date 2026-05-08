@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/relaties-uitnodigen-relatie-evenement
 title: "Hoe nodig je relaties uit voor een relatie-evenement?"
 description: "Een goede uitnodigingsaanpak begint vroeg. Stuur een save-the-date acht weken voor het evenement: dat blokkeert de agenda. Volg op met een persoonlijke uitnodiging vier tot zes weken van tevoren. Kies bij voorkeur voor een brief per post of een mooie digitale kaart. Laat daarna accountmanagers of re"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:41+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
