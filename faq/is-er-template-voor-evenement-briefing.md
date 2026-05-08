@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/is-er-template-voor-evenement-briefin
 title: "Is er een template voor een evenement briefing?"
 description: "Ja. Live Impact heeft een online briefingsdocument ontwikkeld dat je stap voor stap door alle essentiële vragen leidt. Je vult het in op je eigen tempo en het zorgt ervoor dat je niets vergeet. Van doel en doelgroep tot budget en no-go's. Zo geef je je evenementenbureau precies wat het nodig heeft o"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:28+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
