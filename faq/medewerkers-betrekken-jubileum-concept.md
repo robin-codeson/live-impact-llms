@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/medewerkers-betrekken-jubileum-concep
 title: "Hoe betrek je medewerkers bij de conceptontwikkeling van het jubileum?"
 description: "Niet als stemcommissie, wel als bron. Interview 6 tot 10 medewerkers van verschillende niveaus en afdelingen. Vraag: waar ben je trots op? Wat viert dit bedrijf wat anderen niet vieren? Wat zou jij laten zien als je één moment had? Die antwoorden zijn goud voor je concept. Ze leveren echte verhalen "
 section: "FAQ"
-last_updated: "2026-05-08T17:11:22+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
