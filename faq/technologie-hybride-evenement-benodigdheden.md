@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/technologie-hybride-evenement-benodig
 title: "Welke technologie heb je nodig voor een hybride evenement?"
 description: "Voor een hybride evenement heb je verschillende dingen nodig. Allereerst een stabiele, snelle internetverbinding van minimaal 100 Mbps upload. Verder een professioneel livestreamplatform zoals Zoom, Teams of Hopin. Je hebt ook minimaal twee camera's nodig voor podium en totaaloverzicht. Daarbij hore"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:43+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
