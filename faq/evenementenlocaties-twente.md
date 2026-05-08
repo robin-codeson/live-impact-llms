@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-twente"
 title: "Wat zijn de beste evenementenlocaties in Twente?"
 description: "Twente heeft verrassend veel sterke locaties. Denk aan industrieel erfgoed zoals de textielfabrieken in Almelo en Enschede. Daarnaast vind je buitenlocaties in de omgeving en moderne congrescentra in Hengelo. Voor grotere evenementen is Grolsch Veste in Enschede een opvallende keuze. Een evenementen"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:09+00:00"
+last_updated: "2026-05-08T21:23:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
