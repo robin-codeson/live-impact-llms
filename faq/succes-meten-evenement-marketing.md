@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succes-meten-evenement-marketing"
 title: "Hoe meet je het succes van een evenement marketingcampagne?"
 description: "Het succes van een evenement marketingcampagne meet je via KPI's die je vóór het evenement formuleert. Voorbeelden: aantal leads, merkbekendheid (via enquête vóór en na), media-aandacht en tevredenheid van aanwezigen (NPS). Ook relevant: omzet uit evenement-contacten (in de 3 maanden erna) en commun"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:24+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
