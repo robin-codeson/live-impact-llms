@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-rotterdam"
 title: "Evenementenbureau Rotterdam: het bureau dat doet wat het zegt"
 description: "Evenementenbureau in Rotterdam kiezen? De Maasstad-mentaliteit: praktisch, nuchter en productie boven praatjes. Wat dat betekent voor jouw evenement."
 section: "Blog"
-last_updated: "2026-05-08T16:50:59+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
