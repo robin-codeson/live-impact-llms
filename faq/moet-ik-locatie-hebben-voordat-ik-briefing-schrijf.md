@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/moet-ik-locatie-hebben-voordat-ik-bri
 title: "Moet ik al een locatie hebben voordat ik een briefing schrijf?"
 description: "Nee, dat hoeft niet. Je kunt in de briefing aangeven of je al een locatie op het oog hebt. Of dat je bureau moet meedenken over de locatie. Veel bureaus hebben een uitgebreid netwerk van locaties. Zij kunnen je adviseren welke locatie past bij je concept, doelgroep en budget. Geef wél aan of je een "
 section: "FAQ"
-last_updated: "2026-05-08T17:11:35+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
