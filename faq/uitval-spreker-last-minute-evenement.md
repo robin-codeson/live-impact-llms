@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/uitval-spreker-last-minute-evenement"
 title: "Wat doe je als een spreker of entertainer last-minute uitvalt?"
 description: "Als een spreker of entertainer op het laatste moment uitvalt, neem je vijf stappen. Eén: zet je reservespreker in, die je altijd paraat hebt. Twee: herschik het programma zodat de lege tijd niet opvalt. Drie: bel je sprekersbureau om vervanging te vragen. Vier: zorg dat de dagvoorzitter de gaten vul"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:10+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
