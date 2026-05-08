@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onboarding-evenement-voordeel"
 title: "Wat is het voordeel van een onboarding-evenement ten opzichte van een regulier onboardingprogramma?"
 description: "Een onboarding-evenement overtreft klassieke HR-trainingen in meerdere opzichten. Het bouwt emotionele connectie met bedrijf en team sneller dan slides dat doen. Peer-to-peer leren gebeurt organisch in informele netwerkingsruimtes. Een sterke eerste indruk bepaalt retentie. Onderzoek toont dat mooie"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:54+00:00"
+last_updated: "2026-05-08T21:24:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
