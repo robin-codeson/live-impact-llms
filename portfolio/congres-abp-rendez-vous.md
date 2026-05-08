@@ -1,17 +1,18 @@
-[< Back](congres-abp-rendez-vous.html#)[< Work](congres-abp-rendez-vous.html#)
-
-[Next >](congres-abp-rendez-vous.html#)
-
-[
-
-](congres-abp-rendez-vous.html)
+---
+canonical_url: "https://live-impact.nl/portfolio/congres-abp-rendez-vous"
+title: "Scherpe noten in het Communicatiemuseum"
+description: "Een pensioenfonds evenement dat lééft: ontdek hoe we in het Communicatiemuseum muziek en scherpe teksten van Nico Dijkshoorn inzetten voor 200 stakeholders."
+section: "Portfolio"
+last_updated: "2026-05-08T22:30:07+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
 ![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
 
 ![ABP Rendez-vous — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cea1_ABP-Rendez-Vous-2014-07-1-scaled.webp)
 
-[Congres](congres-abp-rendez-vous.html#)
+[Congres](#)
 
 ## ABP Rendez-vous
 
@@ -25,21 +26,29 @@ Scholtes en Janssens achter de piano: zodra ze inzetten, zakten de schouders van
 
 Nico Dijkshoorn zette de punt erachter. Met zijn scherpe pen vatte hij de dag samen in woorden die blijven hangen.
 
-Het werd een dag met inhoud en veel glimlachen. Want serieus werk mag best leven.
+Het werd een dag met inhoud en veel glimlachen. Want serieus werk mag best leven.  
+  
+Meer weten over het organiseren van een [relatie-evenement](/categories/relaties)? Bekijk onze aanpak.
 
-Meer weten over het organiseren van een [relatie-event](../categories/relaties.html)? Bekijk onze aanpak.
+Wil je ook zo'n evenement? [Start hier met het maken van je briefing.](/briefing)‍
 
-Wil je ook zo'n event? [Start hier met het maken van je briefing.](../briefing.html)‍
+##
 
-[![ABP Rendez-vous — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf9e_download-2.webp)](congres-abp-rendez-vous.html#)
+##
 
-[![ABP Rendez-vous — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf9d_download-1.webp)](congres-abp-rendez-vous.html#)
+[![ABP Rendez-vous — sfeerbeeld 1 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf9e_download-2.webp)](#)
 
-[![ABP Rendez-vous — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf9b_download.webp)](congres-abp-rendez-vous.html#)
+[![ABP Rendez-vous — sfeerbeeld 2 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf9d_download-1.webp)](#)
 
-[![ABP Rendez-vous — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cea1_ABP-Rendez-Vous-2014-07-1-scaled.webp)](congres-abp-rendez-vous.html#)
+[![ABP Rendez-vous — sfeerbeeld 3 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cf9b_download.webp)](#)
+
+[![ABP Rendez-vous — sfeerbeeld 4 | Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234cea1_ABP-Rendez-Vous-2014-07-1-scaled.webp)](#)
 
 No items found.
+
+##
+
+##
 
 ## Geïnspireerd geraakt?
 
