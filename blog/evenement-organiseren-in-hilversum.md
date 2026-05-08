@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-hilversum"
 title: "Hilversum: Mediastad als creatief evenementdecor"
 description: "Evenement organiseren in Hilversum? Mediastad, Dudok-architectuur en creatieve energie. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:35+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
