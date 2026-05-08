@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-kennisfestival-congres"
 title: "Wat is het verschil tussen een kennisfestival en een congres?"
 description: "Een congres is doorgaans formeel: sprekers op een podium, publiek in rijen, weinig interactie. Een kennisfestival heeft een opener structuur. Deelnemers bewegen vrij tussen verschillende sessies, workshops en informele ontmoetingen. De drempel is lager, de energie hoger. Kennisfestivals worden steed"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:52+00:00"
+last_updated: "2026-05-08T21:24:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
