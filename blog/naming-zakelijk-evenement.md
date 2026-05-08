@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/naming-zakelijk-evenement"
 title: "Waarom 'Jaarfeest 2026' je geen naam geeft"
 description: "Een goede naam voor je zakelijke evenement is het begin van een identiteit. Zo kies je een naam die het verschil maakt met 'jaarfeest 2026'."
 section: "Blog"
-last_updated: "2026-05-08T16:51:59+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
