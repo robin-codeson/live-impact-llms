@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succesvol-influencer-evenement"
 title: "Hoe organiseer je een succesvol influencer evenement?"
 description: "Een succesvol influencerevenement begint met heldere doelstellingen. Wil je merkbekendheid, een productlancering of community-opbouw? Selecteer influencers van wie het publiek aansluit bij jouw doelgroep. Creëer een echte beleving, niet alleen een fotomoment. Zorg voor integratie: influencers moeten"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:32+00:00"
+last_updated: "2026-05-08T21:24:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
