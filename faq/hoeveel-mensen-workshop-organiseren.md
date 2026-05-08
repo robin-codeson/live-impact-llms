@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-mensen-workshop-organiseren"
 title: "Hoeveel mensen kan een workshop aan?"
 description: "De meeste workshops werken het best met 10 tot 30 deelnemers. Kleiner dan 10 mensen kan heel persoonlijk en intensief zijn. Groter dan 30 vraagt om subgroepen en een ervaren facilitator die de energie verdeelt. Voor groepen van 50 of meer plan je meerdere parallelle workshops of werksessies, bij voo"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:47+00:00"
+last_updated: "2026-05-08T21:23:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
