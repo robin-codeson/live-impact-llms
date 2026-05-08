@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/inhoud-pitchdocument-evenementenburea
 title: "Wat moet er in een pitchdocument voor een evenementenbureau?"
 description: "Een goed pitchdocument voor een evenementenbureau bevat minimaal context over de organisatie en cultuur. Daarnaast de aanleiding en het doel van het evenement, plus datum en locatievoorkeur. Beschrijf de doelgroep (wie, hoeveel, achtergrond) en het gewenste programma (of wat je open laat). Vermeld h"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:19+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
