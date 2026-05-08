@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/zakelijk-evenement-laten-organiseren
 title: "Wat is een zakelijk evenement precies?"
 description: "Zakelijk evenement laten organiseren? Ontdek wat een bureau voor je doet, wat het kost en hoe het proces werkt. Live Impact, 25 jaar ervaring."
 section: "Blog"
-last_updated: "2026-05-08T16:53:12+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
