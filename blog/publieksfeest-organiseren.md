@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/publieksfeest-organiseren"
 title: "Wat is een publieksfeest, en waarom organiseer je het?"
 description: "Publieksfeest organiseren voor klanten, buurt of een breed publiek? Van vergunning tot programma: zo pak je het aan. Complete gids van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:24+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
