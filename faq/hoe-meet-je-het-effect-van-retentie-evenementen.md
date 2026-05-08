@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-meet-je-het-effect-van-retentie-e
 title: "Hoe meet je het effect van retentie-evenementen?"
 description: "Meet het effect van retentie-evenementen op vier manieren. Vergelijk de churn rate van eventbezoekers met niet-bezoekers. Meet of eventdeelnemers vaker upgraden of aanvullende diensten afnemen (upsell/cross-sell). Vraag na het evenement de Net Promoter Score: hoe waarschijnlijk bevelen ze je aan. En"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:14+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
