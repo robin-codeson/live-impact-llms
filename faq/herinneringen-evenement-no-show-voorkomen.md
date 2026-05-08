@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/herinneringen-evenement-no-show-voork
 title: "Welke herinneringen stuur je voor een evenement om no-show te voorkomen?"
 description: "Vier contactmomenten werken het best. Twee weken van tevoren: een inhoudelijke teaser met een quote van de spreker of preview van het programma. Een week van tevoren: praktische informatie met route, parkeren en dresscode. Twee dagen van tevoren: een korte reminder met een directe kalenderlink. Op d"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:30+00:00"
+last_updated: "2026-05-08T21:23:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
