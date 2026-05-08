@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/studiereis-organiseren"
 title: "Waarom een studiereis meer oplevert dan een cursus"
 description: "Studiereis organiseren? Van programma-opbouw met bedrijfsbezoeken en sprekers tot bestemmingskeuze. Praktische gids van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:41+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
