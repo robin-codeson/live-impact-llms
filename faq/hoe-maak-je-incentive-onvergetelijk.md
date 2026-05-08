@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-incentive-onvergetelijk"
 title: "Hoe maak je een incentive onvergetelijk?"
 description: "Een onvergetelijke incentive combineert drie dingen: exclusiviteit, persoonlijke erkenning en een beleving die de deelnemer zelf nooit zou organiseren. Exclusiviteit betekent iets doen of zien wat normaal niet toegankelijk is. Denk aan een rondleiding achter de schermen of een privédiner met een Mic"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:11+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
