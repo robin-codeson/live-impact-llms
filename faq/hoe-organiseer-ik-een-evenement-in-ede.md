@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-ed
 title: "Hoe organiseer ik een evenement in Ede?"
 description: "Ede biedt uitstekende mogelijkheden voor bedrijfsevenementen en particuliere evenementen."
 section: "FAQ"
-last_updated: "2026-05-08T17:01:26+00:00"
+last_updated: "2026-05-08T21:23:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
