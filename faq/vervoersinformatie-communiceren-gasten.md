@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vervoersinformatie-communiceren-gaste
 title: "Wanneer communiceer ik vervoersinformatie aan mijn gasten?"
 description: "Communiceer vervoersinformatie op drie momenten. Eerste moment: in de uitnodiging, met parkeeradvies, OV-route en eventueel shuttleregeling. Tweede moment: in de herinneringsmail 48 uur voor het evenement, met herhaling van vervoersinfo, een routelink en de shuttletijden. Derde moment: op de dag zel"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:50+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
