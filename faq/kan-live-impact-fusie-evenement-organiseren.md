@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-fusie-evenement-organ
 title: "Kan Live Impact een fusie-evenement organiseren?"
 description: "Ja. Live Impact heeft ervaring met fusie-evenementen, overnamebijeenkomsten en transformatie-evenementen. Als extern bureau zijn we per definitie neutraal: we horen niet bij bedrijf A of B. We kunnen vragen stellen die intern te gevoelig zijn en een programma ontwerpen dat recht doet aan beide ident"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:06+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
