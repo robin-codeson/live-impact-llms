@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-locatie-scouting"
 title: "Doet Live Impact ook locatie-scouting voor evenementen?"
 description: "Ja, Live Impact doet locatiescouting als onderdeel van evenementplanning, of als losse dienst. Ons team heeft relaties met 200+ locaties in Nederland en kent de sterke en zwakke kanten van elk. Dit bespaart je 3-4 weken werk. Ons proces: je vertelt ons wat je zoekt (grootte, sfeer, budget, datum), e"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:44+00:00"
+last_updated: "2026-05-08T21:24:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
