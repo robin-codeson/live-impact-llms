@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verborgen-kosten-evenement"
 title: "Wat zijn de verborgen kosten bij een evenement?"
 description: "Bij evenementen zitten verborgen kosten in de details die je niet altijd vooraf ziet. Denk aan servicetoeslagen en BTW op locatie en catering. Voeg daarbij overtime voor personeel en techniek, transportkosten voor decor en apparatuur, schoonmaak na afloop en verzekeringen. Ook last-minute wijziginge"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:18+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
