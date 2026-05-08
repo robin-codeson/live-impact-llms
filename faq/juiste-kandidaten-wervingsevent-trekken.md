@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-kandidaten-wervingsevent-trekk
 title: "Hoe trek je de juiste kandidaten naar een wervingsevent?"
 description: "Begin bij je eigen medewerkers: zij zijn je beste ambassadeurs. Geef ze tools om het evenement te delen: uitnodigingslinks en social content. Zet gerichte campagnes in op platforms waar je doelgroep zit (LinkedIn, GitHub, brancheplatforms). Werk samen met onderwijsinstellingen als je starters zoekt."
 section: "FAQ"
-last_updated: "2026-05-08T17:03:46+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
