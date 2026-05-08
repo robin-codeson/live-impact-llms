@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/workshop-organiseren-zakelijk"
 title: "Wat maakt een zakelijke workshop anders dan een vergadering of training?"
 description: "Zakelijke workshop organiseren die deelnemers laat werken, niet alleen luisteren? Zo doe je het."
 section: "Blog"
-last_updated: "2026-05-08T16:53:11+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
