@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-awards-uitreiken"
 title: "Hoeveel awards moet je uitreiken op een avond?"
 description: "Vijf tot acht awards is het optimale aantal voor een avond. Minder dan vijf voelt summier; meer dan acht en het wordt een marathon van uitreikingen waarbij de aandacht verslapt. Bouw spanning op door de meest prestigieuze award als afsluiter te bewaren. Wissel awards af met entertainmentmomenten zod"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:16+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
