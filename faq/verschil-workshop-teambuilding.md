@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-workshop-teambuilding"
 title: "Wat is het verschil tussen een workshop en een teambuilding?"
 description: "Een workshop duurt 2 tot 4 uur en heeft één concreet doel. Het levert een tastbaar resultaat op: iets wat je maakt, leert of besluit. Een teambuilding is uitgebreider: een halve of hele dag, gericht op samenwerking, teamdynamiek en onderlinge verbinding. Een workshop is compacter, betaalbaarder en m"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:44+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
