@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bedrijfsjubileum-op-eigen-locatie"
 title: "Kun je een bedrijfsjubileum op eigen locatie organiseren?"
 description: "Ja, en het is voor veel bedrijven de slimste keuze. Op eigen locatie creëer je een directe verbinding met de identiteit van het bedrijf. Gasten vieren het jubileum op de plek waar het allemaal begon of nog steeds gebeurt. Dat heeft symbolische waarde. Bovendien is het fiscaal voordelig: kosten op de"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:19+00:00"
+last_updated: "2026-05-08T21:22:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
