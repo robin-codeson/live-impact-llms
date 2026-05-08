@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-nijmegen"
 title: "Waarom Nijmegen een bijzondere evenementenstad is"
 description: "Evenement organiseren in Nijmegen? Oudste stad, Waallocaties en een setting die indruk maakt."
 section: "Blog"
-last_updated: "2026-05-08T16:50:38+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
