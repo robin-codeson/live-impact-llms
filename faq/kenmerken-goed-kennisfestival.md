@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kenmerken-goed-kennisfestival"
 title: "Wat zijn de kenmerken van een goed kennisfestival?"
 description: "Een goed kennisfestival heeft vier kenmerken. Ten eerste een meerstemmig programma: meerdere sprekers en perspectieven op één thema, niet op één podium maar op meerdere podia. Ten tweede participatie: deelnemers dragen actief bij aan sessies in plaats van alleen te luisteren. Ten derde een festivals"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:23+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
