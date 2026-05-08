@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/rendement-eventmarketing-meten"
 title: "Hoe meet je het rendement van evenementmarketing?"
 description: "Op drie niveaus. Directe output: hoeveel mensen kwamen, wat was de netto promotorscore, hoeveel leads of contacten kwamen voort uit het evenement. Gedragsverandering: zijn medewerkers actiever, zijn klantrelaties verdiept, zijn er nieuwe opdrachten uit voortgekomen? Meet dit op drie tot zes maanden."
 section: "FAQ"
-last_updated: "2026-05-08T17:13:42+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
