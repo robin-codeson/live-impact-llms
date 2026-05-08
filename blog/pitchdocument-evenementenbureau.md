@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/pitchdocument-evenementenbureau"
 title: "Een goede briefing levert een beter voorstel"
 description: "Pitchdocument voor een evenementenbureau opstellen? Wat erin staat en hoe je het aanpakt."
 section: "Blog"
-last_updated: "2026-05-08T16:52:16+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
