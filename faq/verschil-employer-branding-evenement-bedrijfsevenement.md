@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-employer-branding-evenement-
 title: "Hoe verschilt een employer branding evenement van een gewoon bedrijfsevenement?"
 description: "Bij een gewoon bedrijfsevenement staat het programma centraal: wat er gebeurt. Bij een employer branding evenement staat het verhaal centraal: wat mensen voelen en onthouden over jouw organisatie als werkgever. Dat verschil bepaalt alle keuzes: de locatie, het format, de sprekers, de details. Een on"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:57+00:00"
+last_updated: "2026-05-08T21:24:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
