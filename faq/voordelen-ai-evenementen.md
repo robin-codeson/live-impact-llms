@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voordelen-ai-evenementen"
 title: "Wat zijn voordelen van AI bij evenementen?"
 description: "AI maakt evenementen slimmer op meerdere vlakken. Gerichte marketing trekt de juiste bezoekers aan. Gepersonaliseerde communicatie verhoogt betrokkenheid vóór, tijdens en na het evenement. Slimme data-analyse helpt je sneller beslissingen nemen. En repetitief werk, van herinneringen tot registratie,"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:08+00:00"
+last_updated: "2026-05-08T21:24:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
