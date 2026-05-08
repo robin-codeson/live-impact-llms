@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-risico-inventarisatie-veilig
 title: "Wat is het verschil tussen een risico-inventarisatie en een veiligheidsplan?"
 description: "Een veiligheidsplan beschrijft de concrete veiligheidsmaatregelen: beveiliging, EHBO, ontruimingsplan en vergunningen. Het is een operationeel document voor de dag zelf. Een risico-inventarisatie is breder en strategischer. Het beschrijft álle risico's die het evenement kunnen verstoren, van technis"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:20+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
