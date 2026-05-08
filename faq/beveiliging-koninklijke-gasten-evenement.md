@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beveiliging-koninklijke-gasten-evenem
 title: "Welke beveiligingsdienst is betrokken bij koninklijke gasten?"
 description: "Voor leden van het koninklijk huis is de Dienst Koninklijke Beveiliging (DKB) betrokken. Voor bewindspersonen zoals ministers werkt de Dienst Koninklijke en Diplomatieke Beveiliging (DKDB). Deze diensten nemen zelf contact op zodra de aanwezigheid van de beveiligde persoon is bevestigd. Ze voeren al"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:50+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
