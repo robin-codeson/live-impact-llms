@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-hybride-evenement-organiseren"
 title: "Wat kost een hybride evenement organiseren?"
 description: "Een hybride evenement kost aanzienlijk meer dan een puur offline evenement. Basisbudget volgt hieronder. Locatiehuur kost 5.000 tot 15.000 euro. Catering valt op 2.500 tot 10.000 euro. A/V-opstelling inclusief livestreamtechniek kost 5.000 tot 20.000 euro. Camerateam en producenten zitten op 3.000 t"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:18+00:00"
+last_updated: "2026-05-08T21:23:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
