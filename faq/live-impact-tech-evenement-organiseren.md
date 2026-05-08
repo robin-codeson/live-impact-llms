@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-tech-evenement-organisere
 title: "Kan Live Impact een techevenement organiseren?"
 description: "Ja. Wij regelen de productionele laag van je techevenement: locatie, catering, AV, logistiek, draaiboek en dagcoördinatie. Jij brengt de inhoud. Samen maak je een evenement dat professioneel oogt en inhoudelijk scherp is. Wij zijn vertrouwd met de specifieke eisen van techprofessionals en de valkuil"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:29+00:00"
+last_updated: "2026-05-08T21:24:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
