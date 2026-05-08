@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/opbouwtijd-techniek-evenement"
 title: "Hoeveel opbouwtijd moet ik reserveren voor de techniek op mijn evenement?"
 description: "Meer dan je denkt. Een professionele AV-setup voor een evenement met 300 gasten kost al snel een hele dag opbouw. Een meerdaags congres met meerdere zalen twee tot drie dagen. Tel daar de soundcheck bij op (minimaal een uur) en reserveer tijd voor het testen van alle presentaties. Plan ruim en houd "
 section: "FAQ"
-last_updated: "2026-05-08T17:12:12+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
