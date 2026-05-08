@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-mensen-bedrijfs-bbq"
 title: "Hoeveel mensen passen er bij een bedrijfs-BBQ?"
 description: "Een bedrijfs-BBQ werkt voor groepen van 20 tot 400+ personen. Voor kleine groepen (20–50 personen) is een culinaire BBQ-workshop of informele grill op eigen terrein ideaal. Voor middelgrote groepen (50–150 personen) past een professionele cateraar met grill-opstelling het best. Voor grote groepen (1"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:45+00:00"
+last_updated: "2026-05-08T21:23:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
