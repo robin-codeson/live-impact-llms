@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-live-online-kick-off"
 title: "Wat is het verschil tussen een live en online kick-off?"
 description: "Het grootste verschil tussen een live en online kick-off zit in de energietransfer en de verbinding. Bij een live kick-off zijn mensen fysiek bij elkaar. Dat geeft energie, informele connecties en een gedeeld gevoel dat digitaal moeilijk te evenaren is. Een online kick-off is bereikbaarder (geen rei"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:01+00:00"
+last_updated: "2026-05-08T21:24:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
