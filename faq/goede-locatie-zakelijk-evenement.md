@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/goede-locatie-zakelijk-evenement"
 title: "Wat is een goede locatie voor een zakelijk evenement?"
 description: "De beste locatie sluit aan bij het concept en de doelstelling van het evenement, niet bij wat toevallig beschikbaar is. Voor een strategische kick-off werkt een theaterzaal of conferentiecentrum goed. Voor een feestelijk personeelsfeest kies je eerder voor een industrieel pand, een strandpaviljoen o"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:11+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
