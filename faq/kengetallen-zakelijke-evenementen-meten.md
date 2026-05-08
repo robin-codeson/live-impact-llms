@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kengetallen-zakelijke-evenementen-met
 title: "Welke kengetallen gebruik je bij zakelijke evenementen?"
 description: "Vijf kengetallen tellen bij zakelijke evenementen. Eerst het opkomstpercentage: 40 tot 80 procent van de uitgenodigden. Dan de betrokkenheidsgraad: het deel van de deelnemers dat actief meedoet. Derde is de NPS van sprekers en programma, met zeven als streefwaarde. Vierde is het aantal nieuwe contac"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:23+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
