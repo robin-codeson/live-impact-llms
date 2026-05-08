@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/tijd-besparen-eventmanagement-uitbest
 title: "Hoeveel tijd bespaart eventmanagement uitbesteden?"
 description: "De tijdsbesparing is aanzienlijk. Een gemiddeld zakelijk evenement kost intern 150 tot 300 uur aan voorbereiding en coördinatie. Door de organisatie uit te besteden reduceer je dat met 80 tot 90 procent. Je team neemt alleen de strategische beslissingen en geeft accordering op conceptpresentaties. D"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:53+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
