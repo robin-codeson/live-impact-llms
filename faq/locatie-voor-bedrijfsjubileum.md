@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-voor-bedrijfsjubileum"
 title: "Welke locatie is geschikt voor een bedrijfsjubileum?"
 description: "Voor een bedrijfsjubileum zijn er twee hoofdopties. Je eigen locatie is fiscaal voordelig via de WKR en versterkt de verbinding met het bedrijf. Bovendien creëert ze een unieke beleving. Een externe locatie biedt meer wow-factor en capaciteit. Denk aan een kasteel, industrieel pand, festivalterrein "
 section: "FAQ"
-last_updated: "2026-05-08T17:11:01+00:00"
+last_updated: "2026-05-08T21:24:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
