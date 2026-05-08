@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-meet-je-succes-merkactivatie"
 title: "Hoe meet je het succes van een merkactivatie?"
 description: "Meet merkactivatie via bereik, betrokkenheid, social media mentions, NPS-scores, mediawaarde en uiteindelijk de impact op merkbekendheid en omzet."
 section: "FAQ"
-last_updated: "2026-05-08T17:01:16+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
