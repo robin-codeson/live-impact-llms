@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/veiligheidsprotocoollen-evenementen"
 title: ""
 description: "Veiligheidsprotocol voor je evenement? Dit moet je regelen — van vergunning tot crisisprotocol."
 section: "Blog"
-last_updated: "2026-05-08T16:53:03+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
