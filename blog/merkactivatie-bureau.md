@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/merkactivatie-bureau"
 title: "Waarom je activatie vergeten wordt"
 description: "Merkactivatie bureau Live Impact bedenkt activaties die beginnen bij jouw verhaal. Geen sampling. Drie cases, een aanpak. Check ons werk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:54+00:00"
+last_updated: "2026-05-08T21:22:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
