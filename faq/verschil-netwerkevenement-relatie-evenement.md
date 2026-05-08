@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-netwerkevenement-relatie-eve
 title: "Wat is het verschil tussen een netwerkevenement en een relatie-evenement?"
 description: "Bij een netwerkevenement staat kennismaking centraal: nieuwe mensen ontmoeten, nieuwe kansen verkennen. De sfeer is open en laagdrempelig. Bij een relatie-evenement gaat het om het onderhouden van bestaande contacten. Je verdiept banden met mensen die je al kent en laat hen voelen dat je de relatie "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:09+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
