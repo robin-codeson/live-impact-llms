@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-tevoren-zomerfeest-plannen"
 title: "Hoe lang van tevoren moet je een zomerfeest plannen?"
 description: "Begin minimaal 8 weken van tevoren. Populaire zomerlocaties en artiesten zijn snel bezet. Voor een groter zomerfestival is 3-4 maanden voorbereiding aan te raden. Een evenementenbureau kan het planningsproces versnellen."
 section: "FAQ"
-last_updated: "2026-05-08T17:01:01+00:00"
+last_updated: "2026-05-08T21:23:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
