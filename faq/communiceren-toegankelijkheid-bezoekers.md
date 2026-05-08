@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/communiceren-toegankelijkheid-bezoeke
 title: "Hoe communiceer je over toegankelijkheid richting bezoekers?"
 description: "Communiceer over toegankelijkheid transparant en positief met bezoekers. Aanpak: (1) bij uitnodiging: 'Dit evenement is toegankelijk. Wat hebben jullie nodig?' met duidelijk contactpunt. (2) Op programmaboek/website: gedetailleerde info (parkeren, toiletten, ondertiteling, tolking, catering-opties)."
 section: "FAQ"
-last_updated: "2026-05-08T16:56:54+00:00"
+last_updated: "2026-05-08T21:22:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
