@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/feest-op-kantoor-bijzonder-maken"
 title: "Hoe maak je een feest op kantoor echt bijzonder?"
 description: "Een feest op kantoor wordt bijzonder door drie dingen: verander de ruimte vóór aankomst (sfeerverlichting, bureaus weg, decoratie), geef medewerkers bij binnenkomst iets dat zegt 'vanavond is anders' (welkomstcocktail, een actieve opdracht of een klein cadeau), en zorg voor een logische flow van ont"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:33+00:00"
+last_updated: "2026-05-08T21:23:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
