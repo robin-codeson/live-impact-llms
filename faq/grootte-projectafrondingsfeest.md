@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/grootte-projectafrondingsfeest"
 title: "Hoe groot moet een projectafrondingsfeest zijn?"
 description: "Pas de schaal aan op de intensiteit van het project. Een drieweekse sprint vraagt om een andere afsluiting dan een meerjarig implementatietraject. Klein mag, groot mag. Passend is verplicht."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:28+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
