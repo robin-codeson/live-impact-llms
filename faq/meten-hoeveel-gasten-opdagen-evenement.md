@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/meten-hoeveel-gasten-opdagen-evenemen
 title: "Hoe meet ik hoeveel gasten daadwerkelijk zijn komen opdagen?"
 description: "Je check-in systeem is je beste meetinstrument. Vergelijk het aantal gescande tickets met het totaal aantal registraties. Dat geeft je direct je opkomstpercentage. Gebruik RFID-badges of een scan-app om ook sessiebezoek bij te houden. Zo zie je wie er was en welke onderdelen populair waren. Combinee"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:29+00:00"
+last_updated: "2026-05-08T21:24:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
