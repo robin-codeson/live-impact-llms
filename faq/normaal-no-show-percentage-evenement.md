@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/normaal-no-show-percentage-evenement"
 title: "Wat is een normale no-show bij zakelijke evenementen?"
 description: "Bij gratis zakelijke evenementen ligt de gemiddelde no-show tussen de 20 en 40%. Bij betaalde evenementen is de no-show veel lager: 5 tot 15%. Het verschil verklaar je door de financiële drempel: wie heeft betaald, komt ook. Binnen de gratis categorie varieert de no-show sterk. Een interne teamdag h"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:45+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
