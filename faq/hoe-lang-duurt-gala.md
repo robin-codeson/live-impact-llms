@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-gala"
 title: "Hoe lang duurt een gala?"
 description: "Een volledig gala duurt gemiddeld vijf tot zeven uur. Reken op een uur voor de ontvangst met welkomstdrankje en side-acts. Twee tot drie uur voor het diner inclusief speeches, presentaties of awards. En twee tot drie uur afterparty met DJ en dans. Die opbouw, van stijlvol naar feestelijk, geeft de a"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:47+00:00"
+last_updated: "2026-05-08T21:23:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
