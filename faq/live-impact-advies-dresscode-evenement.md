@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-advies-dresscode-evenemen
 title: "Kan Live Impact advies geven over de dresscode voor ons evenement?"
 description: "Ja. De dresscode is onderdeel van het totaalconcept dat wij samen met je ontwikkelen. Wij kijken naar het type evenement, de doelgroep en de identiteit van je organisatie. Op basis daarvan adviseren wij een dresscode die klopt. Die communiceer je vervolgens helder naar je gasten. Wil je sparren over"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:11+00:00"
+last_updated: "2026-05-08T21:23:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
