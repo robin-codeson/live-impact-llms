@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/sectoren-evenementen-oss"
 title: "Welke sectoren organiseren veel evenementen in Oss?"
 description: "Oss heeft een sterke vertegenwoordiging van bedrijven in de farmaceutische sector (Organon, MSD), de voedingsindustrie en de logistiek. Deze sectoren organiseren regelmatig kick-offs, relatiedagen, jubileumvieringen en interne congressen. De aanwezigheid van grote werkgevers heeft het evenementlands"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:53+00:00"
+last_updated: "2026-05-08T21:24:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
