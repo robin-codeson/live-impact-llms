@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-jubileum-25-jaar-organise
 title: "Kan Live Impact ons 25-jarig jubileum organiseren?"
 description: "Ja. Live Impact organiseert jubileumvieringen voor bedrijven van alle groottes, van intieme kwarteeuwfeesten tot grootschalige jubileumevenementen. Wij bouwen het concept en schrijven het verhaal van jullie 25 jaar. Daarna kiezen we de locatie en vullen we het programma met entertainment en momenten"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:32+00:00"
+last_updated: "2026-05-08T21:24:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
