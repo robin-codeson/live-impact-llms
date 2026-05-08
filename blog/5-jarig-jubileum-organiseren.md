@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/5-jarig-jubileum-organiseren"
 title: "Vijf jaar: groter dan nul, kleiner dan tien, maar niet minder waard"
 description: "5-jarig jubileum organiseren voor je bedrijf? Vijf jaar is een mijlpaal met eigen karakter. Hoe je het viert met impact, ook bij klein budget."
 section: "Blog"
-last_updated: "2026-05-08T16:49:15+00:00"
+last_updated: "2026-05-08T21:22:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
