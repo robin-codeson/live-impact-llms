@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/coordinatie-leveranciers-eventdag"
 title: "Hoe coördineer je leveranciers op de dag van het evenement?"
 description: "Leveranciers coördineren op de evenementdag vereist strakke afstemming. Stap 1: bel alle leveranciers 48 uur vóór het evenement. Bevestig aankomsttijd, contactpersoon, waar zij moeten parkeren, en wie hun begeleider is. Stap 2: maak een ontvangstchecklist. De eerste persoon op locatie krijgt een dui"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:02+00:00"
+last_updated: "2026-05-08T21:22:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
