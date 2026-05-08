@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-verhoog-je-klantretentie-met-even
 title: "Hoe verhoog je klantretentie met evenementen?"
 description: "Je verhoogt klantretentie door evenementen te organiseren die specifiek gericht zijn op bestaande klanten. Werkvormen die werken: klantendagen met inhoud en inspiratie, diners voor je belangrijkste accounts en kennissessies over uitdagingen in hun branche. Ook besloten kijkjes achter de schermen wer"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:05+00:00"
+last_updated: "2026-05-08T21:23:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
