@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-50-jarig-jubileum-organis
 title: "Kan Live Impact ons 50-jarig jubileum organiseren?"
 description: "Ja. Live Impact heeft tientallen gouden jubilea georganiseerd voor bedrijven van 50 tot 1.400 gasten, verspreid over heel Nederland. Van familiebedrijven met drie generaties personeel tot internationale bedrijven met relaties uit heel Europa. Wij regelen concept, locatie, entertainment, catering, ju"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:10+00:00"
+last_updated: "2026-05-08T21:23:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
