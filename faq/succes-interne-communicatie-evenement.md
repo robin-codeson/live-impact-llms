@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succes-interne-communicatie-evenement
 title: "Hoe meet je het succes van interne communicatie op evenementen?"
 description: "Succes van interne communicatie meet je op drie niveaus. Eerst bereik: hoeveel medewerkers hebben de boodschap live meegemaakt of achteraf teruggekeken. Tweede niveau is begrip: stel drie korte vragen in een enquête binnen 48 uur, bijvoorbeeld of de strategie duidelijk is. Derde niveau is gedrag. Me"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:20+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
