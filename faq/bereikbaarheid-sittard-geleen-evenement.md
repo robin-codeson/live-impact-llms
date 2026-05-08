@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-sittard-geleen-eveneme
 title: "Hoe bereikbaar is Sittard-Geleen voor zakelijke gasten?"
 description: "Sittard-Geleen is goed bereikbaar per auto en openbaar vervoer. Bij locatieselectie houden wij rekening met parkeergelegenheid en treinverbindingen. Voor gasten van buiten de regio is een locatie dicht bij het station of met eigen parkeerterrein ideaal. Live Impact adviseert proactief over bereikbaa"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:55+00:00"
+last_updated: "2026-05-08T21:22:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
