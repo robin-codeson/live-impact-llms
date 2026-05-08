@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/kick-off-programma"
 title: "Waarom programmaopbouw het succes van je kick-off bepaalt"
 description: "Sterk kick-off programma? Van opening tot afsluiting: zo laat je boodschap landen én bijblijven."
 section: "Blog"
-last_updated: "2026-05-08T16:51:39+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
