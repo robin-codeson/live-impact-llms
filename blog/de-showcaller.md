@@ -1,80 +1,73 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/de-showcaller"
+title: "De onzichtbare kracht achter een strakke show"
+description: "Showcaller inhuren voor je evenement? De dirigent die live cue-to-cue regisseert. Wat hij doet, wanneer nodig, wat het kost. Serieus Leuk."
+section: "Blog"
+last_updated: "2026-05-08T16:49:55+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Presentator op podium bij een groot zakelijk evenement](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f6ca83aba737800ce89d_69c06766b96d18ca105197e7_Jubileumfeest%2520MUMC%252B%2520Presentator%2520Rens%2520Merkelbach.webp)
 
-# Wat een showcaller precies doet
+# De onzichtbare kracht achter een strakke show
 
-Een showcaller is de dirigent van je evenement. Hij zit op de dag zelf achter de regietafel, met een headset op, een runlijst voor zich, en roept live "standby" en "ga" naar licht, geluid, video, presentator en artiesten. Alles wat er op of rond het podium gebeurt, gebeurt omdat hij het op dat moment afroept.
+Op een groot evenement denk je waarschijnlijk niet aan de persoon die de show soepel laat verlopen. Terwijl die persoon (de showcaller) elke seconde van de avond aan het stuur zit.
 
-Als je wel eens achter de schermen bent geweest bij een televisieshow, herken je het werk. Een showcaller werkt cue-voor-cue: "Licht 12 standby... geluid 7 standby... licht 12 ga... spreker één, jouw beurt over tien seconden... ga." Die ritmiek, die strakke timing — dat is wat je programma professioneel laat voelen. Het is nauwelijks zichtbaar voor het publiek, maar ze voelen het verschil tussen scherp en slordig.
+Bij Live Impact krijgen we vaak de vraag: wat doet die showcaller nu precies? Het antwoord: de showcaller is de dirigent van je evenement. Hij of zij roept live, cue voor cue, alle elementen van de show aan. Licht, geluid, beeld, artiesten, presentatoren: alles komt op het juiste moment in beweging via één headset en één runlijst.
 
-Zonder showcaller draaien techniek en presentatoren op gevoel. Dat werkt bij simpele programma's. Maar zodra je meerdere elementen tegelijk hebt — lichtwissels, video-intro's, sprekers die op cue opkomen, bands die moeten spelen op het moment van een schermwisseling — is een showcaller het verschil tussen een strak programma en een rommelige avond waar alles net een halve seconde te laat komt.
+## Waarom een showcaller inzetten voor je evenement?
 
-De rol is ouder dan de meeste mensen denken. Live-televisie draaide al in de jaren vijftig op dit model: één persoon met een script en een headset die alles op tempo houdt. Het zakelijke evenementenvak heeft dat model overgenomen, en terecht.
+Een evenement heeft tientallen, soms honderden technische cues. Een spotlicht dat opgaat, een videoclip die start, een artiest die het podium op loopt. Of een presentator die door mag. Al die momenten moeten exact op tijd plaatsvinden.
 
-## Waarom je een showcaller nodig hebt (en wanneer niet)
+De showcaller kent het draaiboek op zijn duimpje en vertaalt dat live naar het hele technische team. Hij anticipeert op wat er kan misgaan en lost het op voordat het publiek het merkt. Komt een artiest te laat? De showcaller vult de tijd op, geeft de lichtoperator een nieuwe instructie en brengt het programma terug op schema.
 
-Een showcaller is niet voor elk evenement de juiste investering. De praktische vuistregel: als je programma meer dan drie gelijktijdig lopende elementen heeft die moeten synchroniseren, loont een showcaller zich. Dat geldt voor awardsshows met lichtwissels per winnaar, productlanceringen met video-intro's en sprekers die op cue opkomen, grote jubileumshows met band, dans en speech in één programma, en conferenties met LED-walls die synchroon moeten lopen met keynotes. Kortom: alles waar timing een inhoudelijke lading heeft en waar een halve seconde vertraging voelbaar is voor het publiek.
+Zonder showcaller verloopt een complexe show als een orkest zonder dirigent: iedereen speelt, maar niet tegelijk.
 
-Niet elk evenement vraagt om een showcaller. Een borrel met achtergrondmuziek, een spreker die alleen zijn microfoon nodig heeft, of een kick-off met een eenvoudig lichtprogramma — bij dat soort evenementen doet de eventmanager of stagemanager de cues er gewoon bij, zonder dat de kwaliteit eronder lijdt. Onnodige complexiteit toevoegen aan een eenvoudig evenement is geen teken van professionaliteit.
+## Wat doet een showcaller precies?
 
-Wat een goede showcaller onderscheidt is zijn reactievermogen. Hij anticipeert op problemen en heeft altijd een snelle oplossing achter de hand. Als een artiest niet op tijd verschijnt, schuift hij direct iets anders naar voren — in seconden, zonder dat de zaal het merkt. Als een technisch element uitvalt, gaat hij naadloos over naar het alternatief. Dat soort rustige probleemoplossing onder druk is een vaardigheid die niet in een cursusweekend wordt aangeleerd.
+De showcaller werkt vanuit een technische regieplek, meestal met zichtlijn naar het podium. Via een headset staat hij in verbinding met alle operators. Hij of zij roept alle cues aan: *standby licht cue 12, go*, en de lichtoperator handelt. *Standby video, go*, en de videotechnicus start de clip.
 
-De lijn is helder: hoe strakker je show moet lopen, hoe sneller je een showcaller terugverdient in professionaliteit en rust.
+Voor de show begint, loopt de showcaller het hele programma door met het technische team. We nemen elke cue door, leggen timingen vast en bespreken noodscenario's. Tijdens de show is de showcaller continu in contact met stagemanager, techniek en productie.
 
-## Het verschil tussen showcaller en stagemanager
+De showcaller bewaakt ook de veiligheid. Bij een noodsituatie stopt hij de show op de juiste manier: geordend en zonder paniek bij het publiek.
 
-Stagemanager en showcaller zijn twee rollen die regelmatig door elkaar worden gebruikt, maar ze doen fundamenteel ander werk. De verwarring is begrijpelijk: beide zijn onzichtbaar voor het publiek, beiden dragen een headset, en beiden zijn onmisbaar voor een strak evenement. Toch zijn het twee heel verschillende functies.
+## Showcaller vs. stagemanager: wat is het verschil?
 
-De stagemanager werkt backstage. Hij regelt dat de juiste artiest op het juiste moment klaarstaat, dat de kleedkamers kloppen, dat de technische riders zijn afgehandeld en dat iedereen achter het gordijn weet wat er van hen wordt verwacht. Zijn werkterrein is alles achter de schermen — de wereld die het publiek nooit ziet, maar die de show draaglijk maakt.
+Een veelgestelde vraag. Beide rollen zijn onmisbaar bij grote producties, maar ze kijken in een andere richting.
 
-De showcaller werkt aan de regie-kant. Hij zit met de runlijst en roept live de cues af voor licht, geluid, video en presentatoren. Zijn werkterrein is alles op het podium en de techniek eromheen — de wereld die het publiek wél ziet, maar waarvan ze niet weten hoe nauwkeurig die wordt aangestuurd.
+De **showcaller** regisseert het totaal. Hij zit aan het technische stuur en roept alle cues live aan: licht, geluid, beeld, beweging. Zijn perspectief is: het hele evenement als één samenhangend geheel.
 
-Bij kleinere producties combineert één persoon beide rollen, en dat werkt prima zolang het programma niet te complex is. Bij grote shows zijn het twee aparte personen die nauw samenwerken. De samenwerking is bijna letterlijk fysiek: de stagemanager brengt de artiest naar de rand van het podium, de showcaller roept "ga" en de artiest stapt naar voren. Die afstemming, in luttele seconden, is wat grote shows strak laat lopen.
+De **stagemanager** beheerst de backstage en het podium. Zijn wereld is fysiek: artiesten op de juiste plek, techniek veilig opgesteld, personeel geïnstrueerd. Hij is de rechterhand van de showcaller op de vloer.
 
-## Wat een showcaller nodig heeft om goed te werken
+Bij kleinere evenementen combineert één persoon soms beide rollen. Bij grotere producties zijn het altijd twee aparte mensen. Live Impact bepaalt altijd vooraf welke bezetting past bij de complexiteit van je evenement.
 
-Een showcaller is zo goed als zijn voorbereiding. De eerste vereiste is een goede runlijst: een minuut-precieze planning van het hele programma, met wat er wanneer gebeurt, welke techniek, welke artiest, welk licht en welk geluid. Die runlijst wordt door de eventmanager of stagemanager gebouwd, maar de showcaller moet hem kennen als zijn broekzak. Hij leest hem niet op de dag zelf — hij heeft hem al lang daarvoor in zijn hoofd.
+## Wanneer heb je een showcaller nodig?
 
-Vervolgens is er de technische briefing. Alle techniek — licht, geluid, video, IT — moet weten welke cues ze wanneer krijgen en wat ze daarmee moeten doen. In de praktijk betekent dat een doorloop op locatie, een dag voor het evenement, waarbij de volledige show cue-voor-cue wordt gelopen met iedereen aanwezig. Dat is geen overbodige luxe: het is de enige manier om er zeker van te zijn dat iedereen hetzelfde verstaat onder "licht 12 ga".
+Heeft je evenement meerdere technische disciplines die gelijktijdig samenwerken? Dan heb je een showcaller nodig. Dit geldt bij live optredens met video en licht, bij plenaire programma's met strakke timing en bij award shows of gala's. Ook hybride evenementen waarbij online en offline tegelijk lopen, vragen om een showcaller.
 
-Een werkende communicatielijn is de levensader van de showcaller. Hij communiceert via headset met alle techniekposten, backstage en vaak ook de presentator. Een haperende verbinding op een kritiek moment is zijn grootste risico. Goede showcallers testen de verbinding altijd als eerste bij aankomst op locatie, ruim voor de eerste gasten binnenkomen.
+Bij een eenvoudige presentatie met één spreker en beamer is een showcaller niet nodig. Zodra het programma meerdere acts, technische cues en operators omvat, is het een risico om dit zonder showcaller te doen.
 
-Tot slot het afwijkingsscenario. Wat als een video niet start? Wat als een spreker tien minuten over zijn tijd gaat? Een goede showcaller heeft voor elk kritiek programmamoment een plan B voorbereid, en roept dat rustig af als het nodig is — zonder dat de zaal het merkt. Die voorbereiding is de reden waarom professionele shows er van buitenaf moeiteloos uitzien.
+## Wat kost een showcaller?
 
-## Wat kost een showcaller inhuren?
+Een ervaren showcaller kost voor een dagproductie €500 tot €950, inclusief voorbereiding, repetitie en nabespreking. Bij meerdaagse of zeer complexe evenementen liggen de tarieven hoger. De investering verdient zichzelf terug. Eén gemiste cue of een technische fout die niemand snel oplost, kost meer dan de showcaller in kwestie.
 
-Showcallen is specialistisch vakmanschap en dat zie je terug in de tarieven. Op de Nederlandse markt rekent een eventproducer met showcall-ervaring tussen €700 en €1.000 per dag. Dat profiel is geschikt voor middelgrote shows met tien tot twintig programmaonderdelen en een publiek tot circa vierhonderd gasten. Een ervaren showcaller met meer dan tien jaar in het vak vraagt €1.000 tot €1.500 per dag; dit is de meest gekozen categorie voor zakelijke awardsshows, grote jubileumfeesten en productlanceringen.
+Bij Live Impact is de showcaller een vaste schakel in onze productieopzet bij evenementen boven een bepaalde complexiteit. We bepalen dat per project, op basis van het programma en het aantal technische disciplines.
 
-Voor evenementen die televisiekwaliteit moeten uitstralen — denk aan meercamera-opstellingen, livestreams of een nationale uitstraling — zit je met een senior showcaller of regisseur op €1.500 tot €2.500 per dag. Dit profiel kent het vak van binnenuit, heeft de koelbloedigheid die complexe producties vragen en weet hoe hij in een noodsituatie beslissingen neemt die seconden later al worden uitgevoerd.
+## De dirigent die je nooit ziet, maar altijd voelt
 
-Reken standaard op één voorbereidingsdag plus de dag zelf. Voor een gemiddeld zakelijk evenement kom je daarmee op een totale investering van €2.000 tot €4.500. Dat lijkt veel voor één persoon, maar bedenk wat er misgaat als het niet strak loopt: een awardsshow met twintig seconden stilte tussen elke winnaar voelt amateuristisch, ook als al het andere top was. Een goede showcaller is een verzekering — tegen stiltes, ongemakkelijke overgangen en het gevoel dat niemand de touwtjes in handen heeft.
+Een goede showcaller is onzichtbaar voor het publiek. Wat het publiek voelt, is een show die perfect op tempo ligt. Geen wachttijden, geen blunders, geen verwarring. Alleen de beleving die je bedacht had.
 
-## Waarom Live Impact showcallers inzet die we kennen
-
-We werken met een vaste groep showcallers die we onze eigen regisseurs noemen. Niet omdat ze in loondienst zijn, maar omdat we ze al jaren kennen, hun stijl begrijpen en weten op welk type evenement ze het beste tot hun recht komen.
-
-Een showcaller is namelijk niet alleen een technische rol — het is ook een temperament. De ene houdt rust in chaos, de andere stuurt juist met scherpte aan. De ene past bij een intieme jubileumshow met veel emotie, de andere bij een snelle awardsnacht met dertig categorieën. Wij matchen op basis van het programma.
-
-Ook belangrijk: onze showcallers werken al jaren samen met onze stagemanagers. Ze spreken elkaars taal op de headset. Dat scheelt kostbare seconden in een moment waarop er iets dreigt mis te gaan.
-
-## Werk met een showcaller die je show op scherp zet
-
-Een strak geregisseerd programma is het verschil tussen een evenement waar gasten over napraten en een evenement dat ze snel vergeten. Een goede showcaller is daar een belangrijke bouwsteen in — maar hij werkt pas goed als hij in het juiste team zit, met een stagemanager en eventmanager die dezelfde taal spreken.
-
-Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl). We bespreken je programma, bepalen welk type showcaller het beste past en bouwen het team eromheen. Geen verkooppraatje, wel een eerlijke verkenning van wat je nodig hebt.
+Bij Live Impact werken we met vaste showcallers die onze werkwijze kennen en onze producties begrijpen. Wil je weten hoe wij een evenement produceren? Bel ons op [085 401 40 14](tel:+31854014014) of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl).
 
 *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
@@ -82,7 +75,7 @@ Kan Live Impact helpen bij het organiseren van een bedrijfsevenement?
 
 Ja. Live Impact is een conceptbureau voor zakelijke evenementen. Wij helpen bij het complete traject: van eerste brainstorm en conceptontwikkeling tot locatiekeuze, programmering en productie.
 
-Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant — wij denken mee, stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
+Of je een personeelsfeest, congres, kick-off, jubileum of relatie-evenement plant: wij denken mee. We stellen scherpe vragen en zorgen dat het resultaat blijft hangen.
 
 Neem contact op via [hello@live-impact.nl](mailto:hello@live-impact.nl) of bel +31 85 401 40 14.
 
@@ -92,15 +85,15 @@ Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
 
 Begin minimaal **drie maanden** van tevoren. Voor grote evenementen (300+ gasten, complexe productie) is **zes maanden** realistischer.
 
-De organisatie verloopt in vier fases: fundament leggen (12–10 weken), concept en partners (10–6 weken), uitwerking (6–3 weken) en uitvoering plus nazorg. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
+De organisatie verloopt in vier fases. Eerst het fundament leggen (12 tot 10 weken voor de datum), dan concept en partners (10 tot 6 weken). Vervolgens de uitwerking (6 tot 3 weken) en tot slot uitvoering plus nazorg in de laatste 3 weken. Populaire locaties en artiesten zijn in het najaar snel volgeboekt.
 
 **[Bekijk de volledige fasering in ons artikel →](/blog/bedrijfsevenement-organiseren)**
 
 Hoe schrijf je een goede briefing voor een bedrijfsevenement?
 
-Een goede briefing bevat minimaal zes elementen: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
+Een goede briefing bevat minimaal zes elementen. Dat zijn: het **doel**, de **doelgroep**, het **aantal gasten**, de gewenste **datum**, het **budget** en **randvoorwaarden** (locatie, dieetwensen, reistijd).
 
-Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames — en dat levert een rommelig resultaat.
+Schrijf het op één A4. Deel het met je projectteam en je bureau. Zonder briefing werkt iedereen vanuit aannames. Dat levert een rommelig resultaat.
 
 **[Lees het complete artikel met alle briefing-elementen →](/blog/bedrijfsevenement-organiseren)**
 
@@ -114,17 +107,11 @@ Het verschil zit in de aanpak: een personeelsfeest draait om vieren en verbinden
 
 Wat kost het om een bedrijfsevenement te organiseren?
 
-De kosten variëren sterk. Reken op **€75 tot €200 per persoon** voor een compleet evenement met locatie, catering, entertainment en techniek.
+Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100 tot €300+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Een bedrijfsevenement voor 150 gasten komt uit op €12.000 tot €30.000 all-in. Voor grotere evenementen (300+ gasten) lopen de kosten op tot €50.000 tot €100.000+.
-
-De grootste kostenposten: locatie, catering en entertainment. Schakel je een bureau in? Reken op 15% tot 25% bureaukosten bovenop het productiebudget.
+Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaande brackets geven de breedte aan voor een gemiddeld zakelijk evenement.
 
 **[Lees ons complete artikel over bedrijfsevenement organiseren →](/blog/bedrijfsevenement-organiseren)**
-
-Staat je vraag er niet bij?
-
-[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
