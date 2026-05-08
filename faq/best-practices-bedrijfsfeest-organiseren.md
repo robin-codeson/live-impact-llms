@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-bedrijfsfeest-organise
 title: "Wat zijn best practices voor Bedrijfsfeest Organiseren?"
 description: "Een succesvol bedrijfsfeest vraagt om voorbereiding, een sterk concept en goede uitvoering. Start minimaal acht weken van tevoren met de planning. Kies een thema dat past bij de bedrijfscultuur. Zorg voor variatie in het programma en houd rekening met de diversiteit van je publiek. Communiceer tijdi"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:02+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
