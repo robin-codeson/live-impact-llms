@@ -1,0 +1,12 @@
+---
+canonical_url: "https://live-impact.nl/faq/live-impact-conferentie-organiseren"
+title: "Kan Live Impact Conferentie Organiseren verzorgen?"
+description: "Ja. Live Impact organiseert Conferentie Organiseren die impact hebben. Van strategie tot uitvoering: wij hebben de expertise."
+section: "FAQ"
+last_updated: "2026-05-08T17:07:39+00:00"
+source: "live-impact.nl HTML mirror"
+---
+
+# Kan Live Impact Conferentie Organiseren verzorgen?
+
+[Meer over zakelijke evenementen](/blog/zakelijk-evenement-organiseren)
