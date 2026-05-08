@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/incentive-reis-organiseren"
 title: "Waarom een incentivereis meer doet dan een bonus"
 description: "Incentivereis organiseren? Ontdek hoe je een beloningsreis opzet die motiveert. Tips over bestemming, programma en budget van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:51:23+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
