@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/organisatie-celebratie-mijlpaal"
 title: "Hoe organiseer je een celebratie voor een bedrijfsmijlpaal?"
 description: "Gasten uitnodigen voor bouwmijlpaalviering: kerngroep (25-30 personen) is meestal ideaal voor intiem maar met breed bereik. Kerngroep: 1) Projectleider + bouwteam (5-8). 2) Opdrachtgever/eigenaar + directie (3-5). 3) Architect/ontwerper (1-3). 4) Aannemer-directie (2-3). 5) Familie van de eigenaar ("
 section: "FAQ"
-last_updated: "2026-05-08T17:12:27+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
