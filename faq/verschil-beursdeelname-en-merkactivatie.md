@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-beursdeelname-en-merkactivat
 title: "Wat is het verschil tussen een beursdeelname en een merkactivatie?"
 description: "Een beursdeelname vindt plaats op een georganiseerde vakbeurs waar je als exposant een stand huurt. Je deelt de ruimte met andere exposanten en bezoekers komen gericht op de beurs af. Een merkactivatie is een op zichzelf staand evenement dat je volledig zelf vormgeeft, op een locatie en moment naar "
 section: "FAQ"
-last_updated: "2026-05-08T17:15:42+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
