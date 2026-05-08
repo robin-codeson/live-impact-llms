@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/employer-branding-evenement"
 title: "Employer branding is meer dan een mooi filmpje op LinkedIn"
 description: "Employer branding evenement organiseren? Zo zet je evenementen strategisch in door de hele employee journey: van werving tot alumni. Live Impact helpt."
 section: "Blog"
-last_updated: "2026-05-08T16:50:03+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
