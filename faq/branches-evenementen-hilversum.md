@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/branches-evenementen-hilversum"
 title: "Welke branches organiseren veel evenementen in Hilversum?"
 description: "Hilversum trekt met name bedrijven uit media, entertainment, communicatie, marketing en creatieve dienstverlening. De aanwezigheid van NPO, RTL, Talpa, Endemol en tientallen productiehuizen maakt Hilversum het epicentrum van de Nederlandse mediascene. Evenementen hier hebben vanzelf een creatieve ui"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:22+00:00"
+last_updated: "2026-05-08T21:22:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
