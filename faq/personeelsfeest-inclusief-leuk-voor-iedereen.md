@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/personeelsfeest-inclusief-leuk-voor-i
 title: "Hoe maak je een personeelsfeest inclusief en leuk voor iedereen?"
 description: "Een inclusief personeelsfeest begint bij het ontwerp: kies een concept dat aansluit bij de breedte van je team. Zorg voor dieetvariatie in de catering: vegetarisch, vegan, allergenen en religieuze wensen. Maak fysieke toegankelijkheid een basiseis voor je locatiekeuze. Zorg voor een programma met ve"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:43+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
