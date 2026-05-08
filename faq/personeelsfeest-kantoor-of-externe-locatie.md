@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/personeelsfeest-kantoor-of-externe-lo
 title: "Personeelsfeest op kantoor of op een externe locatie?"
 description: "Beide opties hebben hun charme. Op kantoor organiseren is fiscaal voordelig via de WKR. Kosten op de werkplek vallen onder de gerichte vrijstelling en zijn volledig onbelast. Het is vertrouwd en bespaart locatiehuur. Een externe locatie biedt meer wow-effect en een complete break met de dagelijkse w"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:43+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
