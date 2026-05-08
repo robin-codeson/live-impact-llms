@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-utrecht-populair-eventlocatie"
 title: "Waarom is Utrecht zo populair als eventlocatie?"
 description: "Utrecht is het geografische hart van Nederland en het drukste treinstation van het land. Vanuit Amsterdam, Rotterdam, Den Haag, Eindhoven en Arnhem reis je er binnen een uur naartoe. Die centrale ligging maakt Utrecht de logische keuze voor nationale evenementen waarbij deelnemers vanuit heel het la"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:42+00:00"
+last_updated: "2026-05-08T21:24:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
