@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-merkactivatie-verzorg
 title: "Kan Live Impact onze merkactivatie verzorgen?"
 description: "Ja, als je vraagstuk past bij hoe wij werken. Wij bedenken concept-gedreven activaties die beginnen bij het verhaal van je merk, niet bij een standaard format. Denk aan projecten zoals het Gala van de Vrouwenkwaaltjes (zorg), Villa Vitalis (maatschappelijk) of de Mega Brugprojectie (merkpromotie). Z"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:13+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
