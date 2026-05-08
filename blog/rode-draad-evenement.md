@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/rode-draad-evenement"
 title: "Wat is een rode draad in een evenement?"
 description: "Een rode draad in je evenement is de verbindende vorm die uitnodiging, opening, programma en afscheid aan elkaar knoopt. Zo maak je er een die werkt."
 section: "Blog"
-last_updated: "2026-05-08T16:52:31+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
