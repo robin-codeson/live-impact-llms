@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenement-werkplek-vrijgesteld-wkr"
 title: "Is een evenement op de werkplek vrijgesteld van de WKR?"
 description: "Ja. Personeelsevenementen op de eigen werkplek vallen onder de gerichte vrijstelling. De kosten voor catering, entertainment en decoratie tellen niet mee in de vrije ruimte."
 section: "FAQ"
-last_updated: "2026-05-08T16:58:23+00:00"
+last_updated: "2026-05-08T21:23:01+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
