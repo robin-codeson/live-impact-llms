@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-developer-day-tech-summit"
 title: "Wat is het verschil tussen een developer day en een tech summit?"
 description: "Een developer day is intern of semi-intern, gericht op kennisdeling en skill-building binnen een organisatie of community. Typisch 20-200 deelnemers, een volledige dag, met talks van eigen engineers en hands-on workshops. Een tech summit is groter en extern: meerdere tracks, sprekers van naam, commu"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:52+00:00"
+last_updated: "2026-05-08T21:24:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
