@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/ticketing-inschrijving"
 title: ""
 description: "Ticketing en inschrijving voor je evenement? Platforms, betaalflow en het gedoe dat je wilt voorkomen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:52+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
