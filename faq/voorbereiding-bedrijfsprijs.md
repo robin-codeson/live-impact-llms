@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voorbereiding-bedrijfsprijs"
 title: "Hoe bereid je je voor op het winnen van een bedrijfsprijs?"
 description: "Voorbereiding op het winnen van een bedrijfsprijs voorkomt onhandige momenten op de avond. Begin met de speech: 90 seconden, dankwoord aan jury, opdrachtgever, team en familie, in die volgorde. Schrijf een korte (3 zinnen) en lange (90 sec) versie. Geef de spreker mediatraining: kernboodschap in 30 "
 section: "FAQ"
-last_updated: "2026-05-08T17:18:02+00:00"
+last_updated: "2026-05-08T21:24:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
