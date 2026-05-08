@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-slogan-evenement"
 title: "Kan Live Impact een slogan voor ons evenement schrijven?"
 description: "Ja, Live Impact helpt jullie een slogan bedenken die blijft hangen. Onze aanpak: we doen een diepte-interview over ambities, doelgroep en positionering. Daarna schrijven we ruim veertig kandidaten. We prioriteren intern en testen de beste drie tot vijf bij een steekproef uit jullie doelgroep. Vervol"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:17+00:00"
+last_updated: "2026-05-08T21:24:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
