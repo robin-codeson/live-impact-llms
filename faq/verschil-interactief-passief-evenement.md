@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-interactief-passief-evenemen
 title: "Wat is het verschil tussen een interactief en een passief evenement?"
 description: "Een passief evenement is een evenement waarbij het publiek luistert, kijkt en ontvangt. De informatiestroom loopt van podium naar zaal. Een interactief evenement draait de richting om: deelnemers reageren, kiezen, discussiëren en dragen bij. Dat kan via live polling, groepsopdrachten, Q&A-sessies, f"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:45+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
