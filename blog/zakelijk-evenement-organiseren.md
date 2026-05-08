@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/zakelijk-evenement-organiseren"
 title: "Waarom organiseer je dit zakelijk evenement?"
 description: "Zakelijk evenement organiseren dat mensen nog maanden later noemen? Dit is hoe je dat aanpakt."
 section: "Blog"
-last_updated: "2026-05-08T16:53:12+00:00"
+last_updated: "2026-05-08T21:22:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
