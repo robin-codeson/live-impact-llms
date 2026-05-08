@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/leads-capturing"
 title: "Welke leads capturing systemen werken het best?"
 description: "Leads genereren op een beurs vereist systeem, niet toeval. Een goede strategie heeft zes onderdelen. 1) Lead-capturetool: zet een tablet of QR-code-scan op je stand zodat elke belangstelling direct wordt vastgelegd. 2) Kwalificeren: niet elke bezoeker is een relevante lead. Filter op bedrijfsgrootte"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:57+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
