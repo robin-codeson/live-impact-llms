@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kostenmodellen-evenementenbureaus"
 title: "Welke kostenmodellen hanteren evenementenbureaus?"
 description: "Evenementenbureaus werken doorgaans met drie modellen. Het percentage-model rekent 15 tot 25 procent van het totale budget als honorarium. Dit is transparant en schaalbaar. De vaste projectfee is een afgesproken bedrag ongeacht het uiteindelijke budget. Dat geeft zekerheid vooraf. Het uurtarief is g"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:51+00:00"
+last_updated: "2026-05-08T21:23:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
