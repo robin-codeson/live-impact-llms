@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-je-een-officiele-openi
 title: "Hoe organiseer je een officiële opening van een gebouw?"
 description: "Een officiële gebouwopening verdient een doordacht concept dat past bij het gebouw en zijn functie. Vermijd een standaard lintdoorknippen. Laat het programma het verhaal van het gebouw vertellen. Hoe is het begonnen, welke obstakels zijn overwonnen, wat maakt het bijzonder? Bij een kantoorpand kun j"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:34+00:00"
+last_updated: "2026-05-08T21:23:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
