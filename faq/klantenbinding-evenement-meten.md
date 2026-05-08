@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/klantenbinding-evenement-meten"
 title: "Hoe meet je of een klantenbindingevenement succesvol is?"
 description: "Meet de Net Promoter Score (NPS) voor én na het evenement. Een stijging van 10+ punten is gebruikelijk bij goed uitgevoerde klantevenementen. Vergelijk daarnaast het retentiepercentage van aanwezige versus niet-aanwezige klanten over 6-12 maanden. Tel concrete vervolgafspraken en offerteaanvragen di"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:30+00:00"
+last_updated: "2026-05-08T21:23:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
