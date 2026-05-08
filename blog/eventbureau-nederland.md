@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/eventbureau-nederland"
 title: "Eventbureau Nederland: wat een landelijk bureau anders doet"
 description: "Eventbureaus in Nederland? Live Impact werkt al 28 jaar door heel het land. 40 zakelijke evenementen per jaar, van concept tot uitvoering. Eén aanspreekpunt."
 section: "Blog"
-last_updated: "2026-05-08T16:51:06+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
