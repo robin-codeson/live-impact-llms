@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-meet-je-roi-b2b-evenement"
 title: "Hoe meet je de ROI van een B2B-evenement?"
 description: "Meet de ROI door registraties, aanwezigheid en opvolging te koppelen aan je CRM. Evalueer na 3, 6 en 12 maanden."
 section: "FAQ"
-last_updated: "2026-05-08T17:01:15+00:00"
+last_updated: "2026-05-08T21:23:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
