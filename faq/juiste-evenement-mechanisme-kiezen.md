@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-evenement-mechanisme-kiezen"
 title: "Hoe kies je het juiste mechanisme voor jouw evenement?"
 description: "Start met je einddoel: willen deelnemers meer weten, elkaar ontmoeten, of keuzes maken? Pas je mechanisme daarop aan. Voor netwerken: een rotatiestructuur of uitdagingspartners. Voor merkbekendheid: interactieve installaties. Voor leadwerving: registratiepoorten in activiteiten. Test jezelf: is het "
 section: "FAQ"
-last_updated: "2026-05-08T17:03:42+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
