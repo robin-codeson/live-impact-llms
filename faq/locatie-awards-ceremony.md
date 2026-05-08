@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locatie-awards-ceremony"
 title: "Welke locatie past bij een awards ceremony?"
 description: "De locatie voor een awards ceremony moet show-geschikt zijn. Dat vraagt om een podium, goede theaterakoestiek, professionele belichting en een zaal die de sfeer van een echte show uitstraalt. Theaters, congrescentra met auditoria en stijlvolle evenementenhallen zijn de meest gebruikte opties. Vermij"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:54+00:00"
+last_updated: "2026-05-08T21:24:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
