@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/prijzen-gamification-bedrijfsevenemen
 title: "Wat zijn goede prijzen voor gamification op een bedrijfsevenement?"
 description: "De beste prijzen sluiten aan bij je doelgroep. Denk aan een fles goede wijn, een boek van de keynotespreker, een cadeaubon of toegang tot een exclusief diner. Erkenning werkt vaak nog beter dan materiële prijzen: een podiummoment, vermelding op social media of een gepersonaliseerd certificaat. Verge"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:09+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
