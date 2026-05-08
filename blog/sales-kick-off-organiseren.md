@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/sales-kick-off-organiseren"
 title: "Waarom de meeste sales kick-offs niet werken"
 description: "Een sales kick-off organiseren die je team echt klaarstoomt voor het jaar. Zo bouw je een programma met richting, energie en een plan dat blijft hangen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:33+00:00"
+last_updated: "2026-05-08T21:22:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
