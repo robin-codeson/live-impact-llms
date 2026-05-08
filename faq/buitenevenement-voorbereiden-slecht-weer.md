@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/buitenevenement-voorbereiden-slecht-w
 title: "Hoe bereid ik mijn buitenevenement voor op slecht weer?"
 description: "Monitor de weersverwachting vanaf twee weken voor je evenement. Formuleer een weer-protocol met duidelijke triggers: bij welke omstandigheden schakel je over op plan B? Zorg voor overkappingen, anti-slipmatten op looproutes en extra vloerbedekking op gras. Bij wind: veranker alles dat los staat en h"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:39+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
