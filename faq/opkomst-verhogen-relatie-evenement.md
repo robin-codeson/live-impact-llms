@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/opkomst-verhogen-relatie-evenement"
 title: "Hoe verhoog je de opkomst bij een relatie-evenement?"
 description: "De opkomst verhoog je op drie manieren. Ten eerste: een aantrekkelijk concept dat relevant is voor je doelgroep. Gasten komen als het hen wat oplevert. Ten tweede: persoonlijke uitnodigingen in plaats van een massale mailing. Een persoonlijk telefoontje van de accountmanager heeft een hogere respons"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:20+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
