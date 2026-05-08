@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/innovatieve-evenementtechnologie"
 title: "Waarom technologie op evenementen meer is dan een gimmick"
 description: "Innovatieve evenementtechnologie inzetten? Van droneshows tot hologrammen en AR: ontdek wanneer tech je evenement versterkt. Tips van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:51:30+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
