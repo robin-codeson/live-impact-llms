@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gasten-vragen-toegankelijkheidsbehoef
 title: "Hoe vraag ik gasten naar hun toegankelijkheidsbehoeften?"
 description: "Voeg bij de registratie een open vraag toe: 'Heb je specifieke behoeften waar we rekening mee kunnen houden?' Geen checklist maar een open veld. Mensen weten zelf het beste wat ze nodig hebben. Communiceer ook proactief wat je al aanbiedt: rolstoeltoegankelijkheid, ringleiding, stille ruimte, dieeto"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:01+00:00"
+last_updated: "2026-05-08T21:23:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
