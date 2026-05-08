@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/energizers-voor-evenementen"
 title: "Wat zijn energizers en waarom werken ze?"
 description: "Energizers voor evenementen nodig? Korte tussenactiviteiten voor congressen, vergaderingen en bedrijfsevents. Per setting de beste opties op een rij."
 section: "Blog"
-last_updated: "2026-05-08T16:50:04+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
