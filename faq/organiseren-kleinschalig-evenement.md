@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/organiseren-kleinschalig-evenement"
 title: "Hoe organiseer je een kleinschalig evenement?"
 description: "Kleinschalig betekent 10 tot 50 deelnemers. Het voordeel is een intieme sfeer en ruimte voor diepgaand contact. Begin met een scherpe doelgroep: wie nodig je uit en waarom juist deze mensen? Kies een locatie die past bij de groepsgrootte. Denk aan een huiskamer-achtige zaal, een boutique-hotel of ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:28+00:00"
+last_updated: "2026-05-08T21:24:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
