@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kick-off-programma-maken"
 title: "Hoe maak je een kick-off programma?"
 description: "Een goed kick-off programma heeft een heldere opbouw. Begin met een krachtige opening die energie geeft en de boodschap helder neerzet. Dan de inhoud: strategie, doelen, thema's, maar niet alleen als monoloog. Wissel af met interactieve momenten en break-outsessies. Voeg een entertainmentmoment of a"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:26+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
