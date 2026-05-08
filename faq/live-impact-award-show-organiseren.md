@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-award-show-organiseren"
 title: "Kan Live Impact een award show organiseren?"
 description: "Ja. Live Impact organiseert zakelijke award shows voor bedrijven en brancheorganisaties door heel Nederland. Van een interne medewerker-award voor 100 gasten tot een sector-award met 600 aanwezigen en een bekende presentator. Wij verzorgen de volledige productie: concept, locatie, productietechnieke"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:15+00:00"
+last_updated: "2026-05-08T21:23:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
