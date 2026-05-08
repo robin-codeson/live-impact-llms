@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/tips-professionele-nieuwjaarsreceptie
 title: "Wat zijn tips voor een professionele nieuwjaarsreceptie?"
 description: "Een goede nieuwjaarsreceptie is meer dan borrelen en broodjes. Het is een moment om het afgelopen jaar af te sluiten en het nieuwe jaar in te zetten met energie. Gebruik het programma bewust: een korte speech van de directie met oprechte dankbaarheid, een toast met betekenis, en ruimte voor informel"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:56+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
