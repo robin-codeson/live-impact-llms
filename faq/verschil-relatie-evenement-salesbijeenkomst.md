@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-relatie-evenement-salesbijee
 title: "Wat is het verschil tussen een relatie-evenement en een salesbijeenkomst?"
 description: "Een salesbijeenkomst heeft een expliciete commerciële doelstelling: leads genereren, deals sluiten of producten presenteren. Een relatie-evenement heeft als doelstelling verbinding, het verdiepen van de persoonlijke relatie met bestaande klanten en partners, zonder directe verkoopintentie. Dat versc"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:19+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
