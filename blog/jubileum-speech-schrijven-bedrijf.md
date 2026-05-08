@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/jubileum-speech-schrijven-bedrijf"
 title: "Waarom de jubileumspeech het moment van de avond is"
 description: "Een jubileum speech schrijven die raakt? Ontdek de 3-actestructuur, valkuilen en oefentips. Praktisch, concreet, zonder clichés."
 section: "Blog"
-last_updated: "2026-05-08T16:51:32+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
