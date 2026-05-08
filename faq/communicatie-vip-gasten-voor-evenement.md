@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/communicatie-vip-gasten-voor-evenemen
 title: "Hoe communiceer ik persoonlijk met VIP-gasten voor een evenement?"
 description: "Stuur een persoonlijke uitnodiging die uitlegt waarom zij specifiek uitgenodigd zijn. Volg die op met een telefoontje en stuur een week voor het evenement een persoonlijk bericht."
 section: "FAQ"
-last_updated: "2026-05-08T16:56:53+00:00"
+last_updated: "2026-05-08T21:22:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
