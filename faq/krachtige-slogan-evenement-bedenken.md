@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/krachtige-slogan-evenement-bedenken"
 title: "Hoe bedenk je een krachtige slogan voor een evenement?"
 description: "Een krachtige evenement-slogan bedenk je in 7 stappen. Eerst: verzamel doelstellingen, sfeer en kernboodschap in één zin. Wat is onze grote ambitie? Tweede: brainstorm 30 tot 50 slogans zonder zelfcensuur. Derde: groepeer naar sterke thema's. Vierde: toets de top 5 bij het kernteam op resonantie. Vi"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:55+00:00"
+last_updated: "2026-05-08T21:23:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
