@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-breda"
 title: "Jouw evenementenbureau in Breda"
 description: "Zoek je een evenementenbureau in Breda? Live Impact: full-service concept, productie en uitvoering. 25+ jaar expertise. IDEA-gecertificeerd. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:54+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
