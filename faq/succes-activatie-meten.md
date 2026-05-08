@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/succes-activatie-meten"
 title: "Organiseert Live Impact merkactivaties?"
 description: "Ja, absoluut! Live Impact is gespecialiseerd in het ontwerpen en uitvoeren van merkactivaties die opvallen en resulteren. We combineren creatief concept met logistieke expertise en zorgen ervoor dat elke interactie je merkwaarden communiceert. Van merkbelevingen in winkels tot stadscampagnes, van pr"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:19+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
