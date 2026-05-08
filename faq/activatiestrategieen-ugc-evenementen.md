@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activatiestrategieen-ugc-evenementen"
 title: "Welke activatiestrategieën voor UGC werken het beste?"
 description: "De sterkste activatiestrategieën voor door bezoekers gemaakte content combineren passieve kansen met actieve prikkels. Passief: zorg voor locaties, decorstukken of momenten die mensen vanzelf willen vastleggen en delen. Actief: gebruik een live social wall waar berichten met jouw hashtag in realtime"
 section: "FAQ"
-last_updated: "2026-05-08T16:53:38+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
