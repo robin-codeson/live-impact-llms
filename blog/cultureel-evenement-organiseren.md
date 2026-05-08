@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/cultureel-evenement-organiseren"
 title: "Waarom culturele instellingen anders evenementen organiseren"
 description: "Cultureel evenement organiseren voor museum, theater of fonds? Hoe je culturele waarde vertaalt naar publiek dat komt en sponsors die activeren."
 section: "Blog"
-last_updated: "2026-05-08T16:49:51+00:00"
+last_updated: "2026-05-08T21:22:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
