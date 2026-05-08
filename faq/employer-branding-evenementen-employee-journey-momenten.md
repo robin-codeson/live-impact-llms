@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/employer-branding-evenementen-employe
 title: "Op welke momenten in de employee journey zet je employer branding evenementen in?"
 description: "Employer branding evenementen zijn waardevol op vijf momenten: (1) Pre-hire: kennismakingsevents, open dagen en campus-evenementen om kandidaten te enthousiasmeren. (2) Onboarding: een eerste dag of week die laat zien wie jullie zijn. (3) Cultuurversterking: jaarlijkse personeelsfeesten, kick-offs e"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:57+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
