@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-concept-voorbeelden-zakel
 title: "Kan Live Impact Concept Voorbeelden Zakelijk Evenement verzorgen?"
 description: "Ja. Live Impact organiseert Concept Voorbeelden Zakelijk Evenement die impact hebben. Van strategie tot uitvoering: wij hebben de expertise."
 section: "FAQ"
-last_updated: "2026-05-08T17:07:38+00:00"
+last_updated: "2026-05-08T21:23:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
