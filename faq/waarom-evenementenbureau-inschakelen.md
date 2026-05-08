@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-evenementenbureau-inschakelen"
 title: "Waarom zou je een evenementenbureau inschakelen?"
 description: "Een evenementenbureau bespaart je team honderden uren werk en voorkomt kostbare fouten. Ze hebben directe contacten met de beste locaties, artiesten en leveranciers en onderhandelen betere tarieven. Ze brengen creativiteit die intern vaak ontbreekt en bewaken het budget en de kwaliteit. En op de dag"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:32+00:00"
+last_updated: "2026-05-08T21:24:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
