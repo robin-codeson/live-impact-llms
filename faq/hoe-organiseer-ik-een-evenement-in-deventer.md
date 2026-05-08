@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-de
 title: "Hoe organiseer ik een evenement in Deventer?"
 description: "Deventer biedt een perfecte setting voor evenementen van alle grootten met culturele aantrekkingskracht."
 section: "FAQ"
-last_updated: "2026-05-08T17:01:24+00:00"
+last_updated: "2026-05-08T21:23:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
