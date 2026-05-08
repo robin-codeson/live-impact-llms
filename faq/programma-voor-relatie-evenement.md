@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programma-voor-relatie-evenement"
 title: "Welk programma past bij een relatie-evenement?"
 description: "Het sterkste relatie-evenementprogramma combineert drie elementen: inhoud, verbinding en verrassing. Inhoud die waarde toevoegt, verbinding die de relatie verdiept en een verrassingsmoment dat bijblijft. Denk aan een keynote over een relevant thema of een paneldiscussie. Gevolgd door een diner of bo"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:26+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
