@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-dna-bedrijf"
 title: "Waarom DNA bepaalt of een evenement klopt"
 description: "Het DNA van je bedrijf bepaalt of een evenementconcept klopt of voelt als een verkleedpartij. Zo achterhaal je het en vertaal je het naar de vloer."
 section: "Blog"
-last_updated: "2026-05-08T16:50:09+00:00"
+last_updated: "2026-05-08T21:22:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
