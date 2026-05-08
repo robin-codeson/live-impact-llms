@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-bedrijfsjubileum-organis
 title: "Hoeveel tijd heb je nodig om een bedrijfsjubileum te organiseren?"
 description: "Reken op minimaal drie tot vier maanden voor een kleinere jubileumviering. Voor een groots jubileum met honderd gasten of meer plan je zes tot negen maanden in. Dat geldt zeker bij externe sprekers, een theaterproductie of een groots entertainment-programma. Hoe eerder je begint, hoe meer creatieve "
 section: "FAQ"
-last_updated: "2026-05-08T17:02:53+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
