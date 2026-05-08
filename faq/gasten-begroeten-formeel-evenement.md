@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gasten-begroeten-formeel-evenement"
 title: "Hoe begroet je gasten bij een formeel zakelijk evenement?"
 description: "Formele zakelijke bijeenkomsten vragen een respectvolle begroeting. Standaard in Nederland: stevige handdruk, oogcontact, 'Aangenaam, mijn naam is [naam] van [bedrijf].' Herhaal hun naam als zij zich voorstellen: dit toont aandacht. Voor internationale situaties: informeer voorzichtig naar lokale tr"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:59+00:00"
+last_updated: "2026-05-08T21:23:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
