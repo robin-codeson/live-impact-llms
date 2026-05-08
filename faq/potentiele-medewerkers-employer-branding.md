@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/potentiele-medewerkers-employer-brand
 title: "Hoe bereik je potentiële medewerkers via een employer branding evenement?"
 description: "Potentiële medewerkers bereik je via drie kanalen. Direct met uitnodigingen naar hogescholen, carrièrebeurzen en LinkedIn. Indirect via netwerken, beïnvloeders en aanbevelingen door medewerkers. En verdiend via PR en mond-tot-mondreclame. Bouw voor het directe kanaal relaties met hogescholen en univ"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:06+00:00"
+last_updated: "2026-05-08T21:24:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
