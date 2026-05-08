@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-haarlemmerm
 title: "Haarlemmermeer: de meest internationale evenementenlocatie van Nederland"
 description: "Evenement organiseren in Haarlemmermeer? Toplocaties vlak bij Schiphol én Amsterdam. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:33+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
