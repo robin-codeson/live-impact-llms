@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/risicos-ai-evenementen"
 title: "Wat kost AI-inzet en wat levert het op bij evenementen?"
 description: "Ja en nee. AI kan kosten besparen op sommige onderdelen, maar vereist investeringen op andere. Besparing: inhoud-generatie (ChatGPT bespaart 10-20 uur schrijven per evenement), registratie-automatisering (minder handmatig werk), data-analyse (minder dure externe adviseurs). Investering: AI-tools kos"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:44+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
