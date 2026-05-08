@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/feest-op-maat"
 title: "Waarom de beste feesten niet uit een catalogus komen"
 description: "Een feest op maat organiseren? Ontdek waarom maatwerk de sleutel is tot een onvergetelijk bedrijfsfeest. Geen standaardopzet, maar jouw verhaal. Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:51:13+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
