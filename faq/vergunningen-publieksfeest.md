@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunningen-publieksfeest"
 title: "Welke vergunningen heb je nodig voor een publieksfeest?"
 description: "Bij een publieksfeest met meer dan 250 bezoekers is in de meeste Nederlandse gemeenten een evenementenvergunning verplicht. Vraag deze minstens 8 weken van tevoren aan. Bij grote evenementen is 12 weken nodig. De gemeente beoordeelt: bezoekersaantallen, geluidsniveau en eindtijd, vluchtwegen en veil"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:26+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
