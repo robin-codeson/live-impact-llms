@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/beachparty-bedrijf-organiseren"
 title: "Beachparty voor je bedrijf: zomer perfect"
 description: "Beachparty voor je bedrijf organiseren? Locatie, entertainment, catering en budget: praktische gids van Live Impact voor een geslaagde bedrijfsbeachparty."
 section: "Blog"
-last_updated: "2026-05-08T16:49:23+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
