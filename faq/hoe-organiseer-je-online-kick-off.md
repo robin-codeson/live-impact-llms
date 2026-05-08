@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-je-online-kick-off"
 title: "Hoe organiseer je een online kick-off?"
 description: "Een online kick-off organiseren doe je via een videoplatform als Microsoft Teams, Zoom, Hopin of een speciaal evenementenplatform. De belangrijkste regel: behandel een online kick-off als een live show, niet als een vergadering. Dat betekent een professionele presentator of host die energie geeft. G"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:36+00:00"
+last_updated: "2026-05-08T21:23:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
