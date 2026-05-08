@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/no-show-voorkomen-evenement"
 title: "Het no-show probleem: groter dan je denkt"
 description: "No-show voorkomen bij je zakelijke evenement? Lees praktische tips over uitnodigingsstrategie, herinneringen en verwachtingsmanagement die de opkomst verhogen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:02+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
