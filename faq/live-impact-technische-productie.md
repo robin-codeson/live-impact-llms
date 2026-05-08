@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-technische-productie"
 title: "Regelt Live Impact ook de technische productie bij mijn evenement?"
 description: "Ja. Live Impact verzorgt de technische productie als integraal onderdeel van de totale evenementenproductie. We werken met vaste technische partners, beoordelen de riders van artiesten, voeren een locatieverkenning uit en zijn op de dag zelf aanwezig voor opbouw, soundcheck en uitvoering."
 section: "FAQ"
-last_updated: "2026-05-08T17:10:29+00:00"
+last_updated: "2026-05-08T21:24:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
