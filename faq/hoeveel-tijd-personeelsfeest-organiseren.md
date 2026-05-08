@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-personeelsfeest-organise
 title: "Hoeveel tijd heb je nodig om een personeelsfeest te organiseren?"
 description: "Plan minimaal drie tot zes maanden vooruit voor een personeelsfeest. Populaire evenementenlocaties, goede livebands en acts zijn in het najaar (de drukste periode) soms al een jaar vooruit volgeboekt. Hoe eerder je begint, hoe meer keuze. Schakel je Live Impact in, dan nemen we het tijdpad voor je o"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:01+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
