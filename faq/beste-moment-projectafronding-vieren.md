@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-moment-projectafronding-vieren"
 title: "Wanneer is het beste moment om een projectafronding te vieren?"
 description: "Vier je projectafronding één tot twee weken na de officiële oplevering. Dan is de afrondingsstress voorbij en de gezamenlijke herinnering nog vers. Plan het moment vroeg in de agenda's en houd rekening met drukke periodes."
 section: "FAQ"
-last_updated: "2026-05-08T16:55:33+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
