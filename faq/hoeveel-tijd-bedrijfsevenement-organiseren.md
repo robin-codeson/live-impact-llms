@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-bedrijfsevenement-organi
 title: "Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?"
 description: "Begin minimaal drie maanden van tevoren met de organisatie. Voor grote evenementen (300+ gasten, complexe productie, meerdaags) is zes maanden realistischer. De organisatie verloopt in vier fases. Eerst het fundament leggen (12 tot 10 weken voor de datum), dan concept en partners vastleggen (10 tot "
 section: "FAQ"
-last_updated: "2026-05-08T17:02:53+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
