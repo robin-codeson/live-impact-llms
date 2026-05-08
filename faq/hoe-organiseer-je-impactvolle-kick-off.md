@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-je-impactvolle-kick-of
 title: "Hoe organiseer je een impactvolle kick-off?"
 description: "Een impactvolle kick-off begint bij een scherpe doelstelling: wat moet je team voelen, weten en doen na deze dag? Bouw het programma van daaruit op. Begin sterk: een energieke opening zet de toon voor de dag. Wissel plenaire momenten af met interactie en activatie. Voeg een activiteit toe die het te"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:35+00:00"
+last_updated: "2026-05-08T21:23:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
