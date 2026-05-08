@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/teambuilding-buiten-organiseren"
 title: "Waarom buiten anders is"
 description: "Outdoor teambuilding organiseren voor je team? Ontdek waarom buiten werkt wat binnen niet lukt en hoe Live Impact een programma maakt dat echt verbindt."
 section: "Blog"
-last_updated: "2026-05-08T16:52:43+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
