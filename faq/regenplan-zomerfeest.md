@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/regenplan-zomerfeest"
 title: "Wat doe je als het regent tijdens een zomerfeest?"
 description: "Zorg altijd voor een regenscenario: een tent, een overdekt terras of een binnenruimte als back-up. Communiceer dit niet als 'plan B' maar als een volwaardige alternatieve ervaring. Een goed evenementenbureau denkt hier standaard over na."
 section: "FAQ"
-last_updated: "2026-05-08T17:13:33+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
