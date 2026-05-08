@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/catering-tips-feest"
 title: "Welke cateringtips zijn essentieel voor een succesvol feest?"
 description: "Goede catering op een feest is meer dan eten en drinken. Het tempo bepaalt de sfeer. Zorg dat er altijd iets te halen is: een lege bar of een leeg buffet haalt de energie onderuit. Kies een mix van vertrouwde en verrassende gerechten. Houd standaard rekening met dieetwensen: vegetarisch, vegan en gl"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:45+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
