@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenementenvervoer-per-persoon
 title: "Wat kost evenementenvervoer per persoon?"
 description: "Evenementenvervoer kost gemiddeld €0,80–€2,00 per persoon per kilometer, afhankelijk van groepsgrootte en vervoersmiddel. Voor 50 personen met een 50-zitsbus: reken €800–€1.200 voor 40 km heen en terug. Dat is €16–€24 per persoon. Voor 150 personen: drie bussen, dus lagere prijs per persoon (€12–€18"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:04+00:00"
+last_updated: "2026-05-08T21:23:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
