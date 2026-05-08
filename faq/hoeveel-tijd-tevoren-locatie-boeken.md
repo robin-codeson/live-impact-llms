@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-tijd-tevoren-locatie-boeken"
 title: "Hoeveel tijd van tevoren moet je een locatie boeken?"
 description: "Boek een locatie bij voorkeur 4 tot 6 maanden van tevoren. Voor populaire locaties, zeker in het voor- en najaar, kan dat oplopen tot een jaar of langer. Wacht je te lang, dan val je al snel buiten het net voor je eerste keuze. Hoe eerder je begint, hoe meer opties en flexibiliteit je hebt voor loca"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:02+00:00"
+last_updated: "2026-05-08T21:23:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
