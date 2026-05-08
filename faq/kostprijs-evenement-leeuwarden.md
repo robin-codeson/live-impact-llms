@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kostprijs-evenement-leeuwarden"
 title: "Wat kost een evenement organiseren in Leeuwarden?"
 description: "De kosten van een evenement in Leeuwarden hangen af van de groepsgrootte, de locatiekeuze, de catering en het programma. Voor een teambuilding of borrel met 50 personen reken je gemiddeld op 3.000 tot 8.000 euro. Een groter personeelsfeest of congres voor 150 tot 300 personen zit eerder tussen de 12"
 section: "FAQ"
-last_updated: "2026-05-08T17:06:51+00:00"
+last_updated: "2026-05-08T21:23:48+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
