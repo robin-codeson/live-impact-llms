@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bijzonder-evenement-nijmegen"
 title: "Hoe maak je een evenement in Nijmegen bijzonder?"
 description: "Gebruik de unieke ligging: de Waal als decor, de Valkhof als historisch podium en de levendige binnenstad als avondprogramma-setting. Nijmegen is de oudste stad van Nederland. Dat gegeven geeft elk evenement meteen een verhaal. Combineer inhoudelijk programma met een historische stadswandeling of ee"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:12+00:00"
+last_updated: "2026-05-08T21:22:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
