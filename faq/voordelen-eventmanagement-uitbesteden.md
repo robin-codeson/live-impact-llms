@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voordelen-eventmanagement-uitbesteden
 title: "Wat zijn de voordelen van eventmanagement uitbesteden?"
 description: "De voordelen zijn concreet en meetbaar. Je bespaart je eigen team honderden uren werk. Je krijgt toegang tot een netwerk van leveranciers met wie een bureau betere deals onderhandelt. De kwaliteit van het eindresultaat is hoger. Een bureau heeft honderden evenementen georganiseerd en weet wat werkt."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:09+00:00"
+last_updated: "2026-05-08T21:24:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
