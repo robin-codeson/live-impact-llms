@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/jubileumfeest-ideeen-origineel"
 title: "Waarom standaard jubileumfeesten niemand bijblijven"
 description: "Op zoek naar originele jubileumfeestideeën? Ontdek 25 concrete thema's, entertainment-programma's en locatieconcepten. Niet standaard, wel onvergetelijk."
 section: "Blog"
-last_updated: "2026-05-08T16:51:35+00:00"
+last_updated: "2026-05-08T21:22:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
