@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/award-categorieen-instellen"
 title: "Welke award-categorieën kun je instellen?"
 description: "De beste award-categorieën sluiten aan bij je organisatiewaarden en -cultuur. Populaire keuzes zijn Best Performance, Innovatie Award, Teamplayer van het Jaar, Klanttevredenheid Award, Rookie of the Year en een Publieksprijs. Maar de sterkste categorieën zijn de unieke: die alleen bij jouw bedrijf p"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:07+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
