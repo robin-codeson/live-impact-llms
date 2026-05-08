@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/innovatieve-technologie-zakelijke-eve
 title: "Welke innovatieve technologieën worden gebruikt bij zakelijke evenementen?"
 description: "Innovatieve technologieën bij zakelijke evenementen groeien snel. AR (augmented reality) voegt digitale lagen toe aan de fysieke beleving. VR (virtual reality) laat deelnemers volledig meeslepende ervaringen beleven. Evenementen-apps laten deelnemers agenda's volgen, netwerken en realtime feedback g"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:21+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
