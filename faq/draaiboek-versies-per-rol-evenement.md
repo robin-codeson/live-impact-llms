@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/draaiboek-versies-per-rol-evenement"
 title: "Heeft elke rol een eigen versie van het draaiboek?"
 description: "Ja, bij professionele evenementen werk je met meerdere versies van het draaiboek, afgestemd op de rol van de ontvanger. De stagemanager heeft het masterbestand met alle technische cues en tijden. De dagvoorzitter heeft een versie met alleen zijn of haar momenten. De cateringcoördinator heeft de F&B-"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:32+00:00"
+last_updated: "2026-05-08T21:22:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
