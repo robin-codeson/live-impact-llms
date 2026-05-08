@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-exclusief-relatiefeest-relat
 title: "Wat is het verschil tussen een exclusief relatiefeest en een relatie-evenement?"
 description: "Een relatie-evenement is een breed format: 100 tot 500 gasten, met sprekers, entertainment en netwerkmomenten. Het activeert en verbindt je hele klantennetwerk. Een exclusief relatiefeest is het tegenovergestelde: 15 tot 50 personen, geen podium, geen agenda. Het draait om persoonlijk contact. Het v"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:32+00:00"
+last_updated: "2026-05-08T21:24:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
