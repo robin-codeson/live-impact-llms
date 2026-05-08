@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunning-personeelsfeest-eigen-terr
 title: "Heb ik een vergunning nodig voor een personeelsfeest op eigen terrein?"
 description: "Mogelijk wel. Bij muziek na 23:00, alcohol zonder horecavergunning of tijdelijke bouwwerken is meestal een gemeentelijke ontheffing of vergunning vereist."
 section: "FAQ"
-last_updated: "2026-05-08T17:15:21+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
