@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-venlo"
 title: "Wat kost een evenement organiseren in Venlo?"
 description: "Een zakelijk evenement in Venlo kost gemiddeld tussen €4.000 en €26.000. Venlo biedt een goed aanbod aan evenementenlocaties voor een competitieve prijs. Dat komt mede door de grensligging met Duitsland en de zakelijke Limburgse mentaliteit. Een borrel of teamdag voor 50 personen start rond €3.000. "
 section: "FAQ"
-last_updated: "2026-05-08T17:05:53+00:00"
+last_updated: "2026-05-08T21:23:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
