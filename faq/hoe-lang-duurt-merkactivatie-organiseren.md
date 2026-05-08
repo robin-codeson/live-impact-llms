@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-lang-duurt-merkactivatie-organise
 title: "Hoe lang duurt het om een merkactivatie te organiseren?"
 description: "Reken op 2 tot 4 maanden doorlooptijd voor een merkactivatie, afhankelijk van de schaal, complexiteit en beschikbaarheid van locatie."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:49+00:00"
+last_updated: "2026-05-08T21:23:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
