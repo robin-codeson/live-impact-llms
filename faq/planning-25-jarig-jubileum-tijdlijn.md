@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/planning-25-jarig-jubileum-tijdlijn"
 title: "Hoe lang van tevoren plan je een 25-jarig jubileum?"
 description: "Voor een 25-jarig jubileum is 6 tot 12 maanden voorbereiding de standaard. Locaties voor grotere evenementen zijn soms al 18 maanden van tevoren volgeboekt."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:49+00:00"
+last_updated: "2026-05-08T21:24:21+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
