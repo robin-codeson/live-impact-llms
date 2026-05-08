@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-mechanisme-gimmick-evenement
 title: "Wat is het verschil tussen een mechanisme en een gimmick?"
 description: "Een gimmick is leuk voor tien minuten. Een mechanisme blijft hangen. Een gimmick is bijvoorbeeld een grappige plakker, een selfie-muur of een welkomstcadeau zonder verhaal. Leuk, maar het verandert niets. Een mechanisme is een programmaonderdeel dat mensen echt iets laat doen dat bij de boodschap pa"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:04+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
