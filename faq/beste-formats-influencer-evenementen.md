@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-formats-influencer-evenementen"
 title: "Welke formats werken het best voor influencer evenementen?"
 description: "Voor influencerevenementen werken formaten die beleving boven informatie stellen. Denk bijvoorbeeld aan een exclusief belevingsevenement met fotogenieke momenten. Een intieme rondetafel past voor klein gezelschap. Een productlancering met verrassingselement werkt eveneens. Het gaat erom dat influenc"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:20+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
