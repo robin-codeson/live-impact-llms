@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verwarring-dresscode-evenement-voorko
 title: "Hoe voorkom je verwarring over de dresscode bij je evenement?"
 description: "Verwarring ontstaat door vage termen, inconsistente communicatie of cultuurverschillen. Voorkomen: 1) Wees specifiek. Zeg niet 'elegant' maar 'Business Formal: donker pak, stropdas'. 2) Geef voorbeelden (foto's of links helpen). 3) Herhaal het bericht (uitnodiging, herinneringen, website). 4) Zet ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:52+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
