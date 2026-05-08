@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-50-jarig-jubileum-org
 title: "Kan Live Impact een 50-jarig jubileum organiseren?"
 description: "Ja. Live Impact organiseert jubilea voor bedrijven die het verschil willen maken. Wij starten met een gesprek over jullie verhaal, jullie identiteit en het gevoel dat gasten mee naar huis moeten nemen. Van daaruit bouwen wij het concept, het programma en de volledige productie. Van archiefonderzoek "
 section: "FAQ"
-last_updated: "2026-05-08T17:03:52+00:00"
+last_updated: "2026-05-08T21:23:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
