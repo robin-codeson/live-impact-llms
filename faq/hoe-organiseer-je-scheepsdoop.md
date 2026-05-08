@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-organiseer-je-scheepsdoop"
 title: "Hoe organiseer je een scheepsdoop?"
 description: "Een scheepsdoop organiseer je in vier stappen: 1. Kies de peetmoeder (of peter). Dit is de belangrijkste beslissing en het meest tijdkritisch. 2. Regel de locatie: werf, dok of haven, inclusief toegankelijkheid voor gasten, sanitair en catering. 3. Organiseer de ceremonie zelf: speech van de peetmoe"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:38+00:00"
+last_updated: "2026-05-08T21:23:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
