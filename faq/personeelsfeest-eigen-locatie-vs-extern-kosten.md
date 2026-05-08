@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/personeelsfeest-eigen-locatie-vs-exte
 title: "Is een personeelsfeest op eigen locatie goedkoper dan extern?"
 description: "Het hangt af van de locatie. Een eigen locatie waar al veel infrastructuur staat — wateraansluitingen, toiletten, keuken, parkeerplaatsen, klimaatregeling — kan flink schelen op de begroting. Reken dan op ongeveer 60% tot 80% van de kosten van een vergelijkbaar turnkey extern evenement. Maar een lee"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:42+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
