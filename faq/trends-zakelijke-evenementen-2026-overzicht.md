@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/trends-zakelijke-evenementen-2026-ove
 title: "Wat zijn de grootste trends in zakelijke evenementen in 2026?"
 description: "De vijf grootste trends voor 2026. Eén: deelnemers willen co-creator zijn, niet toeschouwer. Twee: duurzaamheid is geen extra maar een basiseis. Drie: AI personaliseert de deelnemerservaring via matchmaking, agendaopbouw en directe terugkoppeling. Vier: welzijn en inclusiviteit worden bewust meegeno"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:01+00:00"
+last_updated: "2026-05-08T21:24:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
