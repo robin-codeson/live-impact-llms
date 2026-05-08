@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/slogan-nederlands-engels"
 title: "Moet je een slogan in het Nederlands of Engels schrijven?"
 description: "Kies Nederlands tenzij er een echte reden is om Engels te gebruiken. Engels voelt vaak internationaal en cool, maar mist de precisie en toon van je eigen taal. Een Nederlandse slogan klopt bij een Nederlandstalig team, bij een Nederlandstalig publiek en bij hoe mensen praten over het evenement. Enge"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:58+00:00"
+last_updated: "2026-05-08T21:24:27+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
