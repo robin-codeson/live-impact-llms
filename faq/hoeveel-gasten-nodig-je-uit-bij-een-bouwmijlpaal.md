@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-gasten-nodig-je-uit-bij-een-b
 title: "Hoeveel gasten nodig je uit bij een bouwmijlpaal?"
 description: "Het aantal gasten verschilt per bouwmijlpaal. Bij de eerste paal nodig je een compacte groep uit: opdrachtgever, projectteam, architect, gemeente en eventueel pers. In totaal 30 tot 80 gasten. Bij het hoogste punt is het breder: het volledige bouwteam, opdrachtgever, toekomstige gebruikers en lokale"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:28+00:00"
+last_updated: "2026-05-08T21:23:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
