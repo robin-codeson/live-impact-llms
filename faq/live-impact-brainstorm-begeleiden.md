@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-brainstorm-begeleiden"
 title: "Kan Live Impact onze brainstormsessie begeleiden?"
 description: "Ja, wij begeleiden brainstormsessies op twee manieren. Als onderdeel van een concepttraject: dan is de brainstorm de eerste stap en loopt hij door naar een concept en complete evenementproductie. Of als losse dienst: als jullie alleen de richting willen aanscherpen zonder meteen met een bureau verde"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:29+00:00"
+last_updated: "2026-05-08T21:23:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
