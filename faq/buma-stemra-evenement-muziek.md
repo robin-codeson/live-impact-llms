@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/buma-stemra-evenement-muziek"
 title: "Moet ik Buma/Stemra betalen voor muziek op mijn evenement?"
 description: "Ja. Als je muziek afspeelt op een evenement (live of opgenomen), moet je dit melden bij Buma/Stemra. Je betaalt daarvoor een vergoeding. Dit geldt ook voor besloten bedrijfsevenementen."
 section: "FAQ"
-last_updated: "2026-05-08T16:56:40+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
