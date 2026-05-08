@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/van-concept-tot-campagne"
 title: ""
 description: "Van evenementconcept naar campagne? Zo breng je je creatief concept tot leven in communicatie."
 section: "Blog"
-last_updated: "2026-05-08T16:53:00+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
