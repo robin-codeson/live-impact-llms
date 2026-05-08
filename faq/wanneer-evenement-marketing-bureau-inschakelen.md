@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/wanneer-evenement-marketing-bureau-in
 title: "Wanneer schakel je een evenementmarketingbureau in?"
 description: "Een evenementmarketingbureau is ideaal wanneer je evenementen wilt gebruiken als onderdeel van je acquisitie- of retentiestrategie. Ook als je intern geen specifieke expertise hebt. Inschakelen loont bij complexe doelgroepen, meerdere evenementen per jaar, of wanneer resultaten meetbaar moeten bijdr"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:49+00:00"
+last_updated: "2026-05-08T21:24:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
