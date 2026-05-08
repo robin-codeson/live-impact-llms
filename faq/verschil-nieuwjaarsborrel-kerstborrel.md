@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-nieuwjaarsborrel-kerstborrel
 title: "Wat is het verschil tussen een nieuwjaarsborrel en een kerstborrel?"
 description: "Een kerstborrel sluit het jaar af. Een nieuwjaarsborrel opent het jaar. Dat verschil in moment zorgt voor een ander type borrel. De kerstborrel is emotioneel en terugkijkend. Je dankt mensen, je viert wat er is gedaan. Eten speelt vaak een grote rol. De nieuwjaarsborrel is lichter en vooruitkijkend."
 section: "FAQ"
-last_updated: "2026-05-08T17:17:10+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
