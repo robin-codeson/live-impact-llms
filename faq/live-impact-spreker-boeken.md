@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-spreker-boeken"
 title: "Kan Live Impact helpen bij het boeken van een spreker?"
 description: "Ja, Live Impact helpt bij de selectie, briefing en inpassing van sprekers in je evenementprogramma. Wij kijken verder dan de naam: past de energie bij het blok ervoor, sluit het verhaal aan op de workshop erna, is er een rode draad? We kennen het speelveld, weten welke sprekers consistent leveren en"
 section: "FAQ"
-last_updated: "2026-05-08T17:10:19+00:00"
+last_updated: "2026-05-08T21:24:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
