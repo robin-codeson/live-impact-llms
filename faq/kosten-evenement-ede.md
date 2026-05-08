@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-evenement-ede"
 title: "Wat kost een evenement organiseren in Ede?"
 description: "Een zakelijk evenement in Ede kost gemiddeld tussen €4.000 en €25.000. Ede en de Veluwe bieden bijzondere buitenlocaties. Denk aan landgoederen, bosrijke conferentieoorden en boerderijlocaties. Deze zijn relatief voordelig vergeleken met grote steden. Een teamdag of workshop voor 40 personen start r"
 section: "FAQ"
-last_updated: "2026-05-08T17:05:24+00:00"
+last_updated: "2026-05-08T21:23:40+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
