@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-format-netwerkevenement"
 title: "Welk format werkt het beste voor een netwerkevenement?"
 description: "Kennistafels zijn het meest effectieve format voor zakelijke netwerkevenementen. Deelnemers kiezen een tafel op basis van een thema, en de discussie gaat vanzelf. Combineer dit met een pitchronde als opener (60 seconden per persoon) en een vrije borrel als afsluiting. Vermijd de pure open netwerkbor"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:18+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
