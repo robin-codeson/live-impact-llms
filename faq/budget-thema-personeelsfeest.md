@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/budget-thema-personeelsfeest"
 title: "Hoeveel extra budget kost een thema voor een personeelsfeest?"
 description: "Reken op 15% tot 40% bovenop een basisfeest, afhankelijk van hoe ver je het thema doortrekt. Een licht thema (kleurenschema in de aankleding, passende muziek, themacocktail) kost 15-20% extra. Een volledig doorvertaald thema met themagericht entertainment, decor op maat, themagerechten en passende a"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:38+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
