@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/goed-voorbeeld-concept-zakelijk-evene
 title: "Wat is een goed voorbeeld van een concept voor een zakelijk evenement?"
 description: "Een goed voorbeeld is een concept waarbij de boodschap niet wordt gezegd maar beleefd. Voor een bedrijf waar de strategie niet landde, maakten we een middag waarin collega's door vijf kamers liepen en in elke kamer een onderdeel van de strategie zelf ontdekten. Geen PowerPoint vooraf. Aan het eind v"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:08+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
