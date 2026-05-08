@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/persconferentie-voorbereiding-opening
 title: "Hoe bereid je de persconferentie voor op de dag van de opening?"
 description: "Een persconferentie op de openingsdag verdient een aparte voorbereiding. Plan de persmomenten 30 tot 45 minuten voor de officiële opening. Zo hebben journalisten tijd om beelden en quotes te maken. Werk met een persmap: persbericht, fact sheet, foto's in hoge resolutie en contactgegevens van de woor"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:39+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
