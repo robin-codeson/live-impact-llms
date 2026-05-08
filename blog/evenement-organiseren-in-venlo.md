@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-venlo"
 title: "Venlo: de logistieke grensstad als zakelijke evenementenbestemming"
 description: "Evenement organiseren in Venlo? Logistiek knooppunt en agri-food hub aan de Maas. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:43+00:00"
+last_updated: "2026-05-08T21:22:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
