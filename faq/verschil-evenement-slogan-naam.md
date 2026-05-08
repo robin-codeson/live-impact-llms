@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-slogan-naam"
 title: "Wat is het verschil tussen een evenement-slogan en een evenement-naam?"
 description: "De naam is de aanduiding — kort, herkenbaar, gebruikt in agendaboekingen en gesprekken. De slogan is het gevoel eronder: de zin die uitlegt wat het evenement belooft of uitstraalt. Veel evenementen hebben beide: een vaste naam die jaar op jaar herkend wordt en een slogan die wisselt en het thema van"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:19+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
