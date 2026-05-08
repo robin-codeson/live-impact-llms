@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/eventmanagement-uitbesteden"
 title: ""
 description: "Eventmanagement uitbesteden? Drie niveaus (volledig, deels, advies) en een beslismodel. Wanneer is het slim, waar verdient een bureau zich terug?"
 section: "Blog"
-last_updated: "2026-05-08T16:51:07+00:00"
+last_updated: "2026-05-08T21:22:19+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
