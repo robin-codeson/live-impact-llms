@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/etiquettefouten-zakelijke-evenementen
 title: "Wat zijn veelgemaakte etiquettefouten bij zakelijke evenementen?"
 description: "De meest gemaakte fout: je telefoon niet wegleggen. Wie tijdens een gesprek op zijn scherm kijkt, zegt eigenlijk dat de ander niet interessant genoeg is. Verder zijn dronkenschap, te laat komen zonder te vertrekken, negatief praten over collega's en beloftes niet nakomen klassieke valkuilen. Ze lijk"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:05+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
