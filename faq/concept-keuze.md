@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/concept-keuze"
 title: "Hoe kies ik het juiste concept voor mijn bedrijf?"
 description: "Een sterk evenementconcept rust op vier pijlers. 1) Een heldere pitch: 'een werksessie over de toekomst van werk in een oude fabriek' klinkt sterker dan 'zakelijke lunch'. 2) Consistent thema en visuele identiteit: uitnodiging, locatie, decor en verloop sluiten aan bij het centrale idee. Breuken voe"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:54+00:00"
+last_updated: "2026-05-08T21:22:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
