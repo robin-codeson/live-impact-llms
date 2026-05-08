@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/bedrijfsfeest"
 title: "Bedrijfsfeest vs. personeelsfeest: een onderscheid dat ertoe doet"
 description: "Bedrijfsfeest organiseren voor medewerkers én relaties? Lees alles over concept, locatie, programma en budget. Van 50 tot 1.400 gasten: zo doe je het goed."
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:17+00:00"
+last_updated: "2026-05-08T21:22:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
