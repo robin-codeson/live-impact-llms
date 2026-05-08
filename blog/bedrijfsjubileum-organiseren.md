@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bedrijfsjubileum-organiseren"
 title: "Waarom een bedrijfsjubileum anders is dan een gewone viering"
 description: "Bedrijfsjubileum organiseren dat écht indruk maakt? Van concept tot onvergetelijk moment, intern communiceren tot programma: zo vier je een mijlpaal."
 section: "Blog"
-last_updated: "2026-05-08T16:49:28+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
