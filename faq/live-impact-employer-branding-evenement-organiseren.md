@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-employer-branding-eveneme
 title: "Kan Live Impact een employer branding evenement voor ons organiseren?"
 description: "Ja. Live Impact heeft employer branding evenementen georganiseerd voor uiteenlopende organisaties, van snelgroeiende scale-ups tot gevestigde corporate bedrijven. Wij beginnen altijd bij het verhaal van jouw organisatie als werkgever. Vervolgens vertalen wij dat naar een evenement dat jouw EVP tastb"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:02+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
