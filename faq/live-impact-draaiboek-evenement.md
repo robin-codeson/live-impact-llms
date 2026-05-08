@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-draaiboek-evenement"
 title: "Kan Live Impact het draaiboek voor ons evenement maken?"
 description: "Ja. Live Impact bouwt draaiboeken die werken op de dag zelf, niet draaiboeken die indruk maken in een presentatie. Onze showcallers en stagemanagers schrijven het draaiboek mee vanuit hun uitvoeringservaring. Elk onderdeel heeft een eigenaar, elk risico heeft een plan B. Bij grotere producties biede"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:54+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
