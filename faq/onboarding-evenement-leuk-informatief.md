@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onboarding-evenement-leuk-informatief
 title: "Hoe maak je een onboarding evenement leuk én informatief?"
 description: "Een leuk en informatief evenement is geen tegenstelling. Het is integratie. Zet informatieve content in een speelse setting. Eén: geen voordracht maar begeleide sessies met groepswerk. Twee: kennis delen via collega's (authentiek en plezierig) in plaats van presentaties. Drie: kleine prijzen of erke"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:50+00:00"
+last_updated: "2026-05-08T21:24:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
