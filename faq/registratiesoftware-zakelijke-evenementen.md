@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/registratiesoftware-zakelijke-eveneme
 title: "Welke registratiesoftware past bij zakelijke evenementen?"
 description: "Populaire opties zijn Eventbrite (laagdrempelig, breed inzetbaar), Cvent (enterprise, geschikt voor grote evenementen), Momice (Nederlandse markt, integratie met CRM) en Hopin (ook voor hybride evenementen). Kies op basis van het aantal deelnemers, de integratie met je eigen systemen en de mate van "
 section: "FAQ"
-last_updated: "2026-05-08T17:13:35+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
