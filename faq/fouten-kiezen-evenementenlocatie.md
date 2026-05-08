@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/fouten-kiezen-evenementenlocatie"
 title: "Wat zijn veelgemaakte fouten bij het kiezen van een locatie?"
 description: "De meest voorkomende fouten bij het kiezen van een locatie: alleen op prijs letten en andere factoren vergeten. De locatie niet persoonlijk bezoeken maar vertrouwen op foto's, die liegen. Logistiek onderschatten: parkeergelegenheid, bereikbaarheid met OV, opbouwtijden. Geen regenscenario bij buitene"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:54+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
