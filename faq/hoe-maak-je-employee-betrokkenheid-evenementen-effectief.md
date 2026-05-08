@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-employee-betrokkenheid-ev
 title: "Hoe maak je medewerkersbetrokkenheid evenementen écht effectief?"
 description: "Effectieve medewerkersbetrokkenheid evenementen combineren drie elementen: een duidelijk doel, een passende beleving en een meetbaar vervolg. Begin met de vraag: wat willen we dat medewerkers voelen, weten of doen na dit evenement? Richt het programma daar volledig op in. Zorg voor actieve participa"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:08+00:00"
+last_updated: "2026-05-08T21:23:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
