@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-groot-employer-branding-evenement
 title: "Hoe groot moet een employer branding evenement zijn?"
 description: "De omvang van een employer branding evenement hangt af van je doelstelling. Wil je primair bestaande medewerkers binden? Dan werkt een intiem evenement voor 50 tot 300 personen uitstekend. Richt je je ook op externe doelgroepen zoals kandidaten of alumni? Dan kan een grotere opzet voor 300 tot 1.000"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:35+00:00"
+last_updated: "2026-05-08T21:23:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
