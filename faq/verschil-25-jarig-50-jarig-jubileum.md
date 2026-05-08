@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-25-jarig-50-jarig-jubileum"
 title: "Wat is het verschil tussen een 25-jarig en een 50-jarig jubileum voor een bedrijf?"
 description: "Het verschil zit in schaal, planning en toon. Een 25-jarig jubileum is het eerste grote mijlpaalfeest: een bedrijf dat bewezen heeft te bestaan. De sfeer is energiek en vooruitkijkend. Een 50-jarig jubileum is een generatiefeest: medewerkers die erbij waren van het begin, klanten die al decennia loy"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:30+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
