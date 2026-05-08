@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-amersfoort"
 title: "Waarom Amersfoort een sterke evenementenstad is"
 description: "Evenement organiseren in Amersfoort? Historische binnenstad centraal in Nederland. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:22+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
