@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-utrecht"
 title: "Jouw evenementenbureau in Utrecht"
 description: "Jouw evenementenbureau in Utrecht: concept, productie, uitvoering. Van congres tot personeelsfeest. Full-service partners met 25+ jaar ervaring."
 section: "Blog"
-last_updated: "2026-05-08T16:51:03+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
