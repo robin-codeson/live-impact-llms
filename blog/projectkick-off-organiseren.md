@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/projectkick-off-organiseren"
 title: "Waarom de meeste project kick-offs een formaliteit blijven"
 description: "Een project kick-off organiseren die je projectteam echt op koers zet. Zo bouw je een aftrap met richting, energie en een plan dat blijft hangen."
 section: "Blog"
-last_updated: "2026-05-08T16:52:23+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
