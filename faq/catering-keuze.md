@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/catering-keuze"
 title: "Hoe kies je de juiste catering voor je zakelijk evenement?"
 description: "De juiste catering matcht het type evenement, het tijdstip en je doelgroep. Begin met de basisvraag: is dit een lunch, diner, walking dinner of doorlopend buffet? Een lunch tijdens een congres vraagt iets anders dan een gala-diner. Houd rekening met dieetwensen: vegetarisch, veganistisch, glutenvrij"
 section: "FAQ"
-last_updated: "2026-05-08T16:56:44+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
