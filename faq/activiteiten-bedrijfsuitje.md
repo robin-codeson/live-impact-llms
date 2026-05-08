@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/activiteiten-bedrijfsuitje"
 title: "Welke activiteiten zijn populair voor bedrijfsuitjes?"
 description: "Populaire activiteiten voor bedrijfsuitjes in 2026 verschillen per groep, maar enkele formats werken altijd. Escape rooms blijven sterk: 1 tot 2 uur, 4-6 personen per kamer, mix van logica en samenwerking. Kookworkshops bouwen sociaal contact via samen eten: 3 uur inclusief eten, geschikt voor 8-30 "
 section: "FAQ"
-last_updated: "2026-05-08T16:53:40+00:00"
+last_updated: "2026-05-08T21:22:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
