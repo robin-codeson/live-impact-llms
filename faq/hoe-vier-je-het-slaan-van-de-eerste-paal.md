@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-vier-je-het-slaan-van-de-eerste-p
 title: "Hoe vier je het slaan van de eerste paal?"
 description: "Een eerste-paalceremonie combineer je het beste met een kort inhoudelijk programma en een fysiek moment. Begin met een presentatie van de visie achter het project. Laat de opdrachtgever het verhaal vertellen. Het fysieke moment zelf (het heien, het storten van beton, het plaatsen van een tijdcapsule"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:06+00:00"
+last_updated: "2026-05-08T21:23:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
