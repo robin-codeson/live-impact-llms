@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-online-offline-productlancer
 title: "Wat is het verschil tussen een online en offline productlancering?"
 description: "Beide formats hebben hun kracht. Een offline productlancering biedt directe beleving: gasten kunnen het product aanraken, proeven of ervaren, en de emotionele impact is groter. Een online lancering bereikt een veel groter publiek tegen lagere kosten, maar mist de directe interactie. Een hybride aanp"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:12+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
