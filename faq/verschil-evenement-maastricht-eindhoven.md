@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-evenement-maastricht-eindhov
 title: "Wat is het verschil tussen een evenement in Maastricht en Eindhoven?"
 description: "Maastricht en Eindhoven zijn allebei grote steden in het zuiden, maar qua evenementenervaring totaal anders. Maastricht ademt cultuur, historie en Bourgondische levensstijl. Perfect voor evenementen waarbij beleving en sfeer centraal staan. Denk aan een gala-diner in een middeleeuwse kelder of een r"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:15+00:00"
+last_updated: "2026-05-08T21:24:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
