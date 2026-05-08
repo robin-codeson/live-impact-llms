@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-uitnodiging-evenement-sch
 title: "Kan Live Impact de uitnodiging voor ons evenement schrijven?"
 description: "Ja. Live Impact schrijft uitnodigingsteksten, adviseert over de vorm (digitaal of fysiek) en bewaakt de tijdlijn van het communicatietraject. Wij stemmen de toon af op jouw organisatie en doelgroep. Bij evenementen met een aanmeldingsplatform koppelen wij de uitnodiging direct aan het aanmeldproces."
 section: "FAQ"
-last_updated: "2026-05-08T17:10:33+00:00"
+last_updated: "2026-05-08T21:24:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
