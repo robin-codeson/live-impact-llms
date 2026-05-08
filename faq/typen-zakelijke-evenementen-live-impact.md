@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/typen-zakelijke-evenementen-live-impa
 title: "Welke typen zakelijke evenementen organiseert Live Impact?"
 description: "Live Impact organiseert alle typen zakelijke evenementen. Voorbeelden zijn kick-offs, personeelsfeesten en bedrijfsjubilea van 10, 25 of 50 jaar. Daarnaast organiseren wij relatie-evenementen, congressen, symposia en incentives. Wij werken zowel kleinschalig vanaf 30 personen als grootschalig tot 5."
 section: "FAQ"
-last_updated: "2026-05-08T17:15:04+00:00"
+last_updated: "2026-05-08T21:24:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
