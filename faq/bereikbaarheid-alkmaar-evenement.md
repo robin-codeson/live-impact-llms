@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-alkmaar-evenement"
 title: "Hoe bereikbaar is Alkmaar voor zakelijke gasten?"
 description: "<p>Alkmaar is goed bereikbaar per auto via de A9 en per trein. Het station ligt op loopafstand van de binnenstad. Gasten uit Amsterdam, Haarlem en Den Helder zijn er binnen een halfuur. Wij selecteren locaties met eigen parkeerterrein of parkeergelegenheid op loopafstand. Live Impact is gevestigd in"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:32+00:00"
+last_updated: "2026-05-08T21:22:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
