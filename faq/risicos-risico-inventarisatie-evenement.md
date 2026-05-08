@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/risicos-risico-inventarisatie-eveneme
 title: "Welke risico's moet ik meenemen in de risico-inventarisatie voor mijn evenement?"
 description: "Denk in vier categorieën. Locatie en techniek: stroomstoring, internetuitval, defect aan apparatuur. Extern en weersgebonden: regen, extreme warmte, verkeer en OV-storing. Personeel en leveranciers: afzegging van spreker of artiest, catering die niet levert, hostteam dat uitvalt. Gasten en veilighei"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:44+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
