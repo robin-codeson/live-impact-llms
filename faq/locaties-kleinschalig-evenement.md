@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locaties-kleinschalig-evenement"
 title: "Welke locaties zijn geschikt voor kleinschalige evenementen (20-50 personen)?"
 description: "Voor groepen van 20-50 personen zijn restaurants, kleinere vergaderlocaties en privéruimtes in cafés ideaal. In steden: een brasserie met apart zaaltje (20-40 personen), wijnbar met privéhoek, of kleine theaterruimte. Voordeel: volledige controle, intimiteit, goed eten. Buiten steden: boerderijen me"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:09+00:00"
+last_updated: "2026-05-08T21:24:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
