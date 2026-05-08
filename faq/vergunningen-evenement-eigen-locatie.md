@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunningen-evenement-eigen-locatie"
 title: "Welke vergunningen heb je nodig voor een evenement op eigen locatie?"
 description: "Welke vergunningen je nodig hebt, hangt af van de omvang en het type evenement. Bij grotere evenementen of evenementen met muziek op eigen terrein kan een evenementenvergunning vereist zijn. Serveer je alcohol? Dan heb je mogelijk een tijdelijke drank- en horecavergunning nodig. Verwacht je geluidso"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:24+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
