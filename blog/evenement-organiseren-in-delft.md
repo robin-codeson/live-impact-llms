@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-delft"
 title: "Delft: kennis, technologie en historische schoonheid in één stad"
 description: "Evenement organiseren in Delft? Historische charme, TU Delft en innovatieve sfeer. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:26+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
