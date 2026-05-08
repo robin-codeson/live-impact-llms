@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-eindhoven"
 title: "Waarom Eindhoven de stad is voor innovatieve evenementen"
 description: "Evenement organiseren in Eindhoven? Innovatieve energie en Design Week-locaties in Brainport."
 section: "Blog"
-last_updated: "2026-05-08T16:50:30+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
