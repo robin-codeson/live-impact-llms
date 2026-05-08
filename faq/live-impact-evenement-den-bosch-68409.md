@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-den-bosch-68409
 title: "Kan Live Impact een evenement organiseren in Den Bosch?"
 description: "Ja. Live Impact organiseert zakelijke evenementen door heel Nederland, inclusief Den Bosch en de omliggende regio. Wij kennen de locaties, de lokale leveranciers en het type evenement dat hier past. Van concept tot confetti: wij regelen het volledig. Neem contact op voor een vrijblijvend gesprek ove"
 section: "FAQ"
-last_updated: "2026-05-08T17:08:22+00:00"
+last_updated: "2026-05-08T21:23:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
