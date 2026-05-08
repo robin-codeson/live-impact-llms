@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/kengetallen-zakelijke-evenementen"
 title: "Kengetallen: je startpunt, niet je eindpunt"
 description: "Kengetallen voor zakelijke evenementen: kosten per persoon, m² per gast en doorlooptijden op een rij."
 section: "Blog"
-last_updated: "2026-05-08T16:51:37+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
