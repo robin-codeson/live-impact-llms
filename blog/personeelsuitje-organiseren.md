@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personeelsuitje-organiseren"
 title: "Waarom een personeelsuitje meer doet dan je denkt"
 description: "Personeelsuitje organiseren voor je team? Opzet, locatie, kosten en praktische tips. Serieus Leuk van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:52:15+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
