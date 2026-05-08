@@ -1,142 +1,178 @@
-[< Back](jubileumfeest.html#)[< Work](jubileumfeest.html#)
+---
+canonical_url: "https://live-impact.nl/categories/jubileumfeest"
+title: "Een jubileumfeest vraagt meer dan alleen een mooie locatie"
+description: "Jubileumfeest organiseren? Lees alles over opzet, locatie, entertainment, programmaopbouw en budget. Van 30 tot 4.000 gasten: zo doe je het goed."
+section: "Categorieën"
+last_updated: "2026-05-08T16:53:20+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
-[Next >](jubileumfeest.html#)
+![Luchtfoto van coverband op catwalk met groot publiek bij een jubileumfeest](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f5900a96eae44ba4f8e0_69c0696900fa33741dc8db55_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520lucht%2520entertainment%2520Discophonic%2520Pety%2520catwalk.webp)
 
-[
+# Een jubileumfeest vraagt meer dan alleen een mooie locatie
 
-](https://s3.amazonaws.com/webflow-prod-assets/695b829c457806268234cdfa/6973b1ed5ae5ad33b16cf10b_Jubileumfeest%20MUMC%2015%20jr%20-%20Live%20Impact%20Eventmarketing.mp4)
+Een **jubileumfeest organiseren** verschilt wezenlijk van een gewoon personeelsfeest. Bij die laatste gaat het om ontspanning. Bij een jubileum gaat het meer om het verhaal. Om erkenning. Om het gevoel dat jij en je mensen deel uitmaken van iets dat de moeite waard was om te bouwen.
 
-![Pause video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg)
-![Play video](https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg)
+Gasten verwachten die emotie ook. Ze verwachten een avond die aanvoelt als een markering in de tijd. Trots, vrolijkheid, misschien een lach én een traan, en daarna weer richting huis met het gevoel dat ze bij iets bijzonders aanwezig waren.
 
-# Jubileumfeest organiseren?
+Tegelijk moet een jubileumfeest gewoon goed zijn. Lekker eten. Goede muziek. Een programma dat klopt.
 
-Een heel jaar lang jarig.
+Dat is de spagaat van een jubileumfeest organiseren: het moet emotioneel resoneren én feestelijk zijn. Wij bij Live Impact weten hoe je beide combineert. We volgen geen standaardformule. We beginnen bij jullie verhaal.
 
-[Jubileumfeest](jubileumfeest.html#)
+Wat wil je dat gasten voelen als ze naar huis rijden? Vanuit dat gevoel werk je terug. Dáár begint een jubileumfeest dat mensen jaren bijblijft.
 
-## Toost op de Toekomst
+## Welke opzet past bij jullie: 30 of 500 gasten?
 
-Of het nu een 10-jarig jubileum, 25-jarig bestaan of 100 jaar bedrijf vieren is — elk jubileum verdient een eigen aanpak. Als marketing- of communicatiemanager bij een groot bedrijf weet je: een jubileum is een zeldzaam moment waarop iedereen even stilstaat. Gebruik dat moment om trots en samenhang voelbaar te maken — van directie tot werkvloer. Niet met losse feestjes, maar met een verhaal dat laat zien wie jullie zijn en waar jullie naartoe gaan.
+Er is één belangrijke vraag die je aan het begin probeert te beantwoorden: Hoe groot wordt dit? En hoe wil je dat het aanvoelt?
 
-Je kunt alles zelf willen sturen, maar dat kost tijd en scherpte. Jouw rol is richting geven: doel, boodschap en keuzes bewaken. Laat planning, leveranciers en uitvoering aan mensen die dit dagelijks doen. Dan wordt het geen standaardavond, maar een helder moment dat past bij jullie cultuur én jou intern geloofwaardig maakt.
+De opzet bepaalt alles: de locatie, het budget, het type entertainment en het cateringconcept. Het staat of valt met de keuze die je hier maakt.
 
-‍
+**Kleinschalig diner (20 tot 80 personen)**
 
-### Bedrijfsjubileum organiseren als een campagne
+Gasten zitten samen aan tafel. Er is ruimte voor toespraken, voor verhalen, voor een toast op dertig jaar hard werken. Deze opzet werkt goed voor kleinere bedrijven en managementteams. Het budget per persoon is hoger, je gaat voor kwaliteit. Een culinaire avond met livemuziek op de achtergrond, een toespraakmoment, een goed glas wijn. Stijlvol en persoonlijk.
 
-Wil je dat mensen het onthouden, behandel het jubileum dan als een campagne met opbouw en afloop. We starten vroeg met communicatie die nieuwsgierig maakt en eindigen met een evenement dat gesprekken op gang brengt — en dat nog even blijft hangen.
+**Feestavond met programma (80 tot 300 personen)**
 
-We werken met drie onderdelen:
+Dit is de meest gekozen opzet voor jubilea. Gasten lopen vrij rond en er is een duidelijk programmahoogtepunt (een band, een spreker). Dynamisch, breed toegankelijk, geen dresscode die aanvoelt als verplicht. Voor de meeste middelgrote bedrijven is dit de ideale keuze.
 
-**Identiteit**
-We halen op wat jullie typeert: verhalen, mijlpalen, gewoontes, humor en trots. Daaruit maken we één duidelijke lijn.
+**Groot evenement (300 of meer personen)**
 
-**Concept**
-We vertalen die lijn naar een vorm die past bij jullie organisatie: een festival, een route door de geschiedenis, of een modern gala. Alles in één toon, met keuzes die kloppen.
+Meerdere zones, meerdere acts, eet- en drankzones, interactieve onderdelen. Dit is organisatorisch complex maar geeft maximale vrijheid. Live Impact organiseerde jubilea voor 5.000 gasten volgens deze formule. De hele avond konden de aanwezigen zelf hun route door het evenement kiezen.
 
-**Productie**
-Wij regelen het hele traject: uitnodiging en communicatie, draaiboek, techniek, catering, decor, acts en begeleiding op de dag zelf. Zodat jullie je kunnen richten op gasten en inhoud.
+Kies je opzet op basis van vier dingen. Hoeveel mensen komen er? Wat is het budget? Hoe staat de bedrijfscultuur tegenover formeel versus informeel? En het meest onderschatte punt: hoeveel organisatietijd heb je zelf? Heb je dat helder? Dan kun je verder plannen.
 
-Met deze aanpak maak je van een mijlpaal een herinnering die nog lang doorwerkt.
+## De locatie zegt iets over wie je bent
 
-‍
+Een jubileumfeest is vaak niet de avond om de goedkoopste zaalruimte drie hoog achteraf te boeken. Want: De locatie is een onderdeel van het jubileumverhaal dat je vertelt.
 
-[![Kemkens 175 jaar — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb72_6973e2961f7bd36c202b56d7_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Koning%2520Henri%2520op%2520troon%2520bij%2520podium%2520kijkt%2520in%2520camera.webp)
+Stel: jouw bedrijf begon in 1990 in een oud fabrieksgebouw aan de rand van de stad. Twintig jaar later vier je dat jubileum in precies zo'n gebouw: bakstenen muren, hoge plafonds, industrieel licht. Dat klopt. Dat voelt authentiek.
 
-### Kemkens 175 jaar
+Een adviesbureau dat veertig jaar bestaat, kiest misschien juist voor een klassiek grachtenpand of een statig hotel. Dat vertelt: wij zijn solide, wij zijn vertrouwd. Beide zijn goede keuzes, zolang de locatie aansluit bij wie je bent.
 
-Jubileumfeest
+Drie vragen helpen bij de keuze:
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/kemkens-175-jaar.html)
+**Wat zegt de ruimte voordat we iets hebben gedaan?** Een locatie die meteen aanvoelt als feest, is al het halve werk. Een ruimte die je alsnog moet transformeren kost budget en energie.
 
-[![25 jaar Amphia — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727cd9_69727268d49be806bfa4dfeb_AMPHIA_25jaar-07Nov25-152.webp)
+**Past de locatie bij de mensen die komen?** Een technologie-start-up met een jong hip team gaat vaak voor een andere sfeer dan een familiebedrijf met medewerkers die er al vijftig jaar werken.
 
-### 25 jaar Amphia
+**Is de locatie er logistiek klaar voor?** Voor 80 personen heb je minimaal 200 m² nodig als je ook een dansje wilt wagen. Voor 300 personen zit je al snel op 700 tot 1.000 m². Let ook op aanwezige parkeerruimte als er veel mensen met eigen vervoer komen.
 
-Jubileumfeest
+Locaties die goed werken: voormalige fabrieken en pakhuizen, buitenruimtes op eigen terrein, schepen, landgoederen. [Lees meer over het vinden van de juiste evenementenlocatie →](/blog/evenementenlocatie-vinden)
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/25-jaar-amphia.html)
+## De opbouw van je avond: volgorde bepaalt beleving
 
-[![25 jaar HVBM — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31797208d6cb7f1727cf3_697269034dce28ed05e02ffe_Noi%2520swaypole%2520spigelwand%2520entree%2520-%2520Live%2520Impact%2520Eventmarketing%2520(c)%25202025.webp)
+Een jubileumfeest is een verhaal. En verhalen hebben een volgorde. De meeste feesten die tegenvallen, doen dat niet door slechte catering of matige muziek. Ze doen dat door een slechte opbouw.
 
-### 25 jaar HVBM
+**Ontvangst (30 tot 45 minuten)**
 
-Relatie-evenement
+Gasten komen binnen, pakken een drankje, zien bekenden. Zorg voor achtergrondmuziek op een volume waarop je nog gewoon kunt praten. Er zijn geen toespraken en geen formeel programma. Laat mensen landen.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/25-jaar-hvbm.html)
+**Welkom (5 tot 10 minuten)**
 
-[![Alrijne Ziekenhuis — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ced_6976528480a64dd80d8d12ab_Alrijne%2520Jubuleumfeest%2520-%2520Overzicht%2520voorterrein%2520luchtfoto.webp)
+Roep iedereen bij elkaar voor een kort welkom door de directeur of een presentator. Geen lange toespraak over het bedrijfsverleden, dat komt later. De boodschap is simpel: welkom, fijn dat jullie er zijn, vanavond vieren we iets.
 
-### Alrijne Ziekenhuis
+**Opening (5 tot 30 minuten)**
 
-Jubileumfeest
+Hier zit het stuk dat mensen onthouden. Een cabaretier die inspeelt op de bedrijfscultuur. Een spectaculaire openingsshow. Een indrukwekkende aftrap. Besteed hier budget en veel aandacht aan.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfestival-alrijne-ziekenhuis.html)
+**Culinair middenstuk (45 tot 90 minuten)**
 
-[![100 jaar Hendriks Bouw — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce98_Foto-Wim-Roefs-5749_1200_.webp)
+Ruimte voor gesprekken, eten, drinken. Achtergrond-entertainment houdt de sfeer warm: een dj, een silent disco-zone, een foto-installatie. Geen verplicht programma, gasten bepalen zelf hoe actief ze zijn.
 
-### 100 jaar Hendriks Bouw
+**Middenfeest (120 tot 180 minuten)**
 
-Jubileumfeest
+Tandje hoger. Muzikale opbouw door een band, DJ. Mobiel entertainment. Culinair entertainment. Dansen, lachen en meezingen.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileum-100-jaar-hendriks-bouw.html)
+**Finale (30-90 minuten)**  
+Sluit bewust af. Dat kan een dansset zijn, een verrassing, een gezamenlijk meezingmoment. Gasten moeten het gevoel hebben dat de avond opbouwt naar een cimax.
 
-[![15 jaar MUMC+ — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce97_VIP-Entree-borden-close-2023-06-30MRF-2297-scaled.webp)
+## Entertainment dat past bij jouw jubileum
 
-### 15 jaar MUMC+
+Entertainment is het stuk dat mensen onthouden. Of juist vergeten, als het niet klopt.
 
-Jubileumfeest
+De vraag is niet: welke band is populair? De vraag is: welk entertainment past bij je bedrijf, op dit moment, voor deze mensen?
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfeest-15-jaar.html)
+Een accountantskantoor dat vijftig jaar bestaat, heeft ander entertainment nodig dan een IT-start-up die zijn tiende verjaardag viert. En een jubileum voor 600 medewerkers vraagt om andere keuzes dan een kleinschalig diner voor veertig trouwe klanten.
 
-[![70 jaar Joanknecht — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/695b829c457806268234ce94_KEYVISUAL-20180622_JOANKNECHT-LR_146-2.jpeg)
+**Livemuziek** werkt altijd bij jubilea, maar kies bewust. Welke muziek speelde er op de radio in het jaar dat het bedrijf werd opgericht? Een setlist die dát oproept, geeft gasten een gevoel van tijdreizen. Meer indruk dan de zoveelste coverband met actuele hits.
 
-### 70 jaar Joanknecht
+**Comedy** werkt als je een cabaretier vindt die de moeite neemt het bedrijf te leren kennen. Humor over herkenbare situaties bindt mensen. Generieke grappen over kantoorhumor doen dat niet. En let op: Comedy gaat niet zo goed met groepen pratende mensen op de achtergrond.
 
-Jubileumfeest
+**Interactieve acts** (een karaokecaravan, een muziekbingo, een salasa-workshop) betrekken gasten actief bij het jubileumfeest. Minder passief kijken, meer zelf meedoen en beleven.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileum-70-jaar-joanknecht.html)
+Welk entertainment past bij jullie jubileum? Dat begint bij het DNA van het bedrijf. Jullie cultuur, de verhalen die iedereen kent, de sfeer die je wilt neerzetten. Op basis daarvan bouwen wij een programma. Geen standaardlijst van acts, maar een gerichte keuze op maat.
 
-[![25 jaar TLN — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727ce2_69761e5d828fa3fe8aa27fc5_TLN%2520Live%2520Awardshow%2520uuitreiking%2520winnaar%2520en%2520kussentjes%2520door%2520de%2520lucht.webp)
+We werken al meer dan 25 jaar met de beste entertainmentpartners in Nederland. We weten wie er goed zijn en waar je zonder risico kunt boeken..
 
-### 25 jaar TLN
+## Budget en catering: hier bezuinig je niet op
 
-Jubileumfeest
+Een jubileumfeest kost ongeveer €250 tot €350+ per persoon ex. btw bij 250 tot 500 gasten — totaal ongeveer €95.000 tot €175.000+. Voor 500 tot 1.000 gasten reken je op ongeveer €225 tot €325+ per persoon (totaal ongeveer €170.000 tot €325.000+). Voor 1.000 tot 2.000 gasten op ongeveer €200 tot €300+ per persoon (totaal ongeveer €300.000 tot €600.000+). Boven de 2.000 gasten op ongeveer €150 tot €200+ per persoon. Alle bedragen exclusief btw.
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumcongres-25-jaar-tln.html)
+Inclusief locatie, catering, entertainment en productie. De grootste kostenposten zijn locatie en catering (40-50%), entertainment en productie (20-30%) en communicatie (5-10%).
 
-[![Huisman 90 jaar — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c317c5e83f8b3a71b8cb69_697621e3a82e8e95279a15f6_Huisman%2520Schiedam%252090%2520jaar%2520Overzicht%2520zaal.webp)
+## Live Impact organiseert jouw jubileum
 
-### Huisman 90 jaar
+Wij organiseerden jubileumfeesten voor 20 gasten in een privékeuken. En voor 1.400 gasten op een landgoed buiten Den Bosch. Of voor 4.5000 gasten in het MECC in Maastricht. Voor startups die hun vijfde jaar vieren en voor familiebedrijven die hun eeuwfeest organiseren. Elk jubileum is uniek. Elk jubileum vraagt om een bureau die dat serieus neemt.
 
-Jubileumfeest
+We beginnen nooit met een lijst van acts en locaties. We beginnen met jou. Wat is jullie verhaal? Wat maakt dit jubileum anders dan dat van een ander bedrijf? Welk gevoel nemen de gasten mee naar huis?
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfeest-90-jaar.html)
+Vanuit die antwoorden bouwen we de avond op. Concept, locatie, entertainment, catering, draaiboek, techniek: wij regelen het. Jij hoeft op de dag zelf niets te doen behalve aanwezig zijn.
 
-[![90 jaar SGS — evenement georganiseerd door Live Impact](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c31796208d6cb7f1727cdc_69762d8bae2b33ea3002c618_SGS%2520100%2520jaar%2520Jubileumfeest%2520-%2520Tableau%2520entree%25202.webp)
+Bel ons op **085 401 40 14** of stuur een mail naar **hello@live-impact.nl**. We plannen een gesprek, stellen de juiste vragen en komen terug met een voorstel dat klopt.
 
-### Redders in Nood
+*Serieus Leuk.*
 
-Jubileumfeest
+## Lees ook
 
-![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](../portfolio/jubileumfeest-the-green-party.html)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[![Vrouw in een witte jurk dansend op stelten bij zonsondergang met glasplaten en bomen op de achtergrond.](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce09_Asset%201-50.jpg)](jubileumfeest.html#)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-## Rust op de dag zelf, vertrouwen bij directie en MT
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
-Een groot bedrijfsjubileum geeft spanning. Die wil je bij het publiek, niet in je hoofd. Wij bewaken het jubileumconcept, planning en details, vangen problemen af en zorgen dat timing, techniek en hospitality kloppen. Jij houdt ruimte om zichtbaar te zijn, gesprekken te voeren en intern te laten zien dat het goed geregeld is.
+## Veelgestelde vragen
 
-Klaar om van jullie jubileum iets te maken dat mensen bijblijft? Laten we samen de eerste stap zetten.
+Kan Live Impact helpen bij het organiseren van een jubileum?
 
-‍
+Ja. We organiseren bedrijfsjubilea van begin tot eind. Behalve locatie, entertainment en catering regelen we ook het programma. We kijken waar de speech valt, hoe je de energie opbouwt en wat ervoor en erna komt.
 
-## Meer lezen
+Een goede speech verdient een podium dat klopt. Wij zorgen dat de hele avond voelt als één verhaal.
 
-Lees ook: [Bedrijfsjubileum organiseren](../blog/bedrijfsjubileum-organiseren.html) — of bekijk onze aanpak voor een [bedrijfsopening](opening.html). Antwoord op veelgestelde vragen vind je op onze [FAQ-pagina](../faq.html).
+Neem contact op via 073-6440999 of contact@live-impact.nl.
 
-![](https://cdn.prod.website-files.com/695b829c457806268234cdfa/695b829c457806268234ce26_Asset%203-50.jpg)
+**[Meer weten over een jubileumspeech schrijven? Lees ons complete artikel →](/blog/jubileum-speech-schrijven-bedrijf)**
+
+Kan Live Impact helpen bij een origineel jubileumfeest?
+
+Ja. We werken aan zakelijke evenementen die blijven hangen. We helpen bij het concept, scouten de locatie, boeken entertainment dat past bij jouw verhaal en regelen techniek en logistiek.
+
+Van intiem diner (40 personen) tot festivalformat (1.000 gasten). We zorgen dat het voelt als jouw avond.
+
+Neem contact op via 073-6440999 of contact@live-impact.nl.
+
+**[Meer ideeën? Lees ons complete artikel →](/blog/jubileumfeest-ideeen-origineel)**
+
+Hoeveel kost een origineel jubileumfeest?
+
+De kosten hangen af van groepsgrootte en ambitie. Intiem jubileum (50 personen): 5.000 tot 15.000 euro. Middelgroot (150 personen, bijzondere locatie): 15.000 tot 40.000 euro. Groot (300+ gasten, volledige productie): 40.000 tot 100.000 euro of meer.
+
+Veel originele ideeën kosten niet meer dan standaard. Een escape room, handgeschreven brieven of tijdcapsule voegen waarde toe zonder extra budget.
+
+**[Meer ideeën? Lees ons complete artikel →](/blog/jubileumfeest-ideeen-origineel)**
+
+Welke interne evenementen passen in een jubileumjaar?
+
+Vier interne momenten werken goed. Een kick-off in januari. Een medewerkersverhalen-project in mei of juni, met interviews, video's of een intern boekje. Een familiedag in september. En een dankborrel in november of december.
+
+Deze momenten kosten elk 2.000 tot 10.000 euro en bouwen interne trots op door het hele jaar heen.
+
+**[Meer weten over jubileumjaar organiseren? Lees ons complete artikel →](/blog/jubileumjaar-organiseren)**
+
+Waarom kiezen klanten voor Live Impact?
+
+Omdat wij het concept en de uitvoering uit één hand leveren. Omdat wij eerlijk zijn over budget, planning en wat wel en niet kan. Omdat wij scherp blijven tot het laatste detail. En omdat wij een database van honderden acts en locaties hebben die wij keer op keer met goed gevolg inzetten. Serieus Leuk werken, noemen wij dat.
+
+Meer weten? [Plan een kennismaking](/contact).
 
 ## Geïnspireerd geraakt?
 
