@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenbureau-personeelsfeest"
 title: "Waarom een evenementenbureau inschakelen voor je personeelsfeest?"
 description: "Een evenementenbureau bespaart je interne team honderden uren werk. Meer dan dat: een bureau brengt creativiteit die een personeelsfeest echt bijzonder maakt. Ze kennen de leveranciers en onderhandelen betere tarieven. Ze hebben ervaring met wat werkt en regelen alles op de dag zelf. Zo kan jij als "
 section: "FAQ"
-last_updated: "2026-05-08T16:58:39+00:00"
+last_updated: "2026-05-08T21:23:02+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
