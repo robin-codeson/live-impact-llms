@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-decoratie-aankleding-even
 title: "Kan Live Impact de decoratie en aankleding van ons evenement verzorgen?"
 description: "Ja. Wij werken met vaste stylingpartners die decoratie als vak verstaan. Samen bouwen we het decoratieconcept op basis van jouw evenementthema en merkidentiteit. We vertalen het naar een concrete aankleding en voeren het uit op de dag zelf. Van de eerste moodboard tot het laatste bloemstuk. Wil je w"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:48+00:00"
+last_updated: "2026-05-08T21:23:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
