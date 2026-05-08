@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-klantbinding-klantretentie"
 title: "Wat zijn exclusieve dinerkringen?"
 description: "Exclusieve dinerkringen zijn netwerkevenementen waarbij een select en bewust samengesteld gezelschap samenkomt rond een gedeeld thema of belang. Denk aan een diner voor CEO's uit dezelfde sector of een tafel voor topvrouwen in technologie. Een clubdiner voor adviseurs in een specifieke markt past oo"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:59+00:00"
+last_updated: "2026-05-08T21:24:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
