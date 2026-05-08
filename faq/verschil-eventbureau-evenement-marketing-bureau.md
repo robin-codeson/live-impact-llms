@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-eventbureau-evenement-market
 title: "Wat is het verschil tussen een eventbureau en een evenement marketing bureau?"
 description: "Een eventbureau organiseert evenementen: locatie, catering, entertainment, logistiek. Een evenement marketing bureau doet dat ook, maar denkt actief mee over het marketingresultaat van het evenement. Het startpunt van een eventbureau is \"wat voor evenement willen jullie?\" Het startpunt van een evene"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:29+00:00"
+last_updated: "2026-05-08T21:24:43+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
