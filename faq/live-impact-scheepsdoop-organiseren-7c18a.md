@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-scheepsdoop-organiseren-7
 title: "Kan Live Impact een scheepsdoop volledig verzorgen?"
 description: "Ja. Live Impact organiseert scheepsdopen van A tot Z. We werken het ceremonieel en de regievoering op locatie uit. Daarnaast verzorgen we catering, techniek en communicatie naar genodigden. We zorgen dat de doop klopt qua protocol én een onvergetelijk moment wordt voor de aanwezigen."
 section: "FAQ"
-last_updated: "2026-05-08T17:10:16+00:00"
+last_updated: "2026-05-08T21:24:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
