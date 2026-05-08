@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/online-evenement-organiseren"
 title: "Online evenementen: bewuste strategische keuze naast live"
 description: "Online evenement organiseren? Zo betrek je digitale deelnemers écht — niet als bijzaak. Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:52:04+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
