@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-kennisevent-organiser
 title: "Kan Live Impact een kennisevent organiseren?"
 description: "Ja. Live Impact voegt aan kennisevents toe wat intern vaak ontbreekt: dramaturgie, beleving en productie. Wij zorgen dat je kennisdag niet voelt als een verplicht programma, maar als een inspirerende ervaring. We regelen locatie, techniek, catering, registratie en de flow van de dag. Zodat jouw inho"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:08+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
