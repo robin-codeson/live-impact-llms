@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bereikbaarheid-leeuwarden-fries"
 title: "Hoe ver van Leeuwarden naar andere Friese plaatsen?"
 description: "<p>Leeuwarden ligt centraal in Friesland en is uitstekend als uitvalsbasis voor regionale evenementen. Dokkum, Sneek en Harlingen liggen alle drie op zo'n 35 kilometer. Per auto of trein zijn die plaatsen makkelijk bereikbaar. Dat maakt Leeuwarden geschikt voor evenementen waar gasten uit meerdere F"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:50+00:00"
+last_updated: "2026-05-08T21:22:42+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
