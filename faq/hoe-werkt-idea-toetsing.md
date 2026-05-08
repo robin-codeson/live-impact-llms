@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-werkt-idea-toetsing"
 title: "Hoe werkt de toetsing van het IDEA-keurmerk?"
 description: "De toetsing verloopt in drie fasen. Fase één: dossieronderzoek. Het bureau stuurt jaarcijfers, werkprocessen, een voorbeeldofferte, klanttevredenheidsmetingen en opleidingsplannen in. Fase twee: locatie-audit. Een auditor bezoekt het kantoor en spreekt medewerkers op verschillende niveaus. Fase drie"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:16+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
