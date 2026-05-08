@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-kost-evenementenbureau-gemidd
 title: "Hoeveel kost een evenementenbureau gemiddeld?"
 description: "Gemiddeld rekent een evenementenbureau 15 tot 25 procent van het totale eventbudget als honorarium. Voor een evenement van €30.000 betaal je daarmee €4.500 tot €7.500 aan bureaukosten. Die kosten dekken concept, projectmanagement, leverancierscoördinatie en de begeleiding op de dag zelf. Sommige bur"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:36+00:00"
+last_updated: "2026-05-08T21:23:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
