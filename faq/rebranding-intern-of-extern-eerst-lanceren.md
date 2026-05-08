@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/rebranding-intern-of-extern-eerst-lan
 title: "Moet je een rebranding intern of extern eerst lanceren?"
 description: "Altijd intern eerst. Je medewerkers zijn je eerste ambassadeurs. Als zij het verhaal niet begrijpen, vertellen ze het verkeerde verhaal naar buiten. Of erger: ze vertellen helemaal niets. Organiseer een interne lancering vóór de externe communicatie live gaat. Vertel het waarom vóór het wat. Geef ru"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:32+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
