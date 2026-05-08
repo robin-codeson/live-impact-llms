@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-ver-vooruit-zakelijk-evenement-pl
 title: "Hoever van tevoren moet je een zakelijk evenement plannen?"
 description: "De doorlooptijd hangt af van de schaal en complexiteit. Een bedrijfsborrel tot 50 personen plan je 4-6 weken van tevoren. Een personeelsfeest of kick-off van 50-150 personen heeft 8-12 weken nodig. Een congres van 100-300 personen vraagt 3-6 maanden voorbereiding en een groot gala of prijsuitreiking"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:05+00:00"
+last_updated: "2026-05-08T21:23:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
