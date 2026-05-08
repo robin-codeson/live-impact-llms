@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/reiskostenregeling-zakelijke-eveneme
 title: "Reiskosten en evenementen: een onderschatte HR-vraag"
 description: "Reiskostenregeling bij zakelijke evenementen? Fiscale regels en hoe je het slim regelt voor deelnemers."
 section: "Blog"
-last_updated: "2026-05-08T16:52:27+00:00"
+last_updated: "2026-05-08T21:22:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
