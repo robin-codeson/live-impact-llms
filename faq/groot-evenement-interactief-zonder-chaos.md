@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/groot-evenement-interactief-zonder-ch
 title: "Hoe maak je een groot evenement interactief zonder chaos?"
 description: "Grote groepen vragen meer structuur, niet minder interactie. De sleutel is gelaagd werken: zorg voor interactie op drie niveaus tegelijk. Individueel (iedereen stemt of schrijft iets op), in tweetallen (buurman-gesprek), en plenair (terugkoppeling naar de zaal). Zo voelt iedereen betrokken, ook in e"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:25+00:00"
+last_updated: "2026-05-08T21:23:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
