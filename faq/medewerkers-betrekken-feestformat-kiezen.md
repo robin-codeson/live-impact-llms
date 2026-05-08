@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/medewerkers-betrekken-feestformat-kie
 title: "Hoe betrek ik mijn medewerkers bij het kiezen van het feestformat?"
 description: "Stuur een korte poll met 2–3 keuzes. Vraag naar voorkeur voor activiteitentype, tijdstip en locatiesoort. Dat verhoogt de betrokkenheid vóór het feest en de deelname tijdens het feest."
 section: "FAQ"
-last_updated: "2026-05-08T17:11:21+00:00"
+last_updated: "2026-05-08T21:24:13+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
