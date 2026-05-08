@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/symposium-organiseren"
 title: "Een symposium is geen klein congres"
 description: "Symposium organiseren? Van sprekersselectie tot programmaopzet, zo zet je een expertbijeenkomst neer die deelnemers inspireert én activeert."
 section: "Blog"
-last_updated: "2026-05-08T16:52:41+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
