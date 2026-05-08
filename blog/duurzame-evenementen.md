@@ -1,90 +1,117 @@
-[< Back](duurzame-evenementen.html#)[< Work](duurzame-evenementen.html#)
-
-[Next >](duurzame-evenementen.html#)
+---
+canonical_url: "https://live-impact.nl/blog/duurzame-evenementen"
+title: "Duurzame evenementen: keuzes die werkelijk tellen"
+description: "Duurzame evenementen organiseren zonder in te leveren op beleving? Zo pak je het aan. Serieus Leuk."
+section: "Blog"
+last_updated: "2026-05-08T16:49:59+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Zakelijke presentatie op verlicht podium bij een bedrijfskick-off](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69cda2ac6ed71e373c302693_69c0615bf27c7bb43c14d947_Essent%2520Energy%2520Sales%2520presentatie%2520podium-%2520(c)%25202025%2520Live%2520Impact%2520Eventmarketing.jpeg)
 
-# Vijftig jaar is niet één feest — het zijn drie verhalen
+# Duurzame evenementen: keuzes die werkelijk tellen
 
-![{{wf {"path":"auteur-naam","type":"PlainText"} }}](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69c3180ae4de799a3fb37277_6981fee76155f028fe626632_Susan.webp)
+Duurzame evenementen zijn geen marketingterm meer. Opdrachtgevers, deelnemers en aandeelhouders vragen er actief naar. Gemeenten stellen steeds vaker duurzaamheidseisen bij vergunningverlening. En steeds meer organisaties hebben een eigen ESG-rapportage waar evenementen in meetellen.
 
-Geschreven door
+Maar duurzaamheid bij evenementen is complex. Er zijn geen eenvoudige antwoorden. Een papieren beker is niet automatisch beter dan een plastic. Lokaal inkopen is niet altijd goedkoper. En een volledig CO₂-neutraal evenement bestaat vooralsnog niet.
 
-Susan
+Wat wél kan: bewuste keuzes maken die per element de impact verlagen. Bij Live Impact werken we met opdrachtgevers aan een aanpak die past bij hun duurzaamheidsambities. En dat zonder concessies aan de kwaliteit van het evenement.
 
-Publicatiedatum
+## De grootste milieubelasting bij evenementen
 
-4 november 2025
+Om duurzame keuzes te maken, moet je weten waar de impact het grootst is. Bij zakelijke evenementen zijn er een paar dominante bronnen van milieu-impact:
 
-Een organisatie die 50 jaar bestaat, heeft minstens drie generaties medewerkers voortgebracht. Mensen die bij het begin waren en nu met pensioen zijn. Mensen die midden in hun carrière zitten. En mensen die net begonnen zijn. Elk heeft een ander verhaal met de organisatie. Elk heeft een andere reden om te vieren.
+**Transport** is verantwoordelijk voor 60 tot 80 procent van de totale CO₂-uitstoot van een evenement. Het gaat dan vooral om het reisgedrag van deelnemers: de auto is veruit de grootste boosdoener. Stimuleer openbaar vervoer actief via communicatie en vergoed de OV-kosten. Kies voor locaties die goed bereikbaar zijn per trein.
 
-Dat maakt een 50-jarig jubileum complexer dan een 10- of 25-jarig. Je viert niet één verhaal — je viert drie verhalen tegelijk. De uitdaging is om die drie werelden samen te brengen in één programma dat voor iedereen klopt. Dat vraagt om een gelaagde aanpak: een narratief dat de generaties verbindt, een programma dat variatie biedt, en een sfeer die zowel oud als nieuw aanspreekt.
+**Catering** bepaalt 10 tot 20 procent van de impact. Vlees, vooral rund, heeft de hoogste CO₂-voetafdruk. Een menu zonder vlees of met plantaardige alternatieven als standaard optie verlaagt de impact flink. Werk met seizoensgebonden ingrediënten, lokale leveranciers en een cateraar die actief stuurt op voedselverspilling.
 
-Een 50-jarig jubileum is ook het jubileum waarbij externe partijen — klanten, leveranciers, partners — niet meer wegzijn. Vijftig jaar is een statement dat verder gaat dan het eigen netwerk. Het is maatschappelijk relevant. Je mag trots zijn. En je mag het laten zien.
+**Energie en techniek** is de derde grote post. Verlichting, geluid en klimaatbeheersing verbruiken veel stroom. Vraag locaties en technische leveranciers naar hun energiebron. Kies voor LED-verlichting en vermijd overbodige techniek.
 
-## Concept: drie generaties op één podium
+## Duurzame catering: wat werkt en wat niet
 
-Het meest krachtige concept voor een 50-jarig jubileum is het generatiefeest: een programma dat bewust de drie generaties verbindt. Dat kun je letterlijk doen — een podiummoment waarbij een veteraan met een nieuwkomer in gesprek gaat over wat de organisatie voor hen betekent — maar ook symbolisch via een visual die de tijdlijn van 50 jaar toont met gezichten van medewerkers van elke generatie.
+Catering is de meest zichtbare duurzaamheidskeuze bij een evenement. Het is ook het punt waarop opdrachtgevers de meeste vragen krijgen van deelnemers. Wat werkt?
 
-Zorg dat elk generatiesegment zichtbaar is in het programma. De oprichters (of hun erfenis): een eerbetoon, een verhaal, een film. De middengeneratie: de mensen die de organisatie door haar groeijaren hebben gedragen — laat hen aan het woord. De jongste generatie: geef hen een rol in het toekomstverhaal via een pitch, een aankondiging, of een plenair moment waarbij de nieuwe lichting centraal staat.
+**Plantaardig menu als standaard.** Maak het plantaardige menu standaard en bied vlees als optie in plaats van andersom. Onderzoek laat consequent zien dat deelnemers dit accepteren als de kwaliteit goed is. Kies een cateraar die plantaardig niet als bijzaak behandelt.
 
-Koppel dit aan een visuele rode draad: een tijdlijn in de ruimte, een fotoproject waarbij medewerkers van alle generaties zijn afgebeeld, of een interactieve installatie waarbij gasten kunnen bijdragen aan het verhaal van de volgende 50 jaar.
+**Seizoensgebonden en lokaal.** Vraag de cateraar naar de herkomst van producten. Een menu gebouwd op wat op dit moment in Nederland groeit, heeft een fractie van de transportvoetafdruk van geïmporteerde ingrediënten.
 
-[Lees ook ons artikel over jubileums organiseren voor conceptinspiratie →](bedrijfsjubileum-organiseren.html)
+**Geen wegwerpplastic.** Herbruikbaar servies en bestek is bij binnenevenementen altijd haalbaar. Bij buitenevenementen is het logistiek complexer, maar composteerbare alternatieven zijn beschikbaar. Vermijd piepschuim en eenmalig plastic.
 
-## Locatie: schaal en symboliek in balans
+**Voedselverspilling aanpakken.** Vraag de cateraar naar zijn aanpak: hoeveel eten verspilde hij bij eerdere evenementen, en wat gebeurt er met restanten? Professionele cateraars werken met vaste berekeningsmodellen en doneren overgebleven eten aan voedselbanken.
 
-Een 50-jarig jubileum vraagt om een locatie die de schaal van de mijlpaal uitdrukt. Dat hoeft niet per se groot te zijn — maar het moet passend zijn. Een productiehal, een historisch gebouw, een iconische locatie in de regio: kies voor een plek die het verhaal versterkt.
+## Duurzame locatie en transport
 
-Voor 100 tot 300 personen zijn theater-achtige ruimtes of exclusieve evenementenhallen uitstekend. Voor grotere events (300 tot 1.000 personen) zijn congrescentra, festivals-achtige setups of bijzondere buitenterreinen meer geschikt. Let op flexibiliteit: een 50-jarig jubileum heeft vaak meerdere momenten — een plenair gedeelte, een diner, een feest. De locatie moet dat aankunnen.
+De locatiekeuze heeft directe invloed op twee grote milieuposten: transport (bereikbaarheid per OV) en energie (isolatie, energiebron, verlichting).
 
-Kies ook bewust voor symboliek. Is er een locatie die verbonden is met de geschiedenis van het bedrijf? Een stad, een gebouw, een regio? Dat kan enorm versterken. Maar wees praktisch: het moet ook werkbaar zijn voor alle gasten.
+**OV-bereikbaarheid is de belangrijkste factor.** Een locatie op loopafstand van een station heeft een veel lagere transportvoetafdruk. Een vergelijkbare locatie die alleen per auto bereikbaar is, niet. Dit weegt bij grote groepen zwaarder dan elk ander duurzaamheidskenmerk van de locatie zelf.
 
-## Programma en entertainment: vijftig jaar in één avond
+**Vraag locaties naar hun duurzaamheidsbeleid.** Steeds meer evenementenlocaties rapporteren op energieverbruik en gebruiken groene stroom. Sommige hebben zonnepanelen of een ISO 14001-certificering. Dit is meetbaar en vergelijkbaar.
 
-Een 50-jarig jubileum mag een rijker programma hebben dan een jonger jubileum. Meerdere acts, meer variatie, meer ruimte voor emotie en verhaal. Maar de structuur blijft leidend: een duidelijke opening, een emotioneel hoogtepunt, een feeststuk.
+**Eigen locatie als duurzame keuze.** Een evenement op de eigen werkplek bespaart op WKR-kosten én op transport. Medewerkers reizen toch al naar kantoor. Dat scheelt CO₂ ten opzichte van een externe locatie waar iedereen speciaal naartoe moet reizen.
 
-De opening: een plenair moment met hoge productiewaarde. Een korte documentaire die 50 jaar samenvat in vijf minuten. Toespraken van de directie, maar ook van een langjarige medewerker of klant. Een visueel statement dat de toon zet.
+**Transport actief sturen.** Organiseer carpoolmogelijkheden en communiceer actief over OV-opties. Vergoed of subsidieer het treinticket. Kleine maatregelen die de meeste impact hebben op de grootste milieukostenpost.
 
-Het feeststuk: na het inhoudelijke programma mag de avond losser worden. Een liveband die breed speelt, een DJ-set voor de jongere garde, dansvloer. Overweeg een bijzonder optreden dat past bij de cultuur van het bedrijf — bij 50 jaar past ambitieus entertainment.
+## Meten en rapporteren: CO₂-voetafdruk van je evenement
 
-Side-programma: voor grote jubileums werkt een parallelprogramma goed. Een nostalgische fototentoonstelling, een quiz over 50 jaar bedrijfsgeschiedenis, of een corner waar herinneringen worden gedeeld door mensen van alle generaties.
+Steeds meer organisaties willen duurzame keuzes maken én die keuzes kunnen verantwoorden. Dat vraagt om meting.
 
-[Meer over entertainmentkeuze voor grote jubileumfeesten →](evenement-entertainment-boeken.html)
+Een CO₂-berekening van een evenement omvat meerdere posten. Daarbij horen deelnemerstransport (op basis van vervoerswijze en afstand) en energieverbruik op de locatie. Maar ook catering (op basis van menu-samenstelling), materiaalgebruik en afvaltransport. Er bestaan gecertificeerde berekeningsmethoden, zoals de ISO 20121-standaard voor duurzaam evenementmanagement.
 
-## Budget: wat kost een 50-jarig jubileum?
+Wil je als organisatie jaarlijks rapporteren over de CO₂-voetafdruk van je evenementen? Dat is mogelijk. Live Impact werkt met hulpmiddelen die de invoer per evenement vastleggen en een overzicht per jaar genereren. Handig voor ESG-rapportages en intern communiceren over voortgang.
 
-Een jubileum van 50 jaar heeft doorgaans een groter budget dan jongere jubileums — zowel omdat er meer gasten zijn als omdat de ambities groter zijn. Voor een evenement van 150 tot 300 personen reken je op €40.000 tot €90.000. Bij 300 tot 800 personen met uitgebreide productie, entertainment en decoratie gaat het richting €80.000 tot €200.000.
+Let op: compensatie via CO₂-credits is geen vervanging voor reductie. Compenseer alleen wat je niet kunt verminderen, en communiceer transparant over het onderscheid. Greenwashing (duurzaamheid claimen zonder onderbouwing) is reputatieschade in wording.
 
-Grote kostenposten: locatie en catering (50-55%), entertainment en technische productie (25-30%), communicatie (5-10%), en buffer (10%). Let op: bij grote jubileums zijn de communicatiekosten hoger dan bij kleinere events. Uitnodigingen, save-the-dates, een jubileumwebsite of -magazine — reken dat mee.
+## Live Impact en duurzaam evenementmanagement
 
-Begin vroeg. Minimaal 9 tot 12 maanden van tevoren voor een evenement van deze omvang. Locaties voor grote jubileums zijn een tot twee jaar van tevoren volgeboekt. Hoe groter het evenement, hoe eerder je de planning moet starten.
+Live Impact is IDEA-gecertificeerd. Dat certificaat, uitgegeven door de International IDEA Foundation, vraagt om aantoonbare standaarden op het gebied van veiligheid, organisatiekwaliteit en duurzaamheid. Het is niet zelfgeclaimd, het is geauditeerd.
 
-[Meer over wat je kunt verwachten aan kosten bij inschakeling van een bureau →](kosten-evenementenbureau.html)
+In de praktijk betekent dit het volgende. Wij selecteren leveranciers actief op duurzaamheidsbeleid en adviseren opdrachtgevers over de keuzes met de hoogste impact. En we rapporteren transparant op wat we meten.
 
-## Professionele regie bij een generatiefeest
+Wil je een evenement organiseren dat duurzaamheid serieus neemt? Dan beginnen we met een gesprek over je ambities, en bouwen we van daaruit het concept. Niet andersom.
 
-Een 50-jarig jubileum is een organisatorisch project dat een eigen tijdlijn, budget en communicatieplan vraagt. Dat is meer dan een intern projectteam naast hun reguliere werk kan dragen. Professionele begeleiding is bij dit soort mijlpaal geen luxe, maar logistieke noodzaak.
+Bel ons op [085 401 40 14](tel:+31854014014), stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl) of een briefing via [live-impact.nl/briefing](/briefing). *Serieus Leuk.*
 
-Live Impact heeft ruime ervaring met generatiefeesten en jubileumvieringen van deze schaal. Wij regelen niet alleen de logistiek — wij bouwen het verhaal van 50 jaar tot een avond die drie generaties tegelijk raakt. Van concept tot aftermovie. Van eerste gesprek tot de dag zelf.
-
-Onze aanpak: we beginnen met een intake waarin we het DNA van jullie organisatie en de drie generaties in kaart brengen. Daarna bouwen we het concept, selecteren de locatie en het programma, en coördineren alle uitvoering. Jullie rol: gastheer zijn op de avond zelf.
-
-## Klaar om jullie generatiefeest te organiseren?
-
-Vijftig jaar is een verhaal van drie generaties. Dat verhaal verdient een avond die alle drie raakt.
-
-Stuur jullie briefing via **[live-impact.nl/briefing](../briefing.html)** of neem contact op via **[live-impact.nl/contact](../contact.html)**. Dan denken wij met jullie mee over het generatiefeest dat past bij 50 jaar.
-
-**Serieus Leuk.**
+##
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](eventmarketing-strategie.html)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](kick-off-programma.html) [Kick-off programma: zo bouw je een dag op die blijft hangen](kick-off-programma.html)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](teambuilding-activiteiten.html)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+
+## Veelgestelde vragen
+
+Hoe maak je een zakelijk evenement duurzamer?
+
+Duurzaamheid bij evenementen begint met bewuste keuzes op vijf fronten. Eerste: catering. Werk met lokale leveranciers, minimaliseer verpakking en bied vegetarische menu's (lager CO2-voetafdruk). Tweede: vervoer. Organiseer groepsvervoer, stimuleer openbaar vervoer met codes, of zet evenementen online of hybride in. Derde: materiaalgebruik. Gebruik herbruikbare borden en bekers, vermijd wegwerpproducten, print alleen essentiële documenten. Vierde: energie. Kies locaties met groene certificering en zet LED-verlichting in. Vijfde: nazorg. Scheid afval, doneer resterende spullen. Deze stappen kosten weinig en communiceren sterke waarden. Live Impact integreert duurzaamheid in elk concept.
+
+**[Meer weten? Lees ons complete artikel →](/blog/duurzame-evenementen)**
+
+Wat zijn de meest impactvolle duurzaamheidsmaatregelen bij evenementen?
+
+De meest impactvolle maatregelen zijn catering en vervoer. Samen bepalen ze 60 tot 70% van de CO2-voetafdruk. Voor catering: lokale seizoensgebonden menu's, plantaardig voedsel (tot 10 keer lager dan vlees), minimale verpakking. Dit verhoogt het bewustzijn en kan zelfs kosten besparen. Voor vervoer: groepsvervoer met bus of trein reduceert emissies drastisch. Bij materiaal: herbruikbare bekers en borden vervangen wegwerpproducten (bespaart geld bij herhaalde evenementen). Derde prioriteit: locatiekeuze op groene certificering. Vierde: energiebeheer (LED, natuurlijk licht). Deze vier punten hebben de meeste impact. Live Impact adviseert prioriteiten per evenementtype.
+
+**[Meer weten? Lees ons complete artikel →](/blog/duurzame-evenementen)**
+
+Wat kost het om een evenement duurzaam te organiseren?
+
+Goed nieuws: duurzame evenementen kosten niet meer dan conventionele evenementen, vaak zelfs minder. Herbruikbare bekers en borden: minder per stuk dan wegwerp, betaalt zich terug in 2 tot 3 evenementen. Lokale catering: vergelijkbaar geprijsd, vaak betere kwaliteit. Groepsvervoer: goedkoper dan alle individuele verplaatsingen. Groene locaties: steeds meer standaard geprijsd, niet meer duur. Enige uitgave: compensatieprogramma's (€0,50 tot €2,00 per persoon voor CO2-compensatie). Besparing: kleinere printbudgetten (minder papier). De kostprijsvergelijking is meestal neutraal tot voordelig. De voordelen liggen in imago, medewerkerbetrokkenheid en toekomstbestendigheid. Live Impact maakt duurzaamheid budgetbestendig.
+
+**[Meer weten? Lees ons complete artikel →](/blog/duurzame-evenementen)**
+
+Hoe compenseer je de CO2-uitstoot van een evenement?
+
+CO2-compensatie werkt zo: je berekent de totale uitstoot van je evenement (vluchtkilometers, vervoer, energie, afval). Organisaties als MyClimate, Carbonfund of Gold Standard bieden compensatieprogramma's, vaak €0,50-€2,00 per ton CO2. Jij betaalt dit bedrag; zij investeren in wind- en zonprojecten of herbebossing om CO2 uit de lucht te halen. Let wel: geen volledige compensatie, want bossen groeien langzaam. Wel toont het betrokkenheid. Effectiever is eerst voorkomen (catering, vervoer) en pas daarna compenseren. Communiceer transparant. 'Dit evenement is gecompenseerd' geeft waarde. Live Impact berekent de uitstoot en adviseert over geschikte compensatiepartners.
+
+**[Meer weten? Lees ons complete artikel →](/blog/duurzame-evenementen)**
+
+Organiseert Live Impact ook duurzame evenementen?
+
+Ja, Live Impact ontwerpt duurzame evenementen vanaf de start. Samen bepalen we de duurzaamheidsambities en leggen KPI's vast. Denk aan CO2-reductie en percentage afvalscheiding. Vervolgens kiezen we partners met groene certificeringen. Wij adviseren over catering (lokaal, plantaardig), vervoer (groepsvervoer), materiaal (herbruikbaar), locatie (LEED-gecertificeerd) en compensatie. Daarna berekenen we de impact en communiceren dit helder naar gasten. Tot slot monitoren we de uitvoering. Duurzame evenementen versterken je reputatie en trekken talent aan. Dat is toekomstbestendig ondernemen.
+
+**[Meer weten? Lees ons complete artikel →](/blog/duurzame-evenementen)**
 
 ## Geïnspireerd geraakt?
 
