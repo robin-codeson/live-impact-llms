@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onvergetelijk-exclusief-relatiefeest-
 title: "Hoe maak je een exclusief relatiefeest echt onvergetelijk?"
 description: "Drie dingen maken het verschil. Ten eerste: de locatie. Kies een plek die gasten normaal niet betreden: een particuliere villa, een museum na sluitingstijd, een privé-restaurantavond. Ten tweede: de persoonlijke ontvangst. Geen rijen, geen bulkbegroeting. Iedereen wordt bij naam verwelkomd. Ten derd"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:09+00:00"
+last_updated: "2026-05-08T21:24:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
