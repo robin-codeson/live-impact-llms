@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/personeelscommunicatie"
 title: "Personeelscommunicatie via evenementen: zo breek je door de ruis heen"
 description: "Personeelscommunicatie via evenementen? Waarom nieuwsbrieven in de prullenbak belanden en hoe een beleving je boodschap wel vastzet bij je team."
 section: "Blog"
-last_updated: "2026-05-08T16:52:10+00:00"
+last_updated: "2026-05-08T21:22:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
