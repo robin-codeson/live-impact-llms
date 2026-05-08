@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-duurzame-evenementen"
 title: "Kan Live Impact duurzame evenementen voor ons organiseren?"
 description: "Ja. Live Impact werkt structureel met duurzame leveranciers en locaties. Wij helpen opdrachtgevers bij duurzame keuzes per evenement. Daarnaast bouwen we samen met je aan een duurzaam evenementenbeleid."
 section: "FAQ"
-last_updated: "2026-05-08T17:07:57+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
