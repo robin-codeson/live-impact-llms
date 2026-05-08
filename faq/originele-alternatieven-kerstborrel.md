@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/originele-alternatieven-kerstborrel"
 title: "Wat zijn originele alternatieven voor een standaard kerstborrel?"
 description: "Vervang de standaard borrel door iets met meer karakter. Denk aan een kookworkshop, een escape room met kerstthema, een privéconcert of een wijnproeverij. Of combineer een klein avontuur met een goed diner."
 section: "FAQ"
-last_updated: "2026-05-08T17:12:33+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
