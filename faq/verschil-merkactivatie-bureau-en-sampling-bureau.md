@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-merkactivatie-bureau-en-samp
 title: "Wat is het verschil tussen een merkactivatie bureau en een sampling bureau?"
 description: "Een sampling bureau deelt producten uit in de openbare ruimte. Het doel is bereik en product-in-de-hand: hostess, tentje, proefverpakking, herhaling. Een concept-gedreven merkactivatie bureau zoals Live Impact bedenkt activaties waarin het merk een ervaring wordt. Een ervaring die mensen onthouden, "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:06+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
