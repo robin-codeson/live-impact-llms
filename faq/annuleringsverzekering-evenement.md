@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/annuleringsverzekering-evenement"
 title: "Wanneer sluit je een annuleringsverzekering af voor een evenement?"
 description: "Sluit een annuleringsverzekering af wanneer je evenement financieel risicovol is. Denk aan een buitenevenement met grote investering in catering, een evenement met een duur geboekte spreker of artiest waarvan de gage niet terugvorderbaar is, of een congres met een grote ticketafname door sponsors. S"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:04+00:00"
+last_updated: "2026-05-08T21:22:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
