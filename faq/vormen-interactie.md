@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vormen-interactie"
 title: "Welke vormen van interactie werken het best?"
 description: "De meest effectieve vormen van interactie op evenementen zijn live polls en stemmingen via tools als Mentimeter. Daarnaast werken open vraagmuren waar deelnemers vragen insturen en rondetafeldiscussies in kleine groepen goed. Fysieke interactie, zoals kaartspellen, whiteboards of co-creatieopdrachte"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:15+00:00"
+last_updated: "2026-05-08T21:24:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
