@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-je-een-hologram-gebruiken-op-een-
 title: "Kan je een hologram gebruiken op een bedrijfsevenement?"
 description: "Ja, hologrammen worden steeds vaker ingezet op bedrijfsevenementen. Je kunt er een spreker virtueel op het podium mee laten verschijnen. Of een nieuw product driedimensionaal onthullen. Ook een indrukwekkende visuele opening is mogelijk. De technologie werkt met een transparant scherm of gaasscherm "
 section: "FAQ"
-last_updated: "2026-05-08T17:03:51+00:00"
+last_updated: "2026-05-08T21:23:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
