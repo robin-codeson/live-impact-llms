@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-breda"
 title: "Waarom Breda de parel van het Zuiden is voor evenementen"
 description: "Evenement organiseren in Breda? De parel van het Zuiden met Brabantse sfeer en bijzondere locaties."
 section: "Blog"
-last_updated: "2026-05-08T16:50:25+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
