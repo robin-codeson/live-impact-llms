@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/valkuilen-gamification-evenementen"
 title: "Welke valkuilen moet ik vermijden bij gamification op evenementen?"
 description: "De grootste fout is te complex maken. Als deelnemers eerst een app moeten downloaden en een account moeten aanmaken, haken de meesten af. Houd de drempel laag. Liefst alleen een QR-code scannen. Er zijn nog meer valkuilen. Test je quiz vooraf op 200 telefoons om haperingen te voorkomen. Te veel comp"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:13+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
