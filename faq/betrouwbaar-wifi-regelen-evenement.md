@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/betrouwbaar-wifi-regelen-evenement"
 title: "Hoe regel ik betrouwbaar wifi op mijn evenement?"
 description: "Locatie-wifi is zelden voldoende voor een groot evenement. Regel een dedicated eventnetwerk met professionele access points. Reken op 1 Mbps per gebruiker voor basisgebruik, 3-5 Mbps bij interactieve tools of livestreaming. Maak gescheiden netwerken: één voor organisatie en AV-techniek, één voor gas"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:47+00:00"
+last_updated: "2026-05-08T21:22:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
