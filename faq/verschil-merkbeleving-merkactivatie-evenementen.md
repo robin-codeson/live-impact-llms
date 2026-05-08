@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-merkbeleving-merkactivatie-e
 title: "Wat is het verschil tussen merkbeleving en merkactivatie bij evenementen?"
 description: "Merkactivatie is een specifieke, doelgerichte actie die je merk zichtbaar en tastbaar maakt voor een doelgroep. Denk aan een productlancering, een pop-up of een interactieve installatie. Merkbeleving is breder: de totale ervaring die deelnemers hebben met je merk tijdens een evenement. Van de uitnod"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:08+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
