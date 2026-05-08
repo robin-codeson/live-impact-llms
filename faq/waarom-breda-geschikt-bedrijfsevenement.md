@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-breda-geschikt-bedrijfseveneme
 title: "Waarom is Breda geschikt voor een bedrijfsevenement?"
 description: "Breda ligt centraal op kruispunt A16/A27, heeft voldoende hotels, een compact centrum en Brabantse gastvrijheid. Logistiek simpel, sfeer gegarandeerd."
 section: "FAQ"
-last_updated: "2026-05-08T17:18:30+00:00"
+last_updated: "2026-05-08T21:24:53+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
