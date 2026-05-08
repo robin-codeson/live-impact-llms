@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/feest-op-maat-vs-personeelsfeest"
 title: "Wat is het verschil tussen een feest op maat en een standaard personeelsfeest?"
 description: "Een feest op maat wordt volledig gecreëerd vanuit het DNA van het bedrijf of de gelegenheid — het thema, de locatie, de catering en het entertainment worden speciaal ontworpen voor deze groep en dit moment. Een standaard personeelsfeest volgt een bestaand format zonder specifieke aanpassing. Het ver"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:35+00:00"
+last_updated: "2026-05-08T21:23:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
