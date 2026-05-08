@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/feest-op-maat-planning-tijdlijn"
 title: "Hoe ver van tevoren plan je een feest op maat?"
 description: "Voor een goed feest op maat reken je op 8 tot 16 weken voorbereiding. Dat hangt af van de schaal en de complexiteit. Een feest voor 50 personen is in 8 weken te regelen als de locatie beschikbaar is. Een feest voor 300 personen met maatwerk decor, een liveband en een bijzondere locatie vraagt minima"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:34+00:00"
+last_updated: "2026-05-08T21:23:08+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
