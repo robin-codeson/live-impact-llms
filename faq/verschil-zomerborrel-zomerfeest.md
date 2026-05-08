@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-zomerborrel-zomerfeest"
 title: "Wat is het verschil tussen een zomerborrel en een zomerfeest?"
 description: "Een zomerborrel duurt 2 tot 3 uur en start direct na werktijd. De kern is drinks en bites in een informele sfeer. Een zomerfeest is een complete avond met diner, entertainment, een volledig programma en veelal een externe locatie. De zomerborrel is laagdrempeliger en toegankelijker: ook medewerkers "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:46+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
