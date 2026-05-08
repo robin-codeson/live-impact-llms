@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/vergunningen-bedrijfsevenement"
 title: "Welke vergunningen heb ik nodig voor een bedrijfsevenement?"
 description: "Voor een bedrijfsevenement heb je meestal vier vergunningen nodig. De evenementenvergunning vraag je aan bij de gemeente. Daarnaast heb je een geluidsvergunning. Schenk je alcohol, dan is een Drank- en Horecawet ontheffing (artikel 35) verplicht. Tot slot meld je muziek aan bij Buma/Stemra."
 section: "FAQ"
-last_updated: "2026-05-08T17:15:22+00:00"
+last_updated: "2026-05-08T21:24:36+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
