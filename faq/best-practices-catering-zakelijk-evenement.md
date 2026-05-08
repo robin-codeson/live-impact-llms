@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/best-practices-catering-zakelijk-even
 title: "Wat zijn best practices voor Catering Zakelijk Evenement?"
 description: "Goede catering op een zakelijk evenement is onzichtbaar als het goed gaat, en allesbepalend als het misgaat. Stem het menu af op de sfeer en het tijdstip van het evenement. Inventariseer allergieën en dieetwensen tijdig en communiceer die duidelijk naar de cateraar. Kies voor kwaliteit boven kwantit"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:09+00:00"
+last_updated: "2026-05-08T21:22:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
