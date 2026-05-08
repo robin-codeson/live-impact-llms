@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/is-live-impact-idea-gecertificeerd-ca
 title: "Is Live Impact IDEA-gecertificeerd?"
 description: "Ja. Live Impact is een IDEA-gecertificeerd evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen. Het keurmerk is voor ons geen marketinglabel, maar de bevestiging van hoe we al jaren werken. Bel +31 85 40"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:33+00:00"
+last_updated: "2026-05-08T21:23:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
