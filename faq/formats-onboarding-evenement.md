@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/formats-onboarding-evenement"
 title: "Welke formats werken goed voor een onboarding-evenement?"
 description: "Voor onboarding-evenementen werken formats die verbinding en herkenning combineren. Een founding story-sessie werkt krachtig. Daarbij vertelt een oprichter of leidinggevende het verhaal van de organisatie als gesprek, niet als presentatie. Buddy-speeddating koppelt nieuwe medewerkers snel aan colleg"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:44+00:00"
+last_updated: "2026-05-08T21:23:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
