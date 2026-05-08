@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-dordrecht"
 title: "Dordrecht: de oudste stad van Holland als evenementenbestemming"
 description: "Evenement organiseren in Dordrecht? Oudste stad van Holland, waterrijke setting. Uniek karakter."
 section: "Blog"
-last_updated: "2026-05-08T16:50:28+00:00"
+last_updated: "2026-05-08T21:22:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
