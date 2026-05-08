@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/voor-welk-type-bedrijf-is-brand-exper
 title: "Voor welk type bedrijf is een brand experience geschikt?"
 description: "Een brand experience werkt voor elk bedrijf met een sterk merkverhaal. Van tech-bedrijven en automerken tot fashion labels en B2B-organisaties. Het format verschilt: een tech-merk kiest voor interactieve installaties en innovatieve technologie. Een lifestylemerk voor sfeer, design en zintuiglijke be"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:57+00:00"
+last_updated: "2026-05-08T21:24:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
