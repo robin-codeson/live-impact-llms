@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/fouten-eventbriefing"
 title: "Welke fouten worden het vaakst gemaakt in een evenementbriefing?"
 description: "De meest gemaakte fout: het budget weglaten. Bureaus kunnen dan geen realistische concepten schrijven en de vergelijkingsbasis ontbreekt. Andere veelgemaakte fouten: een vage doelgroep, geen duidelijk doel, vasthouden aan een vorm en geen terugkoppeling op eerdere evenementen. Een vage doelgroep kli"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:53+00:00"
+last_updated: "2026-05-08T21:23:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
