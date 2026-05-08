@@ -1,10 +1,17 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/faq/wat-kost-een-personeelsuitje-organiseren"
+title: "Wat kost een personeelsuitje organiseren?"
+description: "Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100"
+section: "FAQ"
+last_updated: "2026-05-08T22:29:49+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Wat kost een personeelsuitje organiseren?
 
-De kosten van een personeelsuitje variëren sterk. Een eenvoudig uitje zoals bowling of een borrel kost €25 tot €60 per persoon. Een middelgroot uitje zoals een kookworkshop of stadstour ligt op €60 tot €120. Een uitgebreid dagprogramma met catering loopt op tot €200 per persoon. Via de werkkostenregeling (WKR) kun je een personeelsuitje fiscaal voordelig organiseren.
+Een zakelijk evenement kost ongeveer €200 tot €500+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €150 tot €400+ per persoon. Voor 1.000 tot 2.000 gasten reken je op ongeveer €125 tot €350+ per persoon. Voor meer dan 2.000 gasten reken je op ongeveer €100 tot €300+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
+
+Het exacte budget hangt af van het type, de locatie en het programma. Bovenstaande brackets geven de breedte aan voor een gemiddeld zakelijk evenement.
 
 **[Meer weten over het organiseren van een personeelsuitje? Lees ons complete artikel →](/blog/personeelsuitje-organiseren)**
 
