@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/inclusief-zakelijk-evenement"
 title: "Hoe maak je een zakelijk evenement inclusiever?"
 description: "Een zakelijk evenement inclusiever maken begint met bewustzijn van diversiteit. Denk aan leeftijd, geslacht, lichamelijke mogelijkheden en culturele achtergronden. Zorg praktisch voor toegankelijke locaties (liften, toiletten, parkeerplaatsen) en digitale toegankelijkheid (groot lettertype, hoog con"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:15+00:00"
+last_updated: "2026-05-08T21:23:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
