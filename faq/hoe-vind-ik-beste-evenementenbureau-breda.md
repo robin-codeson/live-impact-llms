@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-vind-ik-beste-evenementenbureau-b
 title: "Hoe vind ik het beste evenementenbureau in Breda?"
 description: "Let bij de keuze van een evenementenbureau in Breda op ervaring, referenties, creativiteit en certificeringen zoals het IDEA-keurmerk. Live Impact is IDEA-gecertificeerd en heeft ruime ervaring met evenementen in Breda en omgeving, van concept tot volledige realisatie."
 section: "FAQ"
-last_updated: "2026-05-08T17:02:07+00:00"
+last_updated: "2026-05-08T21:23:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
