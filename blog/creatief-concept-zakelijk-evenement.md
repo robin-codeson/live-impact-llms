@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/creatief-concept-zakelijk-evenement"
 title: "Waarom een creatief concept het verschil maakt"
 description: "Een creatief concept voor een zakelijk evenement maakt het verschil tussen vergeten en onvergetelijk. Zo werken wij van briefing naar concept."
 section: "Blog"
-last_updated: "2026-05-08T16:49:49+00:00"
+last_updated: "2026-05-08T21:22:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
