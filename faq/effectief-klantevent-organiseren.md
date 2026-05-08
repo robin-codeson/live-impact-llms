@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/effectief-klantevent-organiseren"
 title: "Hoe organiseer je een effectief klantevent?"
 description: "Een effectief klantevent begint met duidelijke doelstellingen: wil je relaties versterken, producten tonen of waardering uiten? Zorg voor een uitgebalanceerd programma met netwerktijd, inhoudelijke onderdelen en entertainment. Timing is belangrijk: kies een moment dat aansluit bij je sector. Zorg vo"
 section: "FAQ"
-last_updated: "2026-05-08T16:57:49+00:00"
+last_updated: "2026-05-08T21:22:58+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
