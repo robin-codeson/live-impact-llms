@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kan-live-impact-openingsfeest-organis
 title: "Kan Live Impact een openingsfeest voor ons organiseren?"
 description: "Ja. Live Impact is een evenementenbureau uit 's-Hertogenbosch dat al meer dan 20 jaar zakelijke events organiseert door heel Nederland. Per jaar bouwen we 150+ evenementen. Openingen zitten in onze top vijf meest gevraagde formats. We werken voor bedrijven tussen de 100 en 10.000 medewerkers, van He"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:14+00:00"
+last_updated: "2026-05-08T21:23:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
