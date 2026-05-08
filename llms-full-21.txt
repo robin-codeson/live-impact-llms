@@ -8,7 +8,7 @@
 <!-- canonical: https://live-impact.nl/faq/hoe-kies-je-een-merkactivatie-bureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-kies-je-een-merkactivatie-bureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:41+00:00 -->
 
 # Hoe kies je een merkactivatie bureau?
 
@@ -31,7 +31,7 @@ Drie: wie zit er aan tafel bij de concept-fase? Als dat alleen een accountmanage
 <!-- canonical: https://live-impact.nl/faq/hoe-kies-je-evenementenbureau -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-kies-je-evenementenbureau.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:41+00:00 -->
 
 # Hoe kies je het juiste evenementenbureau?
 
@@ -48,7 +48,7 @@ Selecteer een bureau op basis van ervaring met jouw type evenement en referentie
 <!-- canonical: https://live-impact.nl/faq/hoe-kies-je-eventmanagement-partner -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-kies-je-eventmanagement-partner.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe kies je een eventmanagement partner?
 
@@ -65,7 +65,7 @@ Selecteer een partner op ervaring met jouw type evenement, controleerbare refere
 <!-- canonical: https://live-impact.nl/faq/hoe-kies-je-thema-bedrijfsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-kies-je-thema-bedrijfsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe kies je het juiste thema voor een bedrijfsfeest?
 
@@ -84,7 +84,7 @@ Live Impact helpt je het perfecte thema te vinden. Wij vertalen dat door naar lo
 <!-- canonical: https://live-impact.nl/faq/hoe-kies-thema-bedrijf -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-kies-thema-bedrijf.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe kies je een thema dat echt bij je bedrijf past?
 
@@ -105,7 +105,7 @@ Vermijd thema's die alleen voor een subgroep werken: een jaren-80-feest laat twi
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-bestaan-jullie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-bestaan-jullie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang bestaan jullie?
 
@@ -120,7 +120,7 @@ We zijn in 1998 gestart. Bij elkaar opgeteld hebben we samen 284 jaar ervaring.
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-briefing-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-briefing-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang moet een briefing voor een evenement zijn?
 
@@ -139,7 +139,7 @@ Voeg een korte beschrijving van de bedrijfscultuur toe. Daarmee heeft een bureau
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-bedrijfsopening -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-bedrijfsopening.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt een opening van een bedrijf?
 
@@ -158,7 +158,7 @@ Houd het officiële gedeelte kort, maximaal 20 minuten voor speeches en ceremoni
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-bedrijfsreis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-bedrijfsreis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt het om een bedrijfsreis te organiseren?
 
@@ -177,7 +177,7 @@ Bij een bureau gaat dit sneller doordat zij de contacten en ervaring al hebben.
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-conferentie-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-conferentie-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt het organiseren van een conferentie?
 
@@ -194,7 +194,7 @@ Voor kleinere conferenties van vijftig tot tachtig mensen kan vier maanden voldo
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-een-goede-energizer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-een-goede-energizer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt een goede energizer?
 
@@ -213,7 +213,7 @@ Langer dan 15 minuten? Dan is het geen energizer meer maar een programmaonderdee
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-een-personeelsuitje -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-een-personeelsuitje.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt een personeelsuitje?
 
@@ -230,7 +230,7 @@ De meeste personeelsuitjes duren 3 tot 6 uur. Een lunchuitje kan al na 2,5 uur k
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-een-zakelijke-workshop -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-een-zakelijke-workshop.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt een zakelijke workshop?
 
@@ -243,7 +243,7 @@ De meeste personeelsuitjes duren 3 tot 6 uur. Een lunchuitje kan al na 2,5 uur k
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-familiedag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-familiedag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt een goede familiedag?
 
@@ -260,7 +260,7 @@ Meer over programma-opbouw? [Lees het volledige artikel](/blog/familiedag-concep
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-gala -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-gala.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt een gala?
 
@@ -282,7 +282,7 @@ Gebruik het [Live Impact Evenement Orakel](/evenement-orakel) en zie in één kl
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-hackathon -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-hackathon.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:42+00:00 -->
 
 # Hoe lang duurt een hackathon?
 
@@ -299,7 +299,7 @@ De meest gebruikte formaten zijn: een daghackathon (8-10 uur), een 24-uurshackat
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-kick-off -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-kick-off.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt een kick-off?
 
@@ -323,7 +323,7 @@ Gebruik het [Live Impact Evenement Orakel](/evenement-orakel) en zie in één kl
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-kick-off-programma -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-kick-off-programma.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt een goed kick-off programma?
 
@@ -342,7 +342,7 @@ Meer is niet beter. Een kick-off programma van tien uur is te zwaar. Liever een 
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-merkactivatie-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-merkactivatie-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt het om een merkactivatie te organiseren?
 
@@ -369,7 +369,7 @@ Schakel een evenementenbureau vroeg in. Hoe meer tijd er is voor conceptontwikke
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-organisatie-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-organisatie-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt het om een zakelijk evenement te organiseren?
 
@@ -386,7 +386,7 @@ Reken op 8 tot 12 weken voor een evenement van 50-150 gasten zonder bijzondere e
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-productlancering -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-productlancering.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt een productlancering?
 
@@ -403,7 +403,7 @@ Houd een productlancering kort en krachtig: 2-4 uur is ideaal. Een typische opze
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-productpresentatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-productpresentatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt een goede productpresentatie?
 
@@ -420,7 +420,7 @@ De verdeling die het beste werkt: tien minuten opening en probleemschets, dertig
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-symposium-ideaal -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-symposium-ideaal.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt een symposium ideaal?
 
@@ -442,7 +442,7 @@ Gebruik het [Live Impact Evenement Orakel](/evenement-orakel) en zie in één kl
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-teambuilding-programma -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-teambuilding-programma.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt een teambuildingprogramma?
 
@@ -462,7 +462,7 @@ Gebruik het [Live Impact Evenement Orakel](/evenement-orakel) en zie in één kl
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-duurt-voorbereiding-intern-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-duurt-voorbereiding-intern-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt de voorbereiding van een intern evenement?
 
@@ -481,7 +481,7 @@ Die tijd heb je nodig: het concept moet scherp, de boodschap afgestemd met betro
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-evenementconcept-ontwikkelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-evenementconcept-ontwikkelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang duurt het om een evenementconcept te ontwikkelen?
 
@@ -500,7 +500,7 @@ Een concept dat binnen een dag af is, is meestal het eerste idee en niet het bes
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-jubileum-speech -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-jubileum-speech.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang mag een jubileumspeech duren?
 
@@ -519,7 +519,7 @@ Verdeel je tijd: 1 tot 2 minuten herkenbare opening, 3 tot 4 minuten kernverhaal
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-moet-evenement-briefing-zijn -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-moet-evenement-briefing-zijn.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang moet een evenement briefing zijn?
 
@@ -540,7 +540,7 @@ Liever kort en krachtig dan lang en vaag. De details komen in het briefinggespre
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-project-kick-off-duren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-project-kick-off-duren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoe lang moet een project kick-off duren?
 
@@ -557,7 +557,7 @@ Meer weten over de opbouw? [Lees het volledige artikel](/blog/projectkick-off-or
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-tevoren-beginnen-communicatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-tevoren-beginnen-communicatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:43+00:00 -->
 
 # Hoelang van tevoren begin je met de communicatie voor een evenement?
 
@@ -570,7 +570,7 @@ Meer weten over de opbouw? [Lees het volledige artikel](/blog/projectkick-off-or
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-tevoren-corporate-evenement-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-tevoren-corporate-evenement-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:00:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe lang van tevoren plan je een corporate evenement?
 
@@ -587,7 +587,7 @@ Meer planningstips? [Lees het volledige artikel](/blog/corporate-evenement-organ
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-tevoren-indoor-bedrijfsfestival-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-tevoren-indoor-bedrijfsfestival-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe lang van tevoren plan je een indoor bedrijfsfestival?
 
@@ -606,7 +606,7 @@ Met zes maanden voorbereiding heb je de beste keuze in locaties, entertainment e
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-tevoren-zomerfeest-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-tevoren-zomerfeest-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe lang van tevoren moet je een zomerfeest plannen?
 
@@ -623,7 +623,7 @@ Voor een groter festival is 3-4 maanden voorbereiding aan te raden. Een [eveneme
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-van-tevoren-evenement-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-van-tevoren-evenement-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe lang van tevoren moet je een evenement plannen?
 
@@ -640,7 +640,7 @@ Hoe eerder je begint, hoe meer keuze je hebt in [locaties](https://live-impact.n
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-van-tevoren-evenementenbureau-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-van-tevoren-evenementenbureau-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe lang van tevoren moet je een evenementenbureau inschakelen?
 
@@ -657,7 +657,7 @@ Als vuistregel: schakel een evenementenbureau minstens 8 tot 12 weken voor de ev
 <!-- canonical: https://live-impact.nl/faq/hoe-lang-van-tevoren-plan-je-een-gala -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-lang-van-tevoren-plan-je-een-gala.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe lang van tevoren plan je een gala?
 
@@ -676,7 +676,7 @@ Hoe eerder je start, hoe meer ruimte er is voor conceptuele scherpte en de juist
 <!-- canonical: https://live-impact.nl/faq/hoe-locatie-scouting-uitvoeren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-locatie-scouting-uitvoeren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe voer je een locatie-scouting uit voor een evenement?
 
@@ -693,7 +693,7 @@ Locatiescouting volgt een vast proces. Stap 1: definieer criteria. Hoeveel gaste
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-50-jarig-jubileum-onvergetelijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-50-jarig-jubileum-onvergetelijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe maak je een 50-jarig jubileum onvergetelijk?
 
@@ -712,7 +712,7 @@ Kies een locatie die het verhaal versterkt. En laat de huidige medewerkers de to
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-activatie-effectief -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-activatie-effectief.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe maak je een activatie effectief?
 
@@ -731,7 +731,7 @@ Voeg een scherp concept toe: een activatie zonder duidelijke boodschap is een sp
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-bedrijfsfeest-bijzonder -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-bedrijfsfeest-bijzonder.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe maak je een bedrijfsfeest bijzonder?
 
@@ -750,7 +750,7 @@ Houd het officiële programma kort: maximaal 30 tot 45 minuten. Een verrassingsm
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-bedrijfsopening-bijzonder -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-bedrijfsopening-bijzonder.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe maak je een bedrijfsopening bijzonder?
 
@@ -769,7 +769,7 @@ Voeg een verrassingsmoment toe dat mensen de volgende dag doorvertellen. En rege
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-congrsprogramma -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-congrsprogramma.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:06+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe maak je een congresprogramma?
 
@@ -786,7 +786,7 @@ Wil je weten hoe je een programma opbouwt dat impact maakt? [Lees ons artikel ov
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-een-bedrijfsborrel-memorabel -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-een-bedrijfsborrel-memorabel.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:06+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe maak je een bedrijfsborrel memorabel?
 
@@ -805,7 +805,7 @@ Zorg ook voor een goede aanleiding: vier een kleine overwinning, verwelkom nieuw
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-een-evenement-interactief-met-technologie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-een-evenement-interactief-met-technologie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:44+00:00 -->
 
 # Hoe maak je een evenement interactief met technologie?
 
@@ -826,7 +826,7 @@ Lees meer tips in ons artikel over [innovatieve evenementtechnologie](/blog/inno
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-een-klein-evenement-persoonlijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-een-klein-evenement-persoonlijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een klein evenement persoonlijk?
 
@@ -845,7 +845,7 @@ Deze details zijn bij twintig gasten haalbaar. Bij tweehonderd niet. Lees meer i
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-employee-betrokkenheid-evenementen-effectief -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-employee-betrokkenheid-evenementen-effectief.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je medewerkersbetrokkenheid evenementen écht effectief?
 
@@ -864,7 +864,7 @@ Zorg voor actieve participatie, mensen onthouden wat ze zelf doen, niet wat ze p
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-employer-branding-evenement-onvergetelijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-employer-branding-evenement-onvergetelijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een employer branding evenement onvergetelijk?
 
@@ -883,7 +883,7 @@ Zorg voor een visuele uitstraling die past bij je merkidentiteit, van de entree 
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-evenementenorganisatie-succesvol -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-evenementenorganisatie-succesvol.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je evenementenorganisatie succesvol?
 
@@ -900,7 +900,7 @@ Succesvolle evenementenorganisatie begint met een scherpe briefing. Weet je waar
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-galaprogramma -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-galaprogramma.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een galaprogramma?
 
@@ -917,7 +917,7 @@ Een goed galaprogramma heeft een duidelijke opbouw. Begin met een stijlvolle ont
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-incentive-onvergetelijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-incentive-onvergetelijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een incentive onvergetelijk?
 
@@ -936,7 +936,7 @@ Exclusiviteit: iets doen wat normaal niet toegankelijk is. Persoonlijke erkennin
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-jubileum-10-jaar-onvergetelijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-jubileum-10-jaar-onvergetelijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een 10-jarig jubileum onvergetelijk?
 
@@ -955,7 +955,7 @@ Het persoonlijke tintje zit in de details. Denk aan een verrassing die alleen vo
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-jubileum-25-jaar-onvergetelijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-jubileum-25-jaar-onvergetelijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een 25-jarig jubileum onvergetelijk?
 
@@ -974,7 +974,7 @@ De verrassende details: een persoonlijk moment voor mensen die er altijd waren, 
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-personeelsuitje-onvergetelijk -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-personeelsuitje-onvergetelijk.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een personeelsuitje onvergetelijk?
 
@@ -997,7 +997,7 @@ Kies een format dat past bij de cultuur van het team. Niet wat populair is, maar
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-relatie-evenement-memorabel -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-relatie-evenement-memorabel.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een relatie-evenement memorabel?
 
@@ -1016,7 +1016,7 @@ Het onverwachte moment: een kleine verrassing, een ludiek element, een sfeerwiss
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-teambuilding-effectief -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-teambuilding-effectief.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je teambuilding écht effectief?
 
@@ -1035,7 +1035,7 @@ Tot slot is er de reflectie achteraf. Een coach benoemt wat hij zag en helpt het
 <!-- canonical: https://live-impact.nl/faq/hoe-maak-je-workshop-collegas-boeiend -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-maak-je-workshop-collegas-boeiend.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe maak je een workshop voor collega's boeiend?
 
@@ -1052,7 +1052,7 @@ Een boeiende workshop heeft een heldere opbouw: een laagdrempelige start, een ac
 <!-- canonical: https://live-impact.nl/faq/hoe-meet-je-het-effect-van-retentie-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-meet-je-het-effect-van-retentie-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:45+00:00 -->
 
 # Hoe meet je het effect van retentie-evenementen?
 
@@ -1071,7 +1071,7 @@ Bouw een simpel dashboard per klant. Na 2-3 evenementen heb je voldoende data vo
 <!-- canonical: https://live-impact.nl/faq/hoe-meet-je-roi-b2b-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-meet-je-roi-b2b-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe meet je de ROI van een B2B-evenement?
 
@@ -1090,7 +1090,7 @@ De opvolging is minstens zo belangrijk als het evenement. Plan die vooraf. Een e
 <!-- canonical: https://live-impact.nl/faq/hoe-meet-je-succes-communicatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-meet-je-succes-communicatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe meet je het succes van de communicatie rondom een evenement?
 
@@ -1103,7 +1103,7 @@ De opvolging is minstens zo belangrijk als het evenement. Plan die vooraf. Een e
 <!-- canonical: https://live-impact.nl/faq/hoe-meet-je-succes-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-meet-je-succes-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe meet je het succes van een congres?
 
@@ -1120,7 +1120,7 @@ Het succes van een congres meet je op meerdere niveaus. Denk aan deelnemerstevre
 <!-- canonical: https://live-impact.nl/faq/hoe-meet-je-succes-merkactivatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-meet-je-succes-merkactivatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe meet je het succes van een merkactivatie?
 
@@ -1149,7 +1149,7 @@ Stel vooraf je doelen vast, zodat je achteraf kunt evalueren en je volgende acti
 <!-- canonical: https://live-impact.nl/faq/hoe-meet-je-succes-van-brand-experience -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-meet-je-succes-van-brand-experience.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe meet je het succes van een brand experience?
 
@@ -1168,7 +1168,7 @@ Meet ook het bereik via delen op sociale media. Een goede brand experience gener
 <!-- canonical: https://live-impact.nl/faq/hoe-meet-je-succes-van-een-incentive-reis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-meet-je-succes-van-een-incentive-reis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe meet je het succes van een incentive reis?
 
@@ -1189,7 +1189,7 @@ De beste incentiveprogramma's laten een meetbare stijging zien in alle drie de n
 <!-- canonical: https://live-impact.nl/faq/hoe-nodig-je-gasten-uit-voor-een-nieuwjaarsreceptie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-nodig-je-gasten-uit-voor-een-nieuwjaarsreceptie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe nodig je gasten uit voor een nieuwjaarsreceptie?
 
@@ -1202,7 +1202,7 @@ De beste incentiveprogramma's laten een meetbare stijging zien in alle drie de n
 <!-- canonical: https://live-impact.nl/faq/hoe-officiele-opening-bijzonder-maken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-officiele-opening-bijzonder-maken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe maak je een officiële opening bijzonder?
 
@@ -1219,7 +1219,7 @@ Denk ook aan een [thema](https://live-impact.nl/blog/themafeest-organiseren) dat
 <!-- canonical: https://live-impact.nl/faq/hoe-ontwikkel-je-evenement-concept -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-ontwikkel-je-evenement-concept.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe ontwikkel je een concept voor een evenement?
 
@@ -1236,7 +1236,7 @@ Conceptontwikkeling begint bij de basis: wat wil je bereiken en voor wie? Van da
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-den-haag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-den-haag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe organiseer ik een evenement in Den Haag?
 
@@ -1251,7 +1251,7 @@ Den Haag biedt talrijke mogelijkheden voor evenementen. Begin met het bepalen va
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-deventer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-deventer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe organiseer ik een evenement in Deventer?
 
@@ -1266,7 +1266,7 @@ Deventer biedt een perfecte setting voor evenementen van alle grootten met cultu
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-dordrecht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-dordrecht.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe organiseer ik een evenement in Dordrecht?
 
@@ -1281,7 +1281,7 @@ Dordrecht combineert historische charme met moderne faciliteiten voor succesvoll
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-ede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-ede.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:46+00:00 -->
 
 # Hoe organiseer ik een evenement in Ede?
 
@@ -1296,7 +1296,7 @@ Ede biedt uitstekende mogelijkheden voor bedrijfsevenementen en particuliere eve
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-eindhoven -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-eindhoven.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer ik een evenement in Eindhoven?
 
@@ -1311,7 +1311,7 @@ Eindhoven is een innovatieve stad met moderne faciliteiten voor grote en kleine 
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-emmen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-emmen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer ik een evenement in Emmen?
 
@@ -1326,7 +1326,7 @@ Emmen biedt ruimte en flexibiliteit voor diverse evenementen in Noord-Nederland.
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-enschede -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-enschede.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer ik een evenement in Enschede?
 
@@ -1341,7 +1341,7 @@ Enschede combineert universitaire energie met moderne evenementfaciliteiten.
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-haarlem -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-haarlem.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer ik een evenement in Haarlem?
 
@@ -1356,7 +1356,7 @@ Haarlem biedt historische charme met moderne evenementfaciliteiten in een compac
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-haarlemmermeer -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-haarlemmermeer.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer ik een evenement in Haarlemmermeer?
 
@@ -1371,7 +1371,7 @@ Haarlemmermeer biedt waterevenementen, polderlocaties en moderne locaties.
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-helmond -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-helmond.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:33+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer ik een evenement in Helmond?
 
@@ -1386,7 +1386,7 @@ Helmond biedt goede bereikbaarheid en diverse evenementlocaties in Brabant.
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-ik-een-evenement-in-hilversum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-ik-een-evenement-in-hilversum.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer ik een evenement in Hilversum?
 
@@ -1401,7 +1401,7 @@ Hilversum biedt mediastudio's, zalencentra en voorzieningen voor professionele e
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-je-benefietgala-culturele-instelling -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-je-benefietgala-culturele-instelling.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer je een benefietgala voor een culturele instelling?
 
@@ -1416,7 +1416,7 @@ Een personeelsfeest of jubileumfeest kost ongeveer €250 tot €350+ per persoo
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-je-een-officiele-opening-van-een-gebouw -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-je-een-officiele-opening-van-een-gebouw.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:34+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer je een officiële opening van een gebouw?
 
@@ -1435,7 +1435,7 @@ Meer over openingen in ons artikel over [bouwmijlpalen vieren](/blog/bouwmijlpal
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-je-impactvolle-kick-off -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-je-impactvolle-kick-off.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer je een impactvolle kick-off?
 
@@ -1456,7 +1456,7 @@ Kies een locatie die past bij de sfeer die je wilt creëren. Een industriële ru
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-je-jubileumjaar -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-je-jubileumjaar.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer je een heel jubileumjaar?
 
@@ -1475,7 +1475,7 @@ Tussendoor loopt een contentcampagne: jubileumboek, documentaire, podcastserie e
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-je-online-kick-off -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-je-online-kick-off.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer je een online kick-off?
 
@@ -1494,7 +1494,7 @@ Plan ook voor- en nagespreksronden voor kleinere groepen. Dat geeft de verbindin
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-je-personeelsfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-je-personeelsfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer je een personeelsfeest?
 
@@ -1515,7 +1515,7 @@ Doe je het zelf? Reken op 150 tot 300 uur organisatietijd. Wij nemen het complet
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-je-scheepsdoop -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-je-scheepsdoop.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:47+00:00 -->
 
 # Hoe organiseer je een scheepsdoop?
 
@@ -1534,7 +1534,7 @@ Wij helpen je alle vier de elementen goed te organiseren.
 <!-- canonical: https://live-impact.nl/faq/hoe-organiseer-kennisfestival -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-organiseer-kennisfestival.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe organiseer je een kennisfestival?
 
@@ -1551,7 +1551,7 @@ Combineer kennisoverdracht met festivalbeleving via zeven principes. Hou present
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-bedrijfsfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-bedrijfsfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Wat zijn best practices voor Bedrijfsfeest Organiseren?
 
@@ -1570,7 +1570,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-bedrijfsopening-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-bedrijfsopening-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Bedrijfsopening Organiseren?
 
@@ -1583,7 +1583,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-bedrijfsprijzen-winnen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-bedrijfsprijzen-winnen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Bedrijfsprijzen Winnen?
 
@@ -1596,7 +1596,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-bedrijfsreis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-bedrijfsreis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Bedrijfsreis Organiseren?
 
@@ -1609,7 +1609,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-bedrijfsuitje-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-bedrijfsuitje-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Bedrijfsuitje Organiseren?
 
@@ -1622,7 +1622,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-begroting-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-begroting-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:42+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Begroting Evenementen?
 
@@ -1635,7 +1635,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-belang-van-interactie-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-belang-van-interactie-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:43+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Belang Van Interactie Evenementen?
 
@@ -1648,7 +1648,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-beursdeelname-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-beursdeelname-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Beursdeelname Organiseren?
 
@@ -1661,7 +1661,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-bouwmijlpalen-vieren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-bouwmijlpalen-vieren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Bouwmijlpalen Vieren?
 
@@ -1674,7 +1674,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-brand-activation-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-brand-activation-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Brand Activation Evenement?
 
@@ -1687,7 +1687,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-catering-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-catering-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:48+00:00 -->
 
 # Hoe plan je Catering Zakelijk Evenement?
 
@@ -1700,7 +1700,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-concept-voorbeelden-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-concept-voorbeelden-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe plan je Concept Voorbeelden Zakelijk Evenement?
 
@@ -1713,7 +1713,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-conferentie-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-conferentie-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe plan je Conferentie Organiseren?
 
@@ -1726,7 +1726,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-congrestival-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-congrestival-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe plan je Congrestival Organiseren?
 
@@ -1739,7 +1739,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-plan-evenement-evalueren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-plan-evenement-evalueren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe plan je Evenement Evalueren?
 
@@ -1752,7 +1752,7 @@ Zorg op de dag zelf voor een duidelijke regie. Evalueer achteraf: wat vonden med
 <!-- canonical: https://live-impact.nl/faq/hoe-promoot-je-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-promoot-je-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe promoot je een congres effectief?
 
@@ -1769,7 +1769,7 @@ Wil je meer weten over het organiseren en promoten van een succesvol congres? [L
 <!-- canonical: https://live-impact.nl/faq/hoe-publiek-trekken-publieksfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-publiek-trekken-publieksfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe trek je publiek naar een publieksfeest?
 
@@ -1786,7 +1786,7 @@ Start minstens 4 weken van tevoren met communicatie. Gebruik lokale social media
 <!-- canonical: https://live-impact.nl/faq/hoe-regel-je-koninklijk-bezoek-jubileum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-regel-je-koninklijk-bezoek-jubileum.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe regel je koninklijk bezoek bij een jubileum?
 
@@ -1805,7 +1805,7 @@ Bereid je voor op protocolafspraken: vaste programmavolgorde, beveiligingseisen,
 <!-- canonical: https://live-impact.nl/faq/hoe-schrijf-je-een-goede-uitnodiging-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-schrijf-je-een-goede-uitnodiging-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe schrijf je een goede uitnodiging voor een zakelijk evenement?
 
@@ -1818,7 +1818,7 @@ Bereid je voor op protocolafspraken: vaste programmavolgorde, beveiligingseisen,
 <!-- canonical: https://live-impact.nl/faq/hoe-stimuleer-je-bezoekers-om-content-te-delen-op-je-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-stimuleer-je-bezoekers-om-content-te-delen-op-je-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe stimuleer je bezoekers om content te delen op je evenement?
 
@@ -1837,7 +1837,7 @@ Alle strategieën in ons artikel over [UGC op evenementen](/blog/ugc-op-evenemen
 <!-- canonical: https://live-impact.nl/faq/hoe-studiereisprogramma-opbouwen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-studiereisprogramma-opbouwen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe bouw je een goed studiereisprogramma op?
 
@@ -1856,7 +1856,7 @@ Bouw na elk bezoek twintig minuten reflectie in kleine groepjes in. Wissel inhou
 <!-- canonical: https://live-impact.nl/faq/hoe-trek-je-bezoekers-naar-beursstand -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-trek-je-bezoekers-naar-beursstand.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:54+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe trek je bezoekers naar je beursstand?
 
@@ -1873,7 +1873,7 @@ Bezoekers trek je naar je stand met een combinatie van voorbereiding en activati
 <!-- canonical: https://live-impact.nl/faq/hoe-vaak-employee-betrokkenheid-evenementen-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vaak-employee-betrokkenheid-evenementen-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe vaak moet je medewerkersbetrokkenheid evenementen organiseren?
 
@@ -1892,7 +1892,7 @@ De sleutel is consistentie. Betrokkenheid bouw je niet op met één groot evenem
 <!-- canonical: https://live-impact.nl/faq/hoe-vaak-moet-je-een-bedrijfsborrel-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vaak-moet-je-een-bedrijfsborrel-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe vaak moet je een bedrijfsborrel organiseren?
 
@@ -1911,7 +1911,7 @@ Het ritme geeft houvast aan medewerkers en relaties, ze weten dat er iets aankom
 <!-- canonical: https://live-impact.nl/faq/hoe-vaak-moet-je-een-retentie-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vaak-moet-je-een-retentie-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe vaak moet je een retentie-evenement organiseren?
 
@@ -1934,7 +1934,7 @@ Meer over segmentatie in ons artikel over [klantretentie door evenementen](/blog
 <!-- canonical: https://live-impact.nl/faq/hoe-vaak-onboarding-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vaak-onboarding-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:49+00:00 -->
 
 # Hoe vaak moet je een onboarding-evenement organiseren?
 
@@ -1953,7 +1953,7 @@ Middelgrote organisaties (100-500 medewerkers) organiseren dit het meest effecti
 <!-- canonical: https://live-impact.nl/faq/hoe-vaak-zakelijke-borrel-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vaak-zakelijke-borrel-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:01:59+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vaak moet je een zakelijke borrel organiseren?
 
@@ -1970,7 +1970,7 @@ De ideale frequentie hangt af van je organisatiegrootte. Voor bedrijven met 50 t
 <!-- canonical: https://live-impact.nl/faq/hoe-ver-tevoren-seminar-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-ver-tevoren-seminar-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe ver van tevoren moet je een seminar plannen?
 
@@ -1989,7 +1989,7 @@ Sprekers zijn snel volgeboekt. Populaire moderatoren ook. Begin dus eerder dan j
 <!-- canonical: https://live-impact.nl/faq/hoe-ver-vooruit-bedrijfsuitje-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-ver-vooruit-bedrijfsuitje-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe ver van tevoren moet je een bedrijfsuitje plannen?
 
@@ -2008,7 +2008,7 @@ In populaire periodes (voor kerst, vlak voor de zomervakantie) reken je op 8-10 
 <!-- canonical: https://live-impact.nl/faq/hoe-ver-vooruit-spreker-boeken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-ver-vooruit-spreker-boeken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe ver van tevoren moet je een spreker boeken?
 
@@ -2027,7 +2027,7 @@ De vuistregel: hoe groter de naam en hoe populairder de periode, hoe vroeger je 
 <!-- canonical: https://live-impact.nl/faq/hoe-ver-vooruit-zakelijk-evenement-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-ver-vooruit-zakelijk-evenement-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoever van tevoren moet je een zakelijk evenement plannen?
 
@@ -2046,7 +2046,7 @@ In populaire periodes zoals december, juni en september reken je op 30-50% lange
 <!-- canonical: https://live-impact.nl/faq/hoe-verhoog-je-klantretentie-met-evenementen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-verhoog-je-klantretentie-met-evenementen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe verhoog je klantretentie met evenementen?
 
@@ -2065,7 +2065,7 @@ Lees meer in ons artikel over [klantretentie door evenementen](/blog/klantretent
 <!-- canonical: https://live-impact.nl/faq/hoe-vier-je-het-slaan-van-de-eerste-paal -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vier-je-het-slaan-van-de-eerste-paal.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:06+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vier je het slaan van de eerste paal?
 
@@ -2084,7 +2084,7 @@ Zorg voor een overdekt gedeelte en plan het bij daglicht. Meer tips in ons artik
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-beste-evenementenbureau-breda -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-beste-evenementenbureau-breda.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:07+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vind ik het beste evenementenbureau in Breda?
 
@@ -2101,7 +2101,7 @@ Een goed bureau biedt volledige ontzorging: van [creatief concept](https://live-
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-beste-evenementenbureau-s-hertogenbosch -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-beste-evenementenbureau-s-hertogenbosch.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vind ik het beste evenementenbureau in 's-Hertogenbosch?
 
@@ -2118,7 +2118,7 @@ Een goed bureau denkt mee over [concept](https://live-impact.nl/blog/evenement-c
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-beste-evenementenbureau-tilburg -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-beste-evenementenbureau-tilburg.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vind ik het beste evenementenbureau in Tilburg?
 
@@ -2135,7 +2135,7 @@ Kies een evenementenbureau in Tilburg op basis van ervaring, creativiteit en een
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-een-goed-evenementenbureau-in-amsterdam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-een-goed-evenementenbureau-in-amsterdam.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vind ik een goed evenementenbureau in Amsterdam?
 
@@ -2152,7 +2152,7 @@ Let bij de keuze van een evenementenbureau in Amsterdam op vier dingen. Ervaring
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-een-goed-evenementenbureau-in-den-haag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-een-goed-evenementenbureau-in-den-haag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vind ik een goed evenementenbureau in Den Haag?
 
@@ -2169,7 +2169,7 @@ Let bij de keuze van een evenementenbureau in Den Haag op vier dingen. Ervaring 
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-een-goed-evenementenbureau-in-eindhoven -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-een-goed-evenementenbureau-in-eindhoven.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vind ik een goed evenementenbureau in Eindhoven?
 
@@ -2186,7 +2186,7 @@ Let bij de keuze van een evenementenbureau in Eindhoven op vier dingen. Ervaring
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-een-goed-evenementenbureau-in-rotterdam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-een-goed-evenementenbureau-in-rotterdam.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:50+00:00 -->
 
 # Hoe vind ik een goed evenementenbureau in Rotterdam?
 
@@ -2203,7 +2203,7 @@ Let bij de keuze van een evenementenbureau in Rotterdam op vier dingen. Ervaring
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-ik-een-goed-evenementenbureau-in-utrecht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-ik-een-goed-evenementenbureau-in-utrecht.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:11+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe vind ik een goed evenementenbureau in Utrecht?
 
@@ -2220,7 +2220,7 @@ Let bij de keuze van een evenementenbureau in Utrecht op vier dingen. Ervaring m
 <!-- canonical: https://live-impact.nl/faq/hoe-vind-je-perfecte-evenementenlocatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vind-je-perfecte-evenementenlocatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe vind je de perfecte evenementenlocatie?
 
@@ -2237,7 +2237,7 @@ Start met je criteria. Bepaal hoeveel gasten je verwacht, welk type evenement he
 <!-- canonical: https://live-impact.nl/faq/hoe-vroeg-beginnen-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vroeg-beginnen-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe ver van tevoren begin ik met het organiseren van een zakelijk evenement?
 
@@ -2254,7 +2254,7 @@ Begin altijd met het vastleggen van de datum en de locatie. Die twee elementen z
 <!-- canonical: https://live-impact.nl/faq/hoe-vroeg-evenementenbureau-brabant-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-vroeg-evenementenbureau-brabant-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe ver op voorhand moet ik een evenementenbureau in Brabant inschakelen?
 
@@ -2271,7 +2271,7 @@ Voor een standaard personeelsfeest of kick-off: schakel minimaal 8-12 weken voor
 <!-- canonical: https://live-impact.nl/faq/hoe-werkt-een-droneshow-op-een-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-werkt-een-droneshow-op-een-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe werkt een droneshow op een zakelijk evenement?
 
@@ -2290,7 +2290,7 @@ Meer weten over technologie op evenementen? Lees ons artikel over [innovatieve e
 <!-- canonical: https://live-impact.nl/faq/hoe-werkt-evenementenbureau-amsterdam -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-werkt-evenementenbureau-amsterdam.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe werkt een evenementenbureau in Amsterdam?
 
@@ -2305,7 +2305,7 @@ Een professioneel **evenementenbureau in Amsterdam** werkt in vijf stappen: brie
 <!-- canonical: https://live-impact.nl/faq/hoe-werkt-evenementenbureau-breda -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-werkt-evenementenbureau-breda.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:15+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe werkt een evenementenbureau in Breda?
 
@@ -2320,7 +2320,7 @@ Een professioneel **evenementenbureau in Breda** werkt in vijf stappen. Eerst ee
 <!-- canonical: https://live-impact.nl/faq/hoe-werkt-evenementenbureau-utrecht -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-werkt-evenementenbureau-utrecht.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe werkt een evenementenbureau in Utrecht?
 
@@ -2335,7 +2335,7 @@ Een professioneel **evenementenbureau in Utrecht** werkt in vijf stappen. Het be
 <!-- canonical: https://live-impact.nl/faq/hoe-werkt-idea-toetsing -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoe-werkt-idea-toetsing.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoe werkt de toetsing van het IDEA-keurmerk?
 
@@ -2354,7 +2354,7 @@ Fase twee: locatie-audit. Een auditor bezoekt het kantoor en spreekt medewerkers
 <!-- canonical: https://live-impact.nl/faq/hoeveel-awards-uitreiken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-awards-uitreiken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:16+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoeveel awards moet je uitreiken op een avond?
 
@@ -2371,7 +2371,7 @@ Het optimale aantal ligt bij 5-8 awards. Dat is genoeg voor variatie maar houdt 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-begeleiders-vip-gasten -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-begeleiders-vip-gasten.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoeveel begeleiders heb ik nodig voor VIP-gasten bij een evenement?
 
@@ -2388,7 +2388,7 @@ Kies begeleiders die het programma kennen en de gasten goed leren kennen via de 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-besparen-wkr-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-besparen-wkr-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:17+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoeveel kan ik besparen met de WKR bij een evenement?
 
@@ -2405,7 +2405,7 @@ De besparing is significant. Een bedrijf met een loonsom van €10 miljoen organ
 <!-- canonical: https://live-impact.nl/faq/hoeveel-besteden-bedrijfsfeest-wkr -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-besteden-bedrijfsfeest-wkr.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:18+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:51+00:00 -->
 
 # Hoeveel mag je per medewerker besteden aan een bedrijfsfeest (WKR)?
 
@@ -2424,7 +2424,7 @@ Bij een loonsom van €1 miljoen is de vrije ruimte €16.550 — verdeeld over 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-beveiliging-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-beveiliging-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:20+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel beveiligingspersoneel heb ik nodig voor mijn evenement?
 
@@ -2441,7 +2441,7 @@ Een vuistregel: reken op één beveiliger per 100 gasten voor een besloten, laag
 <!-- canonical: https://live-impact.nl/faq/hoeveel-bezoekers-open-dag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-bezoekers-open-dag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel bezoekers kun je verwachten op een open dag?
 
@@ -2458,7 +2458,7 @@ Het aantal bezoekers varieert sterk. Een lokaal bedrijf trekt gemiddeld 100-300 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-bhvers-nodig-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-bhvers-nodig-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:21+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel BHV'ers heb ik nodig op mijn zakelijk evenement?
 
@@ -2477,7 +2477,7 @@ Lees meer in ons artikel over [veiligheid op je zakelijk evenement](/blog/veilig
 <!-- canonical: https://live-impact.nl/faq/hoeveel-bureaus-idea-gecertificeerd-nederland -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-bureaus-idea-gecertificeerd-nederland.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:22+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel bureaus zijn IDEA-gecertificeerd in Nederland?
 
@@ -2494,7 +2494,7 @@ IDEA vertegenwoordigt ruim 60 professionele livecommunicatie- en activatiebureau
 <!-- canonical: https://live-impact.nl/faq/hoeveel-bureaus-uitnodigen-presentatie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-bureaus-uitnodigen-presentatie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel bureaus nodig ik uit voor een presentatie?
 
@@ -2513,7 +2513,7 @@ Doe eerst oriënterende gesprekken met vier of vijf bureaus. Nodig daarna de dri
 <!-- canonical: https://live-impact.nl/faq/hoeveel-dagen-duurt-een-personeelsreis-ideaal -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-dagen-duurt-een-personeelsreis-ideaal.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:23+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel dagen duurt een personeelsreis ideaal?
 
@@ -2532,7 +2532,7 @@ Een enkele dag kan prima werken voor een actieve teamdag. Ga je voor een incenti
 <!-- canonical: https://live-impact.nl/faq/hoeveel-dagen-duurt-incentive-reis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-dagen-duurt-incentive-reis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:24+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel dagen duurt een incentive reis?
 
@@ -2551,7 +2551,7 @@ Korter dan twee dagen voelt te gehaast; langer dan vijf dagen is lastig te veran
 <!-- canonical: https://live-impact.nl/faq/hoeveel-deelnemers-hackathon -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-deelnemers-hackathon.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel deelnemers heeft een hackathon?
 
@@ -2570,7 +2570,7 @@ De ideale omvang hangt af van het aantal challenges: plan per challenge maximaal
 <!-- canonical: https://live-impact.nl/faq/hoeveel-deelnemers-workshop-ideaal -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-deelnemers-workshop-ideaal.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:25+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel deelnemers heeft een workshop idealiter?
 
@@ -2583,7 +2583,7 @@ De ideale omvang hangt af van het aantal challenges: plan per challenge maximaal
 <!-- canonical: https://live-impact.nl/faq/hoeveel-entertainment-nodig-avond -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-entertainment-nodig-avond.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel entertainment heb je nodig op een avond?
 
@@ -2602,7 +2602,7 @@ Voorkom een te volgepland programma. Gasten hebben behoefte aan rustige momenten
 <!-- canonical: https://live-impact.nl/faq/hoeveel-foodtrucks-nodig-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-foodtrucks-nodig-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:26+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel foodtrucks heb ik nodig voor mijn zakelijk evenement?
 
@@ -2621,7 +2621,7 @@ Meer over foodtrucks in ons artikel over [foodtrucks op je zakelijk evenement](/
 <!-- canonical: https://live-impact.nl/faq/hoeveel-gasten-gala -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-gasten-gala.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel gasten kun je uitnodigen voor een gala?
 
@@ -2638,7 +2638,7 @@ De ideale groepsgrootte hangt af van je doelstelling en budget. Een intiem gala 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-gasten-loyaliteitsevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-gasten-loyaliteitsevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:27+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel gasten nodig je uit voor een loyaliteitsevenement?
 
@@ -2657,7 +2657,7 @@ Meer over de ideale opzet lees je in ons artikel over [loyaliteitsevenementen or
 <!-- canonical: https://live-impact.nl/faq/hoeveel-gasten-nodig-je-uit-bij-een-bouwmijlpaal -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-gasten-nodig-je-uit-bij-een-bouwmijlpaal.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:28+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:52+00:00 -->
 
 # Hoeveel gasten nodig je uit bij een bouwmijlpaal?
 
@@ -2680,7 +2680,7 @@ Die opbouw van exclusief naar inclusief creëert momentum. Meer in ons artikel o
 <!-- canonical: https://live-impact.nl/faq/hoeveel-gasten-zijn-ideaal-voor-een-kleinschalig-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-gasten-zijn-ideaal-voor-een-kleinschalig-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel gasten zijn ideaal voor een kleinschalig evenement?
 
@@ -2701,7 +2701,7 @@ Lees meer in ons artikel over [kleinschalig evenement organiseren](/blog/kleinsc
 <!-- canonical: https://live-impact.nl/faq/hoeveel-herinneringen-sturen-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-herinneringen-sturen-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:29+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel herinneringen stuur je voor een zakelijk evenement?
 
@@ -2720,7 +2720,7 @@ Meer dan drie raken al snel aan spam. Minder dan drie is een gemiste kans. Drie 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-incheckpunten-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-incheckpunten-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel incheckpunten heb ik nodig bij een groot evenement?
 
@@ -2737,7 +2737,7 @@ Meer over entreelogistiek lees je in ons artikel over [entreelogistiek bij grote
 <!-- canonical: https://live-impact.nl/faq/hoeveel-influencers-uitnodigen-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-influencers-uitnodigen-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:30+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel influencers nodig je uit voor een evenement?
 
@@ -2754,7 +2754,7 @@ Voor de meeste influencer-evenementen is een groep van 15 tot 30 influencers het
 <!-- canonical: https://live-impact.nl/faq/hoeveel-klanten-klantendag -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-klanten-klantendag.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Voor hoeveel klanten organiseer je een klantendag?
 
@@ -2769,7 +2769,7 @@ Een klantendag werkt voor groepen van 30 tot 500+ personen. Bij kleinere groepen
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-een-b2b-marketing-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-een-b2b-marketing-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:31+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost een B2B marketing evenement?
 
@@ -2788,7 +2788,7 @@ Tips over budget en ROI lees je in ons artikel over [B2B marketing evenementen o
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-een-intern-communicatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-een-intern-communicatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost een interne-communicatie-evenement?
 
@@ -2807,7 +2807,7 @@ Meer over budgettering en planning lees je in ons artikel over [interne-communic
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-een-loyaliteitsevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-een-loyaliteitsevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:32+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost een loyaliteitsevenement?
 
@@ -2824,7 +2824,7 @@ Een relatie-evenement is altijd premium: gasten zijn klanten of partners die je 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-een-rebranding-lancering -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-een-rebranding-lancering.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:35+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost een rebranding-lancering?
 
@@ -2843,7 +2843,7 @@ Begin vroeg met plannen: minimaal tien weken van tevoren. Meer over budget en pl
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-een-verandercommunicatie-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-een-verandercommunicatie-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost een verandercommunicatie-evenement?
 
@@ -2862,7 +2862,7 @@ Meer over budgettering lees je in ons artikel over [verandercommunicatie-eveneme
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-evenementenbureau-gemiddeld -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-evenementenbureau-gemiddeld.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:36+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost een evenementenbureau gemiddeld?
 
@@ -2879,7 +2879,7 @@ Het honorarium bedraagt gemiddeld 15-25% van je totale eventbudget. Bij grotere 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-den-haag-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-den-haag-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost het om een evenement in Den Haag te organiseren?
 
@@ -2894,7 +2894,7 @@ De kosten hangen af van grootte, type en locatie. Begin met budgetplanning en of
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-deventer-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-deventer-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:37+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:53+00:00 -->
 
 # Hoeveel kost het om een evenement in Deventer te organiseren?
 
@@ -2909,7 +2909,7 @@ Kosten variëren afhankelijk van je keuzes. Vraag offertes aan bij verschillende
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-dordrecht-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-dordrecht-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Dordrecht te organiseren?
 
@@ -2924,7 +2924,7 @@ Budgetteer voor locatie, catering en vergunningen. Waterkantlocaties kunnen prem
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-ede-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-ede-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:38+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Ede te organiseren?
 
@@ -2939,7 +2939,7 @@ Maak een gedetailleerde begroting voor alle elementen van je evenement.
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-eindhoven-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-eindhoven-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:39+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Eindhoven te organiseren?
 
@@ -2954,7 +2954,7 @@ Eindhoven biedt locaties in verschillende prijscategorieën voor elk budget.
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-emmen-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-emmen-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Emmen te organiseren?
 
@@ -2969,7 +2969,7 @@ Emmen biedt concurrentieprijzen voor locaties en diensten. Plan je budget zorgvu
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-enschede-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-enschede-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:40+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Enschede te organiseren?
 
@@ -2984,7 +2984,7 @@ Enschede biedt goed gevarieerde locaties in verschillende prijsklassen.
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-haarlem-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-haarlem-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Haarlem te organiseren?
 
@@ -2999,7 +2999,7 @@ Haarlem biedt premium locaties en middensegment-opties. Budget hangt af van je l
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-haarlemmermeer-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-haarlemmermeer-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:41+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Haarlemmermeer te organiseren?
 
@@ -3014,7 +3014,7 @@ Waterkantlocaties zijn premium. Planningskosten voor waterevenementen kunnen hog
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-helmond-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-helmond-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:44+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Helmond te organiseren?
 
@@ -3029,7 +3029,7 @@ Helmond biedt voordelige locaties en diensten. Budgetteer afhankelijk van evenem
 <!-- canonical: https://live-impact.nl/faq/hoeveel-kost-het-om-een-evenement-in-hilversum-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-kost-het-om-een-evenement-in-hilversum-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel kost het om een evenement in Hilversum te organiseren?
 
@@ -3044,7 +3044,7 @@ Hilversum biedt premium studio- en technische faciliteiten. Budget hangt af van 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-mensen-bedrijfs-bbq -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-mensen-bedrijfs-bbq.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:45+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel mensen passen er bij een bedrijfs-BBQ?
 
@@ -3061,7 +3061,7 @@ Een bedrijfs-BBQ werkt voor groepen van 20 tot 400+ personen. Voor kleine groepe
 <!-- canonical: https://live-impact.nl/faq/hoeveel-mensen-bedrijfsfestival -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-mensen-bedrijfsfestival.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel mensen heb je nodig voor een bedrijfsfestival?
 
@@ -3078,7 +3078,7 @@ Meer op [bedrijfsfestival organiseren](/blog/bedrijfsfestival-organiseren).
 <!-- canonical: https://live-impact.nl/faq/hoeveel-mensen-netwerkevenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-mensen-netwerkevenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:46+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel mensen heb je nodig voor een netwerkevenement?
 
@@ -3097,7 +3097,7 @@ De sweet spot is 50 tot 100 deelnemers: genoeg diversiteit, overzichtelijk genoe
 <!-- canonical: https://live-impact.nl/faq/hoeveel-mensen-winterfestival -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-mensen-winterfestival.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:54+00:00 -->
 
 # Hoeveel mensen heb je nodig voor een winterfestival?
 
@@ -3116,7 +3116,7 @@ Qua locatie heb je minimaal 1.000 m² vloeroppervlak nodig voor 200 gasten. Voor
 <!-- canonical: https://live-impact.nl/faq/hoeveel-mensen-workshop-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-mensen-workshop-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:47+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel mensen kan een workshop aan?
 
@@ -3133,7 +3133,7 @@ De meeste workshops werken het best met 10 tot 30 deelnemers. Kleiner dan 10 men
 <!-- canonical: https://live-impact.nl/faq/hoeveel-no-show-normaal-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-no-show-normaal-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel no-show is normaal bij een zakelijk evenement?
 
@@ -3150,7 +3150,7 @@ Bij gratis evenementen is 30-40% no-show normaal. Bij betaalde evenementen 10-15
 <!-- canonical: https://live-impact.nl/faq/hoeveel-personas-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-personas-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:48+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel persona's heb je nodig voor een zakelijk evenement?
 
@@ -3169,7 +3169,7 @@ Bij interne evenementen: management, medewerkers en eventueel een derde groep. B
 <!-- canonical: https://live-impact.nl/faq/hoeveel-personen-jubileumreis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-personen-jubileumreis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:49+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Voor hoeveel personen organiseer je een jubileumreis?
 
@@ -3188,7 +3188,7 @@ Bij een klein gezelschap (15-25 personen) kun je het budget per persoon verhogen
 <!-- canonical: https://live-impact.nl/faq/hoeveel-personen-studiereis -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-personen-studiereis.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Voor hoeveel personen organiseer je een studiereis?
 
@@ -3207,7 +3207,7 @@ Bij grotere groepen splits je in subgroepen met elk een eigen programma. Dat wer
 <!-- canonical: https://live-impact.nl/faq/hoeveel-personen-teambuilding -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-personen-teambuilding.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:50+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel personen passen bij teambuilding?
 
@@ -3226,7 +3226,7 @@ Boven de 50 personen is het verstandiger om in parallelle subgroepen te werken v
 <!-- canonical: https://live-impact.nl/faq/hoeveel-sprekers-nodig-congres -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-sprekers-nodig-congres.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel sprekers heb je nodig voor een congres?
 
@@ -3243,7 +3243,7 @@ Het belangrijkste: kies sprekers die aansluiten bij je thema en doelgroep. [Lees
 <!-- canonical: https://live-impact.nl/faq/hoeveel-sprekers-nodig-voor-symposium -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-sprekers-nodig-voor-symposium.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:51+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel sprekers heb je nodig voor een symposium?
 
@@ -3262,7 +3262,7 @@ Kwaliteit gaat boven kwantiteit. Kies sprekers die het thema vanuit verschillend
 <!-- canonical: https://live-impact.nl/faq/hoeveel-stroom-nodig-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-stroom-nodig-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:52+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel stroom heb ik nodig voor mijn zakelijk evenement?
 
@@ -3281,7 +3281,7 @@ Lees meer in ons artikel over [technische infrastructuur op je evenement](/blog/
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-bedrijfsevenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-bedrijfsevenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel tijd heb je nodig om een bedrijfsevenement te organiseren?
 
@@ -3300,7 +3300,7 @@ De organisatie verloopt in vier fases. Eerst het fundament leggen (12 tot 10 wek
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-bedrijfsjubileum-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-bedrijfsjubileum-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:53+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel tijd heb je nodig om een bedrijfsjubileum te organiseren?
 
@@ -3321,7 +3321,7 @@ Vroeg beginnen geeft je meer vrijheid in creativiteit, zekerheid in planning en 
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-beursdeelname-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-beursdeelname-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel tijd heb je nodig om een beursdeelname te organiseren?
 
@@ -3338,7 +3338,7 @@ Reken op minimaal 12 weken doorlooptijd voor een professionele beursdeelname. De
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-jubileumfeest-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-jubileumfeest-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:55+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:55+00:00 -->
 
 # Hoeveel tijd heb je nodig om een jubileumfeest te plannen?
 
@@ -3355,7 +3355,7 @@ Voor kleine feesten (tot 80 personen): 8-10 weken vooraf. Je hebt minder gasten,
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-kick-off-thema-bedenken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-kick-off-thema-bedenken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd kost het om een kick-off thema te bedenken?
 
@@ -3374,7 +3374,7 @@ De fout die de meeste organisaties maken: het thema bedenken vóórdat de strate
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-kost-brand-experience-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-kost-brand-experience-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:56+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd kost het om een brand experience te organiseren?
 
@@ -3393,7 +3393,7 @@ Begin op tijd, goede locaties en leveranciers zijn vaak maanden van tevoren volg
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-kost-zakelijk-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-kost-zakelijk-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:57+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd kost het om een zakelijk evenement te organiseren?
 
@@ -3414,7 +3414,7 @@ Doe je het zelf? Reken dan op 200 tot 400 uur aan organisatietijd. Met een evene
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-nodig-50-jarig-jubileum -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-nodig-50-jarig-jubileum.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd heb je nodig om een 50-jarig jubileum te organiseren?
 
@@ -3433,7 +3433,7 @@ Begin vroeg met een stuurgroep. Populaire locaties zijn snel volgeboekt, dus res
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-nodig-congres-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-nodig-congres-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:02:58+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd heb je nodig om een congres te organiseren?
 
@@ -3450,7 +3450,7 @@ Start op tijd met de voorbereidingen. [Lees meer over congres organiseren](/blog
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-nodig-om-incentive-reis-te-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-nodig-om-incentive-reis-te-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:00+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd heb je nodig om een incentive reis te organiseren?
 
@@ -3471,7 +3471,7 @@ Schakel een evenementenbureau in als je het professioneel wilt aanpakken. Zij ke
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-personeelsfeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-personeelsfeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd heb je nodig om een personeelsfeest te organiseren?
 
@@ -3492,7 +3492,7 @@ Organiseer je het zelf? Reken op 150 tot 300 uur aan voorbereiding. Met een even
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-personeelsreis-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-personeelsreis-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:01+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd kost het om een personeelsreis te organiseren?
 
@@ -3509,7 +3509,7 @@ Reken op minimaal 16 tot 20 weken doorlooptijd voor een personeelsreis. De eerst
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-relatie-evenement-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-relatie-evenement-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd heb je nodig om een relatie-evenement te organiseren?
 
@@ -3530,7 +3530,7 @@ Vroeg beginnen geeft je meer keuze in locaties, betere beschikbaarheid van enter
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-tevoren-bureau-inschakelen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-tevoren-bureau-inschakelen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd van tevoren moet je een evenementenbureau inschakelen?
 
@@ -3547,7 +3547,7 @@ Hoe eerder je een bureau inschakelt, hoe beter. Minimaal 3-6 maanden vooraf is d
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-tevoren-locatie-boeken -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-tevoren-locatie-boeken.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:02+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd van tevoren moet je een locatie boeken?
 
@@ -3564,7 +3564,7 @@ Hoe eerder, hoe beter. Populaire evenementenlocaties zijn maanden van tevoren vo
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-themafeest-organiseren -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-themafeest-organiseren.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:56+00:00 -->
 
 # Hoeveel tijd kost het organiseren van een themafeest?
 
@@ -3587,7 +3587,7 @@ Begin bij voorkeur vier maanden voor de datum, zeker voor feesten in het pieksei
 <!-- canonical: https://live-impact.nl/faq/hoeveel-tijd-zakelijk-evenement-plannen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-tijd-zakelijk-evenement-plannen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:03+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe ver van tevoren moet ik mijn zakelijk evenement plannen?
 
@@ -3606,7 +3606,7 @@ Richtlijnen voor de planningshorizon van een zakelijk evenement:
 <!-- canonical: https://live-impact.nl/faq/hoeveel-vrije-ruimte-wkr -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hoeveel-vrije-ruimte-wkr.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoeveel vrije ruimte heb ik in de WKR?
 
@@ -3623,7 +3623,7 @@ De vrije ruimte bedraagt in 2025 en 2026: 2% over de eerste €400.000 van de fi
 <!-- canonical: https://live-impact.nl/faq/hybride-evenement-praktijk-werking -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hybride-evenement-praktijk-werking.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:04+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe werkt een hybride evenement in de praktijk?
 
@@ -3640,7 +3640,7 @@ Een hybride evenement werkt zo: fysieke deelnemers verzamelen zich op locatie, z
 <!-- canonical: https://live-impact.nl/faq/hybride-evenementen-relevant-2026 -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/hybride-evenementen-relevant-2026.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:05+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Zijn hybride evenementen nog relevant in 2026?
 
@@ -3659,7 +3659,7 @@ Satelliet-evenementen (kleine lokale bijeenkomsten gekoppeld aan een centraal ev
 <!-- canonical: https://live-impact.nl/faq/idea-keurmerk-evenementenbureau-kiezen -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/idea-keurmerk-evenementenbureau-kiezen.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:08+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe helpt het IDEA keurmerk bij het kiezen van een evenementenbureau?
 
@@ -3678,7 +3678,7 @@ Kijk daarna op bureau-DNA: past de stijl bij jouw merk? En op trackrecord: welke
 <!-- canonical: https://live-impact.nl/faq/idea-keurmerk-evenementenbureaus-definitie -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/idea-keurmerk-evenementenbureaus-definitie.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:09+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Wat is het IDEA-keurmerk voor evenementenbureaus?
 
@@ -3695,7 +3695,7 @@ Gecertificeerde bureaus doorlopen een externe audit en moeten aantonen dat ze co
 <!-- canonical: https://live-impact.nl/faq/ideale-groepsgrootte-zomerfeest -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/ideale-groepsgrootte-zomerfeest.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:10+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Voor hoeveel mensen werkt een zomerfeest het best?
 
@@ -3716,7 +3716,7 @@ Bij 50 tot 100 mensen kun je interactieve mechanismes inzetten zoals een cocktai
 <!-- canonical: https://live-impact.nl/faq/iedereen-meedoen-personeelsfeest-thema -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/iedereen-meedoen-personeelsfeest-thema.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe zorg je dat iedereen meedoet met het thema van een personeelsfeest?
 
@@ -3735,7 +3735,7 @@ Als het decor, de muziek en de welkomstdrink kloppen bij binnenkomst, trekken de
 <!-- canonical: https://live-impact.nl/faq/impact-bedrijfsopening -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/impact-bedrijfsopening.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:12+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe organiseer ik een bedrijfsopening die impact maakt?
 
@@ -3752,7 +3752,7 @@ Een openingsceremonie duurt meestal 45 tot 90 minuten. De structuur: 1) Ontvangs
 <!-- canonical: https://live-impact.nl/faq/impact-evenement-eigen-locatie-medewerkers -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/impact-evenement-eigen-locatie-medewerkers.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Wat is de impact van een evenement op eigen locatie op je medewerkers?
 
@@ -3769,7 +3769,7 @@ Een getransformeerde werkplek maakt indruk op medewerkers. Ze zien hun dagelijks
 <!-- canonical: https://live-impact.nl/faq/in-drie-woorden -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/in-drie-woorden.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:13+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # In drie woorden:
 
@@ -3784,7 +3784,7 @@ Leuk, leuk en leuk. (Zeggen onze klanten:-)) En super-professioneel. Maar ook me
 <!-- canonical: https://live-impact.nl/faq/incheck-systeem-zakelijk-evenement -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/incheck-systeem-zakelijk-evenement.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Wat is de beste manier om gasten in te checken bij een zakelijk evenement?
 
@@ -3801,7 +3801,7 @@ Meer over de verschillende entreevormen in ons artikel over [entreelogistiek bij
 <!-- canonical: https://live-impact.nl/faq/inclusie-brainstorm -->
 <!-- mirror: https://raw.githubusercontent.com/robin-codeson/live-impact-llms/main/faq/inclusie-brainstorm.md -->
 <!-- section: FAQ -->
-<!-- last_updated: 2026-05-08T17:03:14+00:00 -->
+<!-- last_updated: 2026-05-08T22:27:57+00:00 -->
 
 # Hoe faciliteer je inclusie in brainstorming?
 
