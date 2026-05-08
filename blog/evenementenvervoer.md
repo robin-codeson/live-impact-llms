@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenvervoer"
 title: "Vervoer is meer dan logistiek"
 description: "Evenementenvervoer slim regelen? Van shuttle tot carpoolcoördinatie: aankomst als onderdeel van de beleving."
 section: "Blog"
-last_updated: "2026-05-08T16:51:05+00:00"
+last_updated: "2026-05-08T21:22:18+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
