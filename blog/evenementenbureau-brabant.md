@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenementenbureau-brabant"
 title: "Jouw evenementenbureau in Brabant"
 description: "Evenementenbureau in Brabant nodig? Live Impact organiseert zakelijke events in Den Bosch, Eindhoven, Breda en Tilburg. 25 jaar ervaring, Serieus Leuk."
 section: "Blog"
-last_updated: "2026-05-08T16:50:53+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
