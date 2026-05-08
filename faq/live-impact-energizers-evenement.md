@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-energizers-evenement"
 title: "Verwerkt Live Impact energizers in evenementprogramma's?"
 description: "Ja, Live Impact verwerkt energizers in elk evenementprogramma. We doen vier dingen. We bepalen het juiste moment, daar waar de dip in energie zit. We kiezen activiteiten die passen bij de doelgroep en het evenementtype. We zorgen voor goede begeleiding via de MC. Tot slot testen we de timing vooraf."
 section: "FAQ"
-last_updated: "2026-05-08T17:08:03+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
