@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/entertainment-zakelijk-evenement"
 title: "Welk entertainment past bij een zakelijk evenement?"
 description: "Entertainment bij een zakelijk evenement is er om de sfeer te versterken, niet om het te domineren. Kies acts die ruimte laten voor gesprek en verbinding. Denk aan een stijlvolle liveband als dinerachtergrond, een keynote-entertainer die je boodschap versterkt of close-up magie tussen de gasten. Een"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:04+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
