@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beoordeling-evenement-locatie"
 title: "Waar let je op bij het beoordelen van een evenementlocatie?"
 description: "Bij het beoordelen van een locatie let je op tien punten. Eerst: ruimte-indeling. Zijn er meerdere zalen? Kun je gasten flexibel verdelen? Voor 100 personen is een zaal voor 150 ideaal; te groot voelt leeg, te klein voelt benauwd. Tweede: faciliteiten. Zijn de toiletten schoon en voldoende? (Vuistre"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:31+00:00"
+last_updated: "2026-05-08T21:22:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
