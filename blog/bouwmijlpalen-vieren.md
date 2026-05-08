@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/bouwmijlpalen-vieren"
 title: "Bouwmijlpalen vieren: waarom het ertoe doet"
 description: "Bouwmijlpalen vieren als bedrijfsevent? Van eerste paal tot oplevering: hoe je bouwmomenten omzet in krachtige relatie-evenementen. Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:49:37+00:00"
+last_updated: "2026-05-08T21:22:10+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
