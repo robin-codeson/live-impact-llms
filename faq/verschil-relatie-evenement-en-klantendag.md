@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-relatie-evenement-en-klanten
 title: "Wat is het verschil tussen een relatie-evenement en een klantendag?"
 description: "De termen worden soms door elkaar gebruikt, maar er is een onderscheid. Een klantendag is specifiek gericht op klanten en heeft vaak een uitgebreider programma met demonstraties, updates en inhoudelijke sessies. Een relatie-evenement is breder: het kan ook partners, leveranciers, oud-medewerkers of "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:18+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
