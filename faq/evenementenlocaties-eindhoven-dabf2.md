@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-eindhoven-dabf2"
 title: "Welke evenementenlocaties zijn er in Eindhoven?"
 description: "Eindhoven biedt een uniek locatielandschap. Strijp-S en het Klokgebouw zijn industrieel erfgoed met een creatieve sfeer. Het Evoluon is iconisch en geschikt voor congressen. De High Tech Campus werkt goed voor tech-evenementen. Landgoederen in de omgeving bieden ruimte voor buitenactiviteiten en mee"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:02+00:00"
+last_updated: "2026-05-08T21:23:04+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
