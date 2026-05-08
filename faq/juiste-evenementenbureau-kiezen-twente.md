@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/juiste-evenementenbureau-kiezen-twent
 title: "Hoe kies je het juiste evenementenbureau in Twente?"
 description: "Let bij de keuze voor een evenementenbureau in Twente op ervaring met jouw type evenement. Kijk ook naar een duidelijk creatief concept en transparantie over kosten. Vraag altijd om referenties en controleer of het bureau lokale kennis heeft. Live Impact werkt met vaste leveranciers in de regio Twen"
 section: "FAQ"
-last_updated: "2026-05-08T17:03:44+00:00"
+last_updated: "2026-05-08T21:23:31+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
