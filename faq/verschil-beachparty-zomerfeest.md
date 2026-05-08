@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-beachparty-zomerfeest"
 title: "Wat is het verschil tussen een beachparty en een zomerfeest?"
 description: "Een beachparty is een specifiek format met een beach-sfeer als kern: zand, stranddecor, beachgames, zomerse catering en beach-muziek. Alles is ontworpen om de vakantiesfeer van het strand na te bootsen of op het strand zelf te zijn. Een zomerfeest is een breder begrip: een feest in de zomer, maar zo"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:37+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
