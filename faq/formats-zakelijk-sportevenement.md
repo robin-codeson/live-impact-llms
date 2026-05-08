@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/formats-zakelijk-sportevenement"
 title: "Welke formats zijn er voor een zakelijk sportevenement?"
 description: "Populaire formats zijn de teamcompetitie, de sportchallenge, de sportieve bedrijfsdag, het professionele toernooi en de hardlooprun. Een teamcompetitie zet sport in als bindmiddel. Een sportchallenge werkt individueel of groepsgewijs. De sportieve bedrijfsdag biedt stations en een recreatief program"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:50+00:00"
+last_updated: "2026-05-08T21:23:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
