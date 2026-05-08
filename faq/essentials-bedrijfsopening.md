@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/essentials-bedrijfsopening"
 title: "Wat mag niet ontbreken bij een bedrijfsopening?"
 description: "Een succesvolle bedrijfsopening vraagt om acht onderdelen. Eén: een lint-doorknipmoment, een korte ceremonie met gastheer of directeur. Twee: speeches met een welkomstwoord, dankbetuiging aan sponsors en een toekomstvisie. Drie: een goede gastenmix van klanten, partners, media, gemeentepolitici en p"
 section: "FAQ"
-last_updated: "2026-05-08T16:58:04+00:00"
+last_updated: "2026-05-08T21:22:59+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
