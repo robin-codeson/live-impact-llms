@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/goede-locatie-bedrijfsweekend"
 title: "Wat is een goede locatie voor een bedrijfsweekend?"
 description: "Kies een locatie met karakter, op maximaal 90 minuten rijden van het hoofdkantoor. Ver genoeg om los te komen, dichtbij genoeg om bereikbaar te blijven. Vijf criteria bepalen of een locatie werkt. Vergaderruimtes met daglicht voor de inhoudelijke delen. Slaapkamers voor de hele groep op één complex."
 section: "FAQ"
-last_updated: "2026-05-08T17:00:11+00:00"
+last_updated: "2026-05-08T21:23:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
