@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/uitnodiging-zakelijk-evenement"
 title: "De uitnodiging is het evenement, voordat het evenement er is"
 description: "Uitnodiging voor een zakelijk evenement schrijven? Van save-the-date tot herinneringsmail: dit werkt."
 section: "Blog"
-last_updated: "2026-05-08T16:52:59+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
