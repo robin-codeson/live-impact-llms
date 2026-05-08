@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/belonen-loyale-klanten-evenement"
 title: "Hoe beloon je je meest loyale klanten via een evenement?"
 description: "Er zijn drie manieren om loyale klanten te belonen via evenementen. Eerste: een erkenningsmoment. Nodig ze uit en zeg publiekelijk: 'Jij bent al 5 jaar klant bij ons'. Geef ook een klein geschenk. Denk aan een gegraveerd wijnglas, een gepersonaliseerd sieraad of een erkenningscertificaat. Dit voelt "
 section: "FAQ"
-last_updated: "2026-05-08T16:54:31+00:00"
+last_updated: "2026-05-08T21:22:41+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
