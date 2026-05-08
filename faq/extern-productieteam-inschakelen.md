@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/extern-productieteam-inschakelen"
 title: "Wanneer schakel je een extern productieteam in?"
 description: "Je schakelt een extern productieteam in wanneer jouw interne capaciteit tekortschiet. Drie signalen zijn duidelijk. Je hebt geen vaste evenementmanager. Technische expertise ontbreekt. Of het evenement is groter dan je organisatie eerder organiseerde. Extern inhuren geeft voordelen: specialistisch v"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:28+00:00"
+last_updated: "2026-05-08T21:23:07+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
