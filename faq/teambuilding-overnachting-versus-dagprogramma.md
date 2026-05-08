@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/teambuilding-overnachting-versus-dagp
 title: "Is teambuilding met overnachting beter dan een dagprogramma?"
 description: "Voor teams waarbij verbinding het centrale doel is: ja, overnachting is beter. De avond na het programma en het gezamenlijk ontbijt zijn waardevoller dan de dag zelf. Voor teams met een goed fundament waarbij een impuls volstaat: een strak dagprogramma is efficiënter en minder belastend. Overnachtin"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:37+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
