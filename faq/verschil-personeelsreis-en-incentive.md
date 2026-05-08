@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-personeelsreis-en-incentive"
 title: "Wat is het verschil tussen een personeelsreis en een incentive?"
 description: "Een personeelsreis is bedoeld voor de hele organisatie of een groot deel ervan. Het doel is verbinding, teambuilding en waardering voor alle medewerkers. Een incentive richt zich op een selecte groep: best presterende medewerkers, verkoopteams of partners die een bepaald doel hebben behaald. Het kar"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:15+00:00"
+last_updated: "2026-05-08T21:24:47+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
