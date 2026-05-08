@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/klantenbinding-evenement"
 title: "Klantenbinding begint waar de inbox ophoudt"
 description: "Klantenbinding via evenementen versterken? Ontdek hoe je met live contactmomenten klantloyaliteit meetbaar vergroot. Tips, opzetten en KPI's van Live Impact."
 section: "Blog"
-last_updated: "2026-05-08T16:51:41+00:00"
+last_updated: "2026-05-08T21:22:22+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
