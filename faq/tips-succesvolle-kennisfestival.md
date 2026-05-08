@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/tips-succesvolle-kennisfestival"
 title: "Wat zijn tips voor een succesvol kennisfestival?"
 description: "Een goed kennisfestival deelt kennis én creëert verbinding. Zorg voor een sterk thema dat richting geeft aan alle sessies. Kies sprekers die prikkelen en praktisch zijn, met bruikbare inzichten in plaats van theoretische verhalen. Maak ruimte voor informeel contact: korte pauzes werken beter dan één"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:57+00:00"
+last_updated: "2026-05-08T21:24:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
