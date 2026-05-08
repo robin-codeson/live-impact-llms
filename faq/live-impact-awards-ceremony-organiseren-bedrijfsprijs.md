@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-awards-ceremony-organiser
 title: "Kan Live Impact helpen bij het organiseren van een eigen awards ceremony?"
 description: "Ja. Live Impact organiseert awards ceremonies voor bedrijven en sectoren die hun eigen prijsuitreiking willen opzetten. Wij regelen alles: concept, locatie, programma, productie en de beleving van de avond zelf. Bijvoorbeeld een interne award voor je team, een sectorprijs voor je branche of een rela"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:15+00:00"
+last_updated: "2026-05-08T21:23:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
