@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/gastenlijst-bedrijfsjubileum"
 title: "Wie nodig je uit voor een bedrijfsjubileum?"
 description: "De gastenlijst bij een bedrijfsjubileum zegt meer over je bedrijf dan je denkt. Drie vuistregels. Eén: medewerkers altijd eerst, want zij dragen de cultuur. Twee: langstzittende klanten en leveranciers voor symboliek. Kies 10 tot 20 relaties die meer dan 10 jaar verbonden zijn. Drie: familie van opr"
 section: "FAQ"
-last_updated: "2026-05-08T17:00:01+00:00"
+last_updated: "2026-05-08T21:23:11+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
