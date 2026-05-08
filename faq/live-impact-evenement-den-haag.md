@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-den-haag"
 title: "Kan Live Impact een evenement in Den Haag voor mij organiseren?"
 description: "Ja. Live Impact organiseert evenementen in Den Haag en de regio: van exclusieve relatiediners op toplocaties tot congressen en jubileumvieringen. Den Haag heeft een eigen representatieve kracht: het Spui, de Ridderzaal-omgeving, de Hofvijver-locaties. Wij kennen de stad, de beste leveranciers en de "
 section: "FAQ"
-last_updated: "2026-05-08T17:08:23+00:00"
+last_updated: "2026-05-08T21:23:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
