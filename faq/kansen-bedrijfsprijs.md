@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kansen-bedrijfsprijs"
 title: "Hoe vergroot je je kansen op een bedrijfsprijs?"
 description: "Je kansen op een bedrijfsprijs vergroot je als volgt. 1) Juiste prijsselectie: onderzoek welke prijzen passen bij jouw bedrijfsprofiel (niet alle prijzen zijn relevant). 2) Sterke indiening: schrijf een overtuigend dossier met concrete resultaten, innovatie, duurzaamheid of sociale impact. Veel bedr"
 section: "FAQ"
-last_updated: "2026-05-08T17:04:20+00:00"
+last_updated: "2026-05-08T21:23:34+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
