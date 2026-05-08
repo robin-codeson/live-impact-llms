@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/test-evenement-naam-doelgroep"
 title: "Hoe test je of een evenementnaam aanslaat bij je doelgroep?"
 description: "Testen gebeurt in twee fases. Fase 1 (intern): deel je top 3 namen met 10-15 teamleden. Vraag: welke voelt het meest authentiek voor ons bedrijf? Welke zou jij aan een klant noemen? Zorg voor open feedback, niet ja/nee. Fase 2 (extern): als je budget hebt, voer een korte online poll uit met 50+ lede"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:44+00:00"
+last_updated: "2026-05-08T21:24:32+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
