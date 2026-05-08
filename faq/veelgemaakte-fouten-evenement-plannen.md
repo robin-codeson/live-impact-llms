@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/veelgemaakte-fouten-evenement-plannen
 title: "Welke fouten worden het vaakst gemaakt bij het plannen van een evenement?"
 description: "Veelgemaakte fouten zijn: te laat beginnen, geen heldere doelstelling formuleren en het budget niet bewaken. Ook communicatie naar gasten verwaarlozen en geen evaluatie doen, komt regelmatig voor. Een gestructureerde checklist en een ervaren evenementenbureau helpen deze valkuilen te voorkomen."
 section: "FAQ"
-last_updated: "2026-05-08T17:15:14+00:00"
+last_updated: "2026-05-08T21:24:35+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
