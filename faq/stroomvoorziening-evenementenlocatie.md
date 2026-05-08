@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/stroomvoorziening-evenementenlocatie"
 title: "Wat moet je weten over stroomvoorziening op een evenementenlocatie?"
 description: "Controleer altijd de aansluitwaarde van de locatie: hoeveel ampère is beschikbaar en via hoeveel groepen? Zware gebruikers als LED-schermen, koffiemachines en keukens verbruiken meer dan verwacht. Bij buitenevenementen of tijdelijke locaties is een aggregaat bijna altijd nodig. Plan dit ruim in: str"
 section: "FAQ"
-last_updated: "2026-05-08T17:14:18+00:00"
+last_updated: "2026-05-08T21:24:30+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
