@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-moment-nieuwjaarsborrel"
 title: "Wanneer organiseer je een nieuwjaarsborrel het best?"
 description: "De sweet spot voor een zakelijke nieuwjaarsborrel ligt tussen maandag 12 en donderdag 22 januari. Voor die periode zit iedereen nog in vakantie-modus of in de detox-week na kerst. Na 22 januari raakt de aandacht bij de jaarplannen. Kies bij voorkeur een dinsdag, woensdag of donderdag. Maandag is te "
 section: "FAQ"
-last_updated: "2026-05-08T16:55:30+00:00"
+last_updated: "2026-05-08T21:22:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
