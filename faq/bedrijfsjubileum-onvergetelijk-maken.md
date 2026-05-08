@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/bedrijfsjubileum-onvergetelijk-maken"
 title: "Hoe maak je een bedrijfsjubileum onvergetelijk?"
 description: "Een onvergetelijk jubileum heeft een concept dat verder gaat dan confetti en hapjes. Begin bij de identiteit: wat maakt dit bedrijf bijzonder en hoe vertaal je dat naar een beleving? Verras met een onthulling, een jubileumfilm of een act die perfect past bij de cultuur. Betrek medewerkers interactie"
 section: "FAQ"
-last_updated: "2026-05-08T16:54:18+00:00"
+last_updated: "2026-05-08T21:22:39+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
