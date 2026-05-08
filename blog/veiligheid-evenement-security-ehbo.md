@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/veiligheid-evenement-security-ehbo"
 title: "Veiligheid is geen bijzaak"
 description: "Hoe zorg je voor veiligheid op je evenement? Van beveiligingspersoneel tot EHBO en een vergunning: alles over het veiligheidsplan."
 section: "Blog"
-last_updated: "2026-05-08T16:53:01+00:00"
+last_updated: "2026-05-08T21:22:29+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
