@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-onboarding-evenement"
 title: "Kan Live Impact een onboarding evenement voor ons organiseren?"
 description: "Ja, Live Impact is gespecialiseerd in onboarding-ervaringen die sterke teams bouwen. Wij verzorgen de complete opzet: van gastenlijst, timing en locatiekeuze tot programmaverloop, buddysysteem en workshops. Ook catering gericht op inclusie, merkuitstraling en begeleiding op de dag zelf regelen wij. "
 section: "FAQ"
-last_updated: "2026-05-08T17:09:52+00:00"
+last_updated: "2026-05-08T21:24:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
