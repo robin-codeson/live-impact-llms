@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-catering-evenement"
 title: "Regelt Live Impact catering voor mijn evenement?"
 description: "Ja. Live Impact regelt catering als onderdeel van het totale evenementconcept. Wij selecteren cateraars op ervaring, kwaliteit en duurzaamheid. Daarnaast coördineren we met locatie en leveranciers en bewaken we de timing op de dag zelf. Je hebt één aanspreekpunt voor de hele uitvoering."
 section: "FAQ"
-last_updated: "2026-05-08T17:07:33+00:00"
+last_updated: "2026-05-08T21:23:52+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
