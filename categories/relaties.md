@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/categories/relaties"
 title: "Relatie-evenement organiseren?"
 description: "Relatie-evenement organiseren? Zet je merk in de spotlight met een uniek relatie-evenement. Van concept tot vlekkeloze productie: wij regelen alles. Versterk klantloyaliteit met Serious Fun!"
 section: "Categorieën"
-last_updated: "2026-05-08T16:53:25+00:00"
+last_updated: "2026-05-08T21:22:33+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
