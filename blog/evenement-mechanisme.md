@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-mechanisme"
 title: "Wat is een evenement mechanisme?"
 description: "Een evenement mechanisme is het onderdeel van je concept dat de boodschap laat voelen in plaats van vertellen. Zo bedenk je er een die werkt."
 section: "Blog"
-last_updated: "2026-05-08T16:50:16+00:00"
+last_updated: "2026-05-08T21:22:14+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
