@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/kosten-conferentie-organiseren"
 title: "Hoeveel kost het organiseren van een conferentie?"
 description: "Een conferentie voor honderd deelnemers kost al snel tussen de 15.000 en 50.000 euro. Het bedrag hangt af van locatie, sprekers, catering en productie."
 section: "FAQ"
-last_updated: "2026-05-08T17:04:58+00:00"
+last_updated: "2026-05-08T21:23:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
