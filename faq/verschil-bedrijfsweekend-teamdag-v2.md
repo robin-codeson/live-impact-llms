@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-bedrijfsweekend-teamdag-v2"
 title: "Wat is het verschil tussen een bedrijfsweekend en een teamdag?"
 description: "Een teamdag duurt één dag. Een bedrijfsweekend omvat twee of drie dagen met minimaal één overnachting. Dat lijkt een klein verschil, maar het is een totaal ander format. Een weekend geeft je ritme over meerdere dagdelen. De avond bouwt op de dag. De ochtend bouwt op de avond. Gesprekken die op een t"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:41+00:00"
+last_updated: "2026-05-08T21:24:38+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
