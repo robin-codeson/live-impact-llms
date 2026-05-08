@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/professionele-award-trofeeen"
 title: "Hoe maak je professionele award-trofeeën?"
 description: "Een award die je weg wilt gooien vertelt z'n eigen verhaal. Laat custom trofîën ontwerpen die passen bij je merk. Denk aan je logo, merkkleur of een vorm die verwijst naar je bedrijfsidentiteit. Kies kwalitatieve materialen: glas, metaal of hout voelen zwaarder en waardevoller dan kunststof. Voeg ee"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:16+00:00"
+last_updated: "2026-05-08T21:24:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
