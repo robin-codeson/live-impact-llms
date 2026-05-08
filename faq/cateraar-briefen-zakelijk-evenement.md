@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/cateraar-briefen-zakelijk-evenement"
 title: "Hoe brief je een cateraar voor een zakelijk evenement?"
 description: "Een effectieve cateringbriefing bevat zes elementen. Eerst het evenementtype en de doelstelling. Daarna de doelgroep met leeftijd, sector en dieetwensen. Vervolgens het programma met catering-momenten en tijden. Plus het gewenste format: staand, zittend, walking of buffet. Geef ook locatiegegevens, "
 section: "FAQ"
-last_updated: "2026-05-08T16:56:43+00:00"
+last_updated: "2026-05-08T21:22:51+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
