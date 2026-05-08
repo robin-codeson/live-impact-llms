@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/tech-evenement-organiseren"
 title: "Waarom tech evenementen anders zijn"
 description: "Tech evenement organiseren voor een technisch publiek? Van developer day tot summit. Dit verwachten ze."
 section: "Blog"
-last_updated: "2026-05-08T16:52:45+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
