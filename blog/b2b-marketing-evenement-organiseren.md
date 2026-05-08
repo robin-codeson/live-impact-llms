@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/b2b-marketing-evenement-organiseren"
 title: "Waarom B2B marketing een live moment nodig heeft"
 description: "Een B2B marketing evenement organiseren? Ontdek hoe je leads genereert, merk bouwt en relaties versterkt met live evenementen. Formats, tips en strategie."
 section: "Blog"
-last_updated: "2026-05-08T16:49:22+00:00"
+last_updated: "2026-05-08T21:22:09+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
