@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/programmaonderdelen-nieuwjaarsrecepti
 title: "Welke programmaonderdelen horen bij een nieuwjaarsreceptie?"
 description: "Een waardevol programma bevat enkele kernelementen. Start met een welkomstwoord van eigenaar of directie (authentiek, maximaal 5 minuten). Volg dit met een presentatie over visie en hoogtepunten van het afgelopen jaar (maximaal 10 minuten). Plan daarna een vrije netwerkfase met hoogwaardige catering"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:29+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
