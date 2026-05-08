@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/overbelasting-preventie"
 title: "Hoe zorg je dat deelnemers van een congrestival niet overbelast worden?"
 description: "Jonge professionals (25-40 jaar), innovatief ingestelde organisaties, tech/startup-milieus en NGO's die inspiratie willen uitstralen. Ook ideaal voor interne evenementen van grotere bedrijven die cultuurverandering willen signaleren. Klassieke doelgroepen (50+, conservatieve industrie) voelen zich s"
 section: "FAQ"
-last_updated: "2026-05-08T17:12:36+00:00"
+last_updated: "2026-05-08T21:24:20+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
