@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/nuttige-leveranciersdag"
 title: "Hoe maak je een leveranciersdag nuttig en waardevol?"
 description: "Dit gaat om balans: inhoud zonder saai te worden, entertainment zonder oppervlakkig te zijn. Maak de zakelijke delen interactief. In plaats van een monoloog van je CEO, kies voor een korte presentatie gevolgd door Q&A. Leveranciers waarderen het dat je naar hen luistert. Voeg gastronomie toe met kar"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:47+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
