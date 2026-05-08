@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verplichte-verzekering-zakelijk-evene
 title: "Welke verzekering is verplicht voor een zakelijk evenement in Nederland?"
 description: "Er is in Nederland geen wettelijk verplichte verzekering specifiek voor zakelijke evenementen. Maar 'niet wettelijk verplicht' betekent niet 'niet nodig'. Veel gemeentelijke vergunningen voor publieksevenementen eisen een aansprakelijkheidsbewijs als voorwaarde voor vergunningverlening. Locaties vra"
 section: "FAQ"
-last_updated: "2026-05-08T17:15:28+00:00"
+last_updated: "2026-05-08T21:24:37+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
