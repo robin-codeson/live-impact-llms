@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoe-maak-je-evenementenorganisatie-su
 title: "Hoe maak je evenementenorganisatie succesvol?"
 description: "Succesvolle evenementenorganisatie begint met een scherpe briefing. Weet je waarom het evenement er is, wie de gasten zijn en hoe succes eruitziet, dan volgt de rest logisch. Verdere sleutelfactoren: vroeg beginnen (minimaal 8-12 weken voor kleinere evenementen, 4-6 maanden voor grotere), één eindve"
 section: "FAQ"
-last_updated: "2026-05-08T17:01:09+00:00"
+last_updated: "2026-05-08T21:23:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
