@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onderhoud-klantrelaties-na-evenement"
 title: "Hoe onderhoud je klantrelaties na het evenement?"
 description: "Live Impact organiseert klantenbindingsevenementen met aandacht voor diepe relatieversterking. Wij helpen je selecteren welke klanten extra aandacht verdienen. We ontwerpen persoonlijke belevingen, beter dan algemene bijeenkomsten. We zorgen voor gespreksbegeleiding en voorkomen oppervlakkige contac"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:58+00:00"
+last_updated: "2026-05-08T21:24:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
