@@ -1,10 +1,11 @@
-# Kan Live Impact een bedrijfsjubileum voor ons organiseren? | Live Impact
-
-_Source: https://live-impact.nl/faq/live-impact-bedrijfsjubileum-organiseren_
-
-< Back< Work
-
-Next >
+---
+canonical_url: "https://live-impact.nl/faq/live-impact-bedrijfsjubileum-organiseren"
+title: "Kan Live Impact een bedrijfsjubileum voor ons organiseren?"
+description: "Ja. Wij hebben in 20 jaar tientallen bedrijfsjubilea geproduceerd, van 10-jarig bij familiebedrijven tot 100-jarig bij beursgenoteerde ondernemingen. Onze aanpak: eerst interviewen wij oprichter of directie en 3 tot 5 langstzittende medewerkers om het verhaal te vinden. Daarna bouwen wij het concept"
+section: "FAQ"
+last_updated: "2026-05-08T17:07:20+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 # Kan Live Impact een bedrijfsjubileum voor ons organiseren?
 
