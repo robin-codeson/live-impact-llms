@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-winterfestival-kerstfeest"
 title: "Wat is het verschil tussen een winterfestival en een kerstfeest?"
 description: "Een kerstfeest is intern en intiem, met een kerstthema: een jaarlijkse traditie voor je eigen medewerkers. Een winterfestival is groter, vrijer van thema en open voor een bredere doelgroep. Denk aan medewerkers met gezinnen, klanten of de lokale gemeenschap. Een winterfestival overstijgt kerst: het "
 section: "FAQ"
-last_updated: "2026-05-08T17:17:43+00:00"
+last_updated: "2026-05-08T21:24:49+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
