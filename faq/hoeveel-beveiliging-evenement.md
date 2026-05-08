@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/hoeveel-beveiliging-evenement"
 title: "Hoeveel beveiligingspersoneel heb ik nodig voor mijn evenement?"
 description: "Een vuistregel: reken op één beveiliger per 100 gasten voor een besloten, laagrisico-evenement. Bij een feest met open bar of een evenement in de openbare ruimte geldt minimaal één per 50 gasten. Bij speciale omstandigheden zoals een hoogwaardigheidsbekleder of een politiek gevoelig thema schakel je"
 section: "FAQ"
-last_updated: "2026-05-08T17:02:20+00:00"
+last_updated: "2026-05-08T21:23:23+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
