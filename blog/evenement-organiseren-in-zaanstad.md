@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/evenement-organiseren-in-zaanstad"
 title: "Waarom Zaanstad een verrassende evenementenbestemming is"
 description: "Evenement organiseren in Zaanstad? Industrieel erfgoed en Zaanse Schans-sfeer vlak bij Amsterdam."
 section: "Blog"
-last_updated: "2026-05-08T16:50:45+00:00"
+last_updated: "2026-05-08T21:22:17+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
