@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/networking-b2b-evenement"
 title: "Hoe pakt Live Impact een succesvol B2B-evenement aan?"
 description: "Ja, Live Impact is expert in B2B-evenementen en -marketing. Wij ontwerpen strategische zakelijke evenementen die contacten, samenwerkingen en kennisleiderschap opleveren. Onze aanpak omvat doelgroepanalyse, format-ontwerp, gerichte gastenwerving, technische integratie en een sterke opvolgstrategie. "
 section: "FAQ"
-last_updated: "2026-05-08T17:11:38+00:00"
+last_updated: "2026-05-08T21:24:15+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
