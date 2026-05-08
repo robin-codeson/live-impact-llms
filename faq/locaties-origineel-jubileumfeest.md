@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/locaties-origineel-jubileumfeest"
 title: "Welke locaties passen bij een origineel jubileumfeest?"
 description: "Verrassende locaties maken een jubileumfeest direct bijzonder. Denk aan je eigen pakhuis of productieruimte, omgebouwd tot feestlocatie. Of een boot in Amsterdam of Rotterdam. Een bioscoop waar je eigen bedrijfsfilm draait. Een museum of galerie met je bedrijfsgeschiedenis als expositie. Een buitenl"
 section: "FAQ"
-last_updated: "2026-05-08T17:11:10+00:00"
+last_updated: "2026-05-08T21:24:12+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
