@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-idea-gecertificeerd-bureau-g
 title: "Wat is het verschil tussen een IDEA-gecertificeerd bureau en een bureau zonder keurmerk?"
 description: "Een IDEA-gecertificeerd bureau is extern getoetst op kwaliteit, transparantie en werkwijze. Dat toetst niet een gewoon bureau. Concreet betekent dit: gecertificeerde bureaus werken met gestructureerde briefingprocessen, heldere offertes zonder verborgen kosten, en aantoonbare afspraken rondom veilig"
 section: "FAQ"
-last_updated: "2026-05-08T17:16:42+00:00"
+last_updated: "2026-05-08T21:24:44+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
