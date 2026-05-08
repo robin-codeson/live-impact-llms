@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-jubileum-concept-producti
 title: "Kan Live Impact het concept én de productie van ons jubileum verzorgen?"
 description: "Ja, dat is precies hoe wij werken. Wij bedenken het concept én voeren het uit, in één team. Dat betekent: geen overdracht tussen bedrijven, geen verwatering van het idee, geen verrassingen in de begroting halverwege. Onze conceptontwikkelaars zitten naast onze producenten, dus wat wij bedenken kunne"
 section: "FAQ"
-last_updated: "2026-05-08T17:09:33+00:00"
+last_updated: "2026-05-08T21:24:03+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
