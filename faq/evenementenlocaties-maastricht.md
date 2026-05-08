@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/evenementenlocaties-maastricht"
 title: "Welke evenementenlocaties zijn er in Maastricht?"
 description: "Maastricht biedt een uitzonderlijke locatievariatie. Het MECC is een modern congrescentrum voor grote evenementen. Château Neercanne is het enige terrassenkasteel van Nederland, ideaal voor exclusieve diners. De middeleeuwse Dominicanenkerk en het Bonnefantenmuseum geven elk evenement een onvergelij"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:04+00:00"
+last_updated: "2026-05-08T21:23:05+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
