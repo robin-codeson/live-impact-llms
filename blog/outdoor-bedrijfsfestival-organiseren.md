@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/outdoor-bedrijfsfestival-organiseren
 title: "Openlucht-bedrijfsfestival: grootschalig vieren in de buitenlucht"
 description: "Outdoor bedrijfsfestival organiseren? Locatie, logistiek en programma voor een dag om nooit te vergeten."
 section: "Blog"
-last_updated: "2026-05-08T16:52:08+00:00"
+last_updated: "2026-05-08T21:22:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
