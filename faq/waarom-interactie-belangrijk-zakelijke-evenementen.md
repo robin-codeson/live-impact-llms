@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-interactie-belangrijk-zakelijk
 title: "Waarom is interactie zo belangrijk bij zakelijke evenementen?"
 description: "Interactie verhoogt de retentie van informatie drastisch. Bij passief luisteren onthoud je na drie dagen gemiddeld nog 10% van de inhoud. Bij actieve deelname stijgt dat naar 65 tot 80%. Dat verschil maakt uit of jouw boodschap blijft hangen of verdampt. Maar interactie doet meer dan informatie vast"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:35+00:00"
+last_updated: "2026-05-08T21:24:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
