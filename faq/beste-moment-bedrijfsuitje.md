@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-moment-bedrijfsuitje"
 title: "Wanneer is het beste moment voor een bedrijfsuitje?"
 description: "De populairste periodes voor een bedrijfsuitje zijn het voorjaar (april-juni) en het najaar (september-oktober). Vermijd de drukste werkperiodes en schoolvakanties. Vrijdagen zijn favoriet, maar een doordeweekse dag kan ook verrassend goed werken."
 section: "FAQ"
-last_updated: "2026-05-08T16:55:27+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
