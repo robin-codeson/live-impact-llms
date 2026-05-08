@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/rendement-meten-zakelijk-evenement"
 title: "Hoe meet je het rendement van een zakelijk evenement?"
 description: "Rendement meten begint vóór het evenement: bepaal wat succes eruitziet. Formuleer twee tot drie concrete doelen, bijvoorbeeld een hogere medewerkerstevredenheid (+10%), 20 nieuwe saleskansen of een trotsmeting van 80%. Meet daarna op drie niveaus. Direct na afloop neem je een enquête af voor de bele"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:43+00:00"
+last_updated: "2026-05-08T21:24:25+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
