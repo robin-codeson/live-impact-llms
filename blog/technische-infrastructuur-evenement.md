@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/blog/technische-infrastructuur-evenement"
 title: "Waarom techniek de onzichtbare ruggengraat van je evenement is"
 description: "Alles over technische infrastructuur bij zakelijke evenementen. Van stroom en internet tot licht, geluid en AV-techniek."
 section: "Blog"
-last_updated: "2026-05-08T16:52:48+00:00"
+last_updated: "2026-05-08T21:22:28+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
