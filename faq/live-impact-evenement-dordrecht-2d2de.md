@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-evenement-dordrecht-2d2de
 title: "Kan Live Impact een evenement organiseren in Dordrecht?"
 description: "Ja. Live Impact organiseert zakelijke evenementen door heel Nederland, ook in Dordrecht en de regio Drechtsteden. Dordrecht is een historische havenstad met unieke locaties langs het water. Wij kennen de lokale leveranciers, cateraars en locaties. Van een relatiediner aan de Maas tot een teamdag in "
 section: "FAQ"
-last_updated: "2026-05-08T17:08:26+00:00"
+last_updated: "2026-05-08T21:23:56+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
