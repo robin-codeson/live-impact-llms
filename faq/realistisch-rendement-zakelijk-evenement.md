@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/realistisch-rendement-zakelijk-evenem
 title: "Wat is een realistisch rendement voor een zakelijk evenement?"
 description: "Dat hangt sterk af van het type evenement en het gestelde doel. Neem een relatie-evenement gericht op salesversnelling. Stel: 10% van de deelnemers tekent binnen drie maanden een deal, met een gemiddelde contractwaarde van €50.000. Dan verdient een evenement van €30.000 zichzelf al terug met één kla"
 section: "FAQ"
-last_updated: "2026-05-08T17:13:32+00:00"
+last_updated: "2026-05-08T21:24:24+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
