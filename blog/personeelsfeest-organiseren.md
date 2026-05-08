@@ -1,86 +1,79 @@
-[< Back](#)[< Work](#)
-
-[Next >](#)
+---
+canonical_url: "https://live-impact.nl/blog/personeelsfeest-organiseren"
+title: "Personeelsfeest organiseren: zo maak je er een avond van die je team éékt verbindt"
+description: "Personeelsfeest organiseren dat je team écht verbindt? Van briefing tot avond die niemand snel vergeet."
+section: "Blog"
+last_updated: "2026-05-08T16:52:13+00:00"
+source: "live-impact.nl HTML mirror"
+---
 
 ![Volle zaal lacht en viert tijdens een personeelsfeest met live entertainment](https://cdn.prod.website-files.com/695b829c457806268234ce0e/69d7f576e12cafcafa168ee8_69c065ec2030d0870cbaa3ef_Kemkens%2520175%2520jaar%2520-%2520Personeel%2520-%2520Snollebollekes%2520overzicht%2520zaal%2520lachen.jpeg)
 
-# Waarom een personeelsfeest meer is dan een feestje
+# Personeelsfeest organiseren: zo maak je er een avond van die je team éékt verbindt
 
-Een personeelsfeest is niet zomaar een avondje uit. Het is een van de krachtigste momenten in het jaar om je team te verbinden, waardering te tonen en je bedrijfscultuur tastbaar te maken. Niet in een vergadering, niet in een beleidsdocument, maar in een avond die mensen samen beleven.
+Een personeelsfeest is niet zomaar een avondje uit. Het is een van de krachtigste manieren om je team te verbinden, waardering te tonen en je bedrijfscultuur te versterken.
 
-Toch behandelen veel bedrijven hun personeelsfeest als een verplichting. Een zaal boeken, een buffet regelen, een DJ inhuren en hopen dat het gezellig wordt. Het resultaat is dan ook voorspelbaar: mensen komen, eten, drinken en gaan naar huis. Leuk, maar niet memorabel. Niet het soort feest waar mensen maanden later nog over praten.
+Toch behandelen veel bedrijven hun personeelsfeest als een verplichting. Ze regelen een zaal, een buffet en een dj, en dat is het. Het resultaat? Mensen komen, eten, drinken en gaan naar huis. Leuk, maar niet memorabel.
 
-De reden? Er is geen doel geformuleerd. En zonder doel geen concept. Wil je vieren? Verbinden? Bedanken? Afscheid nemen van een moeilijk jaar en vooruitkijken? Die vraag bepaalt alles: het concept, de locatie, het programma en de sfeer. Als die elementen op elkaar zijn afgestemd en aansluiten bij wie jullie zijn als organisatie, dan ontstaat er iets wat je team écht raakt.
-
-Dat is waar het verschil zit. Niet in het budget. Niet in de zaal. Maar in de intentie waarmee je het organiseert. Een personeelsfeest dat voelt als een statement, niet als een uitje dat elk jaar terugkomt op de agenda. Deze handleiding helpt je stap voor stap om dat verschil te maken.
+Wij geloven dat het anders kan. Een goed personeelsfeest begint met een doel. Wil je vieren, verbinden of bedanken? Dat doel bepaalt het concept, de locatie, het programma en de sfeer. En als die elementen kloppen, ontstaat er iets dat je team écht raakt.
 
 ## Begin met een concept dat past bij jullie
 
-Het verschil tussen een doorsnee feest en een avond die bijblijft, zit in het concept. Een goed concept is een rode draad die alles verbindt: van de uitnodiging tot het allerlaatste nummer, van de decoratie tot de keuze van de acts. Zonder die rode draad wordt het een optelsom van losse onderdelen. Met een sterk concept wordt het een beleving.
+Het verschil tussen een standaard feest en een onvergetelijke avond zit in het concept. Een goed concept is een rode draad die alles verbindt, van de uitnodiging tot het laatste nummer.
 
-Denk na over wat bij jullie organisatie past. Een techbedrijf vraagt een andere sfeer dan een familiebedrijf dat vijftig jaar bestaat. Een team van vijftig mensen beleeft een feest anders dan een gezelschap van vijfhonderd. Het maakt ook uit of je een turbulent jaar wilt afsluiten, een mijlpaal wilt vieren of gewoon wilt zeggen: we zijn blij met jullie.
+Denk na over wat bij jullie organisatie past. Een technologiebedrijf vraagt een andere sfeer dan een familiebedrijf. Een team van 50 man beleeft een feest anders dan 500 mensen. En het maakt uit of je een roerig jaar wilt afsluiten of juist een succes wilt vieren.
 
-Goede concepten beginnen met een eerlijke vraag: wie zijn wij eigenlijk? Wat verbindt ons? Wat zeggen we met deze avond? Het antwoord op die vragen geeft richting aan het thema. Dat thema hoeft niet letterlijk in de decoratie terug te komen, maar moet wel voelbaar zijn in alle keuzes die je maakt.
-
-Werk je met een evenementenbureau, dan is het concept het eerste gesprek. Geen pitch, maar een luisterend gesprek. Doorvragen op de cultuur, de mensen, de verwachtingen. Pas als dat beeld scherp is, komt het creatieve voorstel. Zo ontstaat maatwerk dat past bij jullie, geen standaardpakket dat bij elke klant hetzelfde eruitziet.
+Bij Live Impact ontwikkelen we concepten die passen bij wie jullie zijn. Geen standaardpakket, maar maatwerk. Met een creatief team dat luistert, doorvraagt en buiten de gebaande paden denkt.
 
 ## De locatie: meer dan een zaal met stoelen
 
-De locatie zet de toon voor je hele avond. Een industriële loods voelt anders dan een strandpaviljoen. Een theater anders dan een historische boerderij. Die eerste indruk als je binnenloopt, bepaalt voor een groot deel hoe de rest van de avond wordt beleefd. Kies een plek die je concept versterkt, niet één die je concept tegenspreekt.
+De locatie zet de toon voor je hele avond. Een industriële loods voelt anders dan een strandpaviljoen. Een theater anders dan een boerderij. Kies een plek die je concept versterkt.
 
-Praktisch gezien let je op capaciteit, bereikbaarheid en parkeergelegenheid. Controleer of de locatie ruimte heeft voor een podium, dansruimte en tafelindeling tegelijk. Vraag naar de cateringmogelijkheden: werkt de locatie met vaste partners of mag je een eigen caterer meenemen? En kijk naar de technische faciliteiten: licht, geluid, internetverbinding. Goede techniek hoef je niet te zien, maar slechte techniek hoor je de hele avond.
+Praktisch gezien let je op: capaciteit, bereikbaarheid, parkeergelegenheid, cateringmogelijkheden en technische faciliteiten. Maar vergeet het gevoel niet. Hoe voelt het als je binnenloopt en wat doet de ruimte met je?
 
-Naast het praktische is er het gevoel. Sommige ruimtes hebben karakter, dat moeilijk te omschrijven iets dat ervoor zorgt dat mensen binnen twee minuten ontspannen. Andere locaties zijn functioneel maar koud. Dat verschil betaalt zich terug in de sfeer van de avond.
-
-Populaire personeelsfeestlocaties zijn niet altijd de meest opvallende. Soms is het een vergeten pakhuis buiten het centrum, een buitenlocatie met een tent en kachels, of een clubgebouw van een lokale sportvereniging dat met de juiste productie ineens magisch aanvoelt. De kunst is om niet te zoeken naar de mooiste zaal, maar naar de plek die het best past bij jullie verhaal.
+Wij kennen locaties door heel Nederland, van verborgen parels tot bekende namen. We adviseren je niet de goedkoopste optie, maar de plek die het beste werkt voor jullie verhaal en jullie mensen.
 
 ## Entertainment dat je avond maakt
 
-Entertainment is het hart van je personeelsfeest. Het bepaalt de energie, de sfeer en de herinneringen die mensen mee naar huis nemen. Sla je dit onderdeel over of doe je het halfslachtig, dan is de rest van je planning voor niets.
+Entertainment is het hart van je personeelsfeest. Het bepaalt de energie, de sfeer en de herinneringen die mensen mee naar huis nemen.
 
-Denk verder dan de verplichte band of DJ aan het einde van de avond. Een sterk programma heeft opbouw. Begin met iets dat de toon zet en meteen duidelijk maakt dat dit geen standaardbedrijfsfeest wordt. Dat kan een verrassende ontvangst zijn, een interactief element bij binnenkomst of een spreker die in drie minuten iedereen bij de hand neemt.
+Denk verder dan alleen een band of dj. Overweeg een sterke opening die de toon zet, interactieve momenten die mensen met elkaar verbinden, een live act die de zaal op zijn kop zet of juist een kleinschalig muzikaal moment dat raakt.
 
-Daarna bouw je op. Interactieve momenten zorgen ervoor dat mensen met elkaar in contact komen, ook die collega's die elkaar normaal nauwelijks spreken. Een live act op het juiste moment tilt de energie op. En een sterk slot, een hoogtepunt waarnaar de avond heeft toegewerkt, zorgt dat mensen naar huis gaan met het gevoel dat dit ertoe deed.
-
-De keuze van de acts hangt af van je publiek. Een team van dertigers vraagt iets anders dan een gemengd gezelschap van twintigers tot zestigers. Een cultureel diverse groep heeft andere triggerpunten dan een homogeen team. Goed entertainment is geen kwestie van de populairste naam boeken, maar van de juiste act op het juiste moment voor de juiste mensen. Dat vergt kennis van je publiek en kennis van het aanbod.
+Het geheim zit in de opbouw: begin rustig, bouw op en eindig met een hoogtepunt waar iedereen het over heeft. Wij werken met artiesten en acts die we door en door kennen. Er zijn geen verrassingen op het podium, alleen in het programma.
 
 ## Budget en de werkkostenregeling
 
-Wat kost een personeelsfeest? Die vraag stelt bijna iedereen als eerste, en toch is het de lastigste om direct te beantwoorden. De prijs hangt af van de schaal, de locatie, het programma en het niveau van de productie. Wat je kunt verwachten: een eenvoudige borrel begint rond de vijftig euro per persoon. Een complete avond met locatie, catering, entertainment en techniek kost doorgaans tussen de 75 en 200 euro per persoon.
+Een personeelsfeest kost ongeveer €250 tot €350+ per persoon ex. btw bij 250 tot 500 gasten. Voor 500 tot 1.000 gasten reken je op ongeveer €225 tot €325+ per persoon. Voor 1.000 tot 2.000 gasten op ongeveer €200 tot €300+ per persoon. Boven de 2.000 gasten op ongeveer €150 tot €200+ per persoon. Alle bedragen exclusief btw, inclusief locatie, catering, entertainment en productie.
 
-Dat lijkt een grote bandbreedte, en dat is het ook. De sleutel is weten waar je het geld aan uitgeeft en wat het rendement is. Een dure locatie die weinig toegevoegde waarde heeft voor je concept, is zonde van het budget. Een goede act op het juiste moment in het programma kan meer doen voor de sfeer dan drie keer zoveel uitgeven aan decoratie.
+Goed om te weten: via de werkkostenregeling (WKR) kun je als werkgever een personeelsfeest fiscaal voordelig organiseren. De vrije ruimte bedraagt een percentage van je totale loonsom. Een feest op de werkplek valt doorgaans onder de gerichte vrijstelling en is daarmee onbelast.
 
-Goed om te weten: via de werkkostenregeling kun je als werkgever een personeelsfeest fiscaal voordelig organiseren. In 2026 bedraagt de vrije ruimte 1,7 procent van je totale loonsom. Een feest op de werkplek, of op een locatie die direct verbonden is aan de werkplek, is zelfs volledig onbelast. Laat je hierover adviseren door je boekhouder of HR-adviseur, want de regels zijn aan verandering onderhevig.
-
-Transparant begroten is essentieel. Vraag leveranciers altijd naar een specificatie per onderdeel. Zo zie je precies waar de kosten zitten en kun je gerichte keuzes maken als je wilt bijsturen. Verborgen kosten en vaste arrangementen zonder ruimte voor aanpassing zijn signalen om op te letten.
+Wij begroten altijd transparant. Geen verborgen kosten, geen verrassingen achteraf. En we denken mee over hoe je binnen je budget het meeste uit de avond haalt.
 
 ## De planning: wanneer begin je?
 
-Wanneer begin je met de organisatie van je personeelsfeest? Eerder dan je denkt. Begin minimaal drie tot zes maanden van tevoren. Populaire locaties en bekende artiesten zijn, zeker in het najaar, snel volgeboekt. Wie in oktober wil feesten, doet er goed aan al in april te beginnen. Wie in januari wil starten met een nieuwjaarsfeest, plant dat het best voor de zomer.
+Begin minimaal drie tot zes maanden van tevoren met de organisatie. Populaire locaties en artiesten zijn snel volgeboekt, vooral in het najaar, het hoogseizoen voor personeelsfeesten.
 
-Een goede planning loopt in duidelijke fases. De eerste fase is de basis: het concept, de datum en het beschikbare budget. Zet dit op papier voordat je ook maar één aanvraag doet. De tweede fase gaat over het boeken van de kern: locatie, hoofdentertainment en catering. Dit zijn de onderdelen met de langste doorlooptijden. De derde fase gaat over het programma: de details van het entertainment, de technische invulling, de cateringindeling op de avond zelf. De vierde fase, als laatste, is de communicatie: de uitnodiging, herinneringen en de verwachting die je al voor de avond opbouwt.
+Een goede planning loopt in fases. Eerst het concept en de datum. Dan de locatie en de hoofdleveranciers. Vervolgens het programma in detail. En tot slot de communicatie naar je team, want een goede uitnodiging bouwt alvast verwachting op.
 
-Organiseer je het zelf? Reken op 150 tot 300 uur aan organisatietijd voor een gemiddeld feest. Meer als je meerdere leveranciers moet coördineren of als het een groter evenement is. Die uren zijn er ook als er niets misgaat. Als er wél iets misgaat, komen er uren bij.
+Doe je het zelf? Reken op 150 tot 300 uur organisatietijd. Met een evenementenbureau bespaar je het grootste deel van die uren. Wij nemen het complete traject uit handen, zodat jij kunt genieten van je eigen feest.
 
-Met een evenementenbureau breng je die tijdsinvestering sterk terug. Niet omdat zij sneller zijn, maar omdat ze dit vaker doen, de juiste contacten hebben en precies weten welke vragen ze wanneer moeten stellen. Zo kun jij je richten op je werk, en geniet je op de avond zelf gewoon van je eigen feest.
+## Klaar om jullie personeelsfeest te plannen?
 
-## Zo plan je een personeelsfeest dat je team één avond lang vergeet alles
+Een personeelsfeest organiseer je niet elk jaar. Daarom verdient het de aandacht, creativiteit en zorg die het bijzonder maakt.
 
-Een personeelsfeest organiseer je niet elk jaar. Maar als je het doet, verdient het alle aandacht, creativiteit en zorg die het bijzonder maakt. Een avond die je team verbindt, die waardering uitstraalt en die nog maanden later onderwerp van gesprek is, begint met de goede keuzes op het juiste moment.
+Bij Live Impact helpen we organisaties om van een bedrijfsfeest een avond te maken die niemand snel vergeet. We denken mee over concept, locatie, programma en productie, zodat jij kunt genieten van het feest van je collega's.
 
-Live Impact helpt organisaties van uiteenlopende sectoren en omvang om van hun bedrijfsfeest iets te maken dat ertoe doet. Van eerste briefing tot het laatste lied op de dansvloer: wij denken mee over concept, locatie, programma en productie. Zodat jij op de avond zelf nergens aan hoeft te denken, behalve aan genieten.
-
-Bel ons op **085 401 40 14** of stuur een mail naar [hello@live-impact.nl](mailto:hello@live-impact.nl). Dan plannen we een vrijblijvend gesprek om te kijken wat we voor jullie personeelsfeest kunnen betekenen.
+Bel [085 401 40 14](tel:+31854014014) of mail [hello@live-impact.nl](mailto:hello@live-impact.nl) voor een vrijblijvend gesprek.
 
 *Serieus Leuk.*
 
 ## Lees ook
 
-[ Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
+[• Eventmarketing: waarom een live evenement je boodschap harder laat landen](/blog/eventmarketing-strategie)
 
-[](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
+[•](/blog/kick-off-programma) [Kick-off programma: zo bouw je een dag op die blijft hangen](/blog/kick-off-programma)
 
-[ Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
+[• Teambuilding activiteiten: 20 ideeën die echt werken](/blog/teambuilding-activiteiten)
 
 ## Veelgestelde vragen
 
@@ -126,13 +119,9 @@ Welk thema past bij welk type bedrijf?
 
 Dat hangt af van wat je wilt bereiken en wat je cultuur aankan. Bij een gestructureerde organisatie werkt een concept-thema vaak goed (Mad Men, Casino Royale). Creatieve bedrijven floreren bij wereld-thema's (Marrakech, Tokyo by Night). Teams die net door een verandering gingen, hebben baat bij een tijdreis-thema dat verbinding viert.
 
-Belangrijk: kies niet het thema dat jij leuk vindt, maar het thema dat jouw collega's op een leuke manier uit hun comfort haalt.
+Belangrijk: kies niet het thema dat jij leuk vindt. Kies het thema dat jouw collega's op een leuke manier uit hun comfort haalt.
 
 **[Meer weten over het kiezen van een thema? Lees ons complete artikel →](/blog/thema-kiezen-personeelsfeest)**
-
-Staat je vraag er niet bij?
-
-[Bekijk onze complete FAQ →](/faq)
 
 ## Geïnspireerd geraakt?
 
