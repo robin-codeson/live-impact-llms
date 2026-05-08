@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/verschil-medewerkersevenement-persone
 title: "Wat is het verschil tussen een medewerkersevenement en een personeelsfeest?"
 description: "Een personeelsfeest is primair gericht op vieren en ontspanning. Denk aan een jaarlijkse feestavond. Een medewerkersevenement heeft een bredere scope. Het kan een feest zijn, maar ook een kick-off, een teamdag, een vitaliteitsdag of een interne conferentie. Het onderscheid zit in de intentie. Een pe"
 section: "FAQ"
-last_updated: "2026-05-08T17:17:05+00:00"
+last_updated: "2026-05-08T21:24:46+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
