@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-25-jarig-jubileum-organis
 title: "Kan Live Impact ons 25-jarig jubileum organiseren?"
 description: "Ja. Live Impact organiseert jubileums voor bedrijven door heel Nederland. Van intieme jubileumdiners met 30 personen tot grootschalige jubileumfeesten met 1.000 gasten of meer. We beginnen altijd met een conceptsessie: wat is jullie verhaal, wat moet de avond uitstralen, wat past bij jullie cultuur?"
 section: "FAQ"
-last_updated: "2026-05-08T17:07:09+00:00"
+last_updated: "2026-05-08T21:23:50+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
