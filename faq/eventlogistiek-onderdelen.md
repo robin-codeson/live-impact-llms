@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/eventlogistiek-onderdelen"
 title: "Wat valt er allemaal onder evenementenlogistiek?"
 description: "Evenementenlogistiek omvat alles wat nodig is om een evenement fysiek te laten draaien. Dat begint bij de opbouw: aanlevering van materialen, plaatsing van meubels, installatie van techniek en opzetten van decoratie. Tijdens het evenement gaat het om gastenontvangst, catering-timing, geluid en licht"
 section: "FAQ"
-last_updated: "2026-05-08T16:59:24+00:00"
+last_updated: "2026-05-08T21:23:06+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
