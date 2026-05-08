@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/onderhandelen-prijs-evenementenbureau
 title: "Kun je onderhandelen over de prijs van een evenementenbureau?"
 description: "Ja, er is vaak ruimte voor onderhandeling, vooral bij grotere opdrachten of langdurige samenwerkingen. Wees open over je budget en verwachtingen."
 section: "FAQ"
-last_updated: "2026-05-08T17:11:56+00:00"
+last_updated: "2026-05-08T21:24:16+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
