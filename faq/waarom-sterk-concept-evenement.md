@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/waarom-sterk-concept-evenement"
 title: "Waarom is een sterk concept belangrijk voor een evenement?"
 description: "Zonder concept heb je een dag. Met concept heb je een evenement. Een sterk concept geeft richting aan alle keuzes: locatie, entertainment, visuele stijl en communicatie. Het maakt je evenement onderscheidend van de tientallen andere evenementen die je gasten dat jaar meemaken. En het zorgt dat er éé"
 section: "FAQ"
-last_updated: "2026-05-08T17:18:42+00:00"
+last_updated: "2026-05-08T21:24:55+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
