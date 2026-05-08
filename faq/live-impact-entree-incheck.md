@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/live-impact-entree-incheck"
 title: "Regelt Live Impact ook de entree en incheck bij mijn evenement?"
 description: "Ja. Live Impact verzorgt de volledige entreelogistiek: capaciteitsplan, incheckplatform, instructie van entreepersoneel, bewegwijzering en afstemming met de locatie. De stagemanager bewaakt de entree live op de dag zelf en communiceert direct met de showcaller."
 section: "FAQ"
-last_updated: "2026-05-08T17:08:03+00:00"
+last_updated: "2026-05-08T21:23:54+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
