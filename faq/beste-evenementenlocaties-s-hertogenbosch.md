@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/beste-evenementenlocaties-s-hertogenb
 title: "Wat zijn de beste evenementenlocaties in ’s-Hertogenbosch?"
 description: "Den Bosch heeft een divers aanbod aan evenementenlocaties. Voor groot formaat: Brabanthallen (60.000 m², Brabants grootste evenementencomplex) en Maaspoort Theater & Evenementen (50–1.500 gasten). Voor monumentale uitstraling: Jheronimus Bosch Art Center (voormalige Broederkerk), Sint-Janskathedraal"
 section: "FAQ"
-last_updated: "2026-05-08T16:55:16+00:00"
+last_updated: "2026-05-08T21:22:45+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
