@@ -3,7 +3,7 @@ canonical_url: "https://live-impact.nl/faq/roi-zakelijk-evenement-meten"
 title: "Hoe meet je het ROI van een zakelijk evenement?"
 description: "De ROI van een zakelijk evenement bestaat uit meetbare opbrengsten afgezet tegen de investering. Harde posten zijn leads, gesloten deals, verlengingen van klantcontracten en verkoop tijdens of na het evenement. Zachtere posten zijn merkbekendheid, medewerkersbinding en retentie. Meet dit door leads "
 section: "FAQ"
-last_updated: "2026-05-08T17:13:48+00:00"
+last_updated: "2026-05-08T21:24:26+00:00"
 source: "live-impact.nl HTML mirror"
 ---
 
